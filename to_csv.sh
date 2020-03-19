@@ -13,7 +13,7 @@ HEADER="header"
 
 # Find first line and extract all table data (100 lines + 4 empty lines)
 pdftotext $FILE_IN $TEXT_OUT
-FIRST_LINE=$(awk '/Andalucía/ {print FNR}' $TEXT_OUT)
+FIRST_LINE=$(awk '/Andalucía/ {print FNR; exit}' $TEXT_OUT)
 cat $TEXT_OUT | tail -n +$FIRST_LINE | head -n 104 > $INFO
 
 # delete dots in "thousands" (e.g. 3.453 -> 3453)
