@@ -22,6 +22,7 @@ sed -e '/^$/d' -e 's/\([0-9]\)\./\1/g' -e 's/,/./g' $INFO > $CLEANED
 
 # read all info into array for easier lookup
 IFS=$'\t' read -r -a arr <<< $(cat $CLEANED | tr '\n' '\t')
+RECOVERED=$(grep "hasta el momento se han registrado" $TEXT_OUT | sed -e 's/\.//g' -e 's/.\+y \([0-9]\+\) curado.*/\1/g')
 
 # write CSV file
 MOD_DATE=$(pdfinfo -isodates ${FILE_IN}| awk '/ModDate/ { print $2}')
@@ -30,6 +31,7 @@ DATE=$(date --date=$MOD_DATE --iso-8601)
 [[ $# -eq 2 ]] && FILE_OUT="$2" || FILE_OUT="datos-ccaa-${DATE}.csv"
 
 cat $HEADER > $FILE_OUT
+LAST=","
 
 for line in {0..19}
 do
@@ -38,7 +40,10 @@ do
 	do
 		echo -n ",${arr[$line + $offset]}" >> $FILE_OUT
 	done
-	echo "" >> $FILE_OUT
+	if [ $line -eq 19 ]; then
+		LAST=",$RECOVERED"
+	fi
+	echo $LAST >> $FILE_OUT
 done
 
 # delete temporary files
