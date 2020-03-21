@@ -11,14 +11,16 @@ INFO="info"
 CLEANED="cleaned"
 HEADER="header"
 
-# Find first line and extract all table data (100 lines + 4 empty lines)
+# Find first line and extract all table data
+# 140 lines of data + some empty/spurious lines
 pdftotext $FILE_IN $TEXT_OUT
 FIRST_LINE=$(awk '/Andalucía/ {print FNR; exit}' $TEXT_OUT)
-cat $TEXT_OUT | tail -n +$FIRST_LINE | head -n 104 > $INFO
+cat $TEXT_OUT | tail -n +$FIRST_LINE | head -n 160 > $INFO
 
-# delete dots in "thousands" (e.g. 3.453 -> 3453)
-# changes comas with dots    (e.g.  6,44 -> 6.44)
-sed -e '/^$/d' -e 's/\([0-9]\)\./\1/g' -e 's/,/./g' $INFO > $CLEANED
+# keep first 20 lines (CCAA) and only the ones starting with a number
+# delete dots from "thousands" (e.g. 3.453 -> 3453)
+# substitute comas with dots (e.g.  6,44 -> 6.44)
+cat $INFO | awk '(NR<=20) || /^[0-9]/' | sed -e 's/\([0-9]\)\./\1/g' -e 's/,/./g' > $CLEANED
 
 # read all info into array for easier lookup
 IFS=$'\t' read -r -a arr <<< $(cat $CLEANED | tr '\n' '\t')
@@ -36,7 +38,7 @@ LAST=","
 for line in {0..19}
 do
 	echo -n "$TIME" >> $FILE_OUT
-	for offset in {0..80..20}
+	for offset in {0..120..20}
 	do
 		echo -n ",${arr[$line + $offset]}" >> $FILE_OUT
 	done

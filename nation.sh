@@ -7,5 +7,5 @@ CCAA="csv/datos-ccaa.csv"
 cp header $ESP
 cp header $CCAA
 
-grep --no-filename "Total," $FILES | sed 's/Total/España/g' >> $ESP
-grep --no-filename --invert-match "Total" $FILES >> $CCAA
+grep --no-filename "ESPAÑA," $FILES | sed 's/ESPAÑA/España/g' >> $ESP
+grep --no-filename --invert-match "ESPAÑA\|Fecha" $FILES >> $CCAA
