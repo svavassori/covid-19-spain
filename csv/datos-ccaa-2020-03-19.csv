@@ -1,4 +1,4 @@
-Fecha,CCAA,Total casos,Incidencia Acumulada últimos 14 días,Hospitalizados,Ingreso UCI,Fallecidos,Nuevos casos,Curados
+Fecha,CCAA,Total casos,Incidencia Acumulada últimos 14 días,Hospitalizados,Ingreso UCI,Fallecidos,Curados,Nuevos
 2020-03-19 11:53:37,Andalucía,1008,11.84,,25,23,,
 2020-03-19 11:53:37,Aragón,281,21.22,,14,15,,
 2020-03-19 11:53:37,Asturias,292,28.06,,6,1,,
@@ -18,4 +18,4 @@ Fecha,CCAA,Total casos,Incidencia Acumulada últimos 14 días,Hospitalizados,Ing
 2020-03-19 11:53:37,Navarra,482,73.22,,11,4,,
 2020-03-19 11:53:37,País Vasco,1190,53.13,,44,53,,
 2020-03-19 11:53:37,La Rioja,468,144.26,,15,5,,
-2020-03-19 11:53:37,ESPAÑA,17147,35.96,,939,767,,1107
+2020-03-19 11:53:37,ESPAÑA,17147,35.96,,939,767,1107,

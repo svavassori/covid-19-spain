@@ -12,10 +12,10 @@ CLEANED="cleaned"
 HEADER="header"
 
 # Find first line and extract all table data
-# 140 lines of data + some empty/spurious lines
+# 160 lines of data + some empty/spurious lines
 pdftotext $FILE_IN $TEXT_OUT
 FIRST_LINE=$(awk '/Andalucía/ {print FNR; exit}' $TEXT_OUT)
-cat $TEXT_OUT | tail -n +$FIRST_LINE | head -n 160 > $INFO
+cat $TEXT_OUT | tail -n +$FIRST_LINE | head -n 180 > $INFO
 
 # keep first 20 lines (CCAA) and only the ones starting with a number
 # delete dots from "thousands" (e.g. 3.453 -> 3453)
@@ -24,7 +24,6 @@ cat $INFO | awk '(NR<=20) || /^[0-9]/' | sed -e 's/\([0-9]\)\./\1/g' -e 's/,/./g
 
 # read all info into array for easier lookup
 IFS=$'\t' read -r -a arr <<< $(cat $CLEANED | tr '\n' '\t')
-RECOVERED=$(grep "hasta el momento se han registrado" $TEXT_OUT | sed -e 's/\.//g' -e 's/.\+y \([0-9]\+\) curado.*/\1/g')
 
 # write CSV file
 MOD_DATE=$(pdfinfo -isodates ${FILE_IN}| awk '/ModDate/ { print $2}')
@@ -38,14 +37,11 @@ LAST=","
 for line in {0..19}
 do
 	echo -n "$TIME" >> $FILE_OUT
-	for offset in {0..120..20}
+	for offset in {0..140..20}
 	do
 		echo -n ",${arr[$line + $offset]}" >> $FILE_OUT
 	done
-	if [ $line -eq 19 ]; then
-		LAST=",$RECOVERED"
-	fi
-	echo $LAST >> $FILE_OUT
+	echo "" >> $FILE_OUT
 done
 
 # delete temporary files
