@@ -15,7 +15,7 @@ HEADER="header"
 # 160 lines of data + some empty/spurious lines
 pdftotext $FILE_IN $TEXT_OUT
 FIRST_LINE=$(awk '/Andalucía/ {print FNR; exit}' $TEXT_OUT)
-cat $TEXT_OUT | tail -n +$FIRST_LINE | head -n 180 > $INFO
+cat $TEXT_OUT | tail -n +$FIRST_LINE | head -n 200 > $INFO
 
 # keep first 20 lines (CCAA) and only the ones starting with a number
 # delete dots from "thousands" (e.g. 3.453 -> 3453)
