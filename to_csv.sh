@@ -24,7 +24,7 @@ cat $TEXT_OUT | head -n $LAST_LINE | tail -n +$FIRST_LINE > $INFO
 # remove yen symbol (¥)
 # put each number on a line
 cat $INFO | awk '(NR<=20) || /^[0-9]/' \
-          | tr -d '¥' \
+          | tr -d '¥*' \
           | sed -e 's/\([0-9]\)\./\1/g' -e 's/,/./g' -e 's/\([0-9\.]\+\) \([0-9\.]\+\)/\1\n\2/g' \
           > $CLEANED
 
@@ -32,23 +32,24 @@ cat $INFO | awk '(NR<=20) || /^[0-9]/' \
 IFS=$'\t' read -r -a arr <<< $(cat $CLEANED | tr '\n' '\t')
 
 # mangling to have the same order in the table
-# the first 4 columns are OK (column first) while
-# the last 4 columns are row first.
+# the first 3 columns are OK (column first) while
+# the sequent 4 columns are row first.
 # The 4th adn 5th column misses the "total", this
 # means they're 19 positions long instead of 20
 # Add placeholder to align indexes
 #
 # ${X[@]:index:length} slice from index to index+length exclusive
 #
-arr=("${arr[@]:0:79}" -1 "${arr[@]:79:19*4}" -1 "${arr[@]: -3}")
-new_arr=("${arr[@]:0:80}")
-for column_index in {80..83}
+arr=("${arr[@]:0:136}" -1 -1 "${arr[@]:136}")
+new_arr=("${arr[@]:0:60}")
+for column_index in {60..63}
 do
 	for row in {0..19}
 	do
 		new_arr+=(${arr[$column_index + row * 4]})
 	done
 done
+new_arr+=("${arr[@]:140}")
 
 # calculate the sum of the missing columns
 function sum() {
@@ -87,3 +88,4 @@ done
 
 # delete temporary files
 rm $TEXT_OUT $INFO $CLEANED
+
