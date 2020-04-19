@@ -7,65 +7,57 @@ fi
 
 FILE_IN="$1"
 TEXT_OUT="text.out"
+TABLE_1="table1"
+TABLE_2="table2"
 INFO="info"
-CLEANED="cleaned"
 HEADER="header"
 
-# Find first line and extract all table data
-# 160 lines of data + some empty/spurious lines
-pdftotext $FILE_IN $TEXT_OUT
-FIRST_LINE=$(awk '/Andalucía/ {print FNR; exit}' $TEXT_OUT)
-LAST_LINE=$(awk '/^IA \(14 d.\): Incidencia acumulada/ {print FNR; exit}' $TEXT_OUT)
-cat $TEXT_OUT | head -n $LAST_LINE | tail -n +$FIRST_LINE > $INFO
+function extract_table() {
 
-# keep first 20 lines (CCAA) and only the ones starting with a number
-# delete dots from "thousands" (e.g. 3.453 -> 3453)
-# substitute comas with dots   (e.g.  6,44 -> 6.44)
-# remove yen symbol (¥)
-# put each number on a line
-cat $INFO | awk '(NR<=20) || /^[0-9]/' \
-          | tr -d '¥*' \
-          | sed -e 's/\([0-9]\)\./\1/g' -e 's/,/./g' -e 's/\([0-9\.]\+\) \([0-9\.]\+\)/\1\n\2/g' \
-          > $CLEANED
+	local FILE_IN=$1
+	local FILE_OUT=$2
+	local STARTING_FROM=$3
+	local FIRST_LINE=$(tail -n +$STARTING_FROM $FILE_IN | awk '/Andalucía/ {print FNR; exit}')
+	local LAST_LINE=$(tail -n +$STARTING_FROM $FILE_IN | awk '/ESPAÑA/ {print FNR; exit}')
 
-# read all info into array for easier lookup
-IFS=$'\t' read -r -a arr <<< $(cat $CLEANED | tr '\n' '\t')
-
-# mangling to have the same order in the table
-# the first 3 columns are OK (column first) while
-# the sequent 4 columns are row first.
-# The 4th adn 5th column misses the "total", this
-# means they're 19 positions long instead of 20
-# Add placeholder to align indexes
-#
-# ${X[@]:index:length} slice from index to index+length exclusive
-#
-arr=("${arr[@]:0:136}" -1 -1 "${arr[@]:136}")
-new_arr=("${arr[@]:0:60}")
-for column_index in {60..63}
-do
-	for row in {0..19}
-	do
-		new_arr+=(${arr[$column_index + row * 4]})
-	done
-done
-new_arr+=("${arr[@]:140}")
-
-# calculate the sum of the missing columns
-function sum() {
-	local -n array=$1
-	local offset=$2
-	local sum=0
-
-	for i in {0..18}
-	do
-		sum=$(($sum + ${array[$offset + $i]}))
-	done
-
-	array[$offset + 19]=$sum
+	cat $FILE_IN | tail -n +$STARTING_FROM \
+                 | head -n $LAST_LINE \
+                 | tail -n +$FIRST_LINE \
+                 | tr ' ' ',' \
+                 | sed 's/,\([[:alpha:]]\)/ \1/g' \
+                 > $FILE_OUT
 }
-sum new_arr 60
-sum new_arr 80
+
+# Extract text from PDF
+java -jar tika-app-1.24.jar --text $1 > $TEXT_OUT
+
+# Removes:
+# * star and Yen symbol
+# * empty lines
+# * single space at end of line
+# * leading spaces before alpha character
+# * dots from "thousands" (e.g. 3.453 -> 3453)
+#   substitute number with a "+" in front of them (e.g. +1234) with a space
+#   substitute comas with dots   (e.g.  6,44 -> 6.44)
+# * two extra space after "ESPAÑA"
+# * newlines before spaces and a number
+cat $TEXT_OUT | tr -d '*¥' \
+              | sed -e 's/ $//g' \
+                    -e '/^$/d' \
+                    -e 's/^ \+\([[:alpha:]]\)/\1/g' \
+                    -e 's/\([0-9]\)\./\1/g' \
+                    -e 's/^+[0-9]\+//g' \
+                    -e 's/,/./g' \
+                    -e 's/ESPAÑA  /ESPAÑA/g' \
+              | sed --null-data \
+                    -e 's/\([0-9]\)\n\+\( \+[0-9]\)/\1\2/g' \
+                    -e 's/\([ 0-9]\)\n\+\([0-9]\)/\1 \2/g' \
+              > $INFO
+
+
+# Save Table1 and Table2 and
+extract_table $INFO $TABLE_1 $(awk '/^Tabla 1/ { print FNR}' $INFO)
+extract_table $INFO $TABLE_2 $(awk '/^Tabla 2/ { print FNR}' $INFO)
 
 # write CSV file
 MOD_DATE=$(pdfinfo -isodates ${FILE_IN}| awk '/ModDate/ { print $2}')
@@ -74,18 +66,13 @@ DATE=$(date --date=$MOD_DATE --iso-8601)
 [[ $# -eq 2 ]] && FILE_OUT="$2" || FILE_OUT="datos-ccaa-${DATE}.csv"
 
 cat $HEADER > $FILE_OUT
-LAST=","
-
-for line in {0..19}
-do
-	echo -n "$TIME" >> $FILE_OUT
-	for offset in {0..140..20}
-	do
-		echo -n ",${new_arr[$line + $offset]}" >> $FILE_OUT
-	done
-	echo "" >> $FILE_OUT
-done
+paste --delimiters ',' $TABLE_1 $TABLE_2 \
+        | cut --delimiter=, --fields=1-8,10- \
+        | awk --assign time="$TIME" --field-separator ',' \
+          '{hospTot+=$9; hospNew+=$10; uciTot+=$11; uciNew+=$12} \
+          NR != 20 { print time","$0} \
+          END { print time","$1","$2","$3","$4","$5","$6","$7","$8","hospTot","hospNew","uciTot","uciNew","$13","$14","$15","$16}' \
+        >> $FILE_OUT
 
 # delete temporary files
-rm $TEXT_OUT $INFO $CLEANED
-
+rm $TEXT_OUT $TABLE_1 $TABLE_2 $INFO
