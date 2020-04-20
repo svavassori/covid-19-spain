@@ -1,4 +1,4 @@
-Fecha,CCAA,Total casos,Incidencia Acumulada últimos 14 días,Hospitalizados,Ingreso UCI,Fallecidos,Curados,Nuevos
+Fecha,CCAA,Total casos,Nuevos,PCR,testAb,Incidencia Acumulada últimos 14 días,testAbPositivos,TotalPositivos,Hospitalizados,HospitalizatosNuevos,Ingreso UCI,Ingreso UCINuevos,Fallecidos,FallecidosNuevos,Curados,CuradosNuevos
 2020-02-25T14:24:24,España,4,0,,0,0,0,
 2020-02-27T14:24:24,España,16,0,,0,0,0,
 2020-02-28T14:24:24,España,32,0,,0,0,0,
@@ -44,3 +44,4 @@ Fecha,CCAA,Total casos,Incidencia Acumulada últimos 14 días,Hospitalizados,Ing
 2020-04-13T11:32:48,España,169496,179.26,75229,7777,17489,64727,3477
 2020-04-14T11:14:00,España,172541,166.13,75752,7851,18056,67504,3045
 2020-04-15T11:04:28,España,177633,160.54,76121,7871,18579,70853,4978
+2020-04-16T12:18:48,España,182816,5183,26817,1312,154.34,,,76752,1094,7916,87,19130,551,74797,3947
