@@ -52,6 +52,7 @@ cat $FILE | tr -d '\r' \
                 -e 's/NC,/Navarra,/g' \
                 -e 's/PV,/País Vasco,/g' \
                 -e 's/RI,/La Rioja,/g' \
+                -e 's/2020-04-28,Galicia,9466/2020-04-28,Galicia,/g' \
           > $FILE_CCAA
 
 # create country file
