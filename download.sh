@@ -21,11 +21,7 @@ cat $FILE | tr -d '\r' \
           | awk '/^[A-Z][A-Z],[0-9]/ || NR <=1 { print $0}' \
           | awk 'BEGIN { FS=OFS="," } \
                  { if (NR <= 1) { print $0, "TotalPositivos" } \
-                   else { \
-                       if ($4) { totalPositive=$4+$5 } \
-                       else { totalPositive=$3 } \
-                       print $0, totalPositive
-                   } \
+                   else { totalPositive=$4+$5; print $0, totalPositive } \
                  }' \
           | awk 'BEGIN { FS=OFS="," } { print $2, $1, $3, $4, $5, $6, $7, $8, $9, $10, $11 }' \
           | sed --regexp-extended \
@@ -52,7 +48,6 @@ cat $FILE | tr -d '\r' \
                 -e 's/NC,/Navarra,/g' \
                 -e 's/PV,/País Vasco,/g' \
                 -e 's/RI,/La Rioja,/g' \
-                -e 's/2020-04-28,Galicia,9466/2020-04-28,Galicia,/g' \
           > $FILE_CCAA
 
 # create country file
