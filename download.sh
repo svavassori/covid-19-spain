@@ -3,8 +3,8 @@
 YESTERDAY=$(date --date=yesterday +%F)
 FILE_CCAA="datos-ccaa.csv"
 FILE_ESP="datos-españa.csv"
-FILE="serie_historica_acumulados.csv"
-URL="https://covid19.isciii.es/resources/${FILE}"
+FILE="agregados.csv"
+URL="https://cnecovid.isciii.es/covid19/resources/${FILE}"
 OPTS="--no-verbose --output-document=${FILE}"
 
 cd "csv/"
