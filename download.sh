@@ -14,7 +14,6 @@ wget $OPTS $URL
 # delete 'NOTA' lines at end
 # sums "PCR+" and "TestAc+" if present, otherwise uses "casos" field
 # rearrange date field to be first
-# removes trailing comma
 # format date as YYYY-MM-DD
 # replace CCAA codes with full name
 cat $FILE | tr -d '\r' \
@@ -23,9 +22,8 @@ cat $FILE | tr -d '\r' \
                  { if (NR <= 1) { print $0, "TotalPositivos" } \
                    else { totalPositive=$4+$5; print $0, totalPositive } \
                  }' \
-          | awk 'BEGIN { FS=OFS="," } { print $2, $1, $3, $4, $5, $6, $7, $8, $9, $10, $11 }' \
+          | awk 'BEGIN { FS=OFS="," } { print $2, $1, $3, $4, $5, $6, $7, $8, $9 }' \
           | sed --regexp-extended \
-                -e 's/,$//g' \
                 -e 's|([0-9]+)/([0-9]+)/([0-9]+)|\3-\2-\1|g' \
                 -e 's/-([0-9])-/-0\1-/g' \
                 -e 's/-([0-9]),/-0\1,/g' \
@@ -54,7 +52,7 @@ cat $FILE | tr -d '\r' \
 QUERY=" SELECT FECHA, 'España' AS CCAA, SUM(CASOS) AS CASOS, "
 QUERY+='SUM("PCR+") AS "PCR+", SUM("TestAc+") AS "TestAc+",'
 QUERY+="SUM(Hospitalizados) AS Hospitalizados, SUM(UCI) AS UCI,"
-QUERY+="SUM(Fallecidos) AS Fallecidos, SUM(Recuperados) AS Recuperados,"
+QUERY+="SUM(Fallecidos) AS Fallecidos,"
 QUERY+="SUM(TotalPositivos) AS TotalPositivos "
 QUERY+="FROM - "
 QUERY+="GROUP BY FECHA ORDER BY FECHA"
