@@ -21,7 +21,6 @@ wget --no-verbose --directory-prefix=pdf/ "https://www.mscbs.gob.es/profesionale
 
 # replace CCAA codes with full name
 FILE="csv/datos_ccaas.csv"
-FILE_BASE="csv/casos-españa-2020-05-07.csv"
 FILE_ESP="csv/casos-españa.csv"
 FILE_DEATHS="csv/Fallecidos_COVID19.csv"
 DEATHS="csv/Fallecidos_COVID19.xlsx"
@@ -57,9 +56,6 @@ QUERY_CASOS+="SUM(num_casos_prueba_desconocida) AS desconocida "
 QUERY_CASOS+="FROM - "
 QUERY_CASOS+="GROUP BY fecha "
 cat $FILE_ESP | q --skip-header --delimiter=, "$QUERY_CASOS" >> $FILE_ESP
-
-# add data from start to 2020-05-07
-cat $FILE_BASE >> $FILE_ESP
 
 # sort by date without header and then add the new header
 tail --lines=+2 $FILE_ESP | sort --key=2 --field-separator=, --output $FILE_ESP
