@@ -5,6 +5,7 @@ URLS=(
 	"https://cnecovid.isciii.es/covid19/resources/datos_ccaas.csv"
 	"https://cnecovid.isciii.es/covid19/resources/datos_provincias.csv"
 	"https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx"
+	"https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Datos_Casos_COVID19.csv"
 )
 
 OPTS="--no-verbose --timestamping --directory-prefix=csv"
@@ -13,6 +14,9 @@ for url in "${URLS[@]}"
 do
 	wget ${OPTS} ${url}
 done
+
+# convert from ISO-8859-14 to UTF-8
+iconv --from-code=ISO-8859-14 --to-code=UTF-8 csv/Datos_Casos_COVID19.csv | sponge csv/Datos_Casos_COVID19.csv
 
 CURRENT=$(find pdf/ -name "*.pdf" | sed 's/.\+_\([0-9]\+\)_.\+/\1/g' | sort --numeric-sort --unique | tail -n 1)
 NEXT=$((CURRENT+1))
