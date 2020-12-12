@@ -1,8 +1,8 @@
-*Este fichero CSV incluye la información agregada por día de los casos de COVID-19 diagnosticados, hospitalizados, ingresados en UCIs y fallecidos notificados a la Red Nacional de Vigilancia Epidemiológica desde el 1 de enero de 2020 y desagregados por Comunidad Autónoma de declaración.
-*No se dispone de fecha de diagnóstico para 9.975 casos, de fecha de hospitalización de 11.692 hospitalizados, de fecha de ingreso en UCI de 1.782 casos ingresados en UCI y de fecha de fallecimiento de 429 fallecidos. 
+*Este fichero CSV incluye la informaciÃġn agregada por dÃ­a de los casos de COVID-19 diagnosticados, hospitalizados, ingresados en UCIs y fallecidos notificados a la Red Nacional de Vigilancia EpidemiolÃġgica desde el 1 de enero de 2020 y desagregados por Comunidad AutÃġnoma de declaraciÃġn.
+*No se dispone de fecha de diagnÃġstico para 9.975 casos, de fecha de hospitalizaciÃġn de 11.692 hospitalizados, de fecha de ingreso en UCI de 1.782 casos ingresados en UCI y de fecha de fallecimiento de 429 fallecidos. 
 *Estos datos incluyen casos diagnosticados retrospectivamente al inicio de la epidemia.
-*Los análisis realizados con los datos incluidos en este CSV pueden dar resultados marginalmente diferentes a los análisis realizados por los servicios de vigilancia de la Red Nacional de Vigilancia Epidemiológica que pueden incluir los casos con fechas faltantes imputándoles fechas estimadas alternativas y pueden utilizar para algunos análisis agregaciones temporales utilizando otras fechas asociadas a los casos (p.e.: fecha de inicio de síntomas). 
-*Estos datos se actualizarán diariamente con la información recibida de las Comunidades Autónomas.
+*Los anÃḂlisis realizados con los datos incluidos en este CSV pueden dar resultados marginalmente diferentes a los anÃḂlisis realizados por los servicios de vigilancia de la Red Nacional de Vigilancia EpidemiolÃġgica que pueden incluir los casos con fechas faltantes imputÃḂndoles fechas estimadas alternativas y pueden utilizar para algunos anÃḂlisis agregaciones temporales utilizando otras fechas asociadas a los casos (p.e.: fecha de inicio de sÃ­ntomas). 
+*Estos datos se actualizarÃḂn diariamente con la informaciÃġn recibida de las Comunidades AutÃġnomas.
 
 CCAA_ISO;Fecha;Casos_Diagnosticados;Hospitalizados;UCI;Fallecidos
 ES-AN;01-01-2020;0;1;0;0
