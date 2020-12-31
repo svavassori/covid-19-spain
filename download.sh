@@ -25,7 +25,7 @@ wget --no-verbose --directory-prefix=pdf/ "https://www.mscbs.gob.es/profesionale
 # replace province codes with CC.AA. full name and calculate aggregated values
 # removes the 'NC' lines since they are not assigned to any CC.AA.
 FILE="csv/casos_hosp_uci_def_sexo_edad_provres.csv"
-FILE_ESP="csv/casos-españa.csv"
+FILE_ESP="csv/datos-españa.csv"
 
 QUERY_PROV="SELECT ccaa, fecha, SUM(num_casos) AS num_casos, "
 QUERY_PROV+="SUM(num_hosp) AS num_hosp, "
