@@ -1,0 +1,533 @@
+date,iso_code,nuts2,name,supplier,delivered
+2021-01-05,ES-AN,ES61,Andalucía,Pfizer/BioNTech,140295
+2021-01-05,ES-AR,ES24,Aragón,Pfizer/BioNTech,23715
+2021-01-05,ES-AS,ES12,Asturias,Pfizer/BioNTech,23720
+2021-01-05,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,12840
+2021-01-05,ES-CN,ES70,Canarias,Pfizer/BioNTech,27660
+2021-01-05,ES-CB,ES13,Cantabria,Pfizer/BioNTech,11850
+2021-01-05,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,51390
+2021-01-05,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,35550
+2021-01-05,ES-CT,ES51,Cataluña,Pfizer/BioNTech,120545
+2021-01-05,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,61225
+2021-01-05,ES-EX,ES43,Extremadura,Pfizer/BioNTech,21725
+2021-01-05,ES-GA,ES11,Galicia,Pfizer/BioNTech,37555
+2021-01-05,ES-RI,ES23,La Rioja,Pfizer/BioNTech,5915
+2021-01-05,ES-MD,ES30,Madrid,Pfizer/BioNTech,98790
+2021-01-05,ES-MC,ES62,Murcia,Pfizer/BioNTech,25685
+2021-01-05,ES-NC,ES22,Navarra,Pfizer/BioNTech,11850
+2021-01-05,ES-PV,ES21,País Vasco,Pfizer/BioNTech,31605
+2021-01-05,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1005
+2021-01-05,ES-ML,ES64,Melilla,Pfizer/BioNTech,1005
+2021-01-07,ES-AN,ES61,Andalucía,Pfizer/BioNTech,140295
+2021-01-07,ES-AR,ES24,Aragón,Pfizer/BioNTech,23715
+2021-01-07,ES-AS,ES12,Asturias,Pfizer/BioNTech,23720
+2021-01-07,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,12840
+2021-01-07,ES-CN,ES70,Canarias,Pfizer/BioNTech,27660
+2021-01-07,ES-CB,ES13,Cantabria,Pfizer/BioNTech,11850
+2021-01-07,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,51390
+2021-01-07,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,35550
+2021-01-07,ES-CT,ES51,Cataluña,Pfizer/BioNTech,120545
+2021-01-07,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,61225
+2021-01-07,ES-EX,ES43,Extremadura,Pfizer/BioNTech,21725
+2021-01-07,ES-GA,ES11,Galicia,Pfizer/BioNTech,37555
+2021-01-07,ES-RI,ES23,La Rioja,Pfizer/BioNTech,5915
+2021-01-07,ES-MD,ES30,Madrid,Pfizer/BioNTech,98790
+2021-01-07,ES-MC,ES62,Murcia,Pfizer/BioNTech,25685
+2021-01-07,ES-NC,ES22,Navarra,Pfizer/BioNTech,11850
+2021-01-07,ES-PV,ES21,País Vasco,Pfizer/BioNTech,31605
+2021-01-07,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1005
+2021-01-07,ES-ML,ES64,Melilla,Pfizer/BioNTech,1005
+2021-01-08,ES-AN,ES61,Andalucía,Pfizer/BioNTech,140295
+2021-01-08,ES-AR,ES24,Aragón,Pfizer/BioNTech,23715
+2021-01-08,ES-AS,ES12,Asturias,Pfizer/BioNTech,23720
+2021-01-08,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,12840
+2021-01-08,ES-CN,ES70,Canarias,Pfizer/BioNTech,27660
+2021-01-08,ES-CB,ES13,Cantabria,Pfizer/BioNTech,11850
+2021-01-08,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,51390
+2021-01-08,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,35550
+2021-01-08,ES-CT,ES51,Cataluña,Pfizer/BioNTech,120545
+2021-01-08,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,61225
+2021-01-08,ES-EX,ES43,Extremadura,Pfizer/BioNTech,21725
+2021-01-08,ES-GA,ES11,Galicia,Pfizer/BioNTech,37555
+2021-01-08,ES-RI,ES23,La Rioja,Pfizer/BioNTech,5915
+2021-01-08,ES-MD,ES30,Madrid,Pfizer/BioNTech,98790
+2021-01-08,ES-MC,ES62,Murcia,Pfizer/BioNTech,25685
+2021-01-08,ES-NC,ES22,Navarra,Pfizer/BioNTech,11850
+2021-01-08,ES-PV,ES21,País Vasco,Pfizer/BioNTech,31605
+2021-01-08,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1005
+2021-01-08,ES-ML,ES64,Melilla,Pfizer/BioNTech,1005
+2021-01-11,ES-AN,ES61,Andalucía,Pfizer/BioNTech,140295
+2021-01-11,ES-AR,ES24,Aragón,Pfizer/BioNTech,23715
+2021-01-11,ES-AS,ES12,Asturias,Pfizer/BioNTech,23720
+2021-01-11,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,12840
+2021-01-11,ES-CN,ES70,Canarias,Pfizer/BioNTech,27660
+2021-01-11,ES-CB,ES13,Cantabria,Pfizer/BioNTech,11850
+2021-01-11,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,51390
+2021-01-11,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,35550
+2021-01-11,ES-CT,ES51,Cataluña,Pfizer/BioNTech,120545
+2021-01-11,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,61225
+2021-01-11,ES-EX,ES43,Extremadura,Pfizer/BioNTech,21725
+2021-01-11,ES-GA,ES11,Galicia,Pfizer/BioNTech,37555
+2021-01-11,ES-RI,ES23,La Rioja,Pfizer/BioNTech,5915
+2021-01-11,ES-MD,ES30,Madrid,Pfizer/BioNTech,98790
+2021-01-11,ES-MC,ES62,Murcia,Pfizer/BioNTech,25685
+2021-01-11,ES-NC,ES22,Navarra,Pfizer/BioNTech,11850
+2021-01-11,ES-PV,ES21,País Vasco,Pfizer/BioNTech,31605
+2021-01-11,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1005
+2021-01-11,ES-ML,ES64,Melilla,Pfizer/BioNTech,1005
+2021-01-12,ES-AN,ES61,Andalucía,Pfizer/BioNTech,140295
+2021-01-12,ES-AR,ES24,Aragón,Pfizer/BioNTech,23715
+2021-01-12,ES-AS,ES12,Asturias,Pfizer/BioNTech,23720
+2021-01-12,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,12840
+2021-01-12,ES-CN,ES70,Canarias,Pfizer/BioNTech,27660
+2021-01-12,ES-CB,ES13,Cantabria,Pfizer/BioNTech,11850
+2021-01-12,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,51390
+2021-01-12,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,35550
+2021-01-12,ES-CT,ES51,Cataluña,Pfizer/BioNTech,120545
+2021-01-12,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,61225
+2021-01-12,ES-EX,ES43,Extremadura,Pfizer/BioNTech,21725
+2021-01-12,ES-GA,ES11,Galicia,Pfizer/BioNTech,37555
+2021-01-12,ES-RI,ES23,La Rioja,Pfizer/BioNTech,5915
+2021-01-12,ES-MD,ES30,Madrid,Pfizer/BioNTech,98790
+2021-01-12,ES-MC,ES62,Murcia,Pfizer/BioNTech,25685
+2021-01-12,ES-NC,ES22,Navarra,Pfizer/BioNTech,11850
+2021-01-12,ES-PV,ES21,País Vasco,Pfizer/BioNTech,31605
+2021-01-12,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1005
+2021-01-12,ES-ML,ES64,Melilla,Pfizer/BioNTech,1005
+2021-01-13,ES-AN,ES61,Andalucía,Pfizer/BioNTech,209520
+2021-01-13,ES-AR,ES24,Aragón,Pfizer/BioNTech,35415
+2021-01-13,ES-AS,ES12,Asturias,Pfizer/BioNTech,35420
+2021-01-13,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,12840
+2021-01-13,ES-CN,ES70,Canarias,Pfizer/BioNTech,41310
+2021-01-13,ES-CB,ES13,Cantabria,Pfizer/BioNTech,17700
+2021-01-13,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,76740
+2021-01-13,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,53100
+2021-01-13,ES-CT,ES51,Cataluña,Pfizer/BioNTech,180020
+2021-01-13,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,91450
+2021-01-13,ES-EX,ES43,Extremadura,Pfizer/BioNTech,32450
+2021-01-13,ES-GA,ES11,Galicia,Pfizer/BioNTech,56080
+2021-01-13,ES-RI,ES23,La Rioja,Pfizer/BioNTech,8840
+2021-01-13,ES-MD,ES30,Madrid,Pfizer/BioNTech,147540
+2021-01-13,ES-MC,ES62,Murcia,Pfizer/BioNTech,38360
+2021-01-13,ES-NC,ES22,Navarra,Pfizer/BioNTech,17700
+2021-01-13,ES-PV,ES21,País Vasco,Pfizer/BioNTech,47205
+2021-01-13,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1005
+2021-01-13,ES-ML,ES64,Melilla,Pfizer/BioNTech,1005
+2021-01-14,ES-AN,ES61,Andalucía,Pfizer/BioNTech,209520
+2021-01-14,ES-AN,ES24,Andalucía,Moderna,6800
+2021-01-14,ES-AR,ES12,Aragón,Pfizer/BioNTech,35415
+2021-01-14,ES-AR,ES53,Aragón,Moderna,1200
+2021-01-14,ES-AS,ES70,Asturias,Pfizer/BioNTech,35420
+2021-01-14,ES-AS,ES13,Asturias,Moderna,1200
+2021-01-14,ES-IB,ES41,Islas Baleares,Pfizer/BioNTech,12840
+2021-01-14,ES-IB,ES42,Islas Baleares,Moderna,600
+2021-01-14,ES-CN,ES51,Canarias,Pfizer/BioNTech,41310
+2021-01-14,ES-CN,ES52,Canarias,Moderna,1300
+2021-01-14,ES-CB,ES43,Cantabria,Pfizer/BioNTech,17700
+2021-01-14,ES-CB,ES11,Cantabria,Moderna,500
+2021-01-14,ES-CL,ES23,Castilla y León,Pfizer/BioNTech,76740
+2021-01-14,ES-CL,ES30,Castilla y León,Moderna,2500
+2021-01-14,ES-CM,ES62,Castilla-La Mancha,Pfizer/BioNTech,53100
+2021-01-14,ES-CM,ES22,Castilla-La Mancha,Moderna,1700
+2021-01-14,ES-CT,ES21,Cataluña,Pfizer/BioNTech,180020
+2021-01-14,ES-CT,ES63,Cataluña,Moderna,5800
+2021-01-14,ES-VC,ES64,Comunidad Valenciana,Pfizer/BioNTech,91450
+2021-01-14,ES-VC,ES61,Comunidad Valenciana,Moderna,2900
+2021-01-14,ES-EX,ES24,Extremadura,Pfizer/BioNTech,32450
+2021-01-14,ES-EX,ES12,Extremadura,Moderna,1000
+2021-01-14,ES-GA,ES53,Galicia,Pfizer/BioNTech,56080
+2021-01-14,ES-GA,ES70,Galicia,Moderna,1800
+2021-01-14,ES-RI,ES13,La Rioja,Pfizer/BioNTech,8840
+2021-01-14,ES-RI,ES41,La Rioja,Moderna,200
+2021-01-14,ES-MD,ES42,Madrid,Pfizer/BioNTech,147540
+2021-01-14,ES-MD,ES51,Madrid,Moderna,4700
+2021-01-14,ES-MC,ES52,Murcia,Pfizer/BioNTech,38360
+2021-01-14,ES-MC,ES43,Murcia,Moderna,1200
+2021-01-14,ES-NC,ES11,Navarra,Pfizer/BioNTech,17700
+2021-01-14,ES-NC,ES23,Navarra,Moderna,500
+2021-01-14,ES-PV,ES30,País Vasco,Pfizer/BioNTech,47205
+2021-01-14,ES-PV,ES62,País Vasco,Moderna,1400
+2021-01-14,ES-CE,ES22,Ceuta,Pfizer/BioNTech,1005
+2021-01-14,ES-CE,ES21,Ceuta,Moderna,200
+2021-01-14,ES-ML,ES63,Melilla,Pfizer/BioNTech,1005
+2021-01-14,ES-ML,ES64,Melilla,Moderna,200
+2021-01-15,ES-AN,ES61,Andalucía,Pfizer/BioNTech,209520
+2021-01-15,ES-AN,ES24,Andalucía,Moderna,6800
+2021-01-15,ES-AR,ES12,Aragón,Pfizer/BioNTech,35415
+2021-01-15,ES-AR,ES53,Aragón,Moderna,1200
+2021-01-15,ES-AS,ES70,Asturias,Pfizer/BioNTech,35420
+2021-01-15,ES-AS,ES13,Asturias,Moderna,1200
+2021-01-15,ES-IB,ES41,Islas Baleares,Pfizer/BioNTech,12840
+2021-01-15,ES-IB,ES42,Islas Baleares,Moderna,600
+2021-01-15,ES-CN,ES51,Canarias,Pfizer/BioNTech,41310
+2021-01-15,ES-CN,ES52,Canarias,Moderna,1300
+2021-01-15,ES-CB,ES43,Cantabria,Pfizer/BioNTech,17700
+2021-01-15,ES-CB,ES11,Cantabria,Moderna,500
+2021-01-15,ES-CL,ES23,Castilla y León,Pfizer/BioNTech,76740
+2021-01-15,ES-CL,ES30,Castilla y León,Moderna,2500
+2021-01-15,ES-CM,ES62,Castilla-La Mancha,Pfizer/BioNTech,53100
+2021-01-15,ES-CM,ES22,Castilla-La Mancha,Moderna,1700
+2021-01-15,ES-CT,ES21,Cataluña,Pfizer/BioNTech,180020
+2021-01-15,ES-CT,ES63,Cataluña,Moderna,5800
+2021-01-15,ES-VC,ES64,Comunidad Valenciana,Pfizer/BioNTech,91450
+2021-01-15,ES-VC,ES61,Comunidad Valenciana,Moderna,2900
+2021-01-15,ES-EX,ES24,Extremadura,Pfizer/BioNTech,32450
+2021-01-15,ES-EX,ES12,Extremadura,Moderna,1000
+2021-01-15,ES-GA,ES53,Galicia,Pfizer/BioNTech,56080
+2021-01-15,ES-GA,ES70,Galicia,Moderna,1800
+2021-01-15,ES-RI,ES13,La Rioja,Pfizer/BioNTech,8840
+2021-01-15,ES-RI,ES41,La Rioja,Moderna,200
+2021-01-15,ES-MD,ES42,Madrid,Pfizer/BioNTech,147540
+2021-01-15,ES-MD,ES51,Madrid,Moderna,4700
+2021-01-15,ES-MC,ES52,Murcia,Pfizer/BioNTech,38360
+2021-01-15,ES-MC,ES43,Murcia,Moderna,1200
+2021-01-15,ES-NC,ES11,Navarra,Pfizer/BioNTech,17700
+2021-01-15,ES-NC,ES23,Navarra,Moderna,500
+2021-01-15,ES-PV,ES30,País Vasco,Pfizer/BioNTech,47205
+2021-01-15,ES-PV,ES62,País Vasco,Moderna,1400
+2021-01-15,ES-CE,ES22,Ceuta,Pfizer/BioNTech,1005
+2021-01-15,ES-CE,ES21,Ceuta,Moderna,200
+2021-01-15,ES-ML,ES63,Melilla,Pfizer/BioNTech,1005
+2021-01-15,ES-ML,ES64,Melilla,Moderna,200
+2021-01-18,ES-AN,ES61,Andalucía,Pfizer/BioNTech,209520
+2021-01-18,ES-AN,ES61,Andalucía,Moderna,6800
+2021-01-18,ES-AR,ES24,Aragón,Pfizer/BioNTech,35415
+2021-01-18,ES-AR,ES24,Aragón,Moderna,1200
+2021-01-18,ES-AS,ES12,Asturias,Pfizer/BioNTech,35420
+2021-01-18,ES-AS,ES12,Asturias,Moderna,1200
+2021-01-18,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,16740
+2021-01-18,ES-IB,ES53,Islas Baleares,Moderna,600
+2021-01-18,ES-CN,ES70,Canarias,Pfizer/BioNTech,41310
+2021-01-18,ES-CN,ES70,Canarias,Moderna,1300
+2021-01-18,ES-CB,ES13,Cantabria,Pfizer/BioNTech,17700
+2021-01-18,ES-CB,ES13,Cantabria,Moderna,500
+2021-01-18,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,76740
+2021-01-18,ES-CL,ES41,Castilla y León,Moderna,2500
+2021-01-18,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,53100
+2021-01-18,ES-CM,ES42,Castilla-La Mancha,Moderna,1700
+2021-01-18,ES-CT,ES51,Cataluña,Pfizer/BioNTech,180020
+2021-01-18,ES-CT,ES51,Cataluña,Moderna,5800
+2021-01-18,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,91450
+2021-01-18,ES-VC,ES52,Comunidad Valenciana,Moderna,2900
+2021-01-18,ES-EX,ES43,Extremadura,Pfizer/BioNTech,32450
+2021-01-18,ES-EX,ES43,Extremadura,Moderna,1000
+2021-01-18,ES-GA,ES11,Galicia,Pfizer/BioNTech,56080
+2021-01-18,ES-GA,ES11,Galicia,Moderna,1800
+2021-01-18,ES-RI,ES23,La Rioja,Pfizer/BioNTech,8840
+2021-01-18,ES-RI,ES23,La Rioja,Moderna,200
+2021-01-18,ES-MD,ES30,Madrid,Pfizer/BioNTech,147540
+2021-01-18,ES-MD,ES30,Madrid,Moderna,4700
+2021-01-18,ES-MC,ES62,Murcia,Pfizer/BioNTech,38360
+2021-01-18,ES-MC,ES62,Murcia,Moderna,1200
+2021-01-18,ES-NC,ES22,Navarra,Pfizer/BioNTech,17700
+2021-01-18,ES-NC,ES22,Navarra,Moderna,500
+2021-01-18,ES-PV,ES21,País Vasco,Pfizer/BioNTech,47205
+2021-01-18,ES-PV,ES21,País Vasco,Moderna,1400
+2021-01-18,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1005
+2021-01-18,ES-CE,ES63,Ceuta,Moderna,200
+2021-01-18,ES-ML,ES64,Melilla,Pfizer/BioNTech,1005
+2021-01-18,ES-ML,ES64,Melilla,Moderna,200
+2021-01-19,ES-AN,ES61,Andalucía,Pfizer/BioNTech,209520
+2021-01-19,ES-AN,ES61,Andalucía,Moderna,6800
+2021-01-19,ES-AR,ES24,Aragón,Pfizer/BioNTech,35415
+2021-01-19,ES-AR,ES24,Aragón,Moderna,1200
+2021-01-19,ES-AS,ES12,Asturias,Pfizer/BioNTech,35420
+2021-01-19,ES-AS,ES12,Asturias,Moderna,1200
+2021-01-19,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,16740
+2021-01-19,ES-IB,ES53,Islas Baleares,Moderna,600
+2021-01-19,ES-CN,ES70,Canarias,Pfizer/BioNTech,41310
+2021-01-19,ES-CN,ES70,Canarias,Moderna,1300
+2021-01-19,ES-CB,ES13,Cantabria,Pfizer/BioNTech,17700
+2021-01-19,ES-CB,ES13,Cantabria,Moderna,500
+2021-01-19,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,76740
+2021-01-19,ES-CL,ES41,Castilla y León,Moderna,2500
+2021-01-19,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,53100
+2021-01-19,ES-CM,ES42,Castilla-La Mancha,Moderna,1700
+2021-01-19,ES-CT,ES51,Cataluña,Pfizer/BioNTech,180020
+2021-01-19,ES-CT,ES51,Cataluña,Moderna,5800
+2021-01-19,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,91450
+2021-01-19,ES-VC,ES52,Comunidad Valenciana,Moderna,2900
+2021-01-19,ES-EX,ES43,Extremadura,Pfizer/BioNTech,32450
+2021-01-19,ES-EX,ES43,Extremadura,Moderna,1000
+2021-01-19,ES-GA,ES11,Galicia,Pfizer/BioNTech,56080
+2021-01-19,ES-GA,ES11,Galicia,Moderna,1800
+2021-01-19,ES-RI,ES23,La Rioja,Pfizer/BioNTech,8840
+2021-01-19,ES-RI,ES23,La Rioja,Moderna,200
+2021-01-19,ES-MD,ES30,Madrid,Pfizer/BioNTech,147540
+2021-01-19,ES-MD,ES30,Madrid,Moderna,4700
+2021-01-19,ES-MC,ES62,Murcia,Pfizer/BioNTech,38360
+2021-01-19,ES-MC,ES62,Murcia,Moderna,1200
+2021-01-19,ES-NC,ES22,Navarra,Pfizer/BioNTech,17700
+2021-01-19,ES-NC,ES22,Navarra,Moderna,500
+2021-01-19,ES-PV,ES21,País Vasco,Pfizer/BioNTech,47205
+2021-01-19,ES-PV,ES21,País Vasco,Moderna,1400
+2021-01-19,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1005
+2021-01-19,ES-CE,ES63,Ceuta,Moderna,200
+2021-01-19,ES-ML,ES64,Melilla,Pfizer/BioNTech,1005
+2021-01-19,ES-ML,ES64,Melilla,Moderna,200
+2021-01-20,ES-AN,ES61,Andalucía,Pfizer/BioNTech,244620
+2021-01-20,ES-AN,ES61,Andalucía,Moderna,6800
+2021-01-20,ES-AR,ES24,Aragón,Pfizer/BioNTech,41265
+2021-01-20,ES-AR,ES24,Aragón,Moderna,1200
+2021-01-20,ES-AS,ES12,Asturias,Pfizer/BioNTech,44195
+2021-01-20,ES-AS,ES12,Asturias,Moderna,1200
+2021-01-20,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,22590
+2021-01-20,ES-IB,ES53,Islas Baleares,Moderna,600
+2021-01-20,ES-CN,ES70,Canarias,Pfizer/BioNTech,46185
+2021-01-20,ES-CN,ES70,Canarias,Moderna,1300
+2021-01-20,ES-CB,ES13,Cantabria,Pfizer/BioNTech,20625
+2021-01-20,ES-CB,ES13,Cantabria,Moderna,500
+2021-01-20,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,93315
+2021-01-20,ES-CL,ES41,Castilla y León,Moderna,2500
+2021-01-20,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,61875
+2021-01-20,ES-CM,ES42,Castilla-La Mancha,Moderna,1700
+2021-01-20,ES-CT,ES51,Cataluña,Pfizer/BioNTech,211220
+2021-01-20,ES-CT,ES51,Cataluña,Moderna,5800
+2021-01-20,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,109000
+2021-01-20,ES-VC,ES52,Comunidad Valenciana,Moderna,2900
+2021-01-20,ES-EX,ES43,Extremadura,Pfizer/BioNTech,39275
+2021-01-20,ES-EX,ES43,Extremadura,Moderna,1000
+2021-01-20,ES-GA,ES11,Galicia,Pfizer/BioNTech,66805
+2021-01-20,ES-GA,ES11,Galicia,Moderna,1800
+2021-01-20,ES-RI,ES23,La Rioja,Pfizer/BioNTech,11765
+2021-01-20,ES-RI,ES23,La Rioja,Moderna,200
+2021-01-20,ES-MD,ES30,Madrid,Pfizer/BioNTech,171915
+2021-01-20,ES-MD,ES30,Madrid,Moderna,4700
+2021-01-20,ES-MC,ES62,Murcia,Pfizer/BioNTech,45185
+2021-01-20,ES-MC,ES62,Murcia,Moderna,1200
+2021-01-20,ES-NC,ES22,Navarra,Pfizer/BioNTech,20625
+2021-01-20,ES-NC,ES22,Navarra,Moderna,500
+2021-01-20,ES-PV,ES21,País Vasco,Pfizer/BioNTech,55980
+2021-01-20,ES-PV,ES21,País Vasco,Moderna,1400
+2021-01-20,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1980
+2021-01-20,ES-CE,ES63,Ceuta,Moderna,200
+2021-01-20,ES-ML,ES64,Melilla,Pfizer/BioNTech,1980
+2021-01-20,ES-ML,ES64,Melilla,Moderna,200
+2021-01-21,ES-AN,ES61,Andalucía,Pfizer/BioNTech,244620
+2021-01-21,ES-AN,ES61,Andalucía,Moderna,6800
+2021-01-21,ES-AR,ES24,Aragón,Pfizer/BioNTech,41265
+2021-01-21,ES-AR,ES24,Aragón,Moderna,1200
+2021-01-21,ES-AS,ES12,Asturias,Pfizer/BioNTech,44195
+2021-01-21,ES-AS,ES12,Asturias,Moderna,1200
+2021-01-21,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,22590
+2021-01-21,ES-IB,ES53,Islas Baleares,Moderna,600
+2021-01-21,ES-CN,ES70,Canarias,Pfizer/BioNTech,46185
+2021-01-21,ES-CN,ES70,Canarias,Moderna,1300
+2021-01-21,ES-CB,ES13,Cantabria,Pfizer/BioNTech,20625
+2021-01-21,ES-CB,ES13,Cantabria,Moderna,500
+2021-01-21,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,93315
+2021-01-21,ES-CL,ES41,Castilla y León,Moderna,2500
+2021-01-21,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,61875
+2021-01-21,ES-CM,ES42,Castilla-La Mancha,Moderna,1700
+2021-01-21,ES-CT,ES51,Cataluña,Pfizer/BioNTech,211220
+2021-01-21,ES-CT,ES51,Cataluña,Moderna,5800
+2021-01-21,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,109000
+2021-01-21,ES-VC,ES52,Comunidad Valenciana,Moderna,2900
+2021-01-21,ES-EX,ES43,Extremadura,Pfizer/BioNTech,39275
+2021-01-21,ES-EX,ES43,Extremadura,Moderna,1000
+2021-01-21,ES-GA,ES11,Galicia,Pfizer/BioNTech,66805
+2021-01-21,ES-GA,ES11,Galicia,Moderna,1800
+2021-01-21,ES-RI,ES23,La Rioja,Pfizer/BioNTech,11765
+2021-01-21,ES-RI,ES23,La Rioja,Moderna,200
+2021-01-21,ES-MD,ES30,Madrid,Pfizer/BioNTech,171915
+2021-01-21,ES-MD,ES30,Madrid,Moderna,4700
+2021-01-21,ES-MC,ES62,Murcia,Pfizer/BioNTech,45185
+2021-01-21,ES-MC,ES62,Murcia,Moderna,1200
+2021-01-21,ES-NC,ES22,Navarra,Pfizer/BioNTech,20625
+2021-01-21,ES-NC,ES22,Navarra,Moderna,500
+2021-01-21,ES-PV,ES21,País Vasco,Pfizer/BioNTech,55980
+2021-01-21,ES-PV,ES21,País Vasco,Moderna,1400
+2021-01-21,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1980
+2021-01-21,ES-CE,ES63,Ceuta,Moderna,200
+2021-01-21,ES-ML,ES64,Melilla,Pfizer/BioNTech,1980
+2021-01-21,ES-ML,ES64,Melilla,Moderna,200
+2021-01-22,ES-AN,ES61,Andalucía,Pfizer/BioNTech,244620
+2021-01-22,ES-AN,ES61,Andalucía,Moderna,6800
+2021-01-22,ES-AR,ES24,Aragón,Pfizer/BioNTech,41265
+2021-01-22,ES-AR,ES24,Aragón,Moderna,1200
+2021-01-22,ES-AS,ES12,Asturias,Pfizer/BioNTech,44195
+2021-01-22,ES-AS,ES12,Asturias,Moderna,1200
+2021-01-22,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,22590
+2021-01-22,ES-IB,ES53,Islas Baleares,Moderna,600
+2021-01-22,ES-CN,ES70,Canarias,Pfizer/BioNTech,46185
+2021-01-22,ES-CN,ES70,Canarias,Moderna,1300
+2021-01-22,ES-CB,ES13,Cantabria,Pfizer/BioNTech,20625
+2021-01-22,ES-CB,ES13,Cantabria,Moderna,500
+2021-01-22,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,93315
+2021-01-22,ES-CL,ES41,Castilla y León,Moderna,2500
+2021-01-22,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,61875
+2021-01-22,ES-CM,ES42,Castilla-La Mancha,Moderna,1700
+2021-01-22,ES-CT,ES51,Cataluña,Pfizer/BioNTech,211220
+2021-01-22,ES-CT,ES51,Cataluña,Moderna,5800
+2021-01-22,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,109000
+2021-01-22,ES-VC,ES52,Comunidad Valenciana,Moderna,2900
+2021-01-22,ES-EX,ES43,Extremadura,Pfizer/BioNTech,39275
+2021-01-22,ES-EX,ES43,Extremadura,Moderna,1000
+2021-01-22,ES-GA,ES11,Galicia,Pfizer/BioNTech,66805
+2021-01-22,ES-GA,ES11,Galicia,Moderna,1800
+2021-01-22,ES-RI,ES23,La Rioja,Pfizer/BioNTech,11765
+2021-01-22,ES-RI,ES23,La Rioja,Moderna,200
+2021-01-22,ES-MD,ES30,Madrid,Pfizer/BioNTech,171915
+2021-01-22,ES-MD,ES30,Madrid,Moderna,4700
+2021-01-22,ES-MC,ES62,Murcia,Pfizer/BioNTech,45185
+2021-01-22,ES-MC,ES62,Murcia,Moderna,1200
+2021-01-22,ES-NC,ES22,Navarra,Pfizer/BioNTech,20625
+2021-01-22,ES-NC,ES22,Navarra,Moderna,500
+2021-01-22,ES-PV,ES21,País Vasco,Pfizer/BioNTech,55980
+2021-01-22,ES-PV,ES21,País Vasco,Moderna,1400
+2021-01-22,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1980
+2021-01-22,ES-CE,ES63,Ceuta,Moderna,200
+2021-01-22,ES-ML,ES64,Melilla,Pfizer/BioNTech,1980
+2021-01-22,ES-ML,ES64,Melilla,Moderna,200
+2021-01-25,ES-AN,ES61,Andalucía,Pfizer/BioNTech,244620
+2021-01-25,ES-AN,ES61,Andalucía,Moderna,6800
+2021-01-25,ES-AR,ES24,Aragón,Pfizer/BioNTech,41265
+2021-01-25,ES-AR,ES24,Aragón,Moderna,1200
+2021-01-25,ES-AS,ES12,Asturias,Pfizer/BioNTech,44195
+2021-01-25,ES-AS,ES12,Asturias,Moderna,1200
+2021-01-25,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,22590
+2021-01-25,ES-IB,ES53,Islas Baleares,Moderna,600
+2021-01-25,ES-CN,ES70,Canarias,Pfizer/BioNTech,46185
+2021-01-25,ES-CN,ES70,Canarias,Moderna,1300
+2021-01-25,ES-CB,ES13,Cantabria,Pfizer/BioNTech,20625
+2021-01-25,ES-CB,ES13,Cantabria,Moderna,500
+2021-01-25,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,93315
+2021-01-25,ES-CL,ES41,Castilla y León,Moderna,2500
+2021-01-25,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,61875
+2021-01-25,ES-CM,ES42,Castilla-La Mancha,Moderna,1700
+2021-01-25,ES-CT,ES51,Cataluña,Pfizer/BioNTech,211220
+2021-01-25,ES-CT,ES51,Cataluña,Moderna,5800
+2021-01-25,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,109000
+2021-01-25,ES-VC,ES52,Comunidad Valenciana,Moderna,2900
+2021-01-25,ES-EX,ES43,Extremadura,Pfizer/BioNTech,39275
+2021-01-25,ES-EX,ES43,Extremadura,Moderna,1000
+2021-01-25,ES-GA,ES11,Galicia,Pfizer/BioNTech,66805
+2021-01-25,ES-GA,ES11,Galicia,Moderna,1800
+2021-01-25,ES-RI,ES23,La Rioja,Pfizer/BioNTech,11765
+2021-01-25,ES-RI,ES23,La Rioja,Moderna,200
+2021-01-25,ES-MD,ES30,Madrid,Pfizer/BioNTech,171915
+2021-01-25,ES-MD,ES30,Madrid,Moderna,4700
+2021-01-25,ES-MC,ES62,Murcia,Pfizer/BioNTech,45185
+2021-01-25,ES-MC,ES62,Murcia,Moderna,1200
+2021-01-25,ES-NC,ES22,Navarra,Pfizer/BioNTech,20625
+2021-01-25,ES-NC,ES22,Navarra,Moderna,500
+2021-01-25,ES-PV,ES21,País Vasco,Pfizer/BioNTech,55980
+2021-01-25,ES-PV,ES21,País Vasco,Moderna,1400
+2021-01-25,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1980
+2021-01-25,ES-CE,ES63,Ceuta,Moderna,200
+2021-01-25,ES-ML,ES64,Melilla,Pfizer/BioNTech,1980
+2021-01-25,ES-ML,ES64,Melilla,Moderna,200
+2021-01-26,ES-AN,ES61,Andalucía,Pfizer/BioNTech,244620
+2021-01-26,ES-AN,ES61,Andalucía,Moderna,6800
+2021-01-26,ES-AR,ES24,Aragón,Pfizer/BioNTech,41265
+2021-01-26,ES-AR,ES24,Aragón,Moderna,1200
+2021-01-26,ES-AS,ES12,Asturias,Pfizer/BioNTech,44195
+2021-01-26,ES-AS,ES12,Asturias,Moderna,1200
+2021-01-26,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,22590
+2021-01-26,ES-IB,ES53,Islas Baleares,Moderna,600
+2021-01-26,ES-CN,ES70,Canarias,Pfizer/BioNTech,46185
+2021-01-26,ES-CN,ES70,Canarias,Moderna,1300
+2021-01-26,ES-CB,ES13,Cantabria,Pfizer/BioNTech,20625
+2021-01-26,ES-CB,ES13,Cantabria,Moderna,500
+2021-01-26,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,93315
+2021-01-26,ES-CL,ES41,Castilla y León,Moderna,2500
+2021-01-26,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,61875
+2021-01-26,ES-CM,ES42,Castilla-La Mancha,Moderna,1700
+2021-01-26,ES-CT,ES51,Cataluña,Pfizer/BioNTech,211220
+2021-01-26,ES-CT,ES51,Cataluña,Moderna,5800
+2021-01-26,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,109000
+2021-01-26,ES-VC,ES52,Comunidad Valenciana,Moderna,2900
+2021-01-26,ES-EX,ES43,Extremadura,Pfizer/BioNTech,39275
+2021-01-26,ES-EX,ES43,Extremadura,Moderna,1000
+2021-01-26,ES-GA,ES11,Galicia,Pfizer/BioNTech,66805
+2021-01-26,ES-GA,ES11,Galicia,Moderna,1800
+2021-01-26,ES-RI,ES23,La Rioja,Pfizer/BioNTech,11765
+2021-01-26,ES-RI,ES23,La Rioja,Moderna,200
+2021-01-26,ES-MD,ES30,Madrid,Pfizer/BioNTech,171915
+2021-01-26,ES-MD,ES30,Madrid,Moderna,4700
+2021-01-26,ES-MC,ES62,Murcia,Pfizer/BioNTech,45185
+2021-01-26,ES-MC,ES62,Murcia,Moderna,1200
+2021-01-26,ES-NC,ES22,Navarra,Pfizer/BioNTech,20625
+2021-01-26,ES-NC,ES22,Navarra,Moderna,500
+2021-01-26,ES-PV,ES21,País Vasco,Pfizer/BioNTech,55980
+2021-01-26,ES-PV,ES21,País Vasco,Moderna,1400
+2021-01-26,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1980
+2021-01-26,ES-CE,ES63,Ceuta,Moderna,200
+2021-01-26,ES-ML,ES64,Melilla,Pfizer/BioNTech,1980
+2021-01-26,ES-ML,ES64,Melilla,Moderna,200
+2021-01-27,ES-AN,ES61,Andalucía,Pfizer/BioNTech,324180
+2021-01-27,ES-AN,ES61,Andalucía,Moderna,6800
+2021-01-27,ES-AR,ES24,Aragón,Pfizer/BioNTech,55305
+2021-01-27,ES-AR,ES24,Aragón,Moderna,1200
+2021-01-27,ES-AS,ES12,Asturias,Pfizer/BioNTech,58235
+2021-01-27,ES-AS,ES12,Asturias,Moderna,1200
+2021-01-27,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,29610
+2021-01-27,ES-IB,ES53,Islas Baleares,Moderna,600
+2021-01-27,ES-CN,ES70,Canarias,Pfizer/BioNTech,64320
+2021-01-27,ES-CN,ES70,Canarias,Moderna,1300
+2021-01-27,ES-CB,ES13,Cantabria,Pfizer/BioNTech,27645
+2021-01-27,ES-CB,ES13,Cantabria,Moderna,500
+2021-01-27,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,121395
+2021-01-27,ES-CL,ES41,Castilla y León,Moderna,2500
+2021-01-27,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,82935
+2021-01-27,ES-CM,ES42,Castilla-La Mancha,Moderna,1700
+2021-01-27,ES-CT,ES51,Cataluña,Pfizer/BioNTech,280250
+2021-01-27,ES-CT,ES51,Cataluña,Moderna,5800
+2021-01-27,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,142930
+2021-01-27,ES-VC,ES52,Comunidad Valenciana,Moderna,2900
+2021-01-27,ES-EX,ES43,Extremadura,Pfizer/BioNTech,50975
+2021-01-27,ES-EX,ES43,Extremadura,Moderna,1000
+2021-01-27,ES-GA,ES11,Galicia,Pfizer/BioNTech,87865
+2021-01-27,ES-GA,ES11,Galicia,Moderna,1800
+2021-01-27,ES-RI,ES23,La Rioja,Pfizer/BioNTech,14105
+2021-01-27,ES-RI,ES23,La Rioja,Moderna,200
+2021-01-27,ES-MD,ES30,Madrid,Pfizer/BioNTech,228075
+2021-01-27,ES-MD,ES30,Madrid,Moderna,4700
+2021-01-27,ES-MC,ES62,Murcia,Pfizer/BioNTech,59225
+2021-01-27,ES-MC,ES62,Murcia,Moderna,1200
+2021-01-27,ES-NC,ES22,Navarra,Pfizer/BioNTech,27645
+2021-01-27,ES-NC,ES22,Navarra,Moderna,500
+2021-01-27,ES-PV,ES21,País Vasco,Pfizer/BioNTech,74700
+2021-01-27,ES-PV,ES21,País Vasco,Moderna,1400
+2021-01-27,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1980
+2021-01-27,ES-CE,ES63,Ceuta,Moderna,200
+2021-01-27,ES-ML,ES64,Melilla,Pfizer/BioNTech,1980
+2021-01-27,ES-ML,ES64,Melilla,Moderna,200
+2021-01-28,ES-AN,ES61,Andalucía,Pfizer/BioNTech,324180
+2021-01-28,ES-AN,ES61,Andalucía,Moderna,6800
+2021-01-28,ES-AR,ES24,Aragón,Pfizer/BioNTech,55305
+2021-01-28,ES-AR,ES24,Aragón,Moderna,1200
+2021-01-28,ES-AS,ES12,Asturias,Pfizer/BioNTech,58235
+2021-01-28,ES-AS,ES12,Asturias,Moderna,1200
+2021-01-28,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,29610
+2021-01-28,ES-IB,ES53,Islas Baleares,Moderna,600
+2021-01-28,ES-CN,ES70,Canarias,Pfizer/BioNTech,64320
+2021-01-28,ES-CN,ES70,Canarias,Moderna,1300
+2021-01-28,ES-CB,ES13,Cantabria,Pfizer/BioNTech,27645
+2021-01-28,ES-CB,ES13,Cantabria,Moderna,500
+2021-01-28,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,121395
+2021-01-28,ES-CL,ES41,Castilla y León,Moderna,2500
+2021-01-28,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,82935
+2021-01-28,ES-CM,ES42,Castilla-La Mancha,Moderna,1700
+2021-01-28,ES-CT,ES51,Cataluña,Pfizer/BioNTech,280250
+2021-01-28,ES-CT,ES51,Cataluña,Moderna,5800
+2021-01-28,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,142930
+2021-01-28,ES-VC,ES52,Comunidad Valenciana,Moderna,2900
+2021-01-28,ES-EX,ES43,Extremadura,Pfizer/BioNTech,50975
+2021-01-28,ES-EX,ES43,Extremadura,Moderna,1000
+2021-01-28,ES-GA,ES11,Galicia,Pfizer/BioNTech,87865
+2021-01-28,ES-GA,ES11,Galicia,Moderna,1800
+2021-01-28,ES-RI,ES23,La Rioja,Pfizer/BioNTech,14105
+2021-01-28,ES-RI,ES23,La Rioja,Moderna,200
+2021-01-28,ES-MD,ES30,Madrid,Pfizer/BioNTech,228075
+2021-01-28,ES-MD,ES30,Madrid,Moderna,4700
+2021-01-28,ES-MC,ES62,Murcia,Pfizer/BioNTech,59225
+2021-01-28,ES-MC,ES62,Murcia,Moderna,1200
+2021-01-28,ES-NC,ES22,Navarra,Pfizer/BioNTech,27645
+2021-01-28,ES-NC,ES22,Navarra,Moderna,500
+2021-01-28,ES-PV,ES21,País Vasco,Pfizer/BioNTech,74700
+2021-01-28,ES-PV,ES21,País Vasco,Moderna,1400
+2021-01-28,ES-CE,ES63,Ceuta,Pfizer/BioNTech,1980
+2021-01-28,ES-CE,ES63,Ceuta,Moderna,200
+2021-01-28,ES-ML,ES64,Melilla,Pfizer/BioNTech,1980
+2021-01-28,ES-ML,ES64,Melilla,Moderna,200

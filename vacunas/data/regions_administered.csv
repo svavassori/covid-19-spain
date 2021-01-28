@@ -1,0 +1,324 @@
+date,iso_code,nuts2,name,supplier,administered
+2021-01-05,ES-AN,ES61,Andalucía,Pfizer/BioNTech,40263
+2021-01-05,ES-AR,ES24,Aragón,Pfizer/BioNTech,2985
+2021-01-05,ES-AS,ES12,Asturias,Pfizer/BioNTech,12929
+2021-01-05,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,2656
+2021-01-05,ES-CN,ES70,Canarias,Pfizer/BioNTech,5857
+2021-01-05,ES-CB,ES13,Cantabria,Pfizer/BioNTech,601
+2021-01-05,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,16430
+2021-01-05,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,4092
+2021-01-05,ES-CT,ES51,Cataluña,Pfizer/BioNTech,11191
+2021-01-05,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,8586
+2021-01-05,ES-EX,ES43,Extremadura,Pfizer/BioNTech,1806
+2021-01-05,ES-GA,ES11,Galicia,Pfizer/BioNTech,12012
+2021-01-05,ES-RI,ES23,La Rioja,Pfizer/BioNTech,585
+2021-01-05,ES-MD,ES30,Madrid,Pfizer/BioNTech,5335
+2021-01-05,ES-MC,ES62,Murcia,Pfizer/BioNTech,4949
+2021-01-05,ES-NC,ES22,Navarra,Pfizer/BioNTech,2651
+2021-01-05,ES-PV,ES21,País Vasco,Pfizer/BioNTech,5553
+2021-01-05,ES-CE,ES63,Ceuta,Pfizer/BioNTech,517
+2021-01-05,ES-ML,ES64,Melilla,Pfizer/BioNTech,341
+2021-01-07,ES-AN,ES61,Andalucía,Pfizer/BioNTech,53934
+2021-01-07,ES-AR,ES24,Aragón,Pfizer/BioNTech,6186
+2021-01-07,ES-AS,ES12,Asturias,Pfizer/BioNTech,14406
+2021-01-07,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,3190
+2021-01-07,ES-CN,ES70,Canarias,Pfizer/BioNTech,7330
+2021-01-07,ES-CB,ES13,Cantabria,Pfizer/BioNTech,1564
+2021-01-07,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,22103
+2021-01-07,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,7666
+2021-01-07,ES-CT,ES51,Cataluña,Pfizer/BioNTech,24515
+2021-01-07,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,11677
+2021-01-07,ES-EX,ES43,Extremadura,Pfizer/BioNTech,3309
+2021-01-07,ES-GA,ES11,Galicia,Pfizer/BioNTech,20265
+2021-01-07,ES-RI,ES23,La Rioja,Pfizer/BioNTech,858
+2021-01-07,ES-MD,ES30,Madrid,Pfizer/BioNTech,11337
+2021-01-07,ES-MC,ES62,Murcia,Pfizer/BioNTech,7287
+2021-01-07,ES-NC,ES22,Navarra,Pfizer/BioNTech,2960
+2021-01-07,ES-PV,ES21,País Vasco,Pfizer/BioNTech,7734
+2021-01-07,ES-CE,ES63,Ceuta,Pfizer/BioNTech,576
+2021-01-07,ES-ML,ES64,Melilla,Pfizer/BioNTech,426
+2021-01-08,ES-AN,ES61,Andalucía,Pfizer/BioNTech,69445
+2021-01-08,ES-AR,ES24,Aragón,Pfizer/BioNTech,9944
+2021-01-08,ES-AS,ES12,Asturias,Pfizer/BioNTech,17843
+2021-01-08,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,4257
+2021-01-08,ES-CN,ES70,Canarias,Pfizer/BioNTech,9572
+2021-01-08,ES-CB,ES13,Cantabria,Pfizer/BioNTech,2334
+2021-01-08,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,28325
+2021-01-08,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,12380
+2021-01-08,ES-CT,ES51,Cataluña,Pfizer/BioNTech,38826
+2021-01-08,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,15965
+2021-01-08,ES-EX,ES43,Extremadura,Pfizer/BioNTech,4727
+2021-01-08,ES-GA,ES11,Galicia,Pfizer/BioNTech,24750
+2021-01-08,ES-RI,ES23,La Rioja,Pfizer/BioNTech,1674
+2021-01-08,ES-MD,ES30,Madrid,Pfizer/BioNTech,14152
+2021-01-08,ES-MC,ES62,Murcia,Pfizer/BioNTech,8958
+2021-01-08,ES-NC,ES22,Navarra,Pfizer/BioNTech,3703
+2021-01-08,ES-PV,ES21,País Vasco,Pfizer/BioNTech,9811
+2021-01-08,ES-CE,ES63,Ceuta,Pfizer/BioNTech,637
+2021-01-08,ES-ML,ES64,Melilla,Pfizer/BioNTech,673
+2021-01-11,ES-AN,ES61,Andalucía,Pfizer/BioNTech,81387
+2021-01-11,ES-AR,ES24,Aragón,Pfizer/BioNTech,10998
+2021-01-11,ES-AS,ES12,Asturias,Pfizer/BioNTech,18943
+2021-01-11,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,4652
+2021-01-11,ES-CN,ES70,Canarias,Pfizer/BioNTech,13607
+2021-01-11,ES-CB,ES13,Cantabria,Pfizer/BioNTech,8474
+2021-01-11,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,36205
+2021-01-11,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,19209
+2021-01-11,ES-CT,ES51,Cataluña,Pfizer/BioNTech,68405
+2021-01-11,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,45674
+2021-01-11,ES-EX,ES43,Extremadura,Pfizer/BioNTech,9303
+2021-01-11,ES-GA,ES11,Galicia,Pfizer/BioNTech,30418
+2021-01-11,ES-RI,ES23,La Rioja,Pfizer/BioNTech,3457
+2021-01-11,ES-MD,ES30,Madrid,Pfizer/BioNTech,24897
+2021-01-11,ES-MC,ES62,Murcia,Pfizer/BioNTech,10361
+2021-01-11,ES-NC,ES22,Navarra,Pfizer/BioNTech,5468
+2021-01-11,ES-PV,ES21,País Vasco,Pfizer/BioNTech,13103
+2021-01-11,ES-CE,ES63,Ceuta,Pfizer/BioNTech,698
+2021-01-11,ES-ML,ES64,Melilla,Pfizer/BioNTech,832
+2021-01-12,ES-AN,ES61,Andalucía,Pfizer/BioNTech,94879
+2021-01-12,ES-AR,ES24,Aragón,Pfizer/BioNTech,11983
+2021-01-12,ES-AS,ES12,Asturias,Pfizer/BioNTech,22428
+2021-01-12,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,4835
+2021-01-12,ES-CN,ES70,Canarias,Pfizer/BioNTech,15328
+2021-01-12,ES-CB,ES13,Cantabria,Pfizer/BioNTech,9527
+2021-01-12,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,41340
+2021-01-12,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,23342
+2021-01-12,ES-CT,ES51,Cataluña,Pfizer/BioNTech,82785
+2021-01-12,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,57223
+2021-01-12,ES-EX,ES43,Extremadura,Pfizer/BioNTech,11346
+2021-01-12,ES-GA,ES11,Galicia,Pfizer/BioNTech,33346
+2021-01-12,ES-RI,ES23,La Rioja,Pfizer/BioNTech,3826
+2021-01-12,ES-MD,ES30,Madrid,Pfizer/BioNTech,35949
+2021-01-12,ES-MC,ES62,Murcia,Pfizer/BioNTech,16191
+2021-01-12,ES-NC,ES22,Navarra,Pfizer/BioNTech,6557
+2021-01-12,ES-PV,ES21,País Vasco,Pfizer/BioNTech,15393
+2021-01-12,ES-CE,ES63,Ceuta,Pfizer/BioNTech,758
+2021-01-12,ES-ML,ES64,Melilla,Pfizer/BioNTech,1005
+2021-01-13,ES-AN,ES61,Andalucía,Pfizer/BioNTech,109831
+2021-01-13,ES-AR,ES24,Aragón,Pfizer/BioNTech,17043
+2021-01-13,ES-AS,ES12,Asturias,Pfizer/BioNTech,25278
+2021-01-13,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,4931
+2021-01-13,ES-CN,ES70,Canarias,Pfizer/BioNTech,22290
+2021-01-13,ES-CB,ES13,Cantabria,Pfizer/BioNTech,11302
+2021-01-13,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,48243
+2021-01-13,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,26879
+2021-01-13,ES-CT,ES51,Cataluña,Pfizer/BioNTech,92133
+2021-01-13,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,70870
+2021-01-13,ES-EX,ES43,Extremadura,Pfizer/BioNTech,14293
+2021-01-13,ES-GA,ES11,Galicia,Pfizer/BioNTech,37745
+2021-01-13,ES-RI,ES23,La Rioja,Pfizer/BioNTech,4651
+2021-01-13,ES-MD,ES30,Madrid,Pfizer/BioNTech,49228
+2021-01-13,ES-MC,ES62,Murcia,Pfizer/BioNTech,19905
+2021-01-13,ES-NC,ES22,Navarra,Pfizer/BioNTech,7420
+2021-01-13,ES-PV,ES21,País Vasco,Pfizer/BioNTech,17771
+2021-01-13,ES-CE,ES63,Ceuta,Pfizer/BioNTech,820
+2021-01-13,ES-ML,ES64,Melilla,Pfizer/BioNTech,1005
+2021-01-14,ES-AN,ES61,Andalucía,Unknown,123459
+2021-01-14,ES-AR,ES24,Aragón,Unknown,20854
+2021-01-14,ES-AS,ES12,Asturias,Unknown,29074
+2021-01-14,ES-IB,ES53,Islas Baleares,Unknown,7552
+2021-01-14,ES-CN,ES70,Canarias,Unknown,25159
+2021-01-14,ES-CB,ES13,Cantabria,Unknown,12779
+2021-01-14,ES-CL,ES41,Castilla y León,Unknown,57969
+2021-01-14,ES-CM,ES42,Castilla-La Mancha,Unknown,30613
+2021-01-14,ES-CT,ES51,Cataluña,Unknown,105587
+2021-01-14,ES-VC,ES52,Comunidad Valenciana,Unknown,80429
+2021-01-14,ES-EX,ES43,Extremadura,Unknown,17862
+2021-01-14,ES-GA,ES11,Galicia,Unknown,44014
+2021-01-14,ES-RI,ES23,La Rioja,Unknown,5385
+2021-01-14,ES-MD,ES30,Madrid,Unknown,63385
+2021-01-14,ES-MC,ES62,Murcia,Unknown,21739
+2021-01-14,ES-NC,ES22,Navarra,Unknown,8314
+2021-01-14,ES-PV,ES21,País Vasco,Unknown,20003
+2021-01-14,ES-CE,ES63,Ceuta,Unknown,911
+2021-01-14,ES-ML,ES64,Melilla,Unknown,1098
+2021-01-15,ES-AN,ES61,Andalucía,Unknown,139718
+2021-01-15,ES-AR,ES24,Aragón,Unknown,23619
+2021-01-15,ES-AS,ES12,Asturias,Unknown,31247
+2021-01-15,ES-IB,ES53,Islas Baleares,Unknown,9366
+2021-01-15,ES-CN,ES70,Canarias,Unknown,30732
+2021-01-15,ES-CB,ES13,Cantabria,Unknown,14639
+2021-01-15,ES-CL,ES41,Castilla y León,Unknown,59411
+2021-01-15,ES-CM,ES42,Castilla-La Mancha,Unknown,33809
+2021-01-15,ES-CT,ES51,Cataluña,Unknown,122577
+2021-01-15,ES-VC,ES52,Comunidad Valenciana,Unknown,86927
+2021-01-15,ES-EX,ES43,Extremadura,Unknown,22322
+2021-01-15,ES-GA,ES11,Galicia,Unknown,49768
+2021-01-15,ES-RI,ES23,La Rioja,Unknown,5953
+2021-01-15,ES-MD,ES30,Madrid,Unknown,77921
+2021-01-15,ES-MC,ES62,Murcia,Unknown,27001
+2021-01-15,ES-NC,ES22,Navarra,Unknown,9305
+2021-01-15,ES-PV,ES21,País Vasco,Unknown,22464
+2021-01-15,ES-CE,ES63,Ceuta,Unknown,941
+2021-01-15,ES-ML,ES64,Melilla,Unknown,1230
+2021-01-18,ES-AN,ES61,Andalucía,Unknown,151404
+2021-01-18,ES-AR,ES24,Aragón,Unknown,25133
+2021-01-18,ES-AS,ES12,Asturias,Unknown,33572
+2021-01-18,ES-IB,ES53,Islas Baleares,Unknown,13750
+2021-01-18,ES-CN,ES70,Canarias,Unknown,42113
+2021-01-18,ES-CB,ES13,Cantabria,Unknown,17724
+2021-01-18,ES-CL,ES41,Castilla y León,Unknown,67079
+2021-01-18,ES-CM,ES42,Castilla-La Mancha,Unknown,38321
+2021-01-18,ES-CT,ES51,Cataluña,Unknown,145073
+2021-01-18,ES-VC,ES52,Comunidad Valenciana,Unknown,93695
+2021-01-18,ES-EX,ES43,Extremadura,Unknown,27613
+2021-01-18,ES-GA,ES11,Galicia,Unknown,56481
+2021-01-18,ES-RI,ES23,La Rioja,Unknown,7761
+2021-01-18,ES-MD,ES30,Madrid,Unknown,104490
+2021-01-18,ES-MC,ES62,Murcia,Unknown,34103
+2021-01-18,ES-NC,ES22,Navarra,Unknown,11834
+2021-01-18,ES-PV,ES21,País Vasco,Unknown,25526
+2021-01-18,ES-CE,ES63,Ceuta,Unknown,981
+2021-01-18,ES-ML,ES64,Melilla,Unknown,1289
+2021-01-19,ES-AN,ES61,Andalucía,Unknown,164820
+2021-01-19,ES-AR,ES24,Aragón,Unknown,28316
+2021-01-19,ES-AS,ES12,Asturias,Unknown,34293
+2021-01-19,ES-IB,ES53,Islas Baleares,Unknown,14658
+2021-01-19,ES-CN,ES70,Canarias,Unknown,43209
+2021-01-19,ES-CB,ES13,Cantabria,Unknown,18967
+2021-01-19,ES-CL,ES41,Castilla y León,Unknown,70885
+2021-01-19,ES-CM,ES42,Castilla-La Mancha,Unknown,43682
+2021-01-19,ES-CT,ES51,Cataluña,Unknown,156627
+2021-01-19,ES-VC,ES52,Comunidad Valenciana,Unknown,95260
+2021-01-19,ES-EX,ES43,Extremadura,Unknown,29125
+2021-01-19,ES-GA,ES11,Galicia,Unknown,57871
+2021-01-19,ES-RI,ES23,La Rioja,Unknown,8049
+2021-01-19,ES-MD,ES30,Madrid,Unknown,120168
+2021-01-19,ES-MC,ES62,Murcia,Unknown,36730
+2021-01-19,ES-NC,ES22,Navarra,Unknown,12991
+2021-01-19,ES-PV,ES21,País Vasco,Unknown,28069
+2021-01-19,ES-CE,ES63,Ceuta,Unknown,1080
+2021-01-19,ES-ML,ES64,Melilla,Unknown,1297
+2021-01-20,ES-AN,ES61,Andalucía,Unknown,174279
+2021-01-20,ES-AR,ES24,Aragón,Unknown,33734
+2021-01-20,ES-AS,ES12,Asturias,Unknown,36054
+2021-01-20,ES-IB,ES53,Islas Baleares,Unknown,15697
+2021-01-20,ES-CN,ES70,Canarias,Unknown,43599
+2021-01-20,ES-CB,ES13,Cantabria,Unknown,19473
+2021-01-20,ES-CL,ES41,Castilla y León,Unknown,74350
+2021-01-20,ES-CM,ES42,Castilla-La Mancha,Unknown,48755
+2021-01-20,ES-CT,ES51,Cataluña,Unknown,162830
+2021-01-20,ES-VC,ES52,Comunidad Valenciana,Unknown,99932
+2021-01-20,ES-EX,ES43,Extremadura,Unknown,30941
+2021-01-20,ES-GA,ES11,Galicia,Unknown,59104
+2021-01-20,ES-RI,ES23,La Rioja,Unknown,8335
+2021-01-20,ES-MD,ES30,Madrid,Unknown,129194
+2021-01-20,ES-MC,ES62,Murcia,Unknown,39142
+2021-01-20,ES-NC,ES22,Navarra,Unknown,14559
+2021-01-20,ES-PV,ES21,País Vasco,Unknown,33523
+2021-01-20,ES-CE,ES63,Ceuta,Unknown,1110
+2021-01-20,ES-ML,ES64,Melilla,Unknown,1326
+2021-01-21,ES-AN,ES61,Andalucía,Unknown,194101
+2021-01-21,ES-AR,ES24,Aragón,Unknown,38170
+2021-01-21,ES-AS,ES12,Asturias,Unknown,40011
+2021-01-21,ES-IB,ES53,Islas Baleares,Unknown,18105
+2021-01-21,ES-CN,ES70,Canarias,Unknown,45482
+2021-01-21,ES-CB,ES13,Cantabria,Unknown,19980
+2021-01-21,ES-CL,ES41,Castilla y León,Unknown,82162
+2021-01-21,ES-CM,ES42,Castilla-La Mancha,Unknown,53880
+2021-01-21,ES-CT,ES51,Cataluña,Unknown,168054
+2021-01-21,ES-VC,ES52,Comunidad Valenciana,Unknown,101437
+2021-01-21,ES-EX,ES43,Extremadura,Unknown,32039
+2021-01-21,ES-GA,ES11,Galicia,Unknown,62011
+2021-01-21,ES-RI,ES23,La Rioja,Unknown,8684
+2021-01-21,ES-MD,ES30,Madrid,Unknown,142765
+2021-01-21,ES-MC,ES62,Murcia,Unknown,40757
+2021-01-21,ES-NC,ES22,Navarra,Unknown,15754
+2021-01-21,ES-PV,ES21,País Vasco,Unknown,36864
+2021-01-21,ES-CE,ES63,Ceuta,Unknown,1545
+2021-01-21,ES-ML,ES64,Melilla,Unknown,1500
+2021-01-22,ES-AN,ES61,Andalucía,Unknown,209766
+2021-01-22,ES-AR,ES24,Aragón,Unknown,41287
+2021-01-22,ES-AS,ES12,Asturias,Unknown,41465
+2021-01-22,ES-IB,ES53,Islas Baleares,Unknown,20499
+2021-01-22,ES-CN,ES70,Canarias,Unknown,47068
+2021-01-22,ES-CB,ES13,Cantabria,Unknown,20462
+2021-01-22,ES-CL,ES41,Castilla y León,Unknown,86370
+2021-01-22,ES-CM,ES42,Castilla-La Mancha,Unknown,57031
+2021-01-22,ES-CT,ES51,Cataluña,Unknown,173147
+2021-01-22,ES-VC,ES52,Comunidad Valenciana,Unknown,103426
+2021-01-22,ES-EX,ES43,Extremadura,Unknown,32979
+2021-01-22,ES-GA,ES11,Galicia,Unknown,65394
+2021-01-22,ES-RI,ES23,La Rioja,Unknown,8967
+2021-01-22,ES-MD,ES30,Madrid,Unknown,154778
+2021-01-22,ES-MC,ES62,Murcia,Unknown,42261
+2021-01-22,ES-NC,ES22,Navarra,Unknown,16310
+2021-01-22,ES-PV,ES21,País Vasco,Unknown,41474
+2021-01-22,ES-CE,ES63,Ceuta,Unknown,1641
+2021-01-22,ES-ML,ES64,Melilla,Unknown,1500
+2021-01-25,ES-AN,ES61,Andalucía,Unknown,226309
+2021-01-25,ES-AR,ES24,Aragón,Unknown,42539
+2021-01-25,ES-AS,ES12,Asturias,Unknown,43926
+2021-01-25,ES-IB,ES53,Islas Baleares,Unknown,22083
+2021-01-25,ES-CN,ES70,Canarias,Unknown,50110
+2021-01-25,ES-CB,ES13,Cantabria,Unknown,20463
+2021-01-25,ES-CL,ES41,Castilla y León,Unknown,94057
+2021-01-25,ES-CM,ES42,Castilla-La Mancha,Unknown,61388
+2021-01-25,ES-CT,ES51,Cataluña,Unknown,184778
+2021-01-25,ES-VC,ES52,Comunidad Valenciana,Unknown,104449
+2021-01-25,ES-EX,ES43,Extremadura,Unknown,33125
+2021-01-25,ES-GA,ES11,Galicia,Unknown,66873
+2021-01-25,ES-RI,ES23,La Rioja,Unknown,9166
+2021-01-25,ES-MD,ES30,Madrid,Unknown,165514
+2021-01-25,ES-MC,ES62,Murcia,Unknown,46444
+2021-01-25,ES-NC,ES22,Navarra,Unknown,17053
+2021-01-25,ES-PV,ES21,País Vasco,Unknown,46124
+2021-01-25,ES-CE,ES63,Ceuta,Unknown,1692
+2021-01-25,ES-ML,ES64,Melilla,Unknown,1500
+2021-01-26,ES-AN,ES61,Andalucía,Unknown,251172
+2021-01-26,ES-AR,ES24,Aragón,Unknown,43531
+2021-01-26,ES-AS,ES12,Asturias,Unknown,44087
+2021-01-26,ES-IB,ES53,Islas Baleares,Unknown,22372
+2021-01-26,ES-CN,ES70,Canarias,Unknown,52768
+2021-01-26,ES-CB,ES13,Cantabria,Unknown,20743
+2021-01-26,ES-CL,ES41,Castilla y León,Unknown,99536
+2021-01-26,ES-CM,ES42,Castilla-La Mancha,Unknown,64349
+2021-01-26,ES-CT,ES51,Cataluña,Unknown,182713
+2021-01-26,ES-VC,ES52,Comunidad Valenciana,Unknown,105490
+2021-01-26,ES-EX,ES43,Extremadura,Unknown,35441
+2021-01-26,ES-GA,ES11,Galicia,Unknown,70384
+2021-01-26,ES-RI,ES23,La Rioja,Unknown,9387
+2021-01-26,ES-MD,ES30,Madrid,Unknown,169501
+2021-01-26,ES-MC,ES62,Murcia,Unknown,48652
+2021-01-26,ES-NC,ES22,Navarra,Unknown,18703
+2021-01-26,ES-PV,ES21,País Vasco,Unknown,48927
+2021-01-26,ES-CE,ES63,Ceuta,Unknown,1829
+2021-01-26,ES-ML,ES64,Melilla,Unknown,1631
+2021-01-27,ES-AN,ES61,Andalucía,Unknown,257976
+2021-01-27,ES-AR,ES24,Aragón,Unknown,47835
+2021-01-27,ES-AS,ES12,Asturias,Unknown,49077
+2021-01-27,ES-IB,ES53,Islas Baleares,Unknown,23603
+2021-01-27,ES-CN,ES70,Canarias,Unknown,54653
+2021-01-27,ES-CB,ES13,Cantabria,Unknown,20910
+2021-01-27,ES-CL,ES41,Castilla y León,Unknown,104197
+2021-01-27,ES-CM,ES42,Castilla-La Mancha,Unknown,68522
+2021-01-27,ES-CT,ES51,Cataluña,Unknown,201650
+2021-01-27,ES-VC,ES52,Comunidad Valenciana,Unknown,108454
+2021-01-27,ES-EX,ES43,Extremadura,Unknown,37790
+2021-01-27,ES-GA,ES11,Galicia,Unknown,72676
+2021-01-27,ES-RI,ES23,La Rioja,Unknown,9618
+2021-01-27,ES-MD,ES30,Madrid,Unknown,174094
+2021-01-27,ES-MC,ES62,Murcia,Unknown,50957
+2021-01-27,ES-NC,ES22,Navarra,Unknown,20057
+2021-01-27,ES-PV,ES21,País Vasco,Unknown,50850
+2021-01-27,ES-CE,ES63,Ceuta,Unknown,1829
+2021-01-27,ES-ML,ES64,Melilla,Unknown,1713
+2021-01-28,ES-AN,ES61,Andalucía,Unknown,265620
+2021-01-28,ES-AR,ES24,Aragón,Unknown,49453
+2021-01-28,ES-AS,ES12,Asturias,Unknown,49857
+2021-01-28,ES-IB,ES53,Islas Baleares,Unknown,23540
+2021-01-28,ES-CN,ES70,Canarias,Unknown,56385
+2021-01-28,ES-CB,ES13,Cantabria,Unknown,21469
+2021-01-28,ES-CL,ES41,Castilla y León,Unknown,108203
+2021-01-28,ES-CM,ES42,Castilla-La Mancha,Unknown,71484
+2021-01-28,ES-CT,ES51,Cataluña,Unknown,208177
+2021-01-28,ES-VC,ES52,Comunidad Valenciana,Unknown,109716
+2021-01-28,ES-EX,ES43,Extremadura,Unknown,39821
+2021-01-28,ES-GA,ES11,Galicia,Unknown,74278
+2021-01-28,ES-RI,ES23,La Rioja,Unknown,10283
+2021-01-28,ES-MD,ES30,Madrid,Unknown,177972
+2021-01-28,ES-MC,ES62,Murcia,Unknown,53447
+2021-01-28,ES-NC,ES22,Navarra,Unknown,21007
+2021-01-28,ES-PV,ES21,País Vasco,Unknown,51436
+2021-01-28,ES-CE,ES63,Ceuta,Unknown,1757
+2021-01-28,ES-ML,ES64,Melilla,Unknown,1713
