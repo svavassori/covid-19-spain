@@ -5,6 +5,12 @@ OPTS="--no-verbose --timestamping --directory-prefix=informes"
 URL="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/"
 wget ${OPTS} "${URL}${FILE_PDF}"
 
+if [ $? -eq 8 ]
+then
+    # server returned an error
+    exit 0
+fi
+
 # extract PDF modifcation date
 DATE=$(date +%F --date=$(pdfinfo -isodates informes/${FILE_PDF} | awk '/ModDate:/ { print $2}'))
 
