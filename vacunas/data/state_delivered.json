@@ -286,5 +286,21 @@
     "name": "España",
     "supplier": "Pfizer/BioNTech",
     "delivered": 2131155
+  },
+  {
+    "date": "2021-02-04",
+    "iso_code": "ES",
+    "nuts1": "ES",
+    "name": "España",
+    "supplier": "Moderna",
+    "delivered": 87600
+  },
+  {
+    "date": "2021-02-04",
+    "iso_code": "ES",
+    "nuts1": "ES",
+    "name": "España",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 2131155
   }
 ]
