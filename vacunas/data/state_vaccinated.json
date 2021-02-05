@@ -110,5 +110,13 @@
     "name": "España",
     "supplier": "Pfizer/BioNTech",
     "vaccinated": 586122
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES",
+    "nuts1": "ES",
+    "name": "España",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 682909
   }
 ]

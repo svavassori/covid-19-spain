@@ -2126,5 +2126,157 @@
     "name": "Melilla",
     "supplier": "Pfizer/BioNTech",
     "vaccinated": 1067
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-AN",
+    "nuts2": "ES61",
+    "name": "Andalucía",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 131693
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-AR",
+    "nuts2": "ES24",
+    "name": "Aragón",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 23488
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-AS",
+    "nuts2": "ES12",
+    "name": "Asturias",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 28740
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-IB",
+    "nuts2": "ES53",
+    "name": "Islas Baleares",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 9922
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-CN",
+    "nuts2": "ES70",
+    "name": "Canarias",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 24049
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-CB",
+    "nuts2": "ES13",
+    "name": "Cantabria",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 8806
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-CL",
+    "nuts2": "ES41",
+    "name": "Castilla y León",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 56665
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-CM",
+    "nuts2": "ES42",
+    "name": "Castilla-La Mancha",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 30345
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-CT",
+    "nuts2": "ES51",
+    "name": "Cataluña",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 107877
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-VC",
+    "nuts2": "ES52",
+    "name": "Comunidad Valenciana",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 75577
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-EX",
+    "nuts2": "ES43",
+    "name": "Extremadura",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 21662
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-GA",
+    "nuts2": "ES11",
+    "name": "Galicia",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 37720
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-RI",
+    "nuts2": "ES23",
+    "name": "La Rioja",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 6521
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-MD",
+    "nuts2": "ES30",
+    "name": "Madrid",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 67334
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-MC",
+    "nuts2": "ES62",
+    "name": "Murcia",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 20388
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-NC",
+    "nuts2": "ES22",
+    "name": "Navarra",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 9016
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-PV",
+    "nuts2": "ES21",
+    "name": "País Vasco",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 21112
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-CE",
+    "nuts2": "ES63",
+    "name": "Ceuta",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 921
+  },
+  {
+    "date": "2021-02-05",
+    "iso_code": "ES-ML",
+    "nuts2": "ES64",
+    "name": "Melilla",
+    "supplier": "Pfizer/BioNTech",
+    "vaccinated": 1073
   }
 ]
