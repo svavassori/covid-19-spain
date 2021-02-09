@@ -26,16 +26,17 @@ def create_json(date, lines, output_dir):
     delivered = []
     vaccinated = []
     suppliers = [(1, "Pfizer/BioNTech"),
-                 (2, "Moderna")]
+                 (2, "Moderna"),
+                 (3, "AstraZeneca/Oxford")]
     csv_reader = csv.reader(lines)
     data = Data()
     data.load_iso_codes()
     for row in csv_reader:
         element = data.new_element(date, row[0])
-        element["administered"] = int(row[3])
+        element["administered"] = int(row[-2])
         administered.append(element)
         element = data.new_element(date, row[0])
-        element["vaccinated"] = int(row[4])
+        element["vaccinated"] = int(row[-1])
         element["supplier"] = suppliers[0][1]
         vaccinated.append(element)
         for column, supplier in suppliers:

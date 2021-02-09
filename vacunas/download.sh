@@ -14,8 +14,12 @@ fi
 # extract PDF modifcation date
 DATE=$(date +%F --date=$(pdfinfo -isodates informes/${FILE_PDF} | awk '/ModDate:/ { print $2}'))
 
-# extract data only for CC.AA. list, should be 6 columns:
-# CC.AA. name | delivered Pfizer | delivered Moderna | total delivered | administered | vaccinated
+# extract data only for CC.AA. list, should be 7 columns:
+#
+# CC.AA. name |
+# delivered Pfizer | delivered Moderna | delivered AstraZeneca |
+# total delivered | administered | vaccinated
+#
 # change separator from space to ',' to help identify columns
 # removes dot (thousands) from numbers
 # change ',' to '.' from percent
@@ -31,7 +35,7 @@ java -jar tika-app-1.25.jar --text "informes/${FILE_PDF}" \
           -e 's/Leon/León/g' \
           -e 's/Castilla La Mancha/Castilla-La Mancha/g' \
           -e 's/C. Valenciana/Comunidad Valenciana/g' \
-    | awk -F ',' '{ print $1","$2","$3","$5","$7}' \
+    | awk -F ',' '{ print $1","$2","$3","$4","$6","$8}' \
     | python3 to_json.py ${DATE} - data/
 
 # merge daily with cumulative ones
