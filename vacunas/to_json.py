@@ -37,7 +37,6 @@ def create_json(date, lines, output_dir):
         administered.append(element)
         element = data.new_element(date, row[0])
         element["vaccinated"] = int(row[-1])
-        element["supplier"] = suppliers[0][1]
         vaccinated.append(element)
         for column, supplier in suppliers:
             element = data.new_element(date, row[0])
