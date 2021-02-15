@@ -158,5 +158,13 @@
     "name": "España",
     "supplier": "Unknown",
     "vaccinated": 1000485
+  },
+  {
+    "date": "2021-02-15",
+    "iso_code": "ES",
+    "nuts1": "ES",
+    "name": "España",
+    "supplier": "Unknown",
+    "vaccinated": 1070091
   }
 ]
