@@ -10030,5 +10030,461 @@
     "name": "Melilla",
     "supplier": "AstraZeneca/Oxford",
     "delivered": 800
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-AN",
+    "nuts2": "ES61",
+    "name": "Andalucía",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 568710
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-AN",
+    "nuts2": "ES61",
+    "name": "Andalucía",
+    "supplier": "Moderna",
+    "delivered": 36300
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-AN",
+    "nuts2": "ES61",
+    "name": "Andalucía",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 74500
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-AR",
+    "nuts2": "ES24",
+    "name": "Aragón",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 96255
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-AR",
+    "nuts2": "ES24",
+    "name": "Aragón",
+    "supplier": "Moderna",
+    "delivered": 6300
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-AR",
+    "nuts2": "ES24",
+    "name": "Aragón",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 11700
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-AS",
+    "nuts2": "ES12",
+    "name": "Asturias",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 98015
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-AS",
+    "nuts2": "ES12",
+    "name": "Asturias",
+    "supplier": "Moderna",
+    "delivered": 6300
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-AS",
+    "nuts2": "ES12",
+    "name": "Asturias",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 9000
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-IB",
+    "nuts2": "ES53",
+    "name": "Islas Baleares",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 49500
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-IB",
+    "nuts2": "ES53",
+    "name": "Islas Baleares",
+    "supplier": "Moderna",
+    "delivered": 3200
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-IB",
+    "nuts2": "ES53",
+    "name": "Islas Baleares",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 10300
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CN",
+    "nuts2": "ES70",
+    "name": "Canarias",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 111120
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CN",
+    "nuts2": "ES70",
+    "name": "Canarias",
+    "supplier": "Moderna",
+    "delivered": 7000
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CN",
+    "nuts2": "ES70",
+    "name": "Canarias",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 19200
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CB",
+    "nuts2": "ES13",
+    "name": "Cantabria",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 47535
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CB",
+    "nuts2": "ES13",
+    "name": "Cantabria",
+    "supplier": "Moderna",
+    "delivered": 2900
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CB",
+    "nuts2": "ES13",
+    "name": "Cantabria",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 5100
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CL",
+    "nuts2": "ES41",
+    "name": "Castilla y León",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 211485
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CL",
+    "nuts2": "ES41",
+    "name": "Castilla y León",
+    "supplier": "Moderna",
+    "delivered": 13500
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CL",
+    "nuts2": "ES41",
+    "name": "Castilla y León",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 21100
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CM",
+    "nuts2": "ES42",
+    "name": "Castilla-La Mancha",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 143775
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CM",
+    "nuts2": "ES42",
+    "name": "Castilla-La Mancha",
+    "supplier": "Moderna",
+    "delivered": 9200
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CM",
+    "nuts2": "ES42",
+    "name": "Castilla-La Mancha",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 18000
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CT",
+    "nuts2": "ES51",
+    "name": "Cataluña",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 489680
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CT",
+    "nuts2": "ES51",
+    "name": "Cataluña",
+    "supplier": "Moderna",
+    "delivered": 31400
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CT",
+    "nuts2": "ES51",
+    "name": "Cataluña",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 68600
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-VC",
+    "nuts2": "ES52",
+    "name": "Comunidad Valenciana",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 247060
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-VC",
+    "nuts2": "ES52",
+    "name": "Comunidad Valenciana",
+    "supplier": "Moderna",
+    "delivered": 15700
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-VC",
+    "nuts2": "ES52",
+    "name": "Comunidad Valenciana",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 44500
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-EX",
+    "nuts2": "ES43",
+    "name": "Extremadura",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 88415
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-EX",
+    "nuts2": "ES43",
+    "name": "Extremadura",
+    "supplier": "Moderna",
+    "delivered": 5400
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-EX",
+    "nuts2": "ES43",
+    "name": "Extremadura",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 9300
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-GA",
+    "nuts2": "ES11",
+    "name": "Galicia",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 153385
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-GA",
+    "nuts2": "ES11",
+    "name": "Galicia",
+    "supplier": "Moderna",
+    "delivered": 9800
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-GA",
+    "nuts2": "ES11",
+    "name": "Galicia",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 23800
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-RI",
+    "nuts2": "ES23",
+    "name": "La Rioja",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 23465
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-RI",
+    "nuts2": "ES23",
+    "name": "La Rioja",
+    "supplier": "Moderna",
+    "delivered": 1400
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-RI",
+    "nuts2": "ES23",
+    "name": "La Rioja",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 2800
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-MD",
+    "nuts2": "ES30",
+    "name": "Madrid",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 398895
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-MD",
+    "nuts2": "ES30",
+    "name": "Madrid",
+    "supplier": "Moderna",
+    "delivered": 25400
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-MD",
+    "nuts2": "ES30",
+    "name": "Madrid",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 59800
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-MC",
+    "nuts2": "ES62",
+    "name": "Murcia",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 103685
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-MC",
+    "nuts2": "ES62",
+    "name": "Murcia",
+    "supplier": "Moderna",
+    "delivered": 6600
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-MC",
+    "nuts2": "ES62",
+    "name": "Murcia",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 13300
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-NC",
+    "nuts2": "ES22",
+    "name": "Navarra",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 46365
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-NC",
+    "nuts2": "ES22",
+    "name": "Navarra",
+    "supplier": "Moderna",
+    "delivered": 2900
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-NC",
+    "nuts2": "ES22",
+    "name": "Navarra",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 5800
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-PV",
+    "nuts2": "ES21",
+    "name": "País Vasco",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 127350
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-PV",
+    "nuts2": "ES21",
+    "name": "País Vasco",
+    "supplier": "Moderna",
+    "delivered": 7900
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-PV",
+    "nuts2": "ES21",
+    "name": "País Vasco",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 19600
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CE",
+    "nuts2": "ES63",
+    "name": "Ceuta",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 4320
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CE",
+    "nuts2": "ES63",
+    "name": "Ceuta",
+    "supplier": "Moderna",
+    "delivered": 400
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-CE",
+    "nuts2": "ES63",
+    "name": "Ceuta",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 800
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-ML",
+    "nuts2": "ES64",
+    "name": "Melilla",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 3150
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-ML",
+    "nuts2": "ES64",
+    "name": "Melilla",
+    "supplier": "Moderna",
+    "delivered": 400
+  },
+  {
+    "date": "2021-02-19",
+    "iso_code": "ES-ML",
+    "nuts2": "ES64",
+    "name": "Melilla",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 800
   }
 ]
