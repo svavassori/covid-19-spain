@@ -27,6 +27,7 @@ DATE=$(date +%F --date=$(pdfinfo -isodates informes/${FILE_PDF} | awk '/ModDate:
 java -jar tika-app-1.25.jar --text "informes/${FILE_PDF}" \
     | perl -p0e 's/Castilla La \n\nMancha\n/Castilla La Mancha /g' \
     | grep --file=pattern_ccaa \
+    | head --lines=19 \
     | sed -e 's/ \?\*//g' \
           -e 's/\([a-z0-9]\) \([0-9]\)/\1,\2/g' \
           -e 's/\([0-9]\)\.\([0-9]\)/\1\2/g' \
