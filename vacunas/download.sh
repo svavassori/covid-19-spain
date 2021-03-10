@@ -34,7 +34,7 @@ java -jar tika-app-1.25.jar --text "informes/${FILE_PDF}" \
           -e 's/\([0-9]\),\([0-9][0-9]\?%\) /\1.\2,/' \
           -e 's/Baleares/Islas Baleares/g' \
           -e 's/Leon/León/g' \
-          -e 's/Castilla La Mancha/Castilla-La Mancha/g' \
+          -e 's/Castilla \(- \)\?La Mancha/Castilla-La Mancha/g' \
           -e 's/C. Valenciana/Comunidad Valenciana/g' \
     | awk -F ',' '{ print $1","$2","$3","$4","$6","$8}' \
     | python3 to_json.py ${DATE} - data/
