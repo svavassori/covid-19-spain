@@ -29,7 +29,7 @@ java -jar tika-app-1.25.jar --text "informes/${FILE_PDF}" \
     | grep --file=pattern_ccaa \
     | head --lines=19 \
     | sed -e 's/ \?\*//g' \
-          -e 's/\([a-z0-9]\) \([0-9]\)/\1,\2/g' \
+          -e 's/\([a-z0-9]\) \+\([0-9]\)/\1,\2/g' \
           -e 's/\([0-9]\)\.\([0-9]\)/\1\2/g' \
           -e 's/\([0-9]\),\([0-9][0-9]\?%\) /\1.\2,/' \
           -e 's/Baleares/Islas Baleares/g' \
