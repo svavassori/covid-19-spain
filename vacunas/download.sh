@@ -1,9 +1,11 @@
 #!/bin/bash
 
 FILE_PDF="Informe_GIV_comunicacion_$(date +%+4Y%m%d).pdf"
+FILE_ODS="Informe_Comunicacion_$(date +%+4Y%m%d).ods"
 OPTS="--no-verbose --timestamping --directory-prefix=informes"
 URL="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/"
 wget ${OPTS} "${URL}${FILE_PDF}"
+wget ${OPTS} "${URL}${FILE_ODS}"
 
 if [ $? -eq 8 ]
 then
@@ -14,30 +16,36 @@ fi
 # extract PDF modifcation date
 DATE=$(date +%F --date=$(pdfinfo -isodates informes/${FILE_PDF} | awk '/ModDate:/ { print $2}'))
 
-# extract data only for CC.AA. list, should be 7 columns:
+# convert from ods to csv, using:
+# ; as field separator (59),
+# " as text separator (34) and
+# UTF-8 as enconding (76)
+libreoffice --convert-to csv:"Text - txt - csv (StarCalc)":59,34,76 "informes/${FILE_ODS}"
+
+# extract data only for CC.AA. list, should be 8 columns:
 #
 # CC.AA. name |
-# delivered Pfizer | delivered Moderna | delivered AstraZeneca |
+# delivered Pfizer | delivered Moderna | delivered AstraZeneca | delivered Janssen
 # total delivered | administered | vaccinated
 #
-# change separator from space to ',' to help identify columns
+# fixes CC.AA. names
+# fixes spaces before separator
 # removes dot (thousands) from numbers
 # change ',' to '.' from percent
-# fixes CC.AA. names
-java -jar tika-app-1.25.jar --text "informes/${FILE_PDF}" \
-    | perl -p0e 's/Castilla La \n\nMancha\n/Castilla La Mancha /g' \
+FILE_CSV="${FILE_ODS%.ods}.csv"
+cat "${FILE_CSV}" \
     | grep --file=pattern_ccaa \
-    | head --lines=19 \
-    | sed -e 's/ \?\*//g' \
-          -e 's/\([a-z0-9]\) \+\([0-9]\)/\1,\2/g' \
-          -e 's/\([0-9]\)\.\([0-9]\)/\1\2/g' \
-          -e 's/\([0-9]\),\([0-9][0-9]\?%\) /\1.\2,/' \
-          -e 's/Baleares/Islas Baleares/g' \
+    | sed -e 's/Baleares/Islas Baleares/g' \
           -e 's/Leon/León/g' \
           -e 's/Castilla \(- \)\?La Mancha/Castilla-La Mancha/g' \
           -e 's/C. Valenciana/Comunidad Valenciana/g' \
-    | awk -F ',' '{ print $1","$2","$3","$4","$5","$7","$10}' \
-    | python3 to_json.py ${DATE} - data/
+          -e 's/ \?\*//g' \
+          -e 's/ ;/;/g' \
+          -e 's/\.//g' \
+          -e 's/\([0-9]\),\([0-9][0-9]\?%\) /\1.\2,/' \
+    | awk -F ';' '{ print $1","$2","$3","$4","$5","$7","$10}' \
+    | python3 to_json.py ${DATE} - data/ \
+    && rm "${FILE_CSV}"
 
 # merge daily with cumulative ones
 DATA_FILES=("administered" "delivered" "vaccinated")
