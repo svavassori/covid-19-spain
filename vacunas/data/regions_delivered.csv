@@ -6079,3 +6079,79 @@ date,iso_code,nuts2,name,supplier,delivered
 2021-06-04,ES-ML,ES64,Melilla,Moderna,4300
 2021-06-04,ES-ML,ES64,Melilla,AstraZeneca/Oxford,13500
 2021-06-04,ES-ML,ES64,Melilla,Janssen,2250
+2021-06-07,ES-AN,ES61,Andalucía,Pfizer/BioNTech,3555720
+2021-06-07,ES-AN,ES61,Andalucía,Moderna,502000
+2021-06-07,ES-AN,ES61,Andalucía,AstraZeneca/Oxford,1293200
+2021-06-07,ES-AN,ES61,Andalucía,Janssen,226900
+2021-06-07,ES-AR,ES24,Aragón,Pfizer/BioNTech,668385
+2021-06-07,ES-AR,ES24,Aragón,Moderna,93100
+2021-06-07,ES-AR,ES24,Aragón,AstraZeneca/Oxford,203200
+2021-06-07,ES-AR,ES24,Aragón,Janssen,35500
+2021-06-07,ES-AS,ES12,Asturias,Pfizer/BioNTech,597605
+2021-06-07,ES-AS,ES12,Asturias,Moderna,80200
+2021-06-07,ES-AS,ES12,Asturias,AstraZeneca/Oxford,155800
+2021-06-07,ES-AS,ES12,Asturias,Janssen,27400
+2021-06-07,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,433260
+2021-06-07,ES-IB,ES53,Islas Baleares,Moderna,62400
+2021-06-07,ES-IB,ES53,Islas Baleares,AstraZeneca/Oxford,178900
+2021-06-07,ES-IB,ES53,Islas Baleares,Janssen,31400
+2021-06-07,ES-CN,ES70,Canarias,Pfizer/BioNTech,835350
+2021-06-07,ES-CN,ES70,Canarias,Moderna,118900
+2021-06-07,ES-CN,ES70,Canarias,AstraZeneca/Oxford,332500
+2021-06-07,ES-CN,ES70,Canarias,Janssen,58300
+2021-06-07,ES-CB,ES13,Cantabria,Pfizer/BioNTech,296745
+2021-06-07,ES-CB,ES13,Cantabria,Moderna,40700
+2021-06-07,ES-CB,ES13,Cantabria,AstraZeneca/Oxford,89000
+2021-06-07,ES-CB,ES13,Cantabria,Janssen,15550
+2021-06-07,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,1396695
+2021-06-07,ES-CL,ES41,Castilla y León,Moderna,195800
+2021-06-07,ES-CL,ES41,Castilla y León,AstraZeneca/Oxford,365900
+2021-06-07,ES-CL,ES41,Castilla y León,Janssen,64250
+2021-06-07,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,952245
+2021-06-07,ES-CM,ES42,Castilla-La Mancha,Moderna,134400
+2021-06-07,ES-CM,ES42,Castilla-La Mancha,AstraZeneca/Oxford,311600
+2021-06-07,ES-CM,ES42,Castilla-La Mancha,Janssen,54875
+2021-06-07,ES-CT,ES51,Cataluña,Pfizer/BioNTech,3438080
+2021-06-07,ES-CT,ES51,Cataluña,Moderna,487700
+2021-06-07,ES-CT,ES51,Cataluña,AstraZeneca/Oxford,1188700
+2021-06-07,ES-CT,ES51,Cataluña,Janssen,208550
+2021-06-07,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,2164690
+2021-06-07,ES-VC,ES52,Comunidad Valenciana,Moderna,305500
+2021-06-07,ES-VC,ES52,Comunidad Valenciana,AstraZeneca/Oxford,772600
+2021-06-07,ES-VC,ES52,Comunidad Valenciana,Janssen,135600
+2021-06-07,ES-EX,ES43,Extremadura,Pfizer/BioNTech,540035
+2021-06-07,ES-EX,ES43,Extremadura,Moderna,73600
+2021-06-07,ES-EX,ES43,Extremadura,AstraZeneca/Oxford,162500
+2021-06-07,ES-EX,ES43,Extremadura,Janssen,28500
+2021-06-07,ES-GA,ES11,Galicia,Pfizer/BioNTech,1483675
+2021-06-07,ES-GA,ES11,Galicia,Moderna,200200
+2021-06-07,ES-GA,ES11,Galicia,AstraZeneca/Oxford,412900
+2021-06-07,ES-GA,ES11,Galicia,Janssen,72600
+2021-06-07,ES-RI,ES23,La Rioja,Pfizer/BioNTech,158015
+2021-06-07,ES-RI,ES23,La Rioja,Moderna,21600
+2021-06-07,ES-RI,ES23,La Rioja,AstraZeneca/Oxford,48700
+2021-06-07,ES-RI,ES23,La Rioja,Janssen,8500
+2021-06-07,ES-MD,ES30,Madrid,Pfizer/BioNTech,2866425
+2021-06-07,ES-MD,ES30,Madrid,Moderna,408200
+2021-06-07,ES-MD,ES30,Madrid,AstraZeneca/Oxford,1036100
+2021-06-07,ES-MD,ES30,Madrid,Janssen,181700
+2021-06-07,ES-MC,ES62,Murcia,Pfizer/BioNTech,618485
+2021-06-07,ES-MC,ES62,Murcia,Moderna,87100
+2021-06-07,ES-MC,ES62,Murcia,AstraZeneca/Oxford,230800
+2021-06-07,ES-MC,ES62,Murcia,Janssen,40500
+2021-06-07,ES-NC,ES22,Navarra,Pfizer/BioNTech,304935
+2021-06-07,ES-NC,ES22,Navarra,Moderna,43100
+2021-06-07,ES-NC,ES22,Navarra,AstraZeneca/Oxford,101000
+2021-06-07,ES-NC,ES22,Navarra,Janssen,17750
+2021-06-07,ES-PV,ES21,País Vasco,Pfizer/BioNTech,1092600
+2021-06-07,ES-PV,ES21,País Vasco,Moderna,150600
+2021-06-07,ES-PV,ES21,País Vasco,AstraZeneca/Oxford,338200
+2021-06-07,ES-PV,ES21,País Vasco,Janssen,59550
+2021-06-07,ES-CE,ES63,Ceuta,Pfizer/BioNTech,28890
+2021-06-07,ES-CE,ES63,Ceuta,Moderna,4400
+2021-06-07,ES-CE,ES63,Ceuta,AstraZeneca/Oxford,13500
+2021-06-07,ES-CE,ES63,Ceuta,Janssen,2250
+2021-06-07,ES-ML,ES64,Melilla,Pfizer/BioNTech,28890
+2021-06-07,ES-ML,ES64,Melilla,Moderna,4300
+2021-06-07,ES-ML,ES64,Melilla,AstraZeneca/Oxford,13500
+2021-06-07,ES-ML,ES64,Melilla,Janssen,2250
