@@ -43,12 +43,12 @@ cat "${FILE_CSV}" \
           -e 's/ ;/;/g' \
           -e 's/\.//g' \
           -e 's/\([0-9]\),\([0-9][0-9]\?%\) /\1.\2,/' \
-    | awk -F ';' '{ print $1","$2","$3","$4","$5","$7","$10}' \
+    | awk -F ';' '{ print $1","$2","$3","$4","$5","$7","$9","$10}' \
     | python3 to_json.py ${DATE} - data/ \
     && rm "${FILE_CSV}"
 
-# merge daily with cumulative ones
-DATA_FILES=("administered" "delivered" "vaccinated")
+# append daily to cumulative ones
+DATA_FILES=("administered" "delivered" "one_dose" "vaccinated")
 for file in ${DATA_FILES[@]}
 do
     jq --null-input '[ inputs ] | flatten' "data/regions_${file}.json" "data/${DATE}_${file}.json" | sponge "data/regions_${file}.json"
