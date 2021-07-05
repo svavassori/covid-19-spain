@@ -2,7 +2,7 @@
   {
     "date": "2021-01-05",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Pfizer/BioNTech",
     "one_dose": 139339
@@ -10,7 +10,7 @@
   {
     "date": "2021-01-07",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Pfizer/BioNTech",
     "one_dose": 207323
@@ -18,7 +18,7 @@
   {
     "date": "2021-01-08",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Pfizer/BioNTech",
     "one_dose": 277976
@@ -26,7 +26,7 @@
   {
     "date": "2021-01-11",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Pfizer/BioNTech",
     "one_dose": 406091
@@ -34,7 +34,7 @@
   {
     "date": "2021-01-12",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Pfizer/BioNTech",
     "one_dose": 488041
@@ -42,7 +42,7 @@
   {
     "date": "2021-01-13",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Pfizer/BioNTech",
     "one_dose": 581638
@@ -50,7 +50,7 @@
   {
     "date": "2021-01-14",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 676186
@@ -58,7 +58,7 @@
   {
     "date": "2021-01-15",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 768950
@@ -66,7 +66,7 @@
   {
     "date": "2021-01-18",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 895627
@@ -74,7 +74,7 @@
   {
     "date": "2021-01-19",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 956756
@@ -82,7 +82,7 @@
   {
     "date": "2021-01-20",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1010295
@@ -90,7 +90,7 @@
   {
     "date": "2021-01-21",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1054245
@@ -98,7 +98,7 @@
   {
     "date": "2021-01-22",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1097369
@@ -106,7 +106,7 @@
   {
     "date": "2021-01-25",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1148895
@@ -114,7 +114,7 @@
   {
     "date": "2021-01-26",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1167519
@@ -122,7 +122,7 @@
   {
     "date": "2021-01-27",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1183395
@@ -130,7 +130,7 @@
   {
     "date": "2021-01-28",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1202859
@@ -138,7 +138,7 @@
   {
     "date": "2021-01-29",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1222323
@@ -146,7 +146,7 @@
   {
     "date": "2021-02-01",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1251369
@@ -154,7 +154,7 @@
   {
     "date": "2021-02-02",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1254535
@@ -162,7 +162,7 @@
   {
     "date": "2021-02-03",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1265800
@@ -170,7 +170,7 @@
   {
     "date": "2021-02-04",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1279220
@@ -178,7 +178,7 @@
   {
     "date": "2021-02-05",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1305251
@@ -186,7 +186,7 @@
   {
     "date": "2021-02-08",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1318626
@@ -194,7 +194,7 @@
   {
     "date": "2021-02-09",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1328459
@@ -202,7 +202,7 @@
   {
     "date": "2021-02-10",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1343566
@@ -210,7 +210,7 @@
   {
     "date": "2021-02-11",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1377229
@@ -218,7 +218,7 @@
   {
     "date": "2021-02-12",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1422560
@@ -226,7 +226,7 @@
   {
     "date": "2021-02-15",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1491517
@@ -234,7 +234,7 @@
   {
     "date": "2021-02-16",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1527590
@@ -242,7 +242,7 @@
   {
     "date": "2021-02-17",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1571277
@@ -250,7 +250,7 @@
   {
     "date": "2021-02-18",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1638195
@@ -258,7 +258,7 @@
   {
     "date": "2021-02-19",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1764985
@@ -266,7 +266,7 @@
   {
     "date": "2021-02-22",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1893290
@@ -274,7 +274,7 @@
   {
     "date": "2021-02-23",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 1956886
@@ -282,7 +282,7 @@
   {
     "date": "2021-02-24",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 2063495
@@ -290,7 +290,7 @@
   {
     "date": "2021-02-25",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 2204376
@@ -298,7 +298,7 @@
   {
     "date": "2021-02-26",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 2361852
@@ -306,7 +306,7 @@
   {
     "date": "2021-03-01",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 2567617
@@ -314,7 +314,7 @@
   {
     "date": "2021-03-02",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 2642034
@@ -322,7 +322,7 @@
   {
     "date": "2021-03-03",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 2772318
@@ -330,7 +330,7 @@
   {
     "date": "2021-03-04",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 2920179
@@ -338,7 +338,7 @@
   {
     "date": "2021-03-05",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 3129092
@@ -346,7 +346,7 @@
   {
     "date": "2021-03-08",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 3328703
@@ -354,7 +354,7 @@
   {
     "date": "2021-03-09",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 3436412
@@ -362,7 +362,7 @@
   {
     "date": "2021-03-10",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 3541667
@@ -370,7 +370,7 @@
   {
     "date": "2021-03-11",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 3668848
@@ -378,7 +378,7 @@
   {
     "date": "2021-03-12",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 3769523
@@ -386,7 +386,7 @@
   {
     "date": "2021-03-15",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 3951221
@@ -394,7 +394,7 @@
   {
     "date": "2021-03-16",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 4013681
@@ -402,7 +402,7 @@
   {
     "date": "2021-03-17",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 4052470
@@ -410,7 +410,7 @@
   {
     "date": "2021-03-18",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 4106550
@@ -418,7 +418,7 @@
   {
     "date": "2021-03-22",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 4211040
@@ -426,7 +426,7 @@
   {
     "date": "2021-03-23",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 4252598
@@ -434,7 +434,7 @@
   {
     "date": "2021-03-24",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 4332741
@@ -442,7 +442,7 @@
   {
     "date": "2021-03-25",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 4436415
@@ -450,7 +450,7 @@
   {
     "date": "2021-03-29",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 4949546
@@ -458,7 +458,7 @@
   {
     "date": "2021-03-30",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 5069318
@@ -466,7 +466,7 @@
   {
     "date": "2021-03-31",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 5281461
@@ -474,7 +474,7 @@
   {
     "date": "2021-04-01",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 5510032
@@ -482,7 +482,7 @@
   {
     "date": "2021-04-03",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 5671049
@@ -490,7 +490,7 @@
   {
     "date": "2021-04-05",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 5845642
@@ -498,7 +498,7 @@
   {
     "date": "2021-04-06",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 6069287
@@ -506,7 +506,7 @@
   {
     "date": "2021-04-07",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 6362987
@@ -514,7 +514,7 @@
   {
     "date": "2021-04-08",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 6734037
@@ -522,7 +522,7 @@
   {
     "date": "2021-04-09",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 7099301
@@ -530,7 +530,7 @@
   {
     "date": "2021-04-12",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 7613409
@@ -538,7 +538,7 @@
   {
     "date": "2021-04-13",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 7874058
@@ -546,7 +546,7 @@
   {
     "date": "2021-04-14",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 8187094
@@ -554,7 +554,7 @@
   {
     "date": "2021-04-15",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 8567460
@@ -562,7 +562,7 @@
   {
     "date": "2021-04-16",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 8937832
@@ -570,7 +570,7 @@
   {
     "date": "2021-04-19",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 9377155
@@ -578,7 +578,7 @@
   {
     "date": "2021-04-20",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 9524320
@@ -586,7 +586,7 @@
   {
     "date": "2021-04-21",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 9821583
@@ -594,7 +594,7 @@
   {
     "date": "2021-04-22",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 10077200
@@ -602,7 +602,7 @@
   {
     "date": "2021-04-23",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 10341051
@@ -610,7 +610,7 @@
   {
     "date": "2021-04-26",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 10731503
@@ -618,7 +618,7 @@
   {
     "date": "2021-04-27",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 10948929
@@ -626,7 +626,7 @@
   {
     "date": "2021-04-28",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 11196189
@@ -634,7 +634,7 @@
   {
     "date": "2021-04-29",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 11455157
@@ -642,7 +642,7 @@
   {
     "date": "2021-04-30",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 11698328
@@ -650,7 +650,7 @@
   {
     "date": "2021-05-03",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 12097327
@@ -658,7 +658,7 @@
   {
     "date": "2021-05-04",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 12315347
@@ -666,7 +666,7 @@
   {
     "date": "2021-05-05",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 12620425
@@ -674,7 +674,7 @@
   {
     "date": "2021-05-06",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 12900614
@@ -682,7 +682,7 @@
   {
     "date": "2021-05-07",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 13205194
@@ -690,7 +690,7 @@
   {
     "date": "2021-05-10",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 13730989
@@ -698,7 +698,7 @@
   {
     "date": "2021-05-11",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 13962465
@@ -706,7 +706,7 @@
   {
     "date": "2021-05-12",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 14250971
@@ -714,7 +714,7 @@
   {
     "date": "2021-05-13",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 14487869
@@ -722,7 +722,7 @@
   {
     "date": "2021-05-14",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 14843321
@@ -730,7 +730,7 @@
   {
     "date": "2021-05-17",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 15252705
@@ -738,7 +738,7 @@
   {
     "date": "2021-05-18",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 15427701
@@ -746,7 +746,7 @@
   {
     "date": "2021-05-19",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 15672990
@@ -754,7 +754,7 @@
   {
     "date": "2021-05-20",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 15981565
@@ -762,7 +762,7 @@
   {
     "date": "2021-05-21",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 16279323
@@ -770,7 +770,7 @@
   {
     "date": "2021-05-24",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 16641462
@@ -778,7 +778,7 @@
   {
     "date": "2021-05-25",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 16884640
@@ -786,7 +786,7 @@
   {
     "date": "2021-05-26",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 17119042
@@ -794,7 +794,7 @@
   {
     "date": "2021-05-27",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 17418759
@@ -802,7 +802,7 @@
   {
     "date": "2021-05-28",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 17637954
@@ -810,7 +810,7 @@
   {
     "date": "2021-05-31",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 17962907
@@ -818,7 +818,7 @@
   {
     "date": "2021-06-01",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 18109045
@@ -826,7 +826,7 @@
   {
     "date": "2021-06-02",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 18356466
@@ -834,7 +834,7 @@
   {
     "date": "2021-06-03",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 18649274
@@ -842,7 +842,7 @@
   {
     "date": "2021-06-04",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 18966416
@@ -850,7 +850,7 @@
   {
     "date": "2021-06-07",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 19714389
@@ -858,7 +858,7 @@
   {
     "date": "2021-06-08",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 19975318
@@ -866,7 +866,7 @@
   {
     "date": "2021-06-10",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 20553927
@@ -874,7 +874,7 @@
   {
     "date": "2021-06-11",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 20889006
@@ -882,7 +882,7 @@
   {
     "date": "2021-06-14",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 21399051
@@ -890,7 +890,7 @@
   {
     "date": "2021-06-15",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 21637958
@@ -898,7 +898,7 @@
   {
     "date": "2021-06-16",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 21972710
@@ -906,7 +906,7 @@
   {
     "date": "2021-06-17",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 22288608
@@ -914,7 +914,7 @@
   {
     "date": "2021-06-18",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 22607952
@@ -922,7 +922,7 @@
   {
     "date": "2021-06-21",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 23122159
@@ -930,7 +930,7 @@
   {
     "date": "2021-06-22",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 23364756
@@ -938,7 +938,7 @@
   {
     "date": "2021-06-23",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 23691794
@@ -946,7 +946,7 @@
   {
     "date": "2021-06-24",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 23998467
@@ -954,7 +954,7 @@
   {
     "date": "2021-06-25",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 24244124
@@ -962,7 +962,7 @@
   {
     "date": "2021-06-28",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 24710624
@@ -970,7 +970,7 @@
   {
     "date": "2021-06-29",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 24924948
@@ -978,7 +978,7 @@
   {
     "date": "2021-06-30",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 25236916
@@ -986,7 +986,7 @@
   {
     "date": "2021-07-01",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 25543132
@@ -994,9 +994,17 @@
   {
     "date": "2021-07-02",
     "iso_code": "ES",
-    "nuts": "ES",
+    "nuts1": "ES",
     "name": "España",
     "supplier": "Unknown",
     "one_dose": 25862290
+  },
+  {
+    "date": "2021-07-05",
+    "iso_code": "ES",
+    "nuts1": "ES",
+    "name": "España",
+    "supplier": "Unknown",
+    "one_dose": 26419112
   }
 ]
