@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # download updated files
+FILE_CAP_ASISTENCIAL="Datos_Capacidad_Asistencial_Historico_$(date +%d%m%Y)".csv
+
 URLS=(
       "https://cnecovid.isciii.es/covid19/resources/casos_diagnostico_ccaa.csv"
       "https://cnecovid.isciii.es/covid19/resources/casos_diagnostico_provincia.csv"
@@ -8,6 +10,7 @@ URLS=(
       "https://cnecovid.isciii.es/covid19/resources/casos_hosp_uci_def_sexo_edad_provres.csv"
       "https://cnecovid.isciii.es/covid19/resources/metadata_ccaa_prov_res.pdf"
       "https://cnecovid.isciii.es/covid19/resources/metadata_ccaadecl_prov_edad_sexo.pdf"
+      "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/${FILE_CAP_ASISTENCIAL}"
 )
 
 OPTS="--no-verbose --timestamping --directory-prefix=csv"
@@ -16,6 +19,32 @@ for url in "${URLS[@]}"
 do
 	wget ${OPTS} ${url}
 done
+
+# convert "Datos_Capacidad_Asistencial_Historico" from 8859-15 to UTF-8, keeps original timestamp
+iconv --output="csv/${FILE_CAP_ASISTENCIAL}.utf-8" --from-code=ISO_8859-15 --to-code=UTF-8 "csv/${FILE_CAP_ASISTENCIAL}"
+touch --reference="csv/${FILE_CAP_ASISTENCIAL}" "csv/${FILE_CAP_ASISTENCIAL}.utf-8"
+mv "csv/${FILE_CAP_ASISTENCIAL}.utf-8" "csv/capacidad_asistencial/${FILE_CAP_ASISTENCIAL}"
+rm "csv/${FILE_CAP_ASISTENCIAL}"
+
+# create state-level aggregated data
+QUERY_HOSP="SELECT Fecha As fecha, CCAA AS ccaa, Unidad AS unidad, "
+QUERY_HOSP+="SUM(TOTAL_CAMAS) AS total_camas, "
+QUERY_HOSP+="SUM(OCUPADAS_COVID19) AS ocupadas_covid19, "
+QUERY_HOSP+="SUM(OCUPADAS_NO_COVID19) AS ocupadas_no_covid19, "
+QUERY_HOSP+="SUM(INGRESOS_COVID19) AS ingresos_covid19, "
+QUERY_HOSP+="SUM(ALTAS_24h_COVID19) AS altas_24h_covid19 "
+QUERY_HOSP+="FROM - "
+QUERY_HOSP+="GROUP BY Fecha, CCAA, UNIDAD ORDER BY Fecha"
+
+# rewrite date
+# group by date, ccaa and care category
+cat "csv/capacidad_asistencial/${FILE_CAP_ASISTENCIAL}" \
+    | sed 's|^\([0-9]\+\)/\([0-9]\+\)/\([0-9]\+\)|\3-\2-\1|g' \
+    | sed --file=lowercase.sed \
+    | q --skip-header --delimiter=';' --output-delimiter=, --output-header "${QUERY_HOSP}" \
+    > "csv/datos_capacidad_asistencial_historico.csv"
+
+
 
 CURRENT=$(find pdf/ -name "*.pdf" | sed 's/.\+_\([0-9]\+\)_.\+/\1/g' | sort --numeric-sort --unique | tail -n 1)
 NEXT=$((CURRENT+1))
