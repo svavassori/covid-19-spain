@@ -2,7 +2,9 @@
 
 # download updated files
 FILE_CAP_ASISTENCIAL="Datos_Capacidad_Asistencial_Historico_$(date +%d%m%Y).csv"
-FILE_CAP_HOSP="csv/Datos_Capacidad_Asistencial_Historico.csv"
+FILE_CAP_HOSP="Datos_Capacidad_Asistencial_Historico.csv"
+FILE_TEST_DATE="Datos_Pruebas_Realizadas_Historico_$(date +%d%m%Y).csv"
+FILE_TEST="Datos_Pruebas_Realizadas_Historico.csv"
 
 URLS=(
       "https://cnecovid.isciii.es/covid19/resources/casos_diagnostico_ccaa.csv"
@@ -12,6 +14,7 @@ URLS=(
       "https://cnecovid.isciii.es/covid19/resources/metadata_ccaa_prov_res.pdf"
       "https://cnecovid.isciii.es/covid19/resources/metadata_ccaadecl_prov_edad_sexo.pdf"
       "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/${FILE_CAP_ASISTENCIAL}"
+      "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/${FILE_TEST_DATE}"
 )
 
 OPTS="--no-verbose --timestamping --directory-prefix=csv"
@@ -21,12 +24,16 @@ do
 	wget ${OPTS} ${url}
 done
 
-# convert "Datos_Capacidad_Asistencial_Historico" from 8859-15 to UTF-8, keeps original timestamp
-iconv --output="${FILE_CAP_HOSP}" --from-code=ISO_8859-15 --to-code=UTF-8 "csv/${FILE_CAP_ASISTENCIAL}"
-touch --reference="csv/${FILE_CAP_ASISTENCIAL}" "${FILE_CAP_HOSP}"
-rm "csv/${FILE_CAP_ASISTENCIAL}"
+# convert "Datos_Capacidad_Asistencial_Historico.csv"
+# and "Datos_Pruebas_Realizadas_Historico.csv"
+# from 8859-15 to UTF-8, keeps original timestamp
+iconv --output="csv/${FILE_CAP_HOSP}" --from-code=ISO_8859-15 --to-code=UTF-8 "csv/${FILE_CAP_ASISTENCIAL}"
+iconv --output="csv/${FILE_TEST}" --from-code=ISO_8859-15 --to-code=UTF-8 "csv/${FILE_TEST_DATE}"
+touch --reference="csv/${FILE_CAP_ASISTENCIAL}" "csv/${FILE_CAP_HOSP}"
+touch --reference="csv/${FILE_TEST_DATE}" "csv/${FILE_TEST}"
+rm "csv/${FILE_CAP_ASISTENCIAL}" "csv/${FILE_TEST_DATE}"
 
-# create state-level aggregated data
+# create state-level aggregated data for hospital capacity
 QUERY_HOSP="SELECT Fecha As fecha, CCAA AS ccaa, Unidad AS unidad, "
 QUERY_HOSP+="SUM(TOTAL_CAMAS) AS total_camas, "
 QUERY_HOSP+="SUM(OCUPADAS_COVID19) AS ocupadas_covid19, "
@@ -43,6 +50,27 @@ cat "${FILE_CAP_HOSP}" \
     | sed --file=lowercase.sed \
     | q --skip-header --delimiter=';' --output-delimiter=, --output-header "${QUERY_HOSP}" \
     > "csv/datos_capacidad_asistencial-españa.csv"
+
+# create state-level aggregated data for diagnostic tests
+QUERY_TEST="SELECT FECHA_PRUEBA AS fecha, CCAA AS ccaa, "
+QUERY_TEST+="SUM(N_ANT_POSITIVOS) AS num_antigenos_positivos, "
+QUERY_TEST+="SUM(N_ANT) AS num_antigenos, "
+QUERY_TEST+="SUM(N_PCR_POSITIVOS) AS num_pcr_positivos, "
+QUERY_TEST+="SUM(N_PCR) AS num_pcr "
+QUERY_TEST+="FROM - "
+QUERY_TEST+="GROUP BY FECHA_PRUEBA, CCAA "
+QUERY_TEST+="ORDER BY FECHA_PRUEBA"
+
+
+# reformat date (e.g. from 02JAN2021 to 2021-01-02)
+# change province name with their ccaa
+# group by date, ccaa
+cat "${FILE_TEST}" \
+    | sed 's/;\([0-9]\+\)\([A-Z]\+\)\([0-9]\+\);/;\3-\2-\1;/g' \
+    | sed --file months.sed \
+          --file province_fullname.sed \
+    | q --skip-header --delimiter=';' --output-delimiter=, --output-header "${QUERY_TEST}" \
+    > "csv/datos_pruebas_realizadas-españa.csv"
 
 
 
