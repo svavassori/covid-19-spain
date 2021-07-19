@@ -1,0 +1,12 @@
+s/JAN/01/g
+s/FEB/02/g
+s/MAR/03/g
+s/APR/04/g
+s/MAY/05/g
+s/JUN/06/g
+s/JUL/07/g
+s/AUG/08/g
+s/SEP/09/g
+s/OCT/10/g
+s/NOV/11/g
+s/DEC/12/g
