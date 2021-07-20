@@ -45,7 +45,7 @@ QUERY_HOSP+="GROUP BY Fecha, CCAA, UNIDAD ORDER BY Fecha"
 
 # rewrite date
 # group by date, ccaa and care category
-cat "${FILE_CAP_HOSP}" \
+cat "csv/${FILE_CAP_HOSP}" \
     | sed 's|^\([0-9]\+\)/\([0-9]\+\)/\([0-9]\+\)|\3-\2-\1|g' \
     | sed --file=lowercase.sed \
     | q --skip-header --delimiter=';' --output-delimiter=, --output-header "${QUERY_HOSP}" \
@@ -65,7 +65,7 @@ QUERY_TEST+="ORDER BY FECHA_PRUEBA"
 # reformat date (e.g. from 02JAN2021 to 2021-01-02)
 # change province name with their ccaa
 # group by date, ccaa
-cat "${FILE_TEST}" \
+cat "csv/${FILE_TEST}" \
     | sed 's/;\([0-9]\+\)\([A-Z]\+\)\([0-9]\+\);/;\3-\2-\1;/g' \
     | sed --file months.sed \
           --file province_fullname.sed \
