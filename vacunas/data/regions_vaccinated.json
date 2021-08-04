@@ -21126,5 +21126,157 @@
     "name": "Melilla",
     "supplier": "Unknown",
     "vaccinated": 43626
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-AN",
+    "nuts2": "ES61",
+    "name": "Andalucía",
+    "supplier": "Unknown",
+    "vaccinated": 4757858
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-AR",
+    "nuts2": "ES24",
+    "name": "Aragón",
+    "supplier": "Unknown",
+    "vaccinated": 812804
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-AS",
+    "nuts2": "ES12",
+    "name": "Asturias",
+    "supplier": "Unknown",
+    "vaccinated": 690885
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-IB",
+    "nuts2": "ES53",
+    "name": "Islas Baleares",
+    "supplier": "Unknown",
+    "vaccinated": 659777
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-CN",
+    "nuts2": "ES70",
+    "name": "Canarias",
+    "supplier": "Unknown",
+    "vaccinated": 1221821
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-CB",
+    "nuts2": "ES13",
+    "name": "Cantabria",
+    "supplier": "Unknown",
+    "vaccinated": 348175
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-CL",
+    "nuts2": "ES41",
+    "name": "Castilla y León",
+    "supplier": "Unknown",
+    "vaccinated": 1511019
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-CM",
+    "nuts2": "ES42",
+    "name": "Castilla-La Mancha",
+    "supplier": "Unknown",
+    "vaccinated": 1151924
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-CT",
+    "nuts2": "ES51",
+    "name": "Cataluña",
+    "supplier": "Unknown",
+    "vaccinated": 4498644
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-VC",
+    "nuts2": "ES52",
+    "name": "Comunidad Valenciana",
+    "supplier": "Unknown",
+    "vaccinated": 2889063
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-EX",
+    "nuts2": "ES43",
+    "name": "Extremadura",
+    "supplier": "Unknown",
+    "vaccinated": 687401
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-GA",
+    "nuts2": "ES11",
+    "name": "Galicia",
+    "supplier": "Unknown",
+    "vaccinated": 1751554
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-RI",
+    "nuts2": "ES23",
+    "name": "La Rioja",
+    "supplier": "Unknown",
+    "vaccinated": 185520
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-MD",
+    "nuts2": "ES30",
+    "name": "Madrid",
+    "supplier": "Unknown",
+    "vaccinated": 3887388
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-MC",
+    "nuts2": "ES62",
+    "name": "Murcia",
+    "supplier": "Unknown",
+    "vaccinated": 788025
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-NC",
+    "nuts2": "ES22",
+    "name": "Navarra",
+    "supplier": "Unknown",
+    "vaccinated": 401544
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-PV",
+    "nuts2": "ES21",
+    "name": "País Vasco",
+    "supplier": "Unknown",
+    "vaccinated": 1395911
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-CE",
+    "nuts2": "ES63",
+    "name": "Ceuta",
+    "supplier": "Unknown",
+    "vaccinated": 47456
+  },
+  {
+    "date": "2021-08-04",
+    "iso_code": "ES-ML",
+    "nuts2": "ES64",
+    "name": "Melilla",
+    "supplier": "Unknown",
+    "vaccinated": 44280
   }
 ]
