@@ -23196,7 +23196,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2021-09-11,País Vasco,U. Críticas CON respirador,359,59,138,5,5
 2021-09-11,País Vasco,U. Críticas SIN respirador,18,0,10,0,0
 2021-09-12,Andalucía,Hospitalización convencional,15928,446,9190,71,40
-2021-09-12,Andalucía,U. Críticas CON respirador,1418,150,353,12,14
+2021-09-12,Andalucía,U. Críticas CON respirador,1563,150,353,12,14
 2021-09-12,Andalucía,U. Críticas SIN respirador,454,3,76,0,2
 2021-09-12,Aragón,Hospitalización convencional,3756,144,2227,11,3
 2021-09-12,Aragón,U. Críticas CON respirador,205,36,65,1,1
@@ -23207,8 +23207,8 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2021-09-12,Baleares,Hospitalización convencional,3025,121,2054,6,4
 2021-09-12,Baleares,U. Críticas CON respirador,287,49,86,3,1
 2021-09-12,Baleares,U. Críticas SIN respirador,57,11,25,1,1
-2021-09-12,C. Valenciana,Hospitalización convencional,10166,201,6424,28,22
-2021-09-12,C. Valenciana,U. Críticas CON respirador,702,60,318,2,3
+2021-09-12,C. Valenciana,Hospitalización convencional,10086,201,6387,28,22
+2021-09-12,C. Valenciana,U. Críticas CON respirador,674,60,317,2,3
 2021-09-12,C. Valenciana,U. Críticas SIN respirador,93,5,39,0,0
 2021-09-12,Canarias,Hospitalización convencional,5063,161,3448,9,2
 2021-09-12,Canarias,U. Críticas CON respirador,428,65,133,2,0
@@ -23222,8 +23222,8 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2021-09-12,Castilla y León,Hospitalización convencional,5823,158,3952,12,17
 2021-09-12,Castilla y León,U. Críticas CON respirador,393,55,146,0,0
 2021-09-12,Castilla y León,U. Críticas SIN respirador,23,0,6,0,0
-2021-09-12,Cataluña,Hospitalización convencional,22462,637,17279,43,41
-2021-09-12,Cataluña,U. Críticas CON respirador,986,233,465,8,10
+2021-09-12,Cataluña,Hospitalización convencional,22154,635,16976,43,41
+2021-09-12,Cataluña,U. Críticas CON respirador,966,233,453,8,10
 2021-09-12,Cataluña,U. Críticas SIN respirador,187,20,120,1,7
 2021-09-12,Ceuta,Hospitalización convencional,183,10,72,1,0
 2021-09-12,Ceuta,U. Críticas CON respirador,17,1,5,0,0
@@ -23252,3 +23252,60 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2021-09-12,País Vasco,Hospitalización convencional,4261,268,3114,27,14
 2021-09-12,País Vasco,U. Críticas CON respirador,362,55,140,1,5
 2021-09-12,País Vasco,U. Críticas SIN respirador,18,0,3,0,0
+2021-09-13,Andalucía,Hospitalización convencional,15928,426,9711,50,69
+2021-09-13,Andalucía,U. Críticas CON respirador,1418,144,354,1,13
+2021-09-13,Andalucía,U. Críticas SIN respirador,454,2,90,0,3
+2021-09-13,Aragón,Hospitalización convencional,3777,135,2405,16,19
+2021-09-13,Aragón,U. Críticas CON respirador,205,35,68,1,2
+2021-09-13,Aragón,U. Críticas SIN respirador,19,0,9,0,0
+2021-09-13,Asturias,Hospitalización convencional,2991,44,2052,4,11
+2021-09-13,Asturias,U. Críticas CON respirador,250,13,60,2,0
+2021-09-13,Asturias,U. Críticas SIN respirador,48,0,6,0,0
+2021-09-13,Baleares,Hospitalización convencional,3027,121,2143,8,13
+2021-09-13,Baleares,U. Críticas CON respirador,287,47,84,1,2
+2021-09-13,Baleares,U. Críticas SIN respirador,57,10,28,0,0
+2021-09-13,C. Valenciana,Hospitalización convencional,10175,174,6963,16,38
+2021-09-13,C. Valenciana,U. Críticas CON respirador,706,60,285,5,4
+2021-09-13,C. Valenciana,U. Críticas SIN respirador,87,5,42,0,50
+2021-09-13,Canarias,Hospitalización convencional,5053,176,3508,10,9
+2021-09-13,Canarias,U. Críticas CON respirador,429,63,152,3,1
+2021-09-13,Canarias,U. Críticas SIN respirador,68,0,32,0,0
+2021-09-13,Cantabria,Hospitalización convencional,1214,27,933,4,8
+2021-09-13,Cantabria,U. Críticas CON respirador,96,7,41,0,1
+2021-09-13,Cantabria,U. Críticas SIN respirador,22,0,1,0,0
+2021-09-13,Castilla La Mancha,Hospitalización convencional,4399,154,2799,17,28
+2021-09-13,Castilla La Mancha,U. Críticas CON respirador,277,38,69,1,0
+2021-09-13,Castilla La Mancha,U. Críticas SIN respirador,82,7,33,1,0
+2021-09-13,Castilla y León,Hospitalización convencional,5880,146,4071,10,18
+2021-09-13,Castilla y León,U. Críticas CON respirador,393,54,153,2,2
+2021-09-13,Castilla y León,U. Críticas SIN respirador,23,0,2,0,0
+2021-09-13,Cataluña,Hospitalización convencional,22720,612,18084,44,91
+2021-09-13,Cataluña,U. Críticas CON respirador,975,219,503,7,13
+2021-09-13,Cataluña,U. Críticas SIN respirador,190,23,122,4,4
+2021-09-13,Ceuta,Hospitalización convencional,183,9,83,0,1
+2021-09-13,Ceuta,U. Críticas CON respirador,17,1,4,0,0
+2021-09-13,Ceuta,U. Críticas SIN respirador,0,0,0,0,0
+2021-09-13,Extremadura,Hospitalización convencional,2694,90,1466,8,10
+2021-09-13,Extremadura,U. Críticas CON respirador,160,10,42,0,0
+2021-09-13,Extremadura,U. Críticas SIN respirador,28,0,2,0,0
+2021-09-13,Galicia,Hospitalización convencional,7459,133,4761,15,20
+2021-09-13,Galicia,U. Críticas CON respirador,573,34,160,0,1
+2021-09-13,Galicia,U. Críticas SIN respirador,176,1,23,0,1
+2021-09-13,La Rioja,Hospitalización convencional,660,14,483,1,5
+2021-09-13,La Rioja,U. Críticas CON respirador,49,6,13,0,2
+2021-09-13,La Rioja,U. Críticas SIN respirador,4,0,0,0,0
+2021-09-13,Madrid,Hospitalización convencional,14138,675,10855,58,114
+2021-09-13,Madrid,U. Críticas CON respirador,942,257,478,10,5
+2021-09-13,Madrid,U. Críticas SIN respirador,134,0,17,0,0
+2021-09-13,Melilla,Hospitalización convencional,165,12,51,3,3
+2021-09-13,Melilla,U. Críticas CON respirador,15,2,3,0,1
+2021-09-13,Melilla,U. Críticas SIN respirador,2,0,0,0,0
+2021-09-13,Murcia,Hospitalización convencional,3564,66,2209,10,19
+2021-09-13,Murcia,U. Críticas CON respirador,280,18,88,5,2
+2021-09-13,Murcia,U. Críticas SIN respirador,183,5,9,1,0
+2021-09-13,Navarra,Hospitalización convencional,1719,42,1103,2,4
+2021-09-13,Navarra,U. Críticas CON respirador,110,17,42,0,0
+2021-09-13,Navarra,U. Críticas SIN respirador,12,0,2,0,0
+2021-09-13,País Vasco,Hospitalización convencional,4378,267,3262,31,39
+2021-09-13,País Vasco,U. Críticas CON respirador,363,58,155,6,5
+2021-09-13,País Vasco,U. Críticas SIN respirador,18,0,11,0,0
