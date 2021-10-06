@@ -26,6 +26,7 @@ def create_json(date, lines, output_dir):
     delivered = []
     one_dose = []
     vaccinated = []
+    additional_dose = []
     suppliers = [(1, "Pfizer/BioNTech"),
                  (2, "Moderna"),
                  (3, "AstraZeneca/Oxford"),
@@ -35,14 +36,17 @@ def create_json(date, lines, output_dir):
     data.load_iso_codes()
     for row in csv_reader:
         element = data.new_element(date, row[0])
-        element["administered"] = int(row[-3])
+        element["administered"] = int(row[-4])
         administered.append(element)
         element = data.new_element(date, row[0])
-        element["one_dose"] = int(row[-2])
+        element["one_dose"] = int(row[-3])
         one_dose.append(element)
         element = data.new_element(date, row[0])
-        element["vaccinated"] = int(row[-1])
+        element["vaccinated"] = int(row[-2])
         vaccinated.append(element)
+        element = data.new_element(date, row[0])
+        element["additional_dose"] = int(row[-1])
+        additional_dose.append(element)
         for column, supplier in suppliers:
             element = data.new_element(date, row[0])
             element["delivered"] = int(row[column])
@@ -51,7 +55,8 @@ def create_json(date, lines, output_dir):
     for (name, data_list) in [("administered", administered),
                               ("delivered", delivered),
                               ("one_dose", one_dose),
-                              ("vaccinated", vaccinated)]:
+                              ("vaccinated", vaccinated),
+                              ("additional_dose", additional_dose)]:
         output_file = output_dir + date + "_" + name
         write_json(output_file + ".json", data_list)
         write_csv(output_file + ".csv", data_list)
