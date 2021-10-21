@@ -7,12 +7,12 @@ FILE_TEST_DATE="Datos_Pruebas_Realizadas_Historico_$(date +%d%m%Y).csv"
 FILE_TEST="Datos_Pruebas_Realizadas_Historico.csv"
 
 URLS=(
-      "https://cnecovid.isciii.es/covid19/resources/casos_diagnostico_ccaa.csv"
-      "https://cnecovid.isciii.es/covid19/resources/casos_diagnostico_provincia.csv"
+      "https://cnecovid.isciii.es/covid19/resources/casos_tecnica_ccaa.csv"
+      "https://cnecovid.isciii.es/covid19/resources/casos_tecnica_provincia.csv"
       "https://cnecovid.isciii.es/covid19/resources/casos_diag_ccaadecl.csv"
       "https://cnecovid.isciii.es/covid19/resources/casos_hosp_uci_def_sexo_edad_provres.csv"
-      "https://cnecovid.isciii.es/covid19/resources/metadata_ccaa_prov_res.pdf"
-      "https://cnecovid.isciii.es/covid19/resources/metadata_ccaadecl_prov_edad_sexo.pdf"
+      "https://cnecovid.isciii.es/covid19/resources/metadata_tecnica_ccaa_prov_res.pdf"
+      "https://cnecovid.isciii.es/covid19/resources/metadata_diag_ccaa_decl_prov_edad_sexo.pdf"
       "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/${FILE_CAP_ASISTENCIAL}"
       "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/${FILE_TEST_DATE}"
 )
