@@ -1,6 +1,19 @@
 #!/bin/bash
 
 # download updated files
+BASE_URL="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov"
+
+LINKS_PDFS=$(wget --no-verbose --output-document=- "${BASE_URL}/situacionActual.htm" | grep --only-matching "documentos/[a-zA-Z0-9_-]\+\.pdf" | uniq)
+EVALUACION_RIESGO=$(wget --no-verbose --output-document=- "${BASE_URL}/variantes.htm" | grep --only-matching "documentos/[a-zA-Z0-9_-]\+\.pdf" | head -n 1)
+
+OPTS="--no-verbose --timestamping --directory-prefix="
+
+wget ${OPTS}documentos/casos "${BASE_URL}"/$(echo "${LINKS_PDFS}" | grep "Actualizacion_[0-9]\+")
+wget ${OPTS}documentos/variantes "${BASE_URL}"/$(echo "${LINKS_PDFS}" | grep Actualizacion_variantes)
+wget ${OPTS}documentos/indicadores-de-seguimiento "${BASE_URL}"/$(echo "${LINKS_PDFS}" | grep informe_covid_es_publico)
+wget ${OPTS}documentos/pruebas-laboratorio "${BASE_URL}"/$(echo "${LINKS_PDFS}" | grep pruebas_diagnosticas)
+wget ${OPTS}documentos/evaluación-rápida-riesgo "${BASE_URL}/${EVALUACION_RIESGO}"
+
 FILE_CAP_ASISTENCIAL="Datos_Capacidad_Asistencial_Historico_$(date +%d%m%Y).csv"
 FILE_CAP_HOSP="Datos_Capacidad_Asistencial_Historico.csv"
 FILE_TEST_DATE="Datos_Pruebas_Realizadas_Historico_$(date +%d%m%Y).csv"
@@ -13,15 +26,13 @@ URLS=(
       "https://cnecovid.isciii.es/covid19/resources/casos_hosp_uci_def_sexo_edad_provres.csv"
       "https://cnecovid.isciii.es/covid19/resources/metadata_tecnica_ccaa_prov_res.pdf"
       "https://cnecovid.isciii.es/covid19/resources/metadata_diag_ccaa_decl_prov_edad_sexo.pdf"
-      "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/${FILE_CAP_ASISTENCIAL}"
-      "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/${FILE_TEST_DATE}"
+      "${BASE_URL}/documentos/${FILE_CAP_ASISTENCIAL}"
+      "${BASE_URL}/documentos/${FILE_TEST_DATE}"
 )
-
-OPTS="--no-verbose --timestamping --directory-prefix=csv"
 
 for url in "${URLS[@]}"
 do
-	wget ${OPTS} ${url}
+	wget ${OPTS}csv "${url}"
 done
 
 # convert "Datos_Capacidad_Asistencial_Historico.csv"
@@ -71,13 +82,6 @@ cat "csv/${FILE_TEST}" \
           --file province_fullname.sed \
     | q --skip-header --delimiter=';' --output-delimiter=, --output-header "${QUERY_TEST}" \
     > "csv/datos_pruebas_realizadas-españa.csv"
-
-
-
-CURRENT=$(find pdf/ -name "*.pdf" | sed 's/.\+_\([0-9]\+\)_.\+/\1/g' | sort --numeric-sort --unique | tail -n 1)
-NEXT=$((CURRENT+1))
-wget --no-verbose --directory-prefix=pdf/ "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_${NEXT}_COVID-19.pdf"
-
 
 # replace province codes with CC.AA. full name and calculate aggregated values
 # removes the 'NC' lines since they are not assigned to any CC.AA.
