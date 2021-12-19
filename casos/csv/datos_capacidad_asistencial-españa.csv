@@ -28394,8 +28394,8 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2021-12-12,Baleares,Hospitalización convencional,3098,157,2002,22,5
 2021-12-12,Baleares,U. Críticas CON respirador,270,34,89,5,1
 2021-12-12,Baleares,U. Críticas SIN respirador,54,7,17,0,0
-2021-12-12,C. Valenciana,Hospitalización convencional,9538,585,6816,102,43
-2021-12-12,C. Valenciana,U. Críticas CON respirador,644,104,301,10,4
+2021-12-12,C. Valenciana,Hospitalización convencional,9751,592,7016,102,44
+2021-12-12,C. Valenciana,U. Críticas CON respirador,658,105,308,10,4
 2021-12-12,C. Valenciana,U. Críticas SIN respirador,90,6,39,2,0
 2021-12-12,Canarias,Hospitalización convencional,5068,263,3682,21,4
 2021-12-12,Canarias,U. Críticas CON respirador,410,61,164,5,0
@@ -28448,35 +28448,35 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2021-12-13,Asturias,Hospitalización convencional,3213,147,2404,21,17
 2021-12-13,Asturias,U. Críticas CON respirador,249,39,71,3,0
 2021-12-13,Asturias,U. Críticas SIN respirador,48,0,5,0,0
-2021-12-13,Baleares,Hospitalización convencional,3161,163,2148,28,26
-2021-12-13,Baleares,U. Críticas CON respirador,272,37,91,3,0
-2021-12-13,Baleares,U. Críticas SIN respirador,58,8,23,3,1
-2021-12-13,C. Valenciana,Hospitalización convencional,10414,629,7480,81,82
-2021-12-13,C. Valenciana,U. Críticas CON respirador,697,125,344,18,4
-2021-12-13,C. Valenciana,U. Críticas SIN respirador,82,4,38,0,0
+2021-12-13,Baleares,Hospitalización convencional,2983,157,2050,28,26
+2021-12-13,Baleares,U. Críticas CON respirador,263,32,91,3,0
+2021-12-13,Baleares,U. Críticas SIN respirador,54,8,21,3,1
+2021-12-13,C. Valenciana,Hospitalización convencional,9724,593,7018,81,82
+2021-12-13,C. Valenciana,U. Críticas CON respirador,660,121,323,18,4
+2021-12-13,C. Valenciana,U. Críticas SIN respirador,77,4,33,0,0
 2021-12-13,Canarias,Hospitalización convencional,5071,256,3788,16,20
 2021-12-13,Canarias,U. Críticas CON respirador,410,60,185,4,3
 2021-12-13,Canarias,U. Críticas SIN respirador,65,1,35,1,0
 2021-12-13,Cantabria,Hospitalización convencional,1369,56,1037,8,7
 2021-12-13,Cantabria,U. Críticas CON respirador,96,14,46,1,0
 2021-12-13,Cantabria,U. Críticas SIN respirador,22,0,4,0,0
-2021-12-13,Castilla La Mancha,Hospitalización convencional,4565,122,3131,19,21
-2021-12-13,Castilla La Mancha,U. Críticas CON respirador,264,31,90,1,0
-2021-12-13,Castilla La Mancha,U. Críticas SIN respirador,87,7,43,2,0
-2021-12-13,Castilla y León,Hospitalización convencional,6388,359,4699,48,41
-2021-12-13,Castilla y León,U. Críticas CON respirador,395,76,179,7,1
-2021-12-13,Castilla y León,U. Críticas SIN respirador,27,0,0,0,0
-2021-12-13,Cataluña,Hospitalización convencional,23817,1291,19609,171,132
-2021-12-13,Cataluña,U. Críticas CON respirador,1013,242,553,25,12
+2021-12-13,Castilla La Mancha,Hospitalización convencional,4535,122,3126,19,21
+2021-12-13,Castilla La Mancha,U. Críticas CON respirador,263,31,90,1,0
+2021-12-13,Castilla La Mancha,U. Críticas SIN respirador,84,7,43,2,0
+2021-12-13,Castilla y León,Hospitalización convencional,6347,359,4658,48,41
+2021-12-13,Castilla y León,U. Críticas CON respirador,389,76,179,7,1
+2021-12-13,Castilla y León,U. Críticas SIN respirador,17,0,0,0,0
+2021-12-13,Cataluña,Hospitalización convencional,23096,1311,18952,171,132
+2021-12-13,Cataluña,U. Críticas CON respirador,969,236,523,25,12
 2021-12-13,Cataluña,U. Críticas SIN respirador,237,51,143,5,8
 2021-12-13,Ceuta,Hospitalización convencional,181,2,84,0,1
 2021-12-13,Ceuta,U. Críticas CON respirador,17,1,7,0,0
 2021-12-13,Ceuta,U. Críticas SIN respirador,0,0,0,0,0
-2021-12-13,Extremadura,Hospitalización convencional,2823,36,2008,4,5
+2021-12-13,Extremadura,Hospitalización convencional,2754,36,2008,4,5
 2021-12-13,Extremadura,U. Críticas CON respirador,165,9,54,0,1
-2021-12-13,Extremadura,U. Críticas SIN respirador,28,0,3,0,0
-2021-12-13,Galicia,Hospitalización convencional,7708,236,5547,31,41
-2021-12-13,Galicia,U. Críticas CON respirador,577,47,211,4,1
+2021-12-13,Extremadura,U. Críticas SIN respirador,17,0,3,0,0
+2021-12-13,Galicia,Hospitalización convencional,7632,236,5517,31,41
+2021-12-13,Galicia,U. Críticas CON respirador,573,47,211,4,1
 2021-12-13,Galicia,U. Críticas SIN respirador,172,2,18,0,0
 2021-12-13,La Rioja,Hospitalización convencional,670,16,545,2,2
 2021-12-13,La Rioja,U. Críticas CON respirador,49,11,24,0,1
@@ -28487,12 +28487,69 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2021-12-13,Melilla,Hospitalización convencional,165,9,80,3,2
 2021-12-13,Melilla,U. Críticas CON respirador,15,2,0,1,2
 2021-12-13,Melilla,U. Críticas SIN respirador,2,0,0,0,0
-2021-12-13,Murcia,Hospitalización convencional,3628,142,2669,19,21
-2021-12-13,Murcia,U. Críticas CON respirador,280,34,111,3,1
-2021-12-13,Murcia,U. Críticas SIN respirador,183,7,14,1,0
+2021-12-13,Murcia,Hospitalización convencional,3320,124,2404,19,21
+2021-12-13,Murcia,U. Críticas CON respirador,240,28,104,3,1
+2021-12-13,Murcia,U. Críticas SIN respirador,156,6,9,1,0
 2021-12-13,Navarra,Hospitalización convencional,1730,87,1132,6,12
 2021-12-13,Navarra,U. Críticas CON respirador,106,21,47,0,0
 2021-12-13,Navarra,U. Críticas SIN respirador,12,0,0,0,0
 2021-12-13,País Vasco,Hospitalización convencional,4642,338,3498,51,56
 2021-12-13,País Vasco,U. Críticas CON respirador,407,90,169,7,6
 2021-12-13,País Vasco,U. Críticas SIN respirador,21,0,19,0,0
+2021-12-14,Andalucía,Hospitalización convencional,16012,408,11082,74,69
+2021-12-14,Andalucía,U. Críticas CON respirador,1408,97,495,12,12
+2021-12-14,Andalucía,U. Críticas SIN respirador,444,10,95,3,0
+2021-12-14,Aragón,Hospitalización convencional,3963,276,2716,38,38
+2021-12-14,Aragón,U. Críticas CON respirador,205,37,97,1,2
+2021-12-14,Aragón,U. Críticas SIN respirador,15,0,9,0,0
+2021-12-14,Asturias,Hospitalización convencional,3215,151,2293,25,23
+2021-12-14,Asturias,U. Críticas CON respirador,249,38,65,5,1
+2021-12-14,Asturias,U. Críticas SIN respirador,48,0,6,0,0
+2021-12-14,Baleares,Hospitalización convencional,3164,178,2188,32,22
+2021-12-14,Baleares,U. Críticas CON respirador,272,40,94,5,1
+2021-12-14,Baleares,U. Críticas SIN respirador,58,9,18,1,0
+2021-12-14,C. Valenciana,Hospitalización convencional,10419,618,7750,92,82
+2021-12-14,C. Valenciana,U. Críticas CON respirador,691,136,325,15,5
+2021-12-14,C. Valenciana,U. Críticas SIN respirador,91,3,46,0,0
+2021-12-14,Canarias,Hospitalización convencional,5061,262,3780,34,20
+2021-12-14,Canarias,U. Críticas CON respirador,410,59,186,5,2
+2021-12-14,Canarias,U. Críticas SIN respirador,65,3,40,0,0
+2021-12-14,Cantabria,Hospitalización convencional,1369,56,1054,6,10
+2021-12-14,Cantabria,U. Críticas CON respirador,96,13,49,0,1
+2021-12-14,Cantabria,U. Críticas SIN respirador,22,0,4,0,0
+2021-12-14,Castilla La Mancha,Hospitalización convencional,4564,125,3201,17,18
+2021-12-14,Castilla La Mancha,U. Críticas CON respirador,259,31,93,3,1
+2021-12-14,Castilla La Mancha,U. Críticas SIN respirador,86,3,41,0,1
+2021-12-14,Castilla y León,Hospitalización convencional,6405,347,4714,38,40
+2021-12-14,Castilla y León,U. Críticas CON respirador,395,79,172,5,2
+2021-12-14,Castilla y León,U. Críticas SIN respirador,27,0,5,0,0
+2021-12-14,Cataluña,Hospitalización convencional,23877,1376,19546,173,132
+2021-12-14,Cataluña,U. Críticas CON respirador,995,253,547,18,14
+2021-12-14,Cataluña,U. Críticas SIN respirador,256,56,166,9,3
+2021-12-14,Ceuta,Hospitalización convencional,181,3,84,1,0
+2021-12-14,Ceuta,U. Críticas CON respirador,17,1,7,0,0
+2021-12-14,Ceuta,U. Críticas SIN respirador,0,0,0,0,0
+2021-12-14,Extremadura,Hospitalización convencional,2921,36,1979,4,5
+2021-12-14,Extremadura,U. Críticas CON respirador,165,8,63,0,0
+2021-12-14,Extremadura,U. Críticas SIN respirador,28,0,2,0,0
+2021-12-14,Galicia,Hospitalización convencional,7719,234,5648,38,29
+2021-12-14,Galicia,U. Críticas CON respirador,573,45,205,3,0
+2021-12-14,Galicia,U. Críticas SIN respirador,176,2,17,1,0
+2021-12-14,La Rioja,Hospitalización convencional,670,21,543,5,0
+2021-12-14,La Rioja,U. Críticas CON respirador,49,10,20,1,2
+2021-12-14,La Rioja,U. Críticas SIN respirador,4,0,0,0,0
+2021-12-14,Madrid,Hospitalización convencional,15884,597,13096,94,81
+2021-12-14,Madrid,U. Críticas CON respirador,1019,150,615,7,19
+2021-12-14,Madrid,U. Críticas SIN respirador,131,1,21,0,0
+2021-12-14,Melilla,Hospitalización convencional,165,9,75,0,0
+2021-12-14,Melilla,U. Críticas CON respirador,15,2,1,0,0
+2021-12-14,Melilla,U. Críticas SIN respirador,2,0,0,0,0
+2021-12-14,Murcia,Hospitalización convencional,3628,152,2627,29,18
+2021-12-14,Murcia,U. Críticas CON respirador,280,34,110,2,2
+2021-12-14,Murcia,U. Críticas SIN respirador,183,7,16,1,1
+2021-12-14,Navarra,Hospitalización convencional,1737,95,1147,16,9
+2021-12-14,Navarra,U. Críticas CON respirador,106,23,45,3,0
+2021-12-14,Navarra,U. Críticas SIN respirador,12,0,0,0,0
+2021-12-14,País Vasco,Hospitalización convencional,4619,299,3436,40,66
+2021-12-14,País Vasco,U. Críticas CON respirador,401,95,173,9,5
+2021-12-14,País Vasco,U. Críticas SIN respirador,21,0,19,0,0
