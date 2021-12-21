@@ -28,9 +28,10 @@ def create_json(date, lines, output_dir):
     vaccinated = []
     additional_dose = []
     suppliers = [(1, "Pfizer/BioNTech"),
-                 (2, "Moderna"),
-                 (3, "AstraZeneca/Oxford"),
-                 (4, "Janssen")]
+                 (2, "Pfizer/BioNTech-child"),
+                 (3, "Moderna"),
+                 (4, "AstraZeneca/Oxford"),
+                 (5, "Janssen")]
     csv_reader = csv.reader(lines)
     data = Data()
     data.load_iso_codes()
