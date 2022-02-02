@@ -1211,7 +1211,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-05-11,Extremadura,0,0,18,548
 2020-05-11,Galicia,0,0,64,1406
 2020-05-11,La Rioja,0,0,16,373
-2020-05-11,Madrid,0,0,381,4948
+2020-05-11,Madrid,0,0,381,4949
 2020-05-11,Melilla,0,0,1,14
 2020-05-11,Murcia,0,0,10,388
 2020-05-11,Navarra,0,0,40,801
@@ -1799,7 +1799,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-06-08,Extremadura,0,0,7,621
 2020-06-08,Galicia,0,0,3,1186
 2020-06-08,La Rioja,0,0,6,275
-2020-06-08,Madrid,0,0,119,4960
+2020-06-08,Madrid,0,0,119,4961
 2020-06-08,Melilla,0,0,0,39
 2020-06-08,Murcia,0,0,2,484
 2020-06-08,Navarra,0,0,6,605
@@ -2555,7 +2555,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-07-14,Extremadura,0,0,10,919
 2020-07-14,Galicia,0,0,9,2738
 2020-07-14,La Rioja,0,0,8,502
-2020-07-14,Madrid,0,0,92,6109
+2020-07-14,Madrid,0,0,92,6110
 2020-07-14,Melilla,0,0,1,30
 2020-07-14,Murcia,0,0,12,1132
 2020-07-14,Navarra,0,0,18,949
@@ -2618,7 +2618,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-07-17,Extremadura,0,0,16,883
 2020-07-17,Galicia,0,0,55,1950
 2020-07-17,La Rioja,0,0,10,465
-2020-07-17,Madrid,0,0,175,6020
+2020-07-17,Madrid,0,0,176,6021
 2020-07-17,Melilla,0,0,0,45
 2020-07-17,Murcia,0,0,32,894
 2020-07-17,Navarra,0,0,58,1547
@@ -2828,7 +2828,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-07-27,Extremadura,0,0,15,825
 2020-07-27,Galicia,0,0,7,1213
 2020-07-27,La Rioja,0,0,2,469
-2020-07-27,Madrid,0,0,195,4423
+2020-07-27,Madrid,0,0,196,4424
 2020-07-27,Melilla,0,0,1,21
 2020-07-27,Murcia,0,0,29,1162
 2020-07-27,Navarra,0,0,57,1312
@@ -2912,7 +2912,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-07-31,Extremadura,0,0,36,921
 2020-07-31,Galicia,0,0,40,1582
 2020-07-31,La Rioja,0,0,10,517
-2020-07-31,Madrid,0,0,678,8015
+2020-07-31,Madrid,0,0,679,8016
 2020-07-31,Melilla,0,0,5,25
 2020-07-31,Murcia,0,0,56,1305
 2020-07-31,Navarra,0,0,73,1704
@@ -3038,7 +3038,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-08-06,Extremadura,0,0,31,869
 2020-08-06,Galicia,0,0,77,1492
 2020-08-06,La Rioja,0,0,23,598
-2020-08-06,Madrid,0,0,1199,9550
+2020-08-06,Madrid,0,0,1200,9551
 2020-08-06,Melilla,0,0,8,61
 2020-08-06,Murcia,0,0,111,1699
 2020-08-06,Navarra,0,0,130,1501
@@ -3332,7 +3332,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-08-20,Extremadura,0,0,71,1933
 2020-08-20,Galicia,0,0,273,4298
 2020-08-20,La Rioja,0,0,82,966
-2020-08-20,Madrid,0,0,3509,16974
+2020-08-20,Madrid,0,0,3509,16975
 2020-08-20,Melilla,0,0,14,113
 2020-08-20,Murcia,0,0,178,2080
 2020-08-20,Navarra,0,0,118,2097
@@ -3584,7 +3584,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-09-01,Extremadura,0,0,147,2982
 2020-09-01,Galicia,0,0,282,4862
 2020-09-01,La Rioja,0,0,106,1593
-2020-09-01,Madrid,0,0,3160,18071
+2020-09-01,Madrid,0,0,3160,18072
 2020-09-01,Melilla,0,0,12,129
 2020-09-01,Murcia,0,0,366,3004
 2020-09-01,Navarra,0,0,172,3753
@@ -3605,7 +3605,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-09-02,Extremadura,0,5,186,2799
 2020-09-02,Galicia,0,0,299,5194
 2020-09-02,La Rioja,0,0,93,1444
-2020-09-02,Madrid,0,0,3834,19813
+2020-09-02,Madrid,1,1,3834,19813
 2020-09-02,Melilla,0,0,16,115
 2020-09-02,Murcia,0,0,486,2841
 2020-09-02,Navarra,0,0,141,3322
@@ -3647,7 +3647,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-09-04,Extremadura,0,0,206,2483
 2020-09-04,Galicia,0,0,283,4614
 2020-09-04,La Rioja,0,0,127,1906
-2020-09-04,Madrid,0,0,4340,22371
+2020-09-04,Madrid,0,0,4340,22372
 2020-09-04,Melilla,0,0,35,144
 2020-09-04,Murcia,0,0,459,3026
 2020-09-04,Navarra,0,0,224,2746
@@ -3731,7 +3731,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-09-08,Extremadura,0,0,169,1638
 2020-09-08,Galicia,0,0,307,4943
 2020-09-08,La Rioja,0,0,50,1622
-2020-09-08,Madrid,0,0,3723,18063
+2020-09-08,Madrid,0,0,3723,18064
 2020-09-08,Melilla,0,0,29,108
 2020-09-08,Murcia,0,0,430,3034
 2020-09-08,Navarra,0,0,229,2587
@@ -3920,7 +3920,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-09-17,Extremadura,0,0,399,2837
 2020-09-17,Galicia,0,0,349,5731
 2020-09-17,La Rioja,0,0,140,1048
-2020-09-17,Madrid,0,0,5915,27009
+2020-09-17,Madrid,1,1,5915,27009
 2020-09-17,Melilla,0,0,0,9
 2020-09-17,Murcia,0,0,686,3887
 2020-09-17,Navarra,0,0,312,3289
@@ -4046,7 +4046,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-09-23,Extremadura,0,0,336,3562
 2020-09-23,Galicia,0,0,294,5874
 2020-09-23,La Rioja,0,0,125,1252
-2020-09-23,Madrid,113,676,5184,25590
+2020-09-23,Madrid,113,676,5185,25591
 2020-09-23,Melilla,0,0,35,143
 2020-09-23,Murcia,0,0,522,3192
 2020-09-23,Navarra,0,0,427,3850
@@ -4088,7 +4088,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-09-25,Extremadura,0,3,297,2904
 2020-09-25,Galicia,0,0,326,6442
 2020-09-25,La Rioja,0,0,131,1573
-2020-09-25,Madrid,121,882,6390,34168
+2020-09-25,Madrid,121,882,6391,34169
 2020-09-25,Melilla,0,0,31,135
 2020-09-25,Murcia,1,1,472,3314
 2020-09-25,Navarra,0,0,420,3966
@@ -4235,7 +4235,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-10-02,Extremadura,1,20,365,3171
 2020-10-02,Galicia,0,1,259,6506
 2020-10-02,La Rioja,0,0,93,1295
-2020-10-02,Madrid,938,8150,4312,23187
+2020-10-02,Madrid,940,8152,4312,23188
 2020-10-02,Melilla,0,0,28,80
 2020-10-02,Murcia,5,23,466,3375
 2020-10-02,Navarra,6,24,302,3301
@@ -4277,7 +4277,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-10-04,Extremadura,0,6,147,1422
 2020-10-04,Galicia,0,3,291,5503
 2020-10-04,La Rioja,0,0,58,676
-2020-10-04,Madrid,185,1021,1261,5724
+2020-10-04,Madrid,186,1022,1261,5724
 2020-10-04,Melilla,0,0,12,50
 2020-10-04,Murcia,0,9,438,2623
 2020-10-04,Navarra,1,4,345,2696
@@ -4340,7 +4340,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-10-07,Extremadura,2,52,381,3099
 2020-10-07,Galicia,0,7,316,7188
 2020-10-07,La Rioja,3,60,140,1164
-2020-10-07,Madrid,1410,10559,2837,15046
+2020-10-07,Madrid,1411,10560,2837,15046
 2020-10-07,Melilla,0,0,29,98
 2020-10-07,Murcia,14,101,503,3788
 2020-10-07,Navarra,13,58,443,3583
@@ -4383,7 +4383,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-10-09,Galicia,1,17,415,5347
 2020-10-09,La Rioja,4,79,154,1039
 2020-10-09,Madrid,1766,12829,2177,11547
-2020-10-09,Melilla,0,0,36,167
+2020-10-09,Melilla,0,0,36,168
 2020-10-09,Murcia,49,238,442,2716
 2020-10-09,Navarra,12,77,532,2840
 2020-10-09,País Vasco,0,0,579,9593
@@ -4466,7 +4466,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-10-13,Extremadura,6,65,349,2606
 2020-10-13,Galicia,0,13,300,3983
 2020-10-13,La Rioja,7,105,190,858
-2020-10-13,Madrid,2082,13812,1254,8848
+2020-10-13,Madrid,2083,13814,1254,8848
 2020-10-13,Melilla,0,0,13,65
 2020-10-13,Murcia,55,257,372,2490
 2020-10-13,Navarra,13,85,433,3495
@@ -4571,7 +4571,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-10-18,Extremadura,34,82,230,1824
 2020-10-18,Galicia,2,19,430,5328
 2020-10-18,La Rioja,35,2526,77,590
-2020-10-18,Madrid,308,8102,506,2911
+2020-10-18,Madrid,308,8103,506,2911
 2020-10-18,Melilla,0,0,81,318
 2020-10-18,Murcia,15,65,346,1839
 2020-10-18,Navarra,17,72,575,3958
@@ -4592,7 +4592,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-10-19,Extremadura,30,214,324,2493
 2020-10-19,Galicia,3,63,388,4677
 2020-10-19,La Rioja,28,1250,133,982
-2020-10-19,Madrid,1805,18722,1076,8417
+2020-10-19,Madrid,1805,18722,1076,8418
 2020-10-19,Melilla,0,0,20,76
 2020-10-19,Murcia,104,544,353,2173
 2020-10-19,Navarra,15,146,652,4581
@@ -4634,7 +4634,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-10-21,Extremadura,42,239,417,2556
 2020-10-21,Galicia,7,126,460,5822
 2020-10-21,La Rioja,26,1207,251,1773
-2020-10-21,Madrid,1570,18807,2156,12001
+2020-10-21,Madrid,1571,18809,2156,12001
 2020-10-21,Melilla,0,0,65,219
 2020-10-21,Murcia,161,722,685,4102
 2020-10-21,Navarra,49,245,656,3850
@@ -4676,7 +4676,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-10-23,Extremadura,60,439,496,3228
 2020-10-23,Galicia,12,164,836,9228
 2020-10-23,La Rioja,18,1355,245,1435
-2020-10-23,Madrid,1479,21185,1711,10986
+2020-10-23,Madrid,1479,21186,1711,10986
 2020-10-23,Melilla,0,0,81,227
 2020-10-23,Murcia,230,837,862,4318
 2020-10-23,Navarra,38,279,544,4246
@@ -4739,7 +4739,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-10-26,Extremadura,57,426,383,2187
 2020-10-26,Galicia,19,286,547,5839
 2020-10-26,La Rioja,6,132,164,1053
-2020-10-26,Madrid,1765,21997,976,7775
+2020-10-26,Madrid,1765,21998,976,7775
 2020-10-26,Melilla,7,17,45,135
 2020-10-26,Murcia,280,1068,357,2479
 2020-10-26,Navarra,87,473,611,4062
@@ -4760,7 +4760,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-10-27,Extremadura,61,394,690,4175
 2020-10-27,Galicia,23,285,778,8736
 2020-10-27,La Rioja,17,114,187,1284
-2020-10-27,Madrid,1361,24017,2011,12448
+2020-10-27,Madrid,1361,24018,2011,12448
 2020-10-27,Melilla,3,66,62,186
 2020-10-27,Murcia,240,1056,831,4799
 2020-10-27,Navarra,81,458,516,4219
@@ -4802,7 +4802,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-10-29,Extremadura,91,534,539,3649
 2020-10-29,Galicia,20,206,702,8681
 2020-10-29,La Rioja,19,121,192,1033
-2020-10-29,Madrid,1338,22066,1792,10249
+2020-10-29,Madrid,1338,22066,1792,10250
 2020-10-29,Melilla,6,37,64,228
 2020-10-29,Murcia,260,1293,732,4313
 2020-10-29,Navarra,88,580,673,4380
@@ -4865,7 +4865,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-01,Extremadura,73,293,277,1895
 2020-11-01,Galicia,22,219,592,7167
 2020-11-01,La Rioja,14,103,89,647
-2020-11-01,Madrid,273,12801,433,3442
+2020-11-01,Madrid,273,12802,433,3442
 2020-11-01,Melilla,4,17,61,201
 2020-11-01,Murcia,36,115,573,3265
 2020-11-01,Navarra,78,341,522,4282
@@ -4928,7 +4928,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-04,Extremadura,102,647,651,4095
 2020-11-04,Galicia,23,269,810,8580
 2020-11-04,La Rioja,22,252,362,1599
-2020-11-04,Madrid,1369,21282,1991,11923
+2020-11-04,Madrid,1370,21283,1991,11923
 2020-11-04,Melilla,14,167,32,108
 2020-11-04,Murcia,309,1459,738,3890
 2020-11-04,Navarra,123,1060,407,3670
@@ -4949,8 +4949,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-05,Extremadura,102,645,776,4187
 2020-11-05,Galicia,25,305,807,8201
 2020-11-05,La Rioja,28,453,259,1386
-2020-11-05,Madrid,1244,20563,2016,11041
-2020-11-05,Melilla,15,168,36,98
+2020-11-05,Madrid,1244,20563,2016,11042
+2020-11-05,Melilla,15,168,36,99
 2020-11-05,Murcia,302,1332,878,4095
 2020-11-05,Navarra,129,2207,311,2642
 2020-11-05,País Vasco,245,1557,1282,13802
@@ -4970,7 +4970,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-06,Extremadura,92,916,794,4600
 2020-11-06,Galicia,29,273,747,7800
 2020-11-06,La Rioja,16,320,281,1425
-2020-11-06,Madrid,1326,23003,1560,10988
+2020-11-06,Madrid,1328,23005,1560,10988
 2020-11-06,Melilla,17,281,31,100
 2020-11-06,Murcia,286,1441,843,4883
 2020-11-06,Navarra,122,1941,286,2518
@@ -5054,7 +5054,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-10,Extremadura,75,782,674,4143
 2020-11-10,Galicia,17,272,540,6431
 2020-11-10,La Rioja,30,463,220,1629
-2020-11-10,Madrid,1419,22049,1285,10283
+2020-11-10,Madrid,1419,22050,1285,10283
 2020-11-10,Melilla,9,230,29,98
 2020-11-10,Murcia,278,1762,810,4458
 2020-11-10,Navarra,90,931,239,2929
@@ -5075,7 +5075,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-11,Extremadura,78,666,674,3755
 2020-11-11,Galicia,16,268,672,8669
 2020-11-11,La Rioja,40,408,198,1478
-2020-11-11,Madrid,1060,21924,1482,11191
+2020-11-11,Madrid,1061,21925,1482,11191
 2020-11-11,Melilla,12,181,59,128
 2020-11-11,Murcia,180,1421,833,4497
 2020-11-11,Navarra,97,2026,218,2175
@@ -5096,7 +5096,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-12,Extremadura,61,631,448,2769
 2020-11-12,Galicia,17,239,794,8271
 2020-11-12,La Rioja,23,175,215,1306
-2020-11-12,Madrid,1114,21275,1684,11182
+2020-11-12,Madrid,1114,21275,1684,11183
 2020-11-12,Melilla,7,166,23,94
 2020-11-12,Murcia,186,1552,663,4311
 2020-11-12,Navarra,101,1796,188,1968
@@ -5138,7 +5138,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-14,Extremadura,39,251,362,2368
 2020-11-14,Galicia,17,235,456,7493
 2020-11-14,La Rioja,8,84,91,928
-2020-11-14,Madrid,276,12234,878,7062
+2020-11-14,Madrid,276,12237,878,7062
 2020-11-14,Melilla,2,31,29,96
 2020-11-14,Murcia,73,411,479,3074
 2020-11-14,Navarra,29,260,159,1527
@@ -5180,7 +5180,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-16,Extremadura,63,660,319,2190
 2020-11-16,Galicia,16,285,476,7820
 2020-11-16,La Rioja,27,376,113,955
-2020-11-16,Madrid,1147,19956,810,8083
+2020-11-16,Madrid,1148,19961,810,8083
 2020-11-16,Melilla,11,220,15,55
 2020-11-16,Murcia,254,1818,343,2286
 2020-11-16,Navarra,73,947,141,1772
@@ -5243,7 +5243,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-19,Extremadura,70,567,287,2551
 2020-11-19,Galicia,16,278,822,6796
 2020-11-19,La Rioja,17,218,133,1056
-2020-11-19,Madrid,835,14877,1278,9581
+2020-11-19,Madrid,835,14877,1278,9582
 2020-11-19,Melilla,11,114,23,56
 2020-11-19,Murcia,140,1382,367,2451
 2020-11-19,Navarra,53,815,193,1914
@@ -5264,7 +5264,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-20,Extremadura,59,605,287,1893
 2020-11-20,Galicia,13,272,647,7076
 2020-11-20,La Rioja,21,187,158,1244
-2020-11-20,Madrid,828,13389,1094,10258
+2020-11-20,Madrid,829,13390,1094,10258
 2020-11-20,Melilla,9,145,22,61
 2020-11-20,Murcia,120,1395,290,2590
 2020-11-20,Navarra,41,702,148,1884
@@ -5285,7 +5285,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-21,Extremadura,39,253,127,1102
 2020-11-21,Galicia,18,231,470,6748
 2020-11-21,La Rioja,8,101,81,635
-2020-11-21,Madrid,189,6121,849,6621
+2020-11-21,Madrid,189,6122,849,6621
 2020-11-21,Melilla,3,62,21,89
 2020-11-21,Murcia,42,353,353,2415
 2020-11-21,Navarra,18,237,114,1158
@@ -5306,7 +5306,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-22,Extremadura,31,237,76,741
 2020-11-22,Galicia,13,197,425,5668
 2020-11-22,La Rioja,9,382,77,563
-2020-11-22,Madrid,147,4824,213,2571
+2020-11-22,Madrid,148,4825,213,2571
 2020-11-22,Melilla,1,49,16,55
 2020-11-22,Murcia,16,87,106,896
 2020-11-22,Navarra,18,229,129,1088
@@ -5369,7 +5369,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-25,Extremadura,40,433,196,1994
 2020-11-25,Galicia,19,346,575,7488
 2020-11-25,La Rioja,20,881,111,1009
-2020-11-25,Madrid,792,11189,1170,9937
+2020-11-25,Madrid,792,11190,1170,9937
 2020-11-25,Melilla,4,129,18,70
 2020-11-25,Murcia,82,1258,325,2830
 2020-11-25,Navarra,35,778,156,2694
@@ -5390,7 +5390,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-26,Extremadura,36,396,275,1673
 2020-11-26,Galicia,21,392,537,7598
 2020-11-26,La Rioja,11,883,90,888
-2020-11-26,Madrid,716,11644,1143,9900
+2020-11-26,Madrid,716,11644,1143,9901
 2020-11-26,Melilla,8,97,4,56
 2020-11-26,Murcia,60,1122,310,2364
 2020-11-26,Navarra,34,1750,185,1370
@@ -5453,7 +5453,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-11-29,Extremadura,19,159,56,945
 2020-11-29,Galicia,23,299,275,4678
 2020-11-29,La Rioja,3,76,69,584
-2020-11-29,Madrid,148,6923,210,2810
+2020-11-29,Madrid,148,6924,210,2810
 2020-11-29,Melilla,0,45,0,26
 2020-11-29,Murcia,8,97,51,836
 2020-11-29,Navarra,9,205,99,833
@@ -5516,7 +5516,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-02,Extremadura,62,519,154,1431
 2020-12-02,Galicia,33,510,445,5409
 2020-12-02,La Rioja,9,166,59,724
-2020-12-02,Madrid,764,17428,1215,10694
+2020-12-02,Madrid,764,17428,1216,10695
 2020-12-02,Melilla,8,105,5,45
 2020-12-02,Murcia,80,990,218,1841
 2020-12-02,Navarra,33,771,120,1127
@@ -5537,7 +5537,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-03,Extremadura,43,758,148,1558
 2020-12-03,Galicia,25,475,423,5619
 2020-12-03,La Rioja,7,155,66,725
-2020-12-03,Madrid,754,17104,1068,9021
+2020-12-03,Madrid,754,17104,1069,9022
 2020-12-03,Melilla,4,153,8,57
 2020-12-03,Murcia,76,890,113,1342
 2020-12-03,Navarra,20,322,87,1194
@@ -5579,7 +5579,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-05,Extremadura,18,192,75,565
 2020-12-05,Galicia,22,271,406,6140
 2020-12-05,La Rioja,5,99,56,582
-2020-12-05,Madrid,192,11202,712,5642
+2020-12-05,Madrid,192,11203,712,5642
 2020-12-05,Melilla,1,52,9,47
 2020-12-05,Murcia,27,268,179,1289
 2020-12-05,Navarra,16,246,76,891
@@ -5621,7 +5621,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-07,Extremadura,32,233,64,889
 2020-12-07,Galicia,31,460,304,7046
 2020-12-07,La Rioja,5,170,16,279
-2020-12-07,Madrid,320,9783,240,4750
+2020-12-07,Madrid,320,9784,240,4750
 2020-12-07,Melilla,3,48,1,74
 2020-12-07,Murcia,19,169,119,1417
 2020-12-07,Navarra,28,288,61,1140
@@ -5663,7 +5663,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-09,Extremadura,49,456,116,1410
 2020-12-09,Galicia,35,527,282,8654
 2020-12-09,La Rioja,11,608,40,606
-2020-12-09,Madrid,1320,16139,779,8127
+2020-12-09,Madrid,1320,16139,780,8128
 2020-12-09,Melilla,10,129,3,34
 2020-12-09,Murcia,92,1104,177,1751
 2020-12-09,Navarra,52,914,65,1219
@@ -5747,7 +5747,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-13,Extremadura,55,681,65,898
 2020-12-13,Galicia,49,365,291,7621
 2020-12-13,La Rioja,1,87,32,548
-2020-12-13,Madrid,292,6459,430,3925
+2020-12-13,Madrid,292,6460,430,3925
 2020-12-13,Melilla,0,31,2,23
 2020-12-13,Murcia,21,179,76,1025
 2020-12-13,Navarra,11,178,73,1202
@@ -5789,7 +5789,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-15,Extremadura,134,727,234,1729
 2020-12-15,Galicia,51,661,455,8799
 2020-12-15,La Rioja,10,616,68,919
-2020-12-15,Madrid,1206,12220,1414,13456
+2020-12-15,Madrid,1207,12221,1414,13456
 2020-12-15,Melilla,3,108,14,60
 2020-12-15,Murcia,85,1003,127,1683
 2020-12-15,Navarra,24,640,99,1600
@@ -5831,7 +5831,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-17,Extremadura,121,1193,207,1834
 2020-12-17,Galicia,47,670,437,6894
 2020-12-17,La Rioja,16,277,92,789
-2020-12-17,Madrid,1142,14311,1546,13032
+2020-12-17,Madrid,1142,14311,1546,13033
 2020-12-17,Melilla,10,129,7,47
 2020-12-17,Murcia,84,953,141,1478
 2020-12-17,Navarra,13,748,75,1595
@@ -5873,8 +5873,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-19,Extremadura,76,349,186,1745
 2020-12-19,Galicia,15,379,312,7296
 2020-12-19,La Rioja,1,114,94,860
-2020-12-19,Madrid,328,3492,1281,11666
-2020-12-19,Melilla,1,44,3,37
+2020-12-19,Madrid,328,3493,1281,11666
+2020-12-19,Melilla,1,45,3,37
 2020-12-19,Murcia,31,306,174,1886
 2020-12-19,Navarra,26,758,67,1150
 2020-12-19,País Vasco,108,1179,216,6748
@@ -5936,7 +5936,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-22,Extremadura,110,678,330,2278
 2020-12-22,Galicia,51,700,374,9082
 2020-12-22,La Rioja,20,657,71,903
-2020-12-22,Madrid,1325,13733,1652,15038
+2020-12-22,Madrid,1326,13735,1652,15038
 2020-12-22,Melilla,4,69,9,42
 2020-12-22,Murcia,127,1083,160,1324
 2020-12-22,Navarra,35,731,68,2089
@@ -5978,7 +5978,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-24,Extremadura,130,493,138,1274
 2020-12-24,Galicia,61,647,386,9354
 2020-12-24,La Rioja,4,219,71,693
-2020-12-24,Madrid,407,6124,1655,12623
+2020-12-24,Madrid,407,6126,1655,12623
 2020-12-24,Melilla,2,46,1,23
 2020-12-24,Murcia,93,645,180,1733
 2020-12-24,Navarra,33,782,106,1456
@@ -6020,7 +6020,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-26,Extremadura,103,488,268,1889
 2020-12-26,Galicia,37,391,258,4075
 2020-12-26,La Rioja,2,98,49,458
-2020-12-26,Madrid,472,5582,500,5257
+2020-12-26,Madrid,473,5584,500,5257
 2020-12-26,Melilla,2,40,4,27
 2020-12-26,Murcia,66,503,161,1260
 2020-12-26,Navarra,20,325,63,1054
@@ -6062,7 +6062,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-28,Extremadura,198,856,388,1981
 2020-12-28,Galicia,66,656,342,4388
 2020-12-28,La Rioja,11,418,43,568
-2020-12-28,Madrid,2374,16327,1288,9453
+2020-12-28,Madrid,2375,16329,1288,9453
 2020-12-28,Melilla,10,111,9,32
 2020-12-28,Murcia,186,1360,223,2002
 2020-12-28,Navarra,48,803,89,1262
@@ -6083,7 +6083,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-29,Extremadura,282,1046,565,2674
 2020-12-29,Galicia,61,724,451,6298
 2020-12-29,La Rioja,19,554,135,960
-2020-12-29,Madrid,2127,16962,2336,13039
+2020-12-29,Madrid,2128,16963,2336,13039
 2020-12-29,Melilla,4,82,13,74
 2020-12-29,Murcia,242,1667,278,2051
 2020-12-29,Navarra,62,781,101,1269
@@ -6104,7 +6104,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2020-12-30,Extremadura,358,1292,571,3059
 2020-12-30,Galicia,80,777,529,6762
 2020-12-30,La Rioja,13,399,190,1088
-2020-12-30,Madrid,2491,20740,2646,14410
+2020-12-30,Madrid,2492,20741,2646,14410
 2020-12-30,Melilla,6,81,10,44
 2020-12-30,Murcia,267,1652,300,2275
 2020-12-30,Navarra,36,887,136,1851
@@ -6167,7 +6167,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-02,Extremadura,307,1463,308,1766
 2021-01-02,Galicia,52,536,286,4303
 2021-01-02,La Rioja,5,258,46,511
-2021-01-02,Madrid,699,5114,569,4543
+2021-01-02,Madrid,701,5116,570,4545
 2021-01-02,Melilla,5,80,5,29
 2021-01-02,Murcia,239,1169,293,1446
 2021-01-02,Navarra,23,319,65,751
@@ -6188,7 +6188,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-03,Extremadura,271,1092,294,1495
 2021-01-03,Galicia,55,512,384,4082
 2021-01-03,La Rioja,6,129,92,883
-2021-01-03,Madrid,707,4113,714,4562
+2021-01-03,Madrid,744,4150,715,4564
 2021-01-03,Melilla,15,67,7,23
 2021-01-03,Murcia,65,338,272,1656
 2021-01-03,Navarra,29,234,76,681
@@ -6209,7 +6209,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-04,Extremadura,344,1696,500,2478
 2021-01-04,Galicia,78,838,412,4736
 2021-01-04,La Rioja,15,425,102,800
-2021-01-04,Madrid,3607,18697,1502,9616
+2021-01-04,Madrid,3609,18699,1502,9620
 2021-01-04,Melilla,17,155,15,50
 2021-01-04,Murcia,519,1854,413,2361
 2021-01-04,Navarra,62,777,127,1893
@@ -6230,7 +6230,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-05,Extremadura,546,2357,614,3432
 2021-01-05,Galicia,105,885,649,8249
 2021-01-05,La Rioja,23,427,189,1075
-2021-01-05,Madrid,3783,19405,2609,13468
+2021-01-05,Madrid,3784,19406,2609,13470
 2021-01-05,Melilla,22,145,12,47
 2021-01-05,Murcia,693,2862,618,3015
 2021-01-05,Navarra,59,689,137,1427
@@ -6293,7 +6293,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-08,Extremadura,623,3883,664,3640
 2021-01-08,Galicia,135,1454,791,9030
 2021-01-08,La Rioja,29,190,274,1376
-2021-01-08,Madrid,3114,16336,2528,14797
+2021-01-08,Madrid,3115,16337,2528,14797
 2021-01-08,Melilla,20,176,5,61
 2021-01-08,Murcia,933,3788,715,3552
 2021-01-08,Navarra,79,1137,126,2267
@@ -6314,7 +6314,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-09,Extremadura,467,2412,597,2880
 2021-01-09,Galicia,77,603,656,7739
 2021-01-09,La Rioja,11,90,191,1016
-2021-01-09,Madrid,93,575,2221,10553
+2021-01-09,Madrid,94,576,2221,10553
 2021-01-09,Melilla,6,55,12,59
 2021-01-09,Murcia,620,2448,773,4335
 2021-01-09,Navarra,37,206,143,1536
@@ -6377,7 +6377,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-12,Extremadura,626,3490,817,3850
 2021-01-12,Galicia,141,1386,1085,10067
 2021-01-12,La Rioja,29,589,311,1763
-2021-01-12,Madrid,3855,12580,1291,8445
+2021-01-12,Madrid,3856,12581,1291,8445
 2021-01-12,Melilla,28,171,15,85
 2021-01-12,Murcia,1180,4553,1060,5696
 2021-01-12,Navarra,60,746,181,1990
@@ -6419,7 +6419,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-14,Extremadura,600,3191,727,4177
 2021-01-14,Galicia,179,1689,1045,9586
 2021-01-14,La Rioja,31,297,228,1014
-2021-01-14,Madrid,4429,16457,1596,9140
+2021-01-14,Madrid,4432,16460,1598,9144
 2021-01-14,Melilla,21,185,13,79
 2021-01-14,Murcia,1035,4692,930,4853
 2021-01-14,Navarra,99,877,175,2324
@@ -6440,7 +6440,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-15,Extremadura,697,4537,877,4214
 2021-01-15,Galicia,236,1999,1208,9339
 2021-01-15,La Rioja,50,195,370,1509
-2021-01-15,Madrid,4298,16355,2052,10722
+2021-01-15,Madrid,4298,16355,2053,10726
 2021-01-15,Melilla,29,166,16,83
 2021-01-15,Murcia,917,4365,996,5062
 2021-01-15,Navarra,113,1181,123,2057
@@ -6461,7 +6461,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-16,Extremadura,359,1825,551,2541
 2021-01-16,Galicia,178,904,1254,9787
 2021-01-16,La Rioja,18,107,374,1657
-2021-01-16,Madrid,788,3062,2750,12227
+2021-01-16,Madrid,789,3063,2750,12227
 2021-01-16,Melilla,5,75,20,78
 2021-01-16,Murcia,512,2238,1064,5553
 2021-01-16,Navarra,59,323,133,1723
@@ -6482,7 +6482,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-17,Extremadura,392,1741,449,2252
 2021-01-17,Galicia,144,1208,902,8472
 2021-01-17,La Rioja,15,123,63,507
-2021-01-17,Madrid,739,2436,967,4656
+2021-01-17,Madrid,740,2437,967,4656
 2021-01-17,Melilla,11,61,12,38
 2021-01-17,Murcia,224,1138,884,4963
 2021-01-17,Navarra,77,366,159,1462
@@ -6503,7 +6503,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-18,Extremadura,709,3856,729,3249
 2021-01-18,Galicia,282,2296,1024,10731
 2021-01-18,La Rioja,46,392,250,1338
-2021-01-18,Madrid,4211,16966,1890,10976
+2021-01-18,Madrid,4211,16966,1892,10982
 2021-01-18,Melilla,34,242,10,66
 2021-01-18,Murcia,1044,4493,721,4553
 2021-01-18,Navarra,136,1263,154,1817
@@ -6524,7 +6524,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-19,Extremadura,482,4163,874,4159
 2021-01-19,Galicia,291,2371,1191,11207
 2021-01-19,La Rioja,42,661,437,2106
-2021-01-19,Madrid,3628,16388,3960,17468
+2021-01-19,Madrid,3628,16388,3960,17469
 2021-01-19,Melilla,35,211,29,85
 2021-01-19,Murcia,898,4491,1171,6626
 2021-01-19,Navarra,91,997,171,2530
@@ -6545,7 +6545,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-20,Extremadura,461,3851,830,4312
 2021-01-20,Galicia,501,3229,1600,13020
 2021-01-20,La Rioja,22,264,432,1956
-2021-01-20,Madrid,3237,17120,5029,19332
+2021-01-20,Madrid,3237,17120,5032,19337
 2021-01-20,Melilla,32,228,39,103
 2021-01-20,Murcia,742,4114,1199,6990
 2021-01-20,Navarra,85,1049,187,2257
@@ -6566,7 +6566,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-21,Extremadura,429,3753,725,3980
 2021-01-21,Galicia,380,2732,1632,11699
 2021-01-21,La Rioja,51,2227,358,1557
-2021-01-21,Madrid,3216,19138,4663,18833
+2021-01-21,Madrid,3216,19138,4664,18834
 2021-01-21,Melilla,44,229,16,78
 2021-01-21,Murcia,687,3824,869,4593
 2021-01-21,Navarra,99,1060,270,2765
@@ -6587,7 +6587,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-22,Extremadura,441,3558,700,3791
 2021-01-22,Galicia,467,3509,1570,12301
 2021-01-22,La Rioja,49,864,390,1544
-2021-01-22,Madrid,3467,23218,3639,16340
+2021-01-22,Madrid,3467,23218,3640,16345
 2021-01-22,Melilla,31,232,24,115
 2021-01-22,Murcia,542,3435,1017,5625
 2021-01-22,Navarra,131,1502,214,2132
@@ -6608,7 +6608,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-23,Extremadura,260,1046,452,3117
 2021-01-23,Galicia,214,1592,1319,11602
 2021-01-23,La Rioja,13,148,176,1202
-2021-01-23,Madrid,839,6188,3411,15044
+2021-01-23,Madrid,839,6188,3411,15047
 2021-01-23,Melilla,17,116,13,55
 2021-01-23,Murcia,329,2016,1090,5738
 2021-01-23,Navarra,56,376,159,2265
@@ -6650,7 +6650,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-25,Extremadura,336,3128,638,3398
 2021-01-25,Galicia,409,4903,1144,10474
 2021-01-25,La Rioja,45,810,290,1446
-2021-01-25,Madrid,4031,25498,2120,11463
+2021-01-25,Madrid,4031,25498,2122,11476
 2021-01-25,Melilla,36,227,15,72
 2021-01-25,Murcia,686,3922,807,4501
 2021-01-25,Navarra,116,1255,218,2169
@@ -6671,7 +6671,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-26,Extremadura,257,3488,704,4452
 2021-01-26,Galicia,373,5018,1548,13494
 2021-01-26,La Rioja,36,990,340,1692
-2021-01-26,Madrid,3333,25354,4260,19169
+2021-01-26,Madrid,3333,25354,4260,19171
 2021-01-26,Melilla,35,248,18,93
 2021-01-26,Murcia,538,3772,973,5576
 2021-01-26,Navarra,88,1113,156,2728
@@ -6692,7 +6692,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-27,Extremadura,250,5751,634,3578
 2021-01-27,Galicia,329,4678,1359,12112
 2021-01-27,La Rioja,49,552,436,1973
-2021-01-27,Madrid,3187,27243,3990,18961
+2021-01-27,Madrid,3187,27243,3990,18962
 2021-01-27,Melilla,32,213,33,117
 2021-01-27,Murcia,421,3389,738,5430
 2021-01-27,Navarra,83,1227,195,2241
@@ -6713,7 +6713,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-28,Extremadura,232,7281,606,3319
 2021-01-28,Galicia,302,5369,1511,13912
 2021-01-28,La Rioja,38,415,267,1572
-2021-01-28,Madrid,2975,27947,3918,18847
+2021-01-28,Madrid,2975,27947,3918,18850
 2021-01-28,Melilla,28,230,20,98
 2021-01-28,Murcia,327,2751,837,4723
 2021-01-28,Navarra,65,1145,224,2657
@@ -6734,7 +6734,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-29,Extremadura,172,4504,628,3752
 2021-01-29,Galicia,299,5928,1482,13323
 2021-01-29,La Rioja,36,437,365,2070
-2021-01-29,Madrid,2993,29843,3592,19486
+2021-01-29,Madrid,2993,29843,3593,19490
 2021-01-29,Melilla,27,233,25,125
 2021-01-29,Murcia,287,2395,704,4191
 2021-01-29,Navarra,102,1084,165,2839
@@ -6755,7 +6755,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-30,Extremadura,73,1494,295,2234
 2021-01-30,Galicia,210,10199,1143,11522
 2021-01-30,La Rioja,12,74,136,778
-2021-01-30,Madrid,587,9361,2568,14061
+2021-01-30,Madrid,588,9363,2568,14061
 2021-01-30,Melilla,22,121,32,111
 2021-01-30,Murcia,157,1316,687,4649
 2021-01-30,Navarra,52,602,184,2374
@@ -6776,7 +6776,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-01-31,Extremadura,97,1505,175,1360
 2021-01-31,Galicia,134,8475,969,12722
 2021-01-31,La Rioja,16,182,153,1038
-2021-01-31,Madrid,560,8918,1141,5842
+2021-01-31,Madrid,561,8919,1141,5842
 2021-01-31,Melilla,11,90,15,59
 2021-01-31,Murcia,28,250,239,1741
 2021-01-31,Navarra,49,1397,151,1786
@@ -6797,7 +6797,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-02-01,Extremadura,160,2854,476,2573
 2021-02-01,Galicia,254,10971,921,11684
 2021-02-01,La Rioja,32,603,106,927
-2021-02-01,Madrid,3036,27564,1869,12343
+2021-02-01,Madrid,3036,27564,1869,12346
 2021-02-01,Melilla,24,222,13,76
 2021-02-01,Murcia,241,2458,401,3112
 2021-02-01,Navarra,91,1269,193,2348
@@ -6839,7 +6839,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-02-03,Extremadura,75,2431,383,2565
 2021-02-03,Galicia,211,14042,1265,12280
 2021-02-03,La Rioja,38,620,241,1210
-2021-02-03,Madrid,2249,27491,3630,19561
+2021-02-03,Madrid,2249,27491,3630,19562
 2021-02-03,Melilla,28,195,24,86
 2021-02-03,Murcia,172,2020,486,3484
 2021-02-03,Navarra,65,1231,224,2899
@@ -6860,8 +6860,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-02-04,Extremadura,81,3051,343,2485
 2021-02-04,Galicia,181,10920,1034,11702
 2021-02-04,La Rioja,36,909,146,916
-2021-02-04,Madrid,2009,29025,3205,17203
-2021-02-04,Melilla,11,219,26,90
+2021-02-04,Madrid,2010,29026,3205,17207
+2021-02-04,Melilla,11,220,26,90
 2021-02-04,Murcia,167,1868,423,2656
 2021-02-04,Navarra,62,1107,220,2386
 2021-02-04,País Vasco,409,4623,530,9044
@@ -7008,7 +7008,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-02-11,Galicia,73,10714,681,9516
 2021-02-11,La Rioja,19,478,52,491
 2021-02-11,Madrid,1248,25485,2384,14618
-2021-02-11,Melilla,20,157,18,92
+2021-02-11,Melilla,20,158,18,92
 2021-02-11,Murcia,82,1239,228,2177
 2021-02-11,Navarra,39,979,94,1603
 2021-02-11,País Vasco,296,3987,385,8058
@@ -7091,7 +7091,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-02-15,Extremadura,14,1360,149,1660
 2021-02-15,Galicia,66,6122,465,6155
 2021-02-15,La Rioja,30,767,32,486
-2021-02-15,Madrid,1544,22677,1079,10104
+2021-02-15,Madrid,1544,22677,1079,10106
 2021-02-15,Melilla,14,175,9,47
 2021-02-15,Murcia,88,1352,149,1779
 2021-02-15,Navarra,35,947,66,1077
@@ -7133,7 +7133,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-02-17,Extremadura,14,1001,81,1180
 2021-02-17,Galicia,65,5495,422,7555
 2021-02-17,La Rioja,44,798,31,556
-2021-02-17,Madrid,1078,16924,1862,14157
+2021-02-17,Madrid,1078,16924,1862,14159
 2021-02-17,Melilla,10,107,6,55
 2021-02-17,Murcia,62,1209,136,1704
 2021-02-17,Navarra,25,938,89,1214
@@ -7154,7 +7154,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-02-18,Extremadura,16,1012,92,1142
 2021-02-18,Galicia,57,4712,412,7791
 2021-02-18,La Rioja,5,222,30,447
-2021-02-18,Madrid,1041,19500,1493,12142
+2021-02-18,Madrid,1041,19500,1493,12143
 2021-02-18,Melilla,5,95,17,68
 2021-02-18,Murcia,57,1053,116,1359
 2021-02-18,Navarra,24,901,61,1101
@@ -7175,7 +7175,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-02-19,Extremadura,12,881,79,1548
 2021-02-19,Galicia,46,5476,448,7515
 2021-02-19,La Rioja,31,553,25,457
-2021-02-19,Madrid,970,18091,1445,12486
+2021-02-19,Madrid,971,18092,1445,12487
 2021-02-19,Melilla,17,156,15,68
 2021-02-19,Murcia,58,971,132,1296
 2021-02-19,Navarra,24,740,75,1076
@@ -7238,7 +7238,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-02-22,Extremadura,17,959,65,1181
 2021-02-22,Galicia,40,3014,323,5687
 2021-02-22,La Rioja,11,509,22,444
-2021-02-22,Madrid,1205,17289,835,9738
+2021-02-22,Madrid,1205,17289,835,9739
 2021-02-22,Melilla,17,145,5,55
 2021-02-22,Murcia,41,1187,123,1843
 2021-02-22,Navarra,20,981,65,1116
@@ -7280,7 +7280,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-02-24,Extremadura,27,1046,37,1461
 2021-02-24,Galicia,52,2106,295,6339
 2021-02-24,La Rioja,20,272,12,562
-2021-02-24,Madrid,846,15771,1400,12513
+2021-02-24,Madrid,846,15771,1400,12514
 2021-02-24,Melilla,9,129,7,37
 2021-02-24,Murcia,42,1041,103,1559
 2021-02-24,Navarra,22,848,88,2521
@@ -7301,7 +7301,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-02-25,Extremadura,18,920,36,1344
 2021-02-25,Galicia,42,1711,361,6037
 2021-02-25,La Rioja,26,465,15,409
-2021-02-25,Madrid,732,13561,1251,10889
+2021-02-25,Madrid,732,13561,1251,10890
 2021-02-25,Melilla,8,121,4,49
 2021-02-25,Murcia,40,967,90,1224
 2021-02-25,Navarra,12,771,54,1057
@@ -7322,7 +7322,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-02-26,Extremadura,12,944,37,1365
 2021-02-26,Galicia,26,2383,234,5586
 2021-02-26,La Rioja,14,306,20,455
-2021-02-26,Madrid,872,15773,1028,11541
+2021-02-26,Madrid,872,15773,1028,11542
 2021-02-26,Melilla,8,126,7,60
 2021-02-26,Murcia,41,912,86,1431
 2021-02-26,Navarra,21,729,51,1406
@@ -7364,7 +7364,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-02-28,Extremadura,5,428,15,612
 2021-02-28,Galicia,20,2114,118,4216
 2021-02-28,La Rioja,0,24,17,379
-2021-02-28,Madrid,184,4486,271,3180
+2021-02-28,Madrid,185,4487,271,3180
 2021-02-28,Melilla,4,56,1,40
 2021-02-28,Murcia,14,171,62,905
 2021-02-28,Navarra,17,296,29,618
@@ -7385,7 +7385,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-03-01,Extremadura,14,807,54,1594
 2021-03-01,Galicia,35,10747,125,5484
 2021-03-01,La Rioja,26,783,12,360
-2021-03-01,Madrid,1027,15209,717,9368
+2021-03-01,Madrid,1027,15213,717,9369
 2021-03-01,Melilla,21,162,4,46
 2021-03-01,Murcia,47,1051,64,1443
 2021-03-01,Navarra,26,936,52,1092
@@ -7406,7 +7406,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-03-02,Extremadura,7,1015,48,1356
 2021-03-02,Galicia,36,10095,238,7940
 2021-03-02,La Rioja,30,545,19,493
-2021-03-02,Madrid,772,14350,1171,12680
+2021-03-02,Madrid,772,14350,1171,12681
 2021-03-02,Melilla,15,130,12,73
 2021-03-02,Murcia,45,1062,77,1907
 2021-03-02,Navarra,20,848,50,1438
@@ -7469,7 +7469,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-03-05,Extremadura,14,1112,31,1517
 2021-03-05,Galicia,24,3557,191,6946
 2021-03-05,La Rioja,19,330,7,362
-2021-03-05,Madrid,769,14629,1100,11637
+2021-03-05,Madrid,770,14630,1100,11639
 2021-03-05,Melilla,17,153,7,65
 2021-03-05,Murcia,38,895,50,1073
 2021-03-05,Navarra,17,724,59,1222
@@ -7616,7 +7616,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-03-12,Extremadura,20,751,132,3012
 2021-03-12,Galicia,29,1902,167,5803
 2021-03-12,La Rioja,30,507,24,447
-2021-03-12,Madrid,828,13535,1075,12162
+2021-03-12,Madrid,828,13535,1075,12163
 2021-03-12,Melilla,17,156,4,61
 2021-03-12,Murcia,32,801,32,1069
 2021-03-12,Navarra,21,775,47,1333
@@ -7679,7 +7679,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-03-15,Extremadura,20,1106,110,2041
 2021-03-15,Galicia,24,2362,146,5618
 2021-03-15,La Rioja,9,364,5,416
-2021-03-15,Madrid,1028,14624,565,9390
+2021-03-15,Madrid,1028,14628,565,9391
 2021-03-15,Melilla,31,195,7,64
 2021-03-15,Murcia,39,994,60,1807
 2021-03-15,Navarra,37,1082,51,1351
@@ -7742,7 +7742,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-03-18,Extremadura,25,883,85,2966
 2021-03-18,Galicia,25,1726,212,5815
 2021-03-18,La Rioja,32,392,28,529
-2021-03-18,Madrid,939,13676,965,10890
+2021-03-18,Madrid,939,13677,965,10890
 2021-03-18,Melilla,19,163,5,82
 2021-03-18,Murcia,34,823,50,874
 2021-03-18,Navarra,39,949,99,1243
@@ -7826,7 +7826,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-03-22,Extremadura,22,1719,82,2263
 2021-03-22,Galicia,31,2228,145,4652
 2021-03-22,La Rioja,11,589,7,435
-2021-03-22,Madrid,1316,14439,548,10311
+2021-03-22,Madrid,1316,14439,548,10314
 2021-03-22,Melilla,17,190,2,41
 2021-03-22,Murcia,35,1000,40,1455
 2021-03-22,Navarra,54,1245,92,1329
@@ -7868,7 +7868,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-03-24,Extremadura,24,1004,82,2554
 2021-03-24,Galicia,14,1755,159,5649
 2021-03-24,La Rioja,31,599,22,552
-2021-03-24,Madrid,1116,14283,1213,13558
+2021-03-24,Madrid,1117,14284,1213,13558
 2021-03-24,Melilla,11,153,11,94
 2021-03-24,Murcia,25,926,45,1279
 2021-03-24,Navarra,66,1226,124,2339
@@ -7973,7 +7973,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-03-29,Extremadura,24,987,95,2010
 2021-03-29,Galicia,23,2128,117,4977
 2021-03-29,La Rioja,33,503,16,496
-2021-03-29,Madrid,1405,14343,748,8854
+2021-03-29,Madrid,1405,14343,748,8855
 2021-03-29,Melilla,22,149,4,42
 2021-03-29,Murcia,58,993,77,1306
 2021-03-29,Navarra,98,1359,103,1646
@@ -7994,7 +7994,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-03-30,Extremadura,31,1128,122,2718
 2021-03-30,Galicia,33,1928,201,5424
 2021-03-30,La Rioja,34,393,37,452
-2021-03-30,Madrid,1223,13339,1352,11396
+2021-03-30,Madrid,1223,13339,1352,11397
 2021-03-30,Melilla,22,159,4,65
 2021-03-30,Murcia,46,868,64,954
 2021-03-30,Navarra,75,1293,115,1723
@@ -8036,7 +8036,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-04-01,Extremadura,32,1025,136,2147
 2021-04-01,Galicia,16,1220,130,4354
 2021-04-01,La Rioja,25,392,24,270
-2021-04-01,Madrid,415,4811,933,6989
+2021-04-01,Madrid,416,4812,933,6989
 2021-04-01,Melilla,9,88,11,62
 2021-04-01,Murcia,14,265,26,538
 2021-04-01,Navarra,65,783,102,1182
@@ -8141,7 +8141,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-04-06,Extremadura,28,1000,104,2284
 2021-04-06,Galicia,26,1876,170,6914
 2021-04-06,La Rioja,26,526,32,473
-2021-04-06,Madrid,1612,14364,1730,14617
+2021-04-06,Madrid,1614,14366,1730,14617
 2021-04-06,Melilla,23,194,25,94
 2021-04-06,Murcia,33,721,44,1051
 2021-04-06,Navarra,93,1060,154,1953
@@ -8183,7 +8183,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-04-08,Extremadura,35,1666,114,1628
 2021-04-08,Galicia,26,1688,170,7463
 2021-04-08,La Rioja,49,382,18,303
-2021-04-08,Madrid,1327,14893,1638,12874
+2021-04-08,Madrid,1327,14894,1638,12874
 2021-04-08,Melilla,19,185,13,85
 2021-04-08,Murcia,41,862,61,1013
 2021-04-08,Navarra,103,1897,216,1828
@@ -8204,7 +8204,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-04-09,Extremadura,25,1379,126,2015
 2021-04-09,Galicia,27,1964,185,6361
 2021-04-09,La Rioja,50,361,25,353
-2021-04-09,Madrid,1485,15373,1385,13775
+2021-04-09,Madrid,1487,15375,1385,13775
 2021-04-09,Melilla,22,156,18,76
 2021-04-09,Murcia,27,754,33,924
 2021-04-09,Navarra,85,1033,169,1903
@@ -8351,7 +8351,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-04-16,Extremadura,29,2068,110,2302
 2021-04-16,Galicia,27,2705,176,6042
 2021-04-16,La Rioja,37,515,44,516
-2021-04-16,Madrid,1546,16005,1414,14056
+2021-04-16,Madrid,1547,16006,1414,14056
 2021-04-16,Melilla,12,165,19,81
 2021-04-16,Murcia,35,788,36,1055
 2021-04-16,Navarra,57,858,135,1433
@@ -8750,7 +8750,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-05-05,Extremadura,12,1422,73,1906
 2021-05-05,Galicia,29,2013,232,6586
 2021-05-05,La Rioja,27,421,23,557
-2021-05-05,Madrid,1119,14045,1311,14221
+2021-05-05,Madrid,1120,14046,1311,14221
 2021-05-05,Melilla,9,112,9,61
 2021-05-05,Murcia,26,985,50,1534
 2021-05-05,Navarra,47,1078,131,1858
@@ -8960,7 +8960,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-05-15,Extremadura,15,617,32,1466
 2021-05-15,Galicia,20,1259,141,6313
 2021-05-15,La Rioja,18,190,7,322
-2021-05-15,Madrid,179,3555,670,10094
+2021-05-15,Madrid,180,3556,670,10094
 2021-05-15,Melilla,2,100,4,60
 2021-05-15,Murcia,15,463,44,1532
 2021-05-15,Navarra,22,343,90,1054
@@ -9002,7 +9002,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-05-17,Extremadura,12,1372,55,1752
 2021-05-17,Galicia,24,1568,87,4813
 2021-05-17,La Rioja,15,261,19,546
-2021-05-17,Madrid,989,14207,535,10710
+2021-05-17,Madrid,990,14208,535,10710
 2021-05-17,Melilla,9,166,3,52
 2021-05-17,Murcia,62,1185,38,1483
 2021-05-17,Navarra,31,1123,60,1310
@@ -9044,7 +9044,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-05-19,Extremadura,21,1626,53,1459
 2021-05-19,Galicia,26,1914,214,5530
 2021-05-19,La Rioja,15,274,22,602
-2021-05-19,Madrid,711,12778,876,12767
+2021-05-19,Madrid,713,12780,876,12767
 2021-05-19,Melilla,6,134,4,49
 2021-05-19,Murcia,42,982,66,1489
 2021-05-19,Navarra,22,986,77,1629
@@ -9065,7 +9065,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-05-20,Extremadura,19,1671,57,1434
 2021-05-20,Galicia,29,1912,192,5807
 2021-05-20,La Rioja,37,416,19,414
-2021-05-20,Madrid,697,12313,852,12135
+2021-05-20,Madrid,703,12319,852,12135
 2021-05-20,Melilla,8,141,3,88
 2021-05-20,Murcia,40,962,77,1390
 2021-05-20,Navarra,23,941,85,1052
@@ -9086,7 +9086,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-05-21,Extremadura,21,1221,64,1837
 2021-05-21,Galicia,20,2192,175,5369
 2021-05-21,La Rioja,25,270,9,425
-2021-05-21,Madrid,795,12453,785,12629
+2021-05-21,Madrid,798,12456,785,12629
 2021-05-21,Melilla,5,127,2,46
 2021-05-21,Murcia,41,920,50,1206
 2021-05-21,Navarra,31,828,58,1559
@@ -9128,7 +9128,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-05-23,Extremadura,18,571,29,760
 2021-05-23,Galicia,14,1185,80,5086
 2021-05-23,La Rioja,25,518,3,208
-2021-05-23,Madrid,181,3194,185,4246
+2021-05-23,Madrid,182,3195,185,4246
 2021-05-23,Melilla,3,55,3,44
 2021-05-23,Murcia,5,155,26,795
 2021-05-23,Navarra,12,366,59,913
@@ -9149,7 +9149,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-05-24,Extremadura,21,1568,67,1554
 2021-05-24,Galicia,27,2418,118,5084
 2021-05-24,La Rioja,34,533,24,633
-2021-05-24,Madrid,829,13132,367,10232
+2021-05-24,Madrid,839,13142,367,10232
 2021-05-24,Melilla,13,182,4,70
 2021-05-24,Murcia,51,1006,67,1691
 2021-05-24,Navarra,28,1188,62,1086
@@ -9170,7 +9170,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-05-25,Extremadura,21,1620,68,1717
 2021-05-25,Galicia,24,2156,149,6166
 2021-05-25,La Rioja,42,575,44,681
-2021-05-25,Madrid,596,11586,863,13961
+2021-05-25,Madrid,602,11592,863,13961
 2021-05-25,Melilla,3,129,5,66
 2021-05-25,Murcia,37,1045,50,1382
 2021-05-25,Navarra,23,972,64,1510
@@ -9191,7 +9191,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-05-26,Extremadura,10,1360,46,1381
 2021-05-26,Galicia,14,2042,128,6070
 2021-05-26,La Rioja,31,419,10,456
-2021-05-26,Madrid,614,11911,711,11622
+2021-05-26,Madrid,615,11912,711,11622
 2021-05-26,Melilla,6,145,4,80
 2021-05-26,Murcia,40,1005,45,1893
 2021-05-26,Navarra,34,902,93,1481
@@ -9212,7 +9212,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-05-27,Extremadura,16,1997,36,1404
 2021-05-27,Galicia,23,1987,133,6677
 2021-05-27,La Rioja,13,351,17,453
-2021-05-27,Madrid,593,11682,723,10709
+2021-05-27,Madrid,594,11683,723,10709
 2021-05-27,Melilla,6,120,2,34
 2021-05-27,Murcia,52,959,70,1270
 2021-05-27,Navarra,29,932,85,1317
@@ -9233,7 +9233,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-05-28,Extremadura,17,1041,42,1359
 2021-05-28,Galicia,17,2202,139,5008
 2021-05-28,La Rioja,53,529,26,367
-2021-05-28,Madrid,573,11971,698,12031
+2021-05-28,Madrid,579,11977,698,12031
 2021-05-28,Melilla,5,137,7,50
 2021-05-28,Murcia,43,877,42,1591
 2021-05-28,Navarra,34,856,82,1588
@@ -9254,7 +9254,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-05-29,Extremadura,17,583,30,1166
 2021-05-29,Galicia,9,1335,133,5419
 2021-05-29,La Rioja,36,257,16,409
-2021-05-29,Madrid,150,3165,439,8283
+2021-05-29,Madrid,151,3166,439,8283
 2021-05-29,Melilla,0,76,2,62
 2021-05-29,Murcia,21,430,40,1475
 2021-05-29,Navarra,15,385,88,929
@@ -9317,7 +9317,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-01,Extremadura,24,947,39,1368
 2021-06-01,Galicia,16,2042,118,5236
 2021-06-01,La Rioja,41,455,28,844
-2021-06-01,Madrid,456,11332,684,12773
+2021-06-01,Madrid,460,11336,684,12773
 2021-06-01,Melilla,6,121,1,72
 2021-06-01,Murcia,23,920,59,1765
 2021-06-01,Navarra,33,988,85,1567
@@ -9338,7 +9338,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-02,Extremadura,18,907,44,1230
 2021-06-02,Galicia,17,1784,97,4268
 2021-06-02,La Rioja,71,645,39,531
-2021-06-02,Madrid,473,10981,620,10952
+2021-06-02,Madrid,479,10987,620,10952
 2021-06-02,Melilla,5,115,3,86
 2021-06-02,Murcia,27,836,36,1475
 2021-06-02,Navarra,29,899,91,1502
@@ -9359,7 +9359,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-03,Extremadura,29,906,70,1569
 2021-06-03,Galicia,16,1765,136,4274
 2021-06-03,La Rioja,22,585,28,489
-2021-06-03,Madrid,403,10627,534,9369
+2021-06-03,Madrid,405,10629,534,9369
 2021-06-03,Melilla,4,112,1,38
 2021-06-03,Murcia,39,881,52,1227
 2021-06-03,Navarra,17,775,80,1259
@@ -9380,7 +9380,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-04,Extremadura,15,1126,66,1652
 2021-06-04,Galicia,12,1917,98,5112
 2021-06-04,La Rioja,58,998,27,312
-2021-06-04,Madrid,380,10607,515,11371
+2021-06-04,Madrid,383,10611,515,11371
 2021-06-04,Melilla,1,111,2,58
 2021-06-04,Murcia,17,779,33,1083
 2021-06-04,Navarra,29,851,71,1280
@@ -9443,7 +9443,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-07,Extremadura,27,1169,56,1288
 2021-06-07,Galicia,16,2075,77,4194
 2021-06-07,La Rioja,37,645,15,369
-2021-06-07,Madrid,454,10956,303,9885
+2021-06-07,Madrid,460,10962,303,9885
 2021-06-07,Melilla,8,144,2,65
 2021-06-07,Murcia,20,892,43,1029
 2021-06-07,Navarra,35,992,35,1094
@@ -9485,7 +9485,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-09,Extremadura,18,1135,34,1098
 2021-06-09,Galicia,19,2027,73,3615
 2021-06-09,La Rioja,16,235,5,220
-2021-06-09,Madrid,342,9565,460,10774
+2021-06-09,Madrid,347,9570,460,10774
 2021-06-09,Melilla,0,125,3,51
 2021-06-09,Murcia,8,198,15,912
 2021-06-09,Navarra,16,827,69,1097
@@ -9506,7 +9506,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-10,Extremadura,14,930,45,1369
 2021-06-10,Galicia,16,1832,103,3890
 2021-06-10,La Rioja,39,457,11,232
-2021-06-10,Madrid,297,10322,380,9189
+2021-06-10,Madrid,299,10324,380,9189
 2021-06-10,Melilla,0,82,0,35
 2021-06-10,Murcia,26,759,26,808
 2021-06-10,Navarra,30,886,68,999
@@ -9527,7 +9527,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-11,Extremadura,10,815,53,1623
 2021-06-11,Galicia,16,1901,84,3779
 2021-06-11,La Rioja,29,412,9,229
-2021-06-11,Madrid,320,10633,413,10522
+2021-06-11,Madrid,324,10637,413,10522
 2021-06-11,Melilla,0,88,1,41
 2021-06-11,Murcia,30,778,41,1150
 2021-06-11,Navarra,26,763,61,908
@@ -9590,7 +9590,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-14,Extremadura,13,1089,34,1448
 2021-06-14,Galicia,17,2146,61,3018
 2021-06-14,La Rioja,37,500,4,438
-2021-06-14,Madrid,350,10424,240,9776
+2021-06-14,Madrid,350,10424,241,9777
 2021-06-14,Melilla,1,129,0,52
 2021-06-14,Murcia,26,921,38,1814
 2021-06-14,Navarra,19,983,29,1013
@@ -9611,7 +9611,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-15,Extremadura,17,888,66,1622
 2021-06-15,Galicia,11,1698,95,3707
 2021-06-15,La Rioja,32,505,19,691
-2021-06-15,Madrid,319,9341,449,11737
+2021-06-15,Madrid,321,9343,449,11737
 2021-06-15,Melilla,0,89,3,65
 2021-06-15,Murcia,29,795,46,1674
 2021-06-15,Navarra,27,840,59,1383
@@ -9632,7 +9632,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-16,Extremadura,26,800,33,1477
 2021-06-16,Galicia,26,1678,94,3339
 2021-06-16,La Rioja,21,377,15,494
-2021-06-16,Madrid,238,9602,385,9740
+2021-06-16,Madrid,240,9604,385,9740
 2021-06-16,Melilla,0,85,0,37
 2021-06-16,Murcia,30,800,39,1210
 2021-06-16,Navarra,29,811,51,949
@@ -9653,7 +9653,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-17,Extremadura,28,996,48,1248
 2021-06-17,Galicia,19,1622,88,2891
 2021-06-17,La Rioja,26,519,27,324
-2021-06-17,Madrid,227,9253,292,7828
+2021-06-17,Madrid,231,9257,292,7828
 2021-06-17,Melilla,4,65,2,39
 2021-06-17,Murcia,38,735,38,991
 2021-06-17,Navarra,18,748,62,1060
@@ -9674,7 +9674,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-18,Extremadura,12,722,71,1326
 2021-06-18,Galicia,26,1501,78,3340
 2021-06-18,La Rioja,19,344,27,320
-2021-06-18,Madrid,237,9039,342,9718
+2021-06-18,Madrid,239,9041,342,9718
 2021-06-18,Melilla,3,105,3,50
 2021-06-18,Murcia,25,713,46,940
 2021-06-18,Navarra,17,801,87,1024
@@ -9737,7 +9737,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-21,Extremadura,19,1066,43,1373
 2021-06-21,Galicia,21,1647,73,3031
 2021-06-21,La Rioja,15,386,8,432
-2021-06-21,Madrid,360,10982,242,9479
+2021-06-21,Madrid,365,10987,242,9479
 2021-06-21,Melilla,3,124,1,54
 2021-06-21,Murcia,28,825,33,1503
 2021-06-21,Navarra,20,836,39,980
@@ -9758,7 +9758,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-22,Extremadura,27,1079,37,1286
 2021-06-22,Galicia,30,1518,98,3835
 2021-06-22,La Rioja,18,405,9,402
-2021-06-22,Madrid,324,9505,324,10286
+2021-06-22,Madrid,327,9508,324,10286
 2021-06-22,Melilla,2,110,1,65
 2021-06-22,Murcia,26,719,43,1693
 2021-06-22,Navarra,28,759,59,1265
@@ -9779,7 +9779,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-23,Extremadura,23,1181,37,997
 2021-06-23,Galicia,35,1378,105,3153
 2021-06-23,La Rioja,21,379,21,532
-2021-06-23,Madrid,385,10323,321,9618
+2021-06-23,Madrid,386,10324,321,9618
 2021-06-23,Melilla,0,79,0,41
 2021-06-23,Murcia,38,766,39,1388
 2021-06-23,Navarra,17,802,51,876
@@ -9800,7 +9800,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-24,Extremadura,26,1021,59,854
 2021-06-24,Galicia,23,1317,157,3204
 2021-06-24,La Rioja,46,517,6,232
-2021-06-24,Madrid,308,11367,369,8350
+2021-06-24,Madrid,309,11368,369,8350
 2021-06-24,Melilla,2,86,0,41
 2021-06-24,Murcia,38,764,41,983
 2021-06-24,Navarra,24,732,67,952
@@ -9821,7 +9821,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-25,Extremadura,17,1029,51,1166
 2021-06-25,Galicia,27,1567,125,3115
 2021-06-25,La Rioja,12,345,26,358
-2021-06-25,Madrid,393,11565,345,9693
+2021-06-25,Madrid,396,11568,345,9693
 2021-06-25,Melilla,0,86,3,46
 2021-06-25,Murcia,29,721,38,946
 2021-06-25,Navarra,11,742,56,907
@@ -9884,7 +9884,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-28,Extremadura,51,1245,82,1468
 2021-06-28,Galicia,28,1675,138,3570
 2021-06-28,La Rioja,20,361,19,430
-2021-06-28,Madrid,546,12186,199,9213
+2021-06-28,Madrid,549,12189,199,9213
 2021-06-28,Melilla,0,112,1,36
 2021-06-28,Murcia,47,911,36,1624
 2021-06-28,Navarra,27,836,35,896
@@ -9905,7 +9905,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-06-29,Extremadura,57,1396,109,1681
 2021-06-29,Galicia,51,1784,172,4494
 2021-06-29,La Rioja,17,405,16,619
-2021-06-29,Madrid,510,11728,469,11157
+2021-06-29,Madrid,512,11730,469,11157
 2021-06-29,Melilla,4,106,0,50
 2021-06-29,Murcia,40,779,55,1599
 2021-06-29,Navarra,38,839,57,1064
@@ -9947,7 +9947,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-01,Extremadura,81,1520,198,1974
 2021-07-01,Galicia,79,1565,210,3688
 2021-07-01,La Rioja,37,476,15,433
-2021-07-01,Madrid,578,12874,566,9503
+2021-07-01,Madrid,580,12876,566,9503
 2021-07-01,Melilla,0,88,1,38
 2021-07-01,Murcia,65,868,83,1192
 2021-07-01,Navarra,60,917,110,1090
@@ -9968,7 +9968,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-02,Extremadura,55,1709,230,2176
 2021-07-02,Galicia,42,1694,224,4007
 2021-07-02,La Rioja,39,409,34,338
-2021-07-02,Madrid,610,12859,558,10879
+2021-07-02,Madrid,621,12871,558,10879
 2021-07-02,Melilla,0,99,1,51
 2021-07-02,Murcia,53,956,101,1555
 2021-07-02,Navarra,83,970,141,945
@@ -10010,7 +10010,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-04,Extremadura,36,904,159,1510
 2021-07-04,Galicia,60,1220,180,3768
 2021-07-04,La Rioja,53,442,30,447
-2021-07-04,Madrid,237,3039,190,3710
+2021-07-04,Madrid,238,3040,190,3710
 2021-07-04,Melilla,0,58,0,41
 2021-07-04,Murcia,24,266,33,822
 2021-07-04,Navarra,68,558,560,1572
@@ -10031,7 +10031,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-05,Extremadura,80,1584,207,2254
 2021-07-05,Galicia,103,1824,158,4388
 2021-07-05,La Rioja,42,449,18,475
-2021-07-05,Madrid,964,12832,325,8762
+2021-07-05,Madrid,973,12841,325,8762
 2021-07-05,Melilla,2,107,0,46
 2021-07-05,Murcia,106,1102,62,1589
 2021-07-05,Navarra,91,1081,489,1790
@@ -10052,7 +10052,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-06,Extremadura,84,1794,206,2441
 2021-07-06,Galicia,138,1911,302,5275
 2021-07-06,La Rioja,13,181,51,648
-2021-07-06,Madrid,1183,12080,840,11616
+2021-07-06,Madrid,1194,12091,840,11616
 2021-07-06,Melilla,2,103,1,63
 2021-07-06,Murcia,99,981,138,1999
 2021-07-06,Navarra,92,902,341,1584
@@ -10073,7 +10073,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-07,Extremadura,112,1775,283,2580
 2021-07-07,Galicia,152,1988,335,4913
 2021-07-07,La Rioja,58,582,38,669
-2021-07-07,Madrid,1267,11765,981,11005
+2021-07-07,Madrid,1286,11784,981,11005
 2021-07-07,Melilla,2,86,4,57
 2021-07-07,Murcia,117,1080,131,1966
 2021-07-07,Navarra,131,756,284,1371
@@ -10094,7 +10094,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-08,Extremadura,126,2209,260,2735
 2021-07-08,Galicia,172,1990,419,5796
 2021-07-08,La Rioja,45,444,58,428
-2021-07-08,Madrid,1372,13477,1066,10361
+2021-07-08,Madrid,1386,13491,1066,10361
 2021-07-08,Melilla,3,75,2,41
 2021-07-08,Murcia,137,1228,121,1539
 2021-07-08,Navarra,154,1154,239,1346
@@ -10115,7 +10115,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-09,Extremadura,93,2232,330,3152
 2021-07-09,Galicia,146,3334,491,7112
 2021-07-09,La Rioja,60,516,92,654
-2021-07-09,Madrid,1505,15553,1291,14157
+2021-07-09,Madrid,1527,15575,1291,14157
 2021-07-09,Melilla,4,96,1,49
 2021-07-09,Murcia,139,1235,133,1770
 2021-07-09,Navarra,134,1199,390,1847
@@ -10136,7 +10136,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-10,Extremadura,95,1075,177,1867
 2021-07-10,Galicia,167,3543,475,6257
 2021-07-10,La Rioja,45,352,31,428
-2021-07-10,Madrid,665,5552,1001,11044
+2021-07-10,Madrid,668,5555,1002,11045
 2021-07-10,Melilla,1,68,5,64
 2021-07-10,Murcia,93,621,134,1861
 2021-07-10,Navarra,173,751,309,1521
@@ -10157,7 +10157,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-11,Extremadura,91,1154,121,1266
 2021-07-11,Galicia,164,1701,382,4505
 2021-07-11,La Rioja,28,292,29,388
-2021-07-11,Madrid,711,4026,459,4610
+2021-07-11,Madrid,712,4027,459,4610
 2021-07-11,Melilla,5,93,3,50
 2021-07-11,Murcia,40,289,91,1108
 2021-07-11,Navarra,186,771,403,1919
@@ -10178,7 +10178,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-12,Extremadura,100,2232,241,2622
 2021-07-12,Galicia,242,2553,594,4991
 2021-07-12,La Rioja,80,527,68,691
-2021-07-12,Madrid,2248,16365,917,11124
+2021-07-12,Madrid,2270,16387,918,11125
 2021-07-12,Melilla,6,103,5,52
 2021-07-12,Murcia,195,1443,152,2396
 2021-07-12,Navarra,283,1444,445,2121
@@ -10199,7 +10199,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-13,Extremadura,189,2508,350,3357
 2021-07-13,Galicia,322,2902,567,5734
 2021-07-13,La Rioja,67,514,48,711
-2021-07-13,Madrid,2278,15615,1748,15297
+2021-07-13,Madrid,2296,15633,1748,15297
 2021-07-13,Melilla,6,94,2,63
 2021-07-13,Murcia,184,1431,167,2152
 2021-07-13,Navarra,333,1442,424,2252
@@ -10220,7 +10220,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-14,Extremadura,199,3010,381,3092
 2021-07-14,Galicia,463,4988,819,7871
 2021-07-14,La Rioja,76,546,95,896
-2021-07-14,Madrid,2632,17353,2133,15580
+2021-07-14,Madrid,2660,17381,2133,15580
 2021-07-14,Melilla,6,98,7,82
 2021-07-14,Murcia,195,1498,249,2833
 2021-07-14,Navarra,396,1585,420,2643
@@ -10241,7 +10241,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-15,Extremadura,172,2696,359,3093
 2021-07-15,Galicia,431,6647,918,8429
 2021-07-15,La Rioja,74,600,91,764
-2021-07-15,Madrid,2622,19261,2287,17141
+2021-07-15,Madrid,2643,19282,2287,17141
 2021-07-15,Melilla,4,91,13,81
 2021-07-15,Murcia,210,1492,226,2383
 2021-07-15,Navarra,304,1516,515,3024
@@ -10262,7 +10262,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-16,Extremadura,160,3015,352,3131
 2021-07-16,Galicia,425,6272,904,7133
 2021-07-16,La Rioja,70,489,127,756
-2021-07-16,Madrid,2668,20995,2172,17710
+2021-07-16,Madrid,2703,21030,2172,17710
 2021-07-16,Melilla,5,113,2,72
 2021-07-16,Murcia,179,1326,235,2285
 2021-07-16,Navarra,306,1560,302,2401
@@ -10283,7 +10283,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-17,Extremadura,106,967,254,2322
 2021-07-17,Galicia,246,2080,991,7120
 2021-07-17,La Rioja,62,496,53,639
-2021-07-17,Madrid,1032,6947,1823,13888
+2021-07-17,Madrid,1033,6948,1825,13890
 2021-07-17,Melilla,6,89,6,53
 2021-07-17,Murcia,132,1193,216,2337
 2021-07-17,Navarra,172,867,287,1913
@@ -10304,7 +10304,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-18,Extremadura,113,979,149,1444
 2021-07-18,Galicia,240,2014,750,5202
 2021-07-18,La Rioja,45,275,38,377
-2021-07-18,Madrid,1019,5125,1101,6893
+2021-07-18,Madrid,1024,5130,1101,6893
 2021-07-18,Melilla,4,61,6,54
 2021-07-18,Murcia,76,683,189,1388
 2021-07-18,Navarra,219,886,270,1922
@@ -10325,7 +10325,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-19,Extremadura,229,2695,286,2680
 2021-07-19,Galicia,379,4734,856,6905
 2021-07-19,La Rioja,89,543,90,798
-2021-07-19,Madrid,3471,20205,1427,12882
+2021-07-19,Madrid,3496,20230,1427,12882
 2021-07-19,Melilla,10,122,4,48
 2021-07-19,Murcia,255,1577,266,2595
 2021-07-19,Navarra,323,1459,193,2126
@@ -10346,7 +10346,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-20,Extremadura,255,3117,489,3485
 2021-07-20,Galicia,419,5682,805,6616
 2021-07-20,La Rioja,84,512,92,963
-2021-07-20,Madrid,3113,17704,2664,17807
+2021-07-20,Madrid,3147,17738,2665,17808
 2021-07-20,Melilla,10,119,13,70
 2021-07-20,Murcia,258,1544,258,2915
 2021-07-20,Navarra,273,1304,306,2201
@@ -10367,7 +10367,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-21,Extremadura,222,3147,395,3279
 2021-07-21,Galicia,432,4224,1181,7411
 2021-07-21,La Rioja,67,554,109,759
-2021-07-21,Madrid,3132,18092,2919,17584
+2021-07-21,Madrid,3169,18129,2919,17584
 2021-07-21,Melilla,1,73,15,71
 2021-07-21,Murcia,276,1573,358,3261
 2021-07-21,Navarra,294,1321,253,2205
@@ -10388,7 +10388,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-22,Extremadura,220,2742,467,3463
 2021-07-22,Galicia,393,4646,1169,7747
 2021-07-22,La Rioja,99,634,227,1051
-2021-07-22,Madrid,2937,17317,3091,18402
+2021-07-22,Madrid,2969,17349,3091,18402
 2021-07-22,Melilla,7,117,13,76
 2021-07-22,Murcia,254,2226,362,2878
 2021-07-22,Navarra,250,1117,315,2405
@@ -10409,7 +10409,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-23,Extremadura,170,3036,418,3529
 2021-07-23,Galicia,383,4617,1162,8243
 2021-07-23,La Rioja,106,641,193,916
-2021-07-23,Madrid,3017,19917,2685,17331
+2021-07-23,Madrid,3054,19954,2685,17331
 2021-07-23,Melilla,8,139,6,46
 2021-07-23,Murcia,183,1661,361,3120
 2021-07-23,Navarra,258,1179,333,2223
@@ -10430,7 +10430,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-24,Extremadura,141,1359,314,2406
 2021-07-24,Galicia,239,3151,1223,8202
 2021-07-24,La Rioja,40,369,92,604
-2021-07-24,Madrid,786,6252,2298,14101
+2021-07-24,Madrid,789,6255,2298,14101
 2021-07-24,Melilla,4,93,9,76
 2021-07-24,Murcia,174,1388,325,2902
 2021-07-24,Navarra,152,674,326,2071
@@ -10451,7 +10451,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-25,Extremadura,133,1425,109,1279
 2021-07-25,Galicia,246,2279,983,6221
 2021-07-25,La Rioja,44,330,47,407
-2021-07-25,Madrid,808,4501,1058,6060
+2021-07-25,Madrid,810,4503,1058,6060
 2021-07-25,Melilla,2,76,7,49
 2021-07-25,Murcia,71,886,182,1644
 2021-07-25,Navarra,142,635,255,1678
@@ -10472,7 +10472,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-26,Extremadura,257,2978,338,2859
 2021-07-26,Galicia,323,3986,883,6470
 2021-07-26,La Rioja,80,619,105,757
-2021-07-26,Madrid,3403,18643,1510,12189
+2021-07-26,Madrid,3438,18678,1511,12190
 2021-07-26,Melilla,2,113,3,47
 2021-07-26,Murcia,247,1447,270,2525
 2021-07-26,Navarra,213,1181,185,1637
@@ -10493,7 +10493,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-27,Extremadura,212,2575,448,3560
 2021-07-27,Galicia,285,3055,1165,8477
 2021-07-27,La Rioja,56,501,191,1085
-2021-07-27,Madrid,2940,16555,2793,17444
+2021-07-27,Madrid,2982,16597,2794,17445
 2021-07-27,Melilla,9,117,6,108
 2021-07-27,Murcia,228,1450,343,3397
 2021-07-27,Navarra,220,1138,260,1777
@@ -10514,7 +10514,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-28,Extremadura,212,2830,391,3422
 2021-07-28,Galicia,304,3025,1053,8493
 2021-07-28,La Rioja,75,699,136,894
-2021-07-28,Madrid,2748,16100,3081,18206
+2021-07-28,Madrid,2767,16119,3082,18207
 2021-07-28,Melilla,6,94,16,97
 2021-07-28,Murcia,199,1293,515,3533
 2021-07-28,Navarra,178,1014,356,2184
@@ -10535,7 +10535,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-29,Extremadura,184,2658,330,3280
 2021-07-29,Galicia,245,2754,1073,8439
 2021-07-29,La Rioja,66,666,144,955
-2021-07-29,Madrid,2546,16305,3200,18904
+2021-07-29,Madrid,2568,16327,3202,18906
 2021-07-29,Melilla,6,94,11,75
 2021-07-29,Murcia,199,1284,403,3169
 2021-07-29,Navarra,170,1022,329,2131
@@ -10556,7 +10556,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-30,Extremadura,170,2931,329,3200
 2021-07-30,Galicia,247,4511,1106,8556
 2021-07-30,La Rioja,65,728,183,901
-2021-07-30,Madrid,2564,19424,2792,18786
+2021-07-30,Madrid,2590,19450,2792,18787
 2021-07-30,Melilla,4,113,7,77
 2021-07-30,Murcia,178,1677,507,3602
 2021-07-30,Navarra,153,1016,313,2097
@@ -10577,7 +10577,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-07-31,Extremadura,102,1238,289,2473
 2021-07-31,Galicia,215,4565,1064,7441
 2021-07-31,La Rioja,49,330,161,815
-2021-07-31,Madrid,575,5752,2086,14149
+2021-07-31,Madrid,576,5753,2086,14149
 2021-07-31,Melilla,2,74,8,70
 2021-07-31,Murcia,127,1434,364,3034
 2021-07-31,Navarra,106,562,318,1481
@@ -10598,7 +10598,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-01,Extremadura,123,1225,156,1670
 2021-08-01,Galicia,145,1627,785,5169
 2021-08-01,La Rioja,24,299,63,513
-2021-08-01,Madrid,561,4242,773,5403
+2021-08-01,Madrid,567,4248,773,5403
 2021-08-01,Melilla,4,65,5,47
 2021-08-01,Murcia,67,1149,153,1280
 2021-08-01,Navarra,71,523,291,1768
@@ -10619,7 +10619,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-02,Extremadura,182,2922,275,2508
 2021-08-02,Galicia,183,4267,840,6014
 2021-08-02,La Rioja,39,765,75,677
-2021-08-02,Madrid,2574,18191,1228,10005
+2021-08-02,Madrid,2596,18213,1229,10006
 2021-08-02,Melilla,11,113,1,54
 2021-08-02,Murcia,188,1209,262,2608
 2021-08-02,Navarra,120,999,167,1513
@@ -10640,7 +10640,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-03,Extremadura,180,2971,351,3525
 2021-08-03,Galicia,197,3853,1101,7337
 2021-08-03,La Rioja,53,806,178,1061
-2021-08-03,Madrid,2059,13729,2470,15474
+2021-08-03,Madrid,2090,13760,2470,15474
 2021-08-03,Melilla,7,117,16,73
 2021-08-03,Murcia,164,1098,395,3048
 2021-08-03,Navarra,114,864,284,1847
@@ -10661,7 +10661,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-04,Extremadura,168,2744,345,2826
 2021-08-04,Galicia,220,3979,990,7163
 2021-08-04,La Rioja,51,506,120,873
-2021-08-04,Madrid,1872,13909,2379,14537
+2021-08-04,Madrid,1895,13932,2379,14537
 2021-08-04,Melilla,10,112,12,90
 2021-08-04,Murcia,158,1060,410,3151
 2021-08-04,Navarra,115,848,261,1610
@@ -10682,7 +10682,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-05,Extremadura,157,2436,368,2784
 2021-08-05,Galicia,206,4276,1041,7051
 2021-08-05,La Rioja,35,532,143,903
-2021-08-05,Madrid,1743,14014,2160,14065
+2021-08-05,Madrid,1765,14036,2161,14066
 2021-08-05,Melilla,5,111,26,74
 2021-08-05,Murcia,148,1085,447,3077
 2021-08-05,Navarra,93,747,320,1827
@@ -10703,7 +10703,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-06,Extremadura,122,2422,337,2902
 2021-08-06,Galicia,173,3719,978,7423
 2021-08-06,La Rioja,33,481,120,739
-2021-08-06,Madrid,1865,14820,1891,13887
+2021-08-06,Madrid,1877,14832,1891,13887
 2021-08-06,Melilla,6,105,11,83
 2021-08-06,Murcia,124,1167,364,2308
 2021-08-06,Navarra,103,829,244,1501
@@ -10724,7 +10724,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-07,Extremadura,100,961,238,2154
 2021-08-07,Galicia,123,4366,911,6511
 2021-08-07,La Rioja,27,305,81,700
-2021-08-07,Madrid,419,4491,1379,10161
+2021-08-07,Madrid,422,4494,1379,10161
 2021-08-07,Melilla,1,93,24,99
 2021-08-07,Murcia,68,809,413,2488
 2021-08-07,Navarra,55,403,210,1100
@@ -10745,7 +10745,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-08,Extremadura,101,1014,124,1288
 2021-08-08,Galicia,82,1646,803,5343
 2021-08-08,La Rioja,28,284,63,432
-2021-08-08,Madrid,401,3226,472,3752
+2021-08-08,Madrid,402,3227,472,3752
 2021-08-08,Melilla,1,57,7,40
 2021-08-08,Murcia,54,658,110,1082
 2021-08-08,Navarra,49,385,209,1316
@@ -10766,7 +10766,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-09,Extremadura,129,2490,260,2625
 2021-08-09,Galicia,136,3308,730,5597
 2021-08-09,La Rioja,33,598,64,750
-2021-08-09,Madrid,1984,14207,892,8388
+2021-08-09,Madrid,2006,14229,894,8390
 2021-08-09,Melilla,8,109,3,48
 2021-08-09,Murcia,160,997,259,2295
 2021-08-09,Navarra,107,869,159,1169
@@ -10787,7 +10787,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-10,Extremadura,114,2507,290,2467
 2021-08-10,Galicia,137,2944,748,6601
 2021-08-10,La Rioja,35,620,146,1032
-2021-08-10,Madrid,1668,13451,1847,11661
+2021-08-10,Madrid,1687,13470,1847,11662
 2021-08-10,Melilla,8,119,16,84
 2021-08-10,Murcia,140,953,425,3062
 2021-08-10,Navarra,96,704,227,1721
@@ -10808,7 +10808,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-11,Extremadura,153,2440,333,2848
 2021-08-11,Galicia,109,2569,757,6368
 2021-08-11,La Rioja,38,403,91,849
-2021-08-11,Madrid,1409,12182,1756,12296
+2021-08-11,Madrid,1423,12196,1757,12297
 2021-08-11,Melilla,9,119,7,98
 2021-08-11,Murcia,134,959,382,2803
 2021-08-11,Navarra,87,670,253,1419
@@ -10829,7 +10829,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-12,Extremadura,110,2105,304,2517
 2021-08-12,Galicia,149,3141,745,6418
 2021-08-12,La Rioja,39,649,93,562
-2021-08-12,Madrid,1290,12580,1628,11221
+2021-08-12,Madrid,1305,12595,1629,11222
 2021-08-12,Melilla,6,136,10,84
 2021-08-12,Murcia,136,848,398,2802
 2021-08-12,Navarra,88,656,202,1310
@@ -10850,7 +10850,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-13,Extremadura,98,2021,294,2976
 2021-08-13,Galicia,116,2804,716,5619
 2021-08-13,La Rioja,42,467,93,788
-2021-08-13,Madrid,1288,12460,1486,11813
+2021-08-13,Madrid,1301,12473,1487,11814
 2021-08-13,Melilla,9,108,5,72
 2021-08-13,Murcia,101,907,272,2204
 2021-08-13,Navarra,84,690,219,1563
@@ -10871,7 +10871,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-14,Extremadura,66,860,268,2210
 2021-08-14,Galicia,70,2594,631,5395
 2021-08-14,La Rioja,26,326,56,424
-2021-08-14,Madrid,290,3798,954,8260
+2021-08-14,Madrid,290,3798,955,8261
 2021-08-14,Melilla,4,85,5,63
 2021-08-14,Murcia,77,671,199,1626
 2021-08-14,Navarra,40,401,155,929
@@ -10892,7 +10892,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-15,Extremadura,78,1081,152,1283
 2021-08-15,Galicia,52,1427,485,3970
 2021-08-15,La Rioja,11,244,45,469
-2021-08-15,Madrid,306,3460,373,3724
+2021-08-15,Madrid,307,3461,373,3724
 2021-08-15,Melilla,7,87,15,92
 2021-08-15,Murcia,43,521,123,888
 2021-08-15,Navarra,38,349,105,954
@@ -10913,7 +10913,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-16,Extremadura,140,2223,229,2524
 2021-08-16,Galicia,95,2201,494,4625
 2021-08-16,La Rioja,44,662,42,643
-2021-08-16,Madrid,1512,14179,705,8143
+2021-08-16,Madrid,1536,14204,705,8143
 2021-08-16,Melilla,11,151,3,53
 2021-08-16,Murcia,105,725,242,2273
 2021-08-16,Navarra,81,693,132,1240
@@ -10934,7 +10934,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-17,Extremadura,137,2260,373,2651
 2021-08-17,Galicia,123,3160,588,5722
 2021-08-17,La Rioja,25,412,101,788
-2021-08-17,Madrid,1169,11631,1304,10367
+2021-08-17,Madrid,1182,11644,1304,10367
 2021-08-17,Melilla,8,123,15,123
 2021-08-17,Murcia,92,773,408,3139
 2021-08-17,Navarra,64,674,144,1190
@@ -10955,7 +10955,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-18,Extremadura,126,2234,393,2898
 2021-08-18,Galicia,99,2537,562,5176
 2021-08-18,La Rioja,37,403,90,629
-2021-08-18,Madrid,1113,11052,1279,10034
+2021-08-18,Madrid,1127,11066,1279,10034
 2021-08-18,Melilla,9,138,9,81
 2021-08-18,Murcia,87,727,365,2520
 2021-08-18,Navarra,59,637,154,1342
@@ -10976,7 +10976,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-19,Extremadura,136,2437,411,2990
 2021-08-19,Galicia,136,3239,797,6062
 2021-08-19,La Rioja,29,491,99,620
-2021-08-19,Madrid,972,11832,1129,9407
+2021-08-19,Madrid,991,11851,1129,9407
 2021-08-19,Melilla,12,126,19,125
 2021-08-19,Murcia,101,739,250,1811
 2021-08-19,Navarra,52,596,152,1149
@@ -10997,7 +10997,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-20,Extremadura,159,2167,369,2925
 2021-08-20,Galicia,130,3349,637,5526
 2021-08-20,La Rioja,37,455,80,642
-2021-08-20,Madrid,1078,11373,1125,9862
+2021-08-20,Madrid,1097,11392,1125,9862
 2021-08-20,Melilla,5,101,11,95
 2021-08-20,Murcia,79,798,350,2405
 2021-08-20,Navarra,58,636,164,1147
@@ -11018,7 +11018,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-21,Extremadura,81,1052,313,1942
 2021-08-21,Galicia,75,3428,448,3984
 2021-08-21,La Rioja,21,323,58,455
-2021-08-21,Madrid,246,3893,702,7243
+2021-08-21,Madrid,247,3894,702,7243
 2021-08-21,Melilla,10,74,25,125
 2021-08-21,Murcia,52,543,136,1605
 2021-08-21,Navarra,23,329,137,929
@@ -11060,7 +11060,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-23,Extremadura,150,2215,324,2743
 2021-08-23,Galicia,91,2217,475,4608
 2021-08-23,La Rioja,33,620,48,566
-2021-08-23,Madrid,1208,13426,610,8195
+2021-08-23,Madrid,1220,13438,612,8197
 2021-08-23,Melilla,10,176,5,52
 2021-08-23,Murcia,85,657,234,2227
 2021-08-23,Navarra,33,690,115,1298
@@ -11081,7 +11081,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-24,Extremadura,128,2196,375,3243
 2021-08-24,Galicia,114,3705,537,5554
 2021-08-24,La Rioja,17,335,64,679
-2021-08-24,Madrid,925,10257,1128,10007
+2021-08-24,Madrid,943,10275,1128,10007
 2021-08-24,Melilla,7,149,9,118
 2021-08-24,Murcia,84,665,254,2156
 2021-08-24,Navarra,44,618,84,907
@@ -11102,7 +11102,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-25,Extremadura,107,2328,323,2895
 2021-08-25,Galicia,139,2486,509,4517
 2021-08-25,La Rioja,27,421,60,629
-2021-08-25,Madrid,853,10606,1038,9582
+2021-08-25,Madrid,862,10615,1038,9582
 2021-08-25,Melilla,15,167,19,92
 2021-08-25,Murcia,50,569,256,2279
 2021-08-25,Navarra,36,639,99,1016
@@ -11123,7 +11123,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-26,Extremadura,107,2047,239,2409
 2021-08-26,Galicia,82,1997,479,5179
 2021-08-26,La Rioja,13,470,67,586
-2021-08-26,Madrid,766,10101,977,8774
+2021-08-26,Madrid,776,10111,977,8774
 2021-08-26,Melilla,18,142,11,111
 2021-08-26,Murcia,43,528,223,1770
 2021-08-26,Navarra,35,613,92,843
@@ -11144,7 +11144,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-27,Extremadura,69,2057,225,2736
 2021-08-27,Galicia,64,2283,422,4779
 2021-08-27,La Rioja,18,424,43,486
-2021-08-27,Madrid,815,10010,905,9909
+2021-08-27,Madrid,827,10022,905,9909
 2021-08-27,Melilla,7,140,12,89
 2021-08-27,Murcia,63,648,174,1832
 2021-08-27,Navarra,44,582,109,1021
@@ -11186,7 +11186,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-29,Extremadura,64,823,98,1274
 2021-08-29,Galicia,48,1426,277,3357
 2021-08-29,La Rioja,12,229,13,327
-2021-08-29,Madrid,179,3353,242,3453
+2021-08-29,Madrid,180,3354,242,3453
 2021-08-29,Melilla,4,101,7,79
 2021-08-29,Murcia,21,246,47,562
 2021-08-29,Navarra,30,330,67,641
@@ -11207,7 +11207,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-30,Extremadura,87,2198,226,3054
 2021-08-30,Galicia,58,2215,323,4827
 2021-08-30,La Rioja,16,916,41,583
-2021-08-30,Madrid,828,12942,483,8784
+2021-08-30,Madrid,837,12951,483,8784
 2021-08-30,Melilla,5,173,2,68
 2021-08-30,Murcia,52,573,137,1982
 2021-08-30,Navarra,41,784,71,1468
@@ -11228,7 +11228,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-08-31,Extremadura,76,2343,226,3002
 2021-08-31,Galicia,49,2169,355,5599
 2021-08-31,La Rioja,12,394,30,646
-2021-08-31,Madrid,666,11746,966,11245
+2021-08-31,Madrid,667,11747,966,11245
 2021-08-31,Melilla,7,154,12,104
 2021-08-31,Murcia,54,553,259,2173
 2021-08-31,Navarra,40,699,131,1339
@@ -11249,7 +11249,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-01,Extremadura,48,1694,144,2334
 2021-09-01,Galicia,54,1834,302,4979
 2021-09-01,La Rioja,9,386,44,533
-2021-09-01,Madrid,551,10460,798,10175
+2021-09-01,Madrid,558,10467,798,10175
 2021-09-01,Melilla,7,107,21,114
 2021-09-01,Murcia,47,533,170,1661
 2021-09-01,Navarra,37,627,94,1234
@@ -11270,7 +11270,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-02,Extremadura,48,1821,174,1884
 2021-09-02,Galicia,40,2053,301,3770
 2021-09-02,La Rioja,15,441,23,364
-2021-09-02,Madrid,424,10038,810,8484
+2021-09-02,Madrid,429,10043,810,8484
 2021-09-02,Melilla,11,105,8,65
 2021-09-02,Murcia,40,499,110,1346
 2021-09-02,Navarra,29,647,116,1075
@@ -11291,7 +11291,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-03,Extremadura,53,1476,125,1963
 2021-09-03,Galicia,43,2160,268,3894
 2021-09-03,La Rioja,8,219,33,493
-2021-09-03,Madrid,471,10019,642,9045
+2021-09-03,Madrid,475,10023,642,9045
 2021-09-03,Melilla,8,165,8,87
 2021-09-03,Murcia,30,456,119,1331
 2021-09-03,Navarra,30,589,73,974
@@ -11312,7 +11312,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-04,Extremadura,27,645,88,1071
 2021-09-04,Galicia,38,1536,174,3643
 2021-09-04,La Rioja,5,174,9,375
-2021-09-04,Madrid,120,3469,414,6952
+2021-09-04,Madrid,122,3471,414,6952
 2021-09-04,Melilla,3,102,15,88
 2021-09-04,Murcia,20,717,78,1459
 2021-09-04,Navarra,20,254,68,639
@@ -11333,7 +11333,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-05,Extremadura,35,648,49,762
 2021-09-05,Galicia,19,1198,187,3205
 2021-09-05,La Rioja,5,107,24,307
-2021-09-05,Madrid,127,3014,150,3675
+2021-09-05,Madrid,128,3015,150,3675
 2021-09-05,Melilla,3,84,6,29
 2021-09-05,Murcia,14,229,44,597
 2021-09-05,Navarra,11,314,39,570
@@ -11354,7 +11354,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-06,Extremadura,46,1441,120,1768
 2021-09-06,Galicia,34,2016,177,3172
 2021-09-06,La Rioja,6,578,16,405
-2021-09-06,Madrid,529,11777,400,8403
+2021-09-06,Madrid,538,11786,400,8403
 2021-09-06,Melilla,4,155,9,46
 2021-09-06,Murcia,37,436,111,1826
 2021-09-06,Navarra,35,730,52,1030
@@ -11375,7 +11375,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-07,Extremadura,40,1514,123,1807
 2021-09-07,Galicia,28,1786,199,3655
 2021-09-07,La Rioja,7,353,23,611
-2021-09-07,Madrid,445,9489,667,9916
+2021-09-07,Madrid,445,9490,667,9916
 2021-09-07,Melilla,9,132,18,98
 2021-09-07,Murcia,21,375,142,1885
 2021-09-07,Navarra,22,671,58,854
@@ -11396,7 +11396,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-08,Extremadura,21,630,57,611
 2021-09-08,Galicia,34,1883,183,3272
 2021-09-08,La Rioja,4,197,15,497
-2021-09-08,Madrid,325,7949,607,8664
+2021-09-08,Madrid,327,7952,607,8664
 2021-09-08,Melilla,3,96,6,70
 2021-09-08,Murcia,24,384,109,1464
 2021-09-08,Navarra,40,570,70,1007
@@ -11417,7 +11417,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-09,Extremadura,27,1389,87,1307
 2021-09-09,Galicia,22,1691,181,3478
 2021-09-09,La Rioja,12,543,25,312
-2021-09-09,Madrid,284,9344,521,7373
+2021-09-09,Madrid,291,9352,521,7373
 2021-09-09,Melilla,5,135,1,32
 2021-09-09,Murcia,19,383,109,1347
 2021-09-09,Navarra,16,576,63,964
@@ -11438,7 +11438,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-10,Extremadura,24,1120,87,1519
 2021-09-10,Galicia,36,1753,148,2867
 2021-09-10,La Rioja,3,406,29,386
-2021-09-10,Madrid,332,9008,437,7953
+2021-09-10,Madrid,339,9016,437,7953
 2021-09-10,Melilla,8,125,8,84
 2021-09-10,Murcia,13,393,88,1380
 2021-09-10,Navarra,23,630,62,881
@@ -11459,7 +11459,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-11,Extremadura,18,633,30,688
 2021-09-11,Galicia,12,1342,146,3084
 2021-09-11,La Rioja,4,204,13,443
-2021-09-11,Madrid,64,3457,290,6591
+2021-09-11,Madrid,65,3458,290,6591
 2021-09-11,Melilla,3,87,5,65
 2021-09-11,Murcia,6,592,37,856
 2021-09-11,Navarra,5,249,65,726
@@ -11501,7 +11501,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-13,Extremadura,33,1340,78,1620
 2021-09-13,Galicia,17,2093,103,3153
 2021-09-13,La Rioja,3,540,19,494
-2021-09-13,Madrid,413,10429,257,8264
+2021-09-13,Madrid,418,10438,258,8265
 2021-09-13,Melilla,6,116,2,45
 2021-09-13,Murcia,24,538,86,1573
 2021-09-13,Navarra,17,868,24,961
@@ -11522,7 +11522,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-14,Extremadura,16,1180,56,1386
 2021-09-14,Galicia,23,2265,117,2977
 2021-09-14,La Rioja,4,434,9,480
-2021-09-14,Madrid,292,9139,484,9976
+2021-09-14,Madrid,296,9145,484,9977
 2021-09-14,Melilla,7,181,10,101
 2021-09-14,Murcia,16,368,90,1429
 2021-09-14,Navarra,16,758,49,1002
@@ -11543,7 +11543,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-15,Extremadura,24,1132,72,1192
 2021-09-15,Galicia,20,1939,120,3320
 2021-09-15,La Rioja,1,249,15,594
-2021-09-15,Madrid,285,9134,394,8734
+2021-09-15,Madrid,288,9146,394,8734
 2021-09-15,Melilla,5,97,5,51
 2021-09-15,Murcia,20,460,102,1830
 2021-09-15,Navarra,15,799,57,1039
@@ -11564,7 +11564,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-16,Extremadura,26,1299,43,903
 2021-09-16,Galicia,19,1954,125,2250
 2021-09-16,La Rioja,6,549,13,331
-2021-09-16,Madrid,283,10536,376,7865
+2021-09-16,Madrid,284,10568,376,7866
 2021-09-16,Melilla,2,94,8,50
 2021-09-16,Murcia,22,493,105,1486
 2021-09-16,Navarra,11,824,44,842
@@ -11585,7 +11585,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-17,Extremadura,20,1419,55,1298
 2021-09-17,Galicia,18,2206,96,2270
 2021-09-17,La Rioja,5,337,22,347
-2021-09-17,Madrid,276,10356,378,9149
+2021-09-17,Madrid,278,10358,378,9149
 2021-09-17,Melilla,2,73,5,53
 2021-09-17,Murcia,31,481,103,1787
 2021-09-17,Navarra,11,826,27,932
@@ -11627,7 +11627,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-19,Extremadura,9,526,25,608
 2021-09-19,Galicia,4,1311,52,2202
 2021-09-19,La Rioja,4,57,4,140
-2021-09-19,Madrid,59,3237,89,3246
+2021-09-19,Madrid,60,3238,89,3246
 2021-09-19,Melilla,1,79,9,41
 2021-09-19,Murcia,7,268,12,733
 2021-09-19,Navarra,3,377,15,566
@@ -11648,7 +11648,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-20,Extremadura,10,1226,58,1139
 2021-09-20,Galicia,14,2114,69,2730
 2021-09-20,La Rioja,6,638,4,410
-2021-09-20,Madrid,302,13041,223,8659
+2021-09-20,Madrid,306,13047,223,8659
 2021-09-20,Melilla,5,146,1,63
 2021-09-20,Murcia,25,644,87,1920
 2021-09-20,Navarra,10,1280,37,940
@@ -11669,7 +11669,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-21,Extremadura,13,1102,58,1933
 2021-09-21,Galicia,21,2287,92,3226
 2021-09-21,La Rioja,2,364,9,302
-2021-09-21,Madrid,218,11734,406,10211
+2021-09-21,Madrid,223,11739,406,10211
 2021-09-21,Melilla,4,115,5,86
 2021-09-21,Murcia,20,547,110,2197
 2021-09-21,Navarra,10,1096,36,1045
@@ -11690,7 +11690,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-22,Extremadura,13,1247,68,1181
 2021-09-22,Galicia,8,2069,61,2311
 2021-09-22,La Rioja,4,372,13,392
-2021-09-22,Madrid,199,11389,344,8927
+2021-09-22,Madrid,202,11393,344,8927
 2021-09-22,Melilla,2,104,6,50
 2021-09-22,Murcia,24,606,98,1831
 2021-09-22,Navarra,9,1059,26,774
@@ -11711,7 +11711,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-23,Extremadura,12,1094,35,1014
 2021-09-23,Galicia,11,2222,74,2185
 2021-09-23,La Rioja,11,372,8,312
-2021-09-23,Madrid,192,11326,316,7952
+2021-09-23,Madrid,195,11329,316,7952
 2021-09-23,Melilla,4,119,9,56
 2021-09-23,Murcia,15,709,76,1628
 2021-09-23,Navarra,11,1075,26,740
@@ -11732,7 +11732,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-24,Extremadura,14,1166,24,971
 2021-09-24,Galicia,13,1975,56,2108
 2021-09-24,La Rioja,2,300,12,328
-2021-09-24,Madrid,222,11564,301,8958
+2021-09-24,Madrid,223,11565,301,8958
 2021-09-24,Melilla,4,113,2,69
 2021-09-24,Murcia,16,598,66,1577
 2021-09-24,Navarra,3,947,30,795
@@ -11795,7 +11795,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-27,Extremadura,23,1444,56,1371
 2021-09-27,Galicia,15,2603,46,2777
 2021-09-27,La Rioja,4,512,6,425
-2021-09-27,Madrid,286,13673,170,9424
+2021-09-27,Madrid,288,13676,170,9424
 2021-09-27,Melilla,2,134,1,43
 2021-09-27,Murcia,22,716,67,1709
 2021-09-27,Navarra,17,1409,21,866
@@ -11816,7 +11816,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-28,Extremadura,9,1336,59,1014
 2021-09-28,Galicia,10,2271,38,2869
 2021-09-28,La Rioja,3,513,8,570
-2021-09-28,Madrid,187,11933,333,10271
+2021-09-28,Madrid,189,11938,333,10271
 2021-09-28,Melilla,0,110,3,76
 2021-09-28,Murcia,13,733,55,2108
 2021-09-28,Navarra,8,1299,35,838
@@ -11837,7 +11837,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-29,Extremadura,10,1226,31,1286
 2021-09-29,Galicia,3,2459,34,2411
 2021-09-29,La Rioja,2,284,21,486
-2021-09-29,Madrid,189,11568,251,9813
+2021-09-29,Madrid,190,11569,251,9813
 2021-09-29,Melilla,2,109,3,64
 2021-09-29,Murcia,9,635,71,1883
 2021-09-29,Navarra,10,1035,16,762
@@ -11858,7 +11858,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-09-30,Extremadura,17,1324,54,1557
 2021-09-30,Galicia,15,2426,57,1933
 2021-09-30,La Rioja,4,378,11,291
-2021-09-30,Madrid,148,11029,245,7913
+2021-09-30,Madrid,148,11029,245,7914
 2021-09-30,Melilla,0,91,10,65
 2021-09-30,Murcia,12,555,59,1373
 2021-09-30,Navarra,10,993,38,700
@@ -11942,7 +11942,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-04,Extremadura,6,1703,32,1634
 2021-10-04,Galicia,9,2307,32,2865
 2021-10-04,La Rioja,2,647,3,493
-2021-10-04,Madrid,216,12699,170,8794
+2021-10-04,Madrid,219,12702,170,8794
 2021-10-04,Melilla,3,123,3,45
 2021-10-04,Murcia,14,657,36,1540
 2021-10-04,Navarra,6,1319,14,694
@@ -11963,7 +11963,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-05,Extremadura,8,1310,31,892
 2021-10-05,Galicia,12,2299,37,2462
 2021-10-05,La Rioja,2,364,3,443
-2021-10-05,Madrid,185,11020,263,10186
+2021-10-05,Madrid,186,11021,263,10186
 2021-10-05,Melilla,1,114,1,73
 2021-10-05,Murcia,6,603,58,1866
 2021-10-05,Navarra,6,1228,9,902
@@ -11984,7 +11984,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-06,Extremadura,7,1381,33,1109
 2021-10-06,Galicia,5,2126,47,2227
 2021-10-06,La Rioja,4,317,9,573
-2021-10-06,Madrid,157,10637,190,8818
+2021-10-06,Madrid,160,10641,190,8818
 2021-10-06,Melilla,0,125,1,65
 2021-10-06,Murcia,11,636,26,1684
 2021-10-06,Navarra,16,1057,30,687
@@ -12005,7 +12005,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-07,Extremadura,6,1214,39,995
 2021-10-07,Galicia,6,2044,29,1528
 2021-10-07,La Rioja,4,436,1,251
-2021-10-07,Madrid,144,9412,243,7828
+2021-10-07,Madrid,147,9415,243,7828
 2021-10-07,Melilla,1,118,4,55
 2021-10-07,Murcia,11,582,62,1139
 2021-10-07,Navarra,12,1002,16,559
@@ -12026,7 +12026,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-08,Extremadura,11,1128,43,1207
 2021-10-08,Galicia,9,1880,32,1777
 2021-10-08,La Rioja,1,314,12,389
-2021-10-08,Madrid,162,9065,168,7262
+2021-10-08,Madrid,162,9066,168,7262
 2021-10-08,Melilla,0,114,3,56
 2021-10-08,Murcia,13,549,44,1119
 2021-10-08,Navarra,15,895,22,639
@@ -12089,7 +12089,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-11,Extremadura,20,1275,27,1155
 2021-10-11,Galicia,10,1904,55,2565
 2021-10-11,La Rioja,5,448,5,421
-2021-10-11,Madrid,239,8633,135,8091
+2021-10-11,Madrid,242,8636,135,8091
 2021-10-11,Melilla,5,116,1,59
 2021-10-11,Murcia,23,541,53,1476
 2021-10-11,Navarra,21,975,27,727
@@ -12110,7 +12110,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-12,Extremadura,8,797,10,539
 2021-10-12,Galicia,9,1368,25,1716
 2021-10-12,La Rioja,0,223,4,356
-2021-10-12,Madrid,26,2285,131,5730
+2021-10-12,Madrid,27,2286,131,5730
 2021-10-12,Melilla,0,85,3,71
 2021-10-12,Murcia,7,271,31,1233
 2021-10-12,Navarra,5,342,24,452
@@ -12131,7 +12131,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-13,Extremadura,19,1853,24,1400
 2021-10-13,Galicia,5,2623,26,1899
 2021-10-13,La Rioja,2,362,8,498
-2021-10-13,Madrid,230,11695,193,7898
+2021-10-13,Madrid,232,11697,193,7898
 2021-10-13,Melilla,1,125,1,34
 2021-10-13,Murcia,19,798,42,1359
 2021-10-13,Navarra,15,1281,10,806
@@ -12152,7 +12152,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-14,Extremadura,8,1592,24,963
 2021-10-14,Galicia,8,2347,27,1607
 2021-10-14,La Rioja,5,393,5,352
-2021-10-14,Madrid,170,10013,241,7878
+2021-10-14,Madrid,170,10015,241,7878
 2021-10-14,Melilla,1,101,1,78
 2021-10-14,Murcia,18,730,48,1585
 2021-10-14,Navarra,10,1159,26,723
@@ -12215,7 +12215,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-17,Extremadura,10,703,11,605
 2021-10-17,Galicia,9,1531,18,1758
 2021-10-17,La Rioja,0,162,6,303
-2021-10-17,Madrid,53,2324,58,3582
+2021-10-17,Madrid,54,2325,58,3583
 2021-10-17,Melilla,0,77,1,59
 2021-10-17,Murcia,6,236,24,1035
 2021-10-17,Navarra,8,307,44,584
@@ -12236,7 +12236,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-18,Extremadura,3,1697,31,1183
 2021-10-18,Galicia,11,2630,39,2208
 2021-10-18,La Rioja,1,356,7,494
-2021-10-18,Madrid,263,11426,137,8764
+2021-10-18,Madrid,265,11428,137,8765
 2021-10-18,Melilla,5,139,2,58
 2021-10-18,Murcia,15,856,52,1621
 2021-10-18,Navarra,18,1296,29,791
@@ -12257,7 +12257,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-19,Extremadura,12,1440,29,1116
 2021-10-19,Galicia,12,2222,33,2364
 2021-10-19,La Rioja,0,256,8,593
-2021-10-19,Madrid,232,9893,254,9337
+2021-10-19,Madrid,234,9896,254,9337
 2021-10-19,Melilla,2,104,15,80
 2021-10-19,Murcia,8,831,58,2307
 2021-10-19,Navarra,19,1202,31,962
@@ -12278,7 +12278,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-20,Extremadura,11,1476,22,900
 2021-10-20,Galicia,9,2096,34,2036
 2021-10-20,La Rioja,2,310,2,453
-2021-10-20,Madrid,214,9568,245,8793
+2021-10-20,Madrid,215,9569,245,8793
 2021-10-20,Melilla,0,111,1,54
 2021-10-20,Murcia,21,795,70,1603
 2021-10-20,Navarra,22,1083,48,827
@@ -12299,7 +12299,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-21,Extremadura,11,1113,26,827
 2021-10-21,Galicia,7,2085,35,1515
 2021-10-21,La Rioja,0,291,8,364
-2021-10-21,Madrid,183,9162,230,7179
+2021-10-21,Madrid,185,9169,230,7179
 2021-10-21,Melilla,0,104,0,65
 2021-10-21,Murcia,11,768,68,1530
 2021-10-21,Navarra,12,1008,21,678
@@ -12320,7 +12320,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-22,Extremadura,9,1096,18,1106
 2021-10-22,Galicia,13,1803,31,1784
 2021-10-22,La Rioja,1,301,5,241
-2021-10-22,Madrid,192,8613,214,8163
+2021-10-22,Madrid,194,8615,214,8165
 2021-10-22,Melilla,0,92,1,48
 2021-10-22,Murcia,11,704,58,1448
 2021-10-22,Navarra,24,936,60,1011
@@ -12341,7 +12341,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-23,Extremadura,4,533,14,592
 2021-10-23,Galicia,6,1304,27,1886
 2021-10-23,La Rioja,0,65,2,342
-2021-10-23,Madrid,42,2276,170,6281
+2021-10-23,Madrid,43,2277,170,6281
 2021-10-23,Melilla,0,81,2,51
 2021-10-23,Murcia,10,415,38,1277
 2021-10-23,Navarra,7,329,45,820
@@ -12425,7 +12425,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-27,Extremadura,1,1185,11,786
 2021-10-27,Galicia,17,1993,32,2165
 2021-10-27,La Rioja,3,245,7,372
-2021-10-27,Madrid,208,9890,221,8636
+2021-10-27,Madrid,209,9891,221,8636
 2021-10-27,Melilla,3,115,2,60
 2021-10-27,Murcia,18,759,61,1618
 2021-10-27,Navarra,13,1048,41,812
@@ -12446,7 +12446,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-28,Extremadura,3,1249,13,621
 2021-10-28,Galicia,10,1803,51,1605
 2021-10-28,La Rioja,8,262,6,343
-2021-10-28,Madrid,191,8655,227,6913
+2021-10-28,Madrid,192,8658,227,6914
 2021-10-28,Melilla,2,97,0,54
 2021-10-28,Murcia,23,781,68,1435
 2021-10-28,Navarra,19,1030,42,700
@@ -12467,7 +12467,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-10-29,Extremadura,5,974,26,553
 2021-10-29,Galicia,15,2047,35,1447
 2021-10-29,La Rioja,4,201,2,202
-2021-10-29,Madrid,231,8379,246,7473
+2021-10-29,Madrid,235,8388,246,7473
 2021-10-29,Melilla,0,114,4,47
 2021-10-29,Murcia,9,740,42,1028
 2021-10-29,Navarra,22,914,53,995
@@ -12551,7 +12551,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-02,Extremadura,16,1391,36,1272
 2021-11-02,Galicia,16,2295,39,2164
 2021-11-02,La Rioja,5,288,11,649
-2021-11-02,Madrid,363,10858,172,8582
+2021-11-02,Madrid,363,10858,172,8585
 2021-11-02,Melilla,1,129,0,41
 2021-11-02,Murcia,19,866,68,1912
 2021-11-02,Navarra,38,1351,20,938
@@ -12572,7 +12572,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-03,Extremadura,10,1351,22,908
 2021-11-03,Galicia,22,2260,75,2268
 2021-11-03,La Rioja,10,274,11,462
-2021-11-03,Madrid,294,9669,310,8917
+2021-11-03,Madrid,295,9670,310,8917
 2021-11-03,Melilla,0,115,1,55
 2021-11-03,Murcia,10,936,68,2063
 2021-11-03,Navarra,40,1282,42,852
@@ -12593,7 +12593,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-04,Extremadura,10,1109,35,736
 2021-11-04,Galicia,31,2029,78,1988
 2021-11-04,La Rioja,11,287,22,432
-2021-11-04,Madrid,225,9067,342,7537
+2021-11-04,Madrid,229,9071,342,7537
 2021-11-04,Melilla,0,84,1,57
 2021-11-04,Murcia,17,827,60,1325
 2021-11-04,Navarra,40,1280,61,889
@@ -12614,7 +12614,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-05,Extremadura,12,1084,18,1104
 2021-11-05,Galicia,27,2087,66,2293
 2021-11-05,La Rioja,7,233,20,341
-2021-11-05,Madrid,260,8862,282,8464
+2021-11-05,Madrid,262,8864,282,8467
 2021-11-05,Melilla,2,92,0,43
 2021-11-05,Murcia,14,782,71,1302
 2021-11-05,Navarra,39,1135,85,1015
@@ -12628,33 +12628,33 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-06,Castilla y Castilla y León,3,121,58,737
 2021-11-06,Castilla y León,27,453,32,1056
 2021-11-06,Castilla-La Mancha,11,307,49,1022
-2021-11-06,Cataluña,164,3039,209,7210
+2021-11-06,Cataluña,164,3041,209,7210
 2021-11-06,Ceuta,1,13,0,16
-2021-11-06,Comunitat Valenciana,109,1105,104,3263
-2021-11-06,DESLOCALIZADOS,31,1443,76,1982
+2021-11-06,Comunitat Valenciana,109,1106,104,3263
+2021-11-06,DESLOCALIZADOS,31,1439,76,1982
 2021-11-06,Extremadura,6,510,27,703
 2021-11-06,Galicia,7,1103,81,2608
 2021-11-06,La Rioja,0,60,15,490
-2021-11-06,Madrid,60,2548,203,5751
+2021-11-06,Madrid,61,2549,203,5751
 2021-11-06,Melilla,0,67,0,50
 2021-11-06,Murcia,5,424,47,1429
 2021-11-06,Navarra,20,440,108,914
-2021-11-06,País Vasco,54,1033,94,1883
-2021-11-07,Andalucía,35,1348,38,2581
+2021-11-06,País Vasco,54,1034,94,1883
+2021-11-07,Andalucía,35,1349,38,2581
 2021-11-07,Aragón,27,352,23,503
 2021-11-07,Asturias,6,179,14,1131
 2021-11-07,Baleares,17,514,35,1208
-2021-11-07,Canarias,31,653,31,1243
+2021-11-07,Canarias,31,652,31,1243
 2021-11-07,Cantabria,2,159,17,450
 2021-11-07,Castilla y Castilla y León,7,123,8,331
 2021-11-07,Castilla y León,11,360,26,1031
 2021-11-07,Castilla-La Mancha,13,376,11,710
-2021-11-07,Cataluña,128,2600,88,3425
+2021-11-07,Cataluña,128,2602,88,3425
 2021-11-07,Ceuta,0,14,0,11
-2021-11-07,Comunitat Valenciana,78,836,65,1798
+2021-11-07,Comunitat Valenciana,78,835,65,1798
 2021-11-07,DESLOCALIZADOS,23,1281,39,1208
 2021-11-07,Extremadura,13,595,21,662
-2021-11-07,Galicia,19,1259,56,1947
+2021-11-07,Galicia,19,1258,56,1947
 2021-11-07,La Rioja,4,84,9,298
 2021-11-07,Madrid,57,2450,79,3280
 2021-11-07,Melilla,0,65,0,33
@@ -12662,10 +12662,10 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-07,Navarra,22,409,67,827
 2021-11-07,País Vasco,52,783,119,1753
 2021-11-08,Andalucía,87,4714,180,5571
-2021-11-08,Aragón,89,921,141,1981
+2021-11-08,Aragón,89,922,141,1981
 2021-11-08,Asturias,7,435,38,1897
 2021-11-08,Baleares,28,1339,129,2226
-2021-11-08,Canarias,53,1637,104,2586
+2021-11-08,Canarias,53,1638,104,2586
 2021-11-08,Cantabria,7,432,25,889
 2021-11-08,Castilla y Castilla y León,15,229,39,665
 2021-11-08,Castilla y León,24,973,126,2648
@@ -12673,11 +12673,11 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-08,Cataluña,410,10609,402,12976
 2021-11-08,Ceuta,0,17,0,75
 2021-11-08,Comunitat Valenciana,210,2490,291,5890
-2021-11-08,DESLOCALIZADOS,57,2148,82,2040
+2021-11-08,DESLOCALIZADOS,57,2146,82,2040
 2021-11-08,Extremadura,11,1420,27,1291
 2021-11-08,Galicia,18,2552,67,2557
 2021-11-08,La Rioja,16,637,13,445
-2021-11-08,Madrid,367,10720,211,8471
+2021-11-08,Madrid,372,10726,211,8471
 2021-11-08,Melilla,0,114,0,41
 2021-11-08,Murcia,19,945,53,1634
 2021-11-08,Navarra,34,1446,61,1073
@@ -12690,15 +12690,15 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-09,Cantabria,2,443,37,935
 2021-11-09,Castilla y Castilla y León,5,217,52,868
 2021-11-09,Castilla y León,44,1047,110,2361
-2021-11-09,Castilla-La Mancha,27,799,61,1876
-2021-11-09,Cataluña,324,8819,607,19559
+2021-11-09,Castilla-La Mancha,27,800,61,1876
+2021-11-09,Cataluña,324,8820,607,19559
 2021-11-09,Ceuta,0,22,0,38
 2021-11-09,Comunitat Valenciana,188,2409,265,6140
-2021-11-09,DESLOCALIZADOS,48,1996,151,2565
+2021-11-09,DESLOCALIZADOS,48,1994,151,2565
 2021-11-09,Extremadura,13,1651,42,1305
 2021-11-09,Galicia,28,2366,100,3120
 2021-11-09,La Rioja,7,240,26,658
-2021-11-09,Madrid,179,6053,307,7540
+2021-11-09,Madrid,180,6054,307,7540
 2021-11-09,Melilla,1,115,1,80
 2021-11-09,Murcia,12,914,102,2384
 2021-11-09,Navarra,53,1390,109,1404
@@ -12707,19 +12707,19 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-10,Aragón,49,899,116,1576
 2021-11-10,Asturias,15,430,37,1697
 2021-11-10,Baleares,42,1122,115,2177
-2021-11-10,Canarias,63,1691,104,3128
+2021-11-10,Canarias,63,1693,104,3128
 2021-11-10,Cantabria,6,366,33,780
 2021-11-10,Castilla y Castilla y León,12,246,78,959
 2021-11-10,Castilla y León,38,996,138,2151
 2021-11-10,Castilla-La Mancha,41,716,95,1736
-2021-11-10,Cataluña,358,9230,473,21758
+2021-11-10,Cataluña,358,9231,473,21758
 2021-11-10,Ceuta,2,29,0,28
 2021-11-10,Comunitat Valenciana,215,2400,297,5412
-2021-11-10,DESLOCALIZADOS,52,1826,103,2417
+2021-11-10,DESLOCALIZADOS,52,1823,103,2417
 2021-11-10,Extremadura,19,1283,25,1166
 2021-11-10,Galicia,34,2287,92,2593
 2021-11-10,La Rioja,16,465,29,613
-2021-11-10,Madrid,345,10922,253,8693
+2021-11-10,Madrid,348,10925,253,8693
 2021-11-10,Melilla,1,110,0,55
 2021-11-10,Murcia,24,911,68,1677
 2021-11-10,Navarra,51,1291,100,1218
@@ -12733,14 +12733,14 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-11,Castilla y Castilla y León,8,229,84,858
 2021-11-11,Castilla y León,33,947,129,1986
 2021-11-11,Castilla-La Mancha,28,693,52,1370
-2021-11-11,Cataluña,402,9266,482,17127
+2021-11-11,Cataluña,402,9267,482,17127
 2021-11-11,Ceuta,0,65,0,28
 2021-11-11,Comunitat Valenciana,224,2394,330,5290
-2021-11-11,DESLOCALIZADOS,59,1812,92,2580
+2021-11-11,DESLOCALIZADOS,59,1811,92,2580
 2021-11-11,Extremadura,17,1420,45,766
 2021-11-11,Galicia,36,2251,119,2598
 2021-11-11,La Rioja,7,207,24,416
-2021-11-11,Madrid,343,10160,364,8349
+2021-11-11,Madrid,348,10165,364,8349
 2021-11-11,Melilla,1,112,5,65
 2021-11-11,Murcia,17,854,65,1486
 2021-11-11,Navarra,69,1408,93,1084
@@ -12749,19 +12749,19 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-12,Aragón,72,882,130,1764
 2021-11-12,Asturias,7,409,56,1331
 2021-11-12,Baleares,51,1010,118,1947
-2021-11-12,Canarias,55,1864,117,2627
+2021-11-12,Canarias,55,1866,117,2627
 2021-11-12,Cantabria,6,362,44,979
 2021-11-12,Castilla y Castilla y León,18,275,58,814
 2021-11-12,Castilla y León,65,1192,135,2386
 2021-11-12,Castilla-La Mancha,49,673,86,1292
-2021-11-12,Cataluña,463,9901,773,17188
+2021-11-12,Cataluña,463,9903,773,17188
 2021-11-12,Ceuta,0,16,0,33
 2021-11-12,Comunitat Valenciana,234,2075,377,6627
-2021-11-12,DESLOCALIZADOS,67,2207,179,2816
+2021-11-12,DESLOCALIZADOS,67,2203,179,2816
 2021-11-12,Extremadura,15,1185,43,1209
 2021-11-12,Galicia,33,2203,137,2473
 2021-11-12,La Rioja,15,349,26,436
-2021-11-12,Madrid,368,9710,396,8974
+2021-11-12,Madrid,373,9715,396,8974
 2021-11-12,Melilla,2,118,1,77
 2021-11-12,Murcia,19,828,163,1584
 2021-11-12,Navarra,70,1353,94,1317
@@ -12775,31 +12775,31 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-13,Castilla y Castilla y León,5,106,44,614
 2021-11-13,Castilla y León,31,579,42,1142
 2021-11-13,Castilla-La Mancha,23,360,23,758
-2021-11-13,Cataluña,266,3884,262,7381
+2021-11-13,Cataluña,266,3885,262,7381
 2021-11-13,Ceuta,0,18,0,20
 2021-11-13,Comunitat Valenciana,152,1278,249,3576
-2021-11-13,DESLOCALIZADOS,31,1464,96,2066
+2021-11-13,DESLOCALIZADOS,31,1463,96,2066
 2021-11-13,Extremadura,19,589,26,789
 2021-11-13,Galicia,40,1356,137,2646
 2021-11-13,La Rioja,4,199,33,449
-2021-11-13,Madrid,73,2722,206,7244
+2021-11-13,Madrid,73,2722,206,7245
 2021-11-13,Melilla,1,86,5,87
 2021-11-13,Murcia,13,395,72,1817
 2021-11-13,Navarra,41,526,170,1135
 2021-11-13,País Vasco,82,1109,319,2831
-2021-11-14,Andalucía,102,1661,73,2920
+2021-11-14,Andalucía,102,1662,73,2920
 2021-11-14,Aragón,44,439,18,525
 2021-11-14,Asturias,5,171,53,1499
 2021-11-14,Baleares,22,536,83,1574
-2021-11-14,Canarias,42,979,88,1996
+2021-11-14,Canarias,42,982,88,1996
 2021-11-14,Cantabria,3,156,32,605
 2021-11-14,Castilla y Castilla y León,14,119,22,419
-2021-11-14,Castilla y León,31,547,54,1172
+2021-11-14,Castilla y León,31,548,54,1172
 2021-11-14,Castilla-La Mancha,24,377,19,593
-2021-11-14,Cataluña,242,2816,174,4182
+2021-11-14,Cataluña,242,2819,174,4182
 2021-11-14,Ceuta,10,124,2,16
 2021-11-14,Comunitat Valenciana,101,918,125,1882
-2021-11-14,DESLOCALIZADOS,34,1433,48,1275
+2021-11-14,DESLOCALIZADOS,34,1425,48,1275
 2021-11-14,Extremadura,6,637,14,753
 2021-11-14,Galicia,33,1350,106,2161
 2021-11-14,La Rioja,3,74,5,388
@@ -12812,19 +12812,19 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-15,Aragón,110,976,169,2217
 2021-11-15,Asturias,17,561,41,1808
 2021-11-15,Baleares,74,1254,173,2608
-2021-11-15,Canarias,68,2389,122,2925
+2021-11-15,Canarias,68,2390,122,2925
 2021-11-15,Cantabria,12,483,22,1080
 2021-11-15,Castilla y Castilla y León,29,260,52,881
-2021-11-15,Castilla y León,54,1277,167,2932
+2021-11-15,Castilla y León,54,1278,167,2932
 2021-11-15,Castilla-La Mancha,39,838,63,1867
-2021-11-15,Cataluña,756,13027,814,15783
+2021-11-15,Cataluña,756,13028,814,15783
 2021-11-15,Ceuta,19,303,7,107
-2021-11-15,Comunitat Valenciana,301,2533,358,6573
-2021-11-15,DESLOCALIZADOS,80,2488,123,2474
+2021-11-15,Comunitat Valenciana,301,2535,358,6573
+2021-11-15,DESLOCALIZADOS,80,2482,123,2474
 2021-11-15,Extremadura,18,1496,44,1543
 2021-11-15,Galicia,49,2619,116,2622
 2021-11-15,La Rioja,8,524,32,570
-2021-11-15,Madrid,526,12237,204,8525
+2021-11-15,Madrid,530,12241,204,8525
 2021-11-15,Melilla,2,139,3,54
 2021-11-15,Murcia,41,1005,90,1844
 2021-11-15,Navarra,97,1837,128,1734
@@ -12845,7 +12845,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-16,Extremadura,19,1268,40,1460
 2021-11-16,Galicia,62,2582,205,3581
 2021-11-16,La Rioja,19,630,39,722
-2021-11-16,Madrid,425,10991,372,9681
+2021-11-16,Madrid,426,10992,372,9681
 2021-11-16,Melilla,5,124,0,79
 2021-11-16,Murcia,43,1012,191,2739
 2021-11-16,Navarra,80,1776,127,1902
@@ -12879,15 +12879,15 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-18,Cantabria,17,468,64,1237
 2021-11-18,Castilla y Castilla y León,19,306,121,981
 2021-11-18,Castilla y León,79,1298,294,2689
-2021-11-18,Castilla-La Mancha,46,707,99,1378
-2021-11-18,Cataluña,614,10983,859,19763
+2021-11-18,Castilla-La Mancha,46,709,99,1378
+2021-11-18,Cataluña,614,10984,859,19763
 2021-11-18,Ceuta,2,147,3,83
-2021-11-18,Comunitat Valenciana,343,2420,597,5744
-2021-11-18,DESLOCALIZADOS,86,2174,139,2859
+2021-11-18,Comunitat Valenciana,343,2421,597,5744
+2021-11-18,DESLOCALIZADOS,86,2170,139,2859
 2021-11-18,Extremadura,21,1191,38,968
 2021-11-18,Galicia,72,2700,249,3203
 2021-11-18,La Rioja,21,483,54,717
-2021-11-18,Madrid,457,10663,469,8008
+2021-11-18,Madrid,462,10669,469,8008
 2021-11-18,Melilla,3,147,7,129
 2021-11-18,Murcia,39,911,216,2258
 2021-11-18,Navarra,121,1728,225,1871
@@ -12896,19 +12896,19 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-19,Aragón,107,1055,219,2257
 2021-11-19,Asturias,28,499,115,1577
 2021-11-19,Baleares,60,1001,214,2723
-2021-11-19,Canarias,80,2193,168,3048
+2021-11-19,Canarias,80,2194,168,3048
 2021-11-19,Cantabria,11,449,72,1176
 2021-11-19,Castilla y Castilla y León,25,289,150,1225
 2021-11-19,Castilla y León,100,1388,359,2920
 2021-11-19,Castilla-La Mancha,59,693,119,2126
-2021-11-19,Cataluña,685,11407,1194,20519
+2021-11-19,Cataluña,685,11409,1194,20519
 2021-11-19,Ceuta,3,149,2,81
 2021-11-19,Comunitat Valenciana,370,2694,519,7164
-2021-11-19,DESLOCALIZADOS,101,2286,193,2754
+2021-11-19,DESLOCALIZADOS,101,2282,193,2754
 2021-11-19,Extremadura,20,1250,60,1319
 2021-11-19,Galicia,82,2451,318,4339
 2021-11-19,La Rioja,9,317,58,562
-2021-11-19,Madrid,489,11022,486,9624
+2021-11-19,Madrid,492,11025,486,9624
 2021-11-19,Melilla,1,139,1,76
 2021-11-19,Murcia,58,927,222,2313
 2021-11-19,Navarra,93,1692,153,1637
@@ -12922,10 +12922,10 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-20,Castilla y Castilla y León,9,134,76,664
 2021-11-20,Castilla y León,62,715,104,1412
 2021-11-20,Castilla-La Mancha,44,454,98,1475
-2021-11-20,Cataluña,379,4723,448,8674
+2021-11-20,Cataluña,379,4725,448,8674
 2021-11-20,Ceuta,15,146,2,20
-2021-11-20,Comunitat Valenciana,262,1587,269,4102
-2021-11-20,DESLOCALIZADOS,72,1641,114,1860
+2021-11-20,Comunitat Valenciana,262,1588,269,4102
+2021-11-20,DESLOCALIZADOS,72,1638,114,1860
 2021-11-20,Extremadura,14,612,21,709
 2021-11-20,Galicia,43,1542,302,4007
 2021-11-20,La Rioja,5,203,35,675
@@ -12964,10 +12964,10 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-22,Castilla y Castilla y León,27,313,65,914
 2021-11-22,Castilla y León,116,1519,347,3207
 2021-11-22,Castilla-La Mancha,89,921,164,2724
-2021-11-22,Cataluña,1161,15750,1082,18644
+2021-11-22,Cataluña,1161,15751,1082,18644
 2021-11-22,Ceuta,10,271,9,86
 2021-11-22,Comunitat Valenciana,551,3198,620,7809
-2021-11-22,DESLOCALIZADOS,120,2535,188,2475
+2021-11-22,DESLOCALIZADOS,120,2534,188,2475
 2021-11-22,Extremadura,26,1664,61,1911
 2021-11-22,Galicia,97,3120,248,3783
 2021-11-22,La Rioja,16,476,44,729
@@ -12976,7 +12976,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-22,Murcia,82,1164,148,2167
 2021-11-22,Navarra,129,1979,157,1726
 2021-11-22,País Vasco,264,2856,475,3981
-2021-11-23,Andalucía,335,5700,694,10447
+2021-11-23,Andalucía,335,5701,694,10447
 2021-11-23,Aragón,183,1286,324,2705
 2021-11-23,Asturias,24,620,118,2846
 2021-11-23,Baleares,39,696,265,2886
@@ -12988,7 +12988,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-23,Cataluña,846,11837,1350,26468
 2021-11-23,Ceuta,7,230,1,65
 2021-11-23,Comunitat Valenciana,432,3003,722,8358
-2021-11-23,DESLOCALIZADOS,110,2119,193,3203
+2021-11-23,DESLOCALIZADOS,110,2118,193,3203
 2021-11-23,Extremadura,28,1269,45,1520
 2021-11-23,Galicia,109,3099,340,4740
 2021-11-23,La Rioja,6,329,31,527
@@ -12997,8 +12997,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-23,Murcia,54,1014,247,2876
 2021-11-23,Navarra,141,1916,242,2436
 2021-11-23,País Vasco,291,3403,555,4964
-2021-11-24,Andalucía,313,5538,763,9556
-2021-11-24,Aragón,193,1321,271,2064
+2021-11-24,Andalucía,313,5539,763,9556
+2021-11-24,Aragón,193,1322,271,2064
 2021-11-24,Asturias,33,578,188,2833
 2021-11-24,Baleares,50,747,198,3058
 2021-11-24,Canarias,109,2573,205,4045
@@ -13006,10 +13006,10 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-24,Castilla y Castilla y León,16,290,106,1069
 2021-11-24,Castilla y León,92,1455,404,3145
 2021-11-24,Castilla-La Mancha,76,884,191,2732
-2021-11-24,Cataluña,964,12627,1222,28249
+2021-11-24,Cataluña,964,12628,1222,28249
 2021-11-24,Ceuta,5,179,0,104
 2021-11-24,Comunitat Valenciana,534,3160,706,7635
-2021-11-24,DESLOCALIZADOS,105,2335,227,3121
+2021-11-24,DESLOCALIZADOS,105,2332,227,3121
 2021-11-24,Extremadura,27,1302,57,1204
 2021-11-24,Galicia,144,3196,443,5255
 2021-11-24,La Rioja,11,314,32,557
@@ -13026,11 +13026,11 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-25,Cantabria,19,512,65,1531
 2021-11-25,Castilla y Castilla y León,27,277,128,1191
 2021-11-25,Castilla y León,117,1592,391,2816
-2021-11-25,Castilla-La Mancha,65,887,121,2187
+2021-11-25,Castilla-La Mancha,65,888,121,2187
 2021-11-25,Cataluña,996,13404,1262,23213
 2021-11-25,Ceuta,10,252,8,81
 2021-11-25,Comunitat Valenciana,494,3002,831,7547
-2021-11-25,DESLOCALIZADOS,118,2396,238,3360
+2021-11-25,DESLOCALIZADOS,118,2395,238,3360
 2021-11-25,Extremadura,33,1284,53,1074
 2021-11-25,Galicia,126,2822,512,5005
 2021-11-25,La Rioja,12,343,69,669
@@ -13043,15 +13043,15 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-26,Aragón,204,1218,353,2864
 2021-11-26,Asturias,29,563,266,2711
 2021-11-26,Baleares,63,821,290,2910
-2021-11-26,Canarias,87,2116,205,3352
+2021-11-26,Canarias,87,2117,205,3352
 2021-11-26,Cantabria,22,468,69,1587
 2021-11-26,Castilla y Castilla y León,31,328,163,1113
 2021-11-26,Castilla y León,149,1638,427,3498
 2021-11-26,Castilla-La Mancha,82,873,203,2979
 2021-11-26,Cataluña,1076,14463,1489,22865
 2021-11-26,Ceuta,14,318,3,63
-2021-11-26,Comunitat Valenciana,617,3162,740,8515
-2021-11-26,DESLOCALIZADOS,127,2480,227,3362
+2021-11-26,Comunitat Valenciana,617,3163,740,8515
+2021-11-26,DESLOCALIZADOS,127,2478,227,3362
 2021-11-26,Extremadura,39,1401,97,1526
 2021-11-26,Galicia,104,2938,488,6474
 2021-11-26,La Rioja,17,433,58,712
@@ -13076,7 +13076,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-27,Extremadura,41,665,33,835
 2021-11-27,Galicia,103,1689,478,6110
 2021-11-27,La Rioja,4,137,21,494
-2021-11-27,Madrid,125,3004,392,7753
+2021-11-27,Madrid,126,3005,392,7753
 2021-11-27,Melilla,5,76,1,94
 2021-11-27,Murcia,29,505,319,2805
 2021-11-27,Navarra,70,673,314,2186
@@ -13085,25 +13085,25 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-28,Aragón,123,649,41,728
 2021-11-28,Asturias,22,205,135,2233
 2021-11-28,Baleares,45,623,180,2242
-2021-11-28,Canarias,48,1038,197,2678
+2021-11-28,Canarias,48,1039,197,2678
 2021-11-28,Cantabria,7,184,49,1005
 2021-11-28,Castilla y Castilla y León,17,141,62,649
 2021-11-28,Castilla y León,85,866,142,1364
 2021-11-28,Castilla-La Mancha,37,491,61,1111
 2021-11-28,Cataluña,441,3872,352,5014
 2021-11-28,Ceuta,11,186,2,18
-2021-11-28,Comunitat Valenciana,210,1309,214,2388
-2021-11-28,DESLOCALIZADOS,59,1486,80,1261
+2021-11-28,Comunitat Valenciana,210,1310,214,2388
+2021-11-28,DESLOCALIZADOS,59,1484,80,1261
 2021-11-28,Extremadura,29,709,28,665
 2021-11-28,Galicia,80,1662,382,5437
 2021-11-28,La Rioja,12,208,29,394
-2021-11-28,Madrid,152,3035,127,4367
+2021-11-28,Madrid,152,3035,127,4368
 2021-11-28,Melilla,3,74,3,53
 2021-11-28,Murcia,27,350,103,1344
 2021-11-28,Navarra,71,619,182,1461
 2021-11-28,País Vasco,189,1395,435,3853
-2021-11-29,Andalucía,386,6408,539,7965
-2021-11-29,Aragón,270,1432,509,3783
+2021-11-29,Andalucía,386,6409,539,7965
+2021-11-29,Aragón,270,1431,509,3783
 2021-11-29,Asturias,36,702,244,2896
 2021-11-29,Baleares,58,945,322,3168
 2021-11-29,Canarias,107,2867,159,3372
@@ -13113,12 +13113,12 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-29,Castilla-La Mancha,78,1022,152,2493
 2021-11-29,Cataluña,1544,18077,1569,21432
 2021-11-29,Ceuta,19,407,6,122
-2021-11-29,Comunitat Valenciana,707,3708,748,8235
-2021-11-29,DESLOCALIZADOS,163,2865,217,2615
+2021-11-29,Comunitat Valenciana,707,3709,748,8235
+2021-11-29,DESLOCALIZADOS,163,2864,217,2615
 2021-11-29,Extremadura,51,1714,135,2285
 2021-11-29,Galicia,178,3539,442,5081
 2021-11-29,La Rioja,36,686,63,835
-2021-11-29,Madrid,882,14858,440,9647
+2021-11-29,Madrid,882,14859,440,9647
 2021-11-29,Melilla,10,169,2,69
 2021-11-29,Murcia,71,1084,180,2455
 2021-11-29,Navarra,149,1430,201,1579
@@ -13144,69 +13144,69 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-11-30,Murcia,59,1174,423,3110
 2021-11-30,Navarra,178,2048,319,2343
 2021-11-30,País Vasco,383,3644,846,6468
-2021-12-01,Andalucía,395,6580,1034,10910
+2021-12-01,Andalucía,395,6579,1034,10910
 2021-12-01,Aragón,249,1517,482,3798
 2021-12-01,Asturias,50,721,302,3965
 2021-12-01,Baleares,88,1028,324,3475
-2021-12-01,Canarias,131,2677,320,4545
-2021-12-01,Cantabria,37,606,115,1936
+2021-12-01,Canarias,131,2678,320,4545
+2021-12-01,Cantabria,37,606,115,1937
 2021-12-01,Castilla y Castilla y León,28,325,180,1495
 2021-12-01,Castilla y León,204,1916,623,4217
-2021-12-01,Castilla-La Mancha,103,991,247,2719
-2021-12-01,Cataluña,1365,16245,1894,29582
+2021-12-01,Castilla-La Mancha,103,992,247,2719
+2021-12-01,Cataluña,1365,16246,1894,29582
 2021-12-01,Ceuta,31,419,8,91
 2021-12-01,Comunitat Valenciana,688,3873,935,9419
-2021-12-01,DESLOCALIZADOS,151,2874,319,4184
+2021-12-01,DESLOCALIZADOS,151,2872,319,4184
 2021-12-01,Extremadura,60,1496,82,1437
 2021-12-01,Galicia,198,3265,654,7552
 2021-12-01,La Rioja,15,502,72,746
-2021-12-01,Madrid,768,15491,798,13395
+2021-12-01,Madrid,769,15492,798,13396
 2021-12-01,Melilla,11,166,5,120
 2021-12-01,Murcia,73,1121,307,3546
 2021-12-01,Navarra,251,2138,442,2434
 2021-12-01,País Vasco,454,3757,814,7780
-2021-12-02,Andalucía,473,7134,965,10277
+2021-12-02,Andalucía,473,7135,965,10277
 2021-12-02,Aragón,297,1438,579,3861
 2021-12-02,Asturias,61,753,314,3782
 2021-12-02,Baleares,134,2012,515,4982
-2021-12-02,Canarias,112,3242,359,5361
+2021-12-02,Canarias,112,3243,359,5361
 2021-12-02,Cantabria,36,619,135,1934
 2021-12-02,Castilla y Castilla y León,37,356,185,1187
 2021-12-02,Castilla y León,202,2151,698,3930
 2021-12-02,Castilla-La Mancha,100,1066,203,2679
-2021-12-02,Cataluña,1493,18025,1995,28111
+2021-12-02,Cataluña,1493,18033,1995,28118
 2021-12-02,Ceuta,21,464,15,133
-2021-12-02,Comunitat Valenciana,783,4325,1182,9723
-2021-12-02,DESLOCALIZADOS,159,3131,348,3435
+2021-12-02,Comunitat Valenciana,783,4325,1182,9725
+2021-12-02,DESLOCALIZADOS,159,3126,348,3435
 2021-12-02,Extremadura,69,1712,126,1729
 2021-12-02,Galicia,177,3516,794,8739
-2021-12-02,La Rioja,30,553,63,877
-2021-12-02,Madrid,779,16592,839,12495
+2021-12-02,La Rioja,31,554,63,879
+2021-12-02,Madrid,779,16592,839,12496
 2021-12-02,Melilla,9,145,10,124
 2021-12-02,Murcia,84,1118,435,3359
 2021-12-02,Navarra,356,2354,330,2054
-2021-12-02,País Vasco,476,3862,1102,7785
+2021-12-02,País Vasco,476,3863,1103,7786
 2021-12-03,Andalucía,547,7676,1147,10516
 2021-12-03,Aragón,295,1521,604,3395
 2021-12-03,Asturias,61,672,450,3881
 2021-12-03,Baleares,642,11747,447,3355
-2021-12-03,Canarias,111,3032,296,4503
+2021-12-03,Canarias,111,3031,296,4503
 2021-12-03,Cantabria,31,649,142,1903
 2021-12-03,Castilla y Castilla y León,31,480,225,1251
 2021-12-03,Castilla y León,229,2412,699,4135
 2021-12-03,Castilla-La Mancha,102,981,245,2762
-2021-12-03,Cataluña,1517,20811,2267,27767
+2021-12-03,Cataluña,1518,20826,2267,27778
 2021-12-03,Ceuta,23,420,7,91
-2021-12-03,Comunitat Valenciana,894,5076,1295,9940
-2021-12-03,DESLOCALIZADOS,173,3490,350,4220
+2021-12-03,Comunitat Valenciana,894,5076,1295,9941
+2021-12-03,DESLOCALIZADOS,173,3490,350,4221
 2021-12-03,Extremadura,58,2247,91,1988
 2021-12-03,Galicia,153,3421,787,7424
-2021-12-03,La Rioja,22,684,106,810
+2021-12-03,La Rioja,22,686,106,811
 2021-12-03,Madrid,966,18921,908,12329
 2021-12-03,Melilla,14,179,10,94
 2021-12-03,Murcia,81,1066,337,3197
 2021-12-03,Navarra,181,884,426,2077
-2021-12-03,País Vasco,443,3646,980,8382
+2021-12-03,País Vasco,443,3646,980,8384
 2021-12-04,Andalucía,265,2425,847,7392
 2021-12-04,Aragón,197,847,288,1736
 2021-12-04,Asturias,33,304,391,3143
@@ -13216,31 +13216,31 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-12-04,Castilla y Castilla y León,47,229,137,890
 2021-12-04,Castilla y León,140,1080,443,2140
 2021-12-04,Castilla-La Mancha,63,516,119,1933
-2021-12-04,Cataluña,837,9702,1040,12200
+2021-12-04,Cataluña,837,9704,1041,12201
 2021-12-04,Ceuta,8,140,8,38
-2021-12-04,Comunitat Valenciana,642,3158,944,7554
-2021-12-04,DESLOCALIZADOS,120,2323,258,3249
+2021-12-04,Comunitat Valenciana,642,3159,944,7554
+2021-12-04,DESLOCALIZADOS,120,2321,258,3249
 2021-12-04,Extremadura,55,836,69,1038
 2021-12-04,Galicia,116,1942,855,7841
-2021-12-04,La Rioja,18,287,59,450
+2021-12-04,La Rioja,18,287,59,452
 2021-12-04,Madrid,190,4898,620,9118
 2021-12-04,Melilla,16,124,6,123
 2021-12-04,Murcia,47,526,406,2880
 2021-12-04,Navarra,249,958,489,2486
-2021-12-04,País Vasco,238,1679,1023,6255
-2021-12-05,Andalucía,215,2120,363,3933
+2021-12-04,País Vasco,238,1680,1023,6256
+2021-12-05,Andalucía,215,2121,363,3933
 2021-12-05,Aragón,145,628,74,737
 2021-12-05,Asturias,48,356,294,2879
 2021-12-05,Baleares,60,763,383,2758
-2021-12-05,Canarias,90,1315,186,2641
+2021-12-05,Canarias,90,1315,186,2642
 2021-12-05,Cantabria,10,221,87,1535
 2021-12-05,Castilla y Castilla y León,49,243,147,858
 2021-12-05,Castilla y León,118,984,398,2040
 2021-12-05,Castilla-La Mancha,60,478,84,801
-2021-12-05,Cataluña,691,5800,604,7281
+2021-12-05,Cataluña,691,5805,604,7290
 2021-12-05,Ceuta,20,274,1,21
 2021-12-05,Comunitat Valenciana,423,1963,295,2619
-2021-12-05,DESLOCALIZADOS,95,2015,152,2017
+2021-12-05,DESLOCALIZADOS,95,2014,152,2017
 2021-12-05,Extremadura,42,804,68,914
 2021-12-05,Galicia,110,1784,687,6546
 2021-12-05,La Rioja,8,254,29,407
@@ -13248,113 +13248,113 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-12-05,Melilla,5,86,7,59
 2021-12-05,Murcia,43,391,133,902
 2021-12-05,Navarra,191,833,326,1704
-2021-12-05,País Vasco,247,1383,790,5498
+2021-12-05,País Vasco,247,1385,790,5499
 2021-12-06,Andalucía,270,2467,293,3538
 2021-12-06,Aragón,140,708,92,1029
 2021-12-06,Asturias,35,349,333,3365
 2021-12-06,Baleares,85,924,245,1565
 2021-12-06,Canarias,80,1512,214,2699
-2021-12-06,Cantabria,7,265,184,1633
+2021-12-06,Cantabria,7,265,184,1634
 2021-12-06,Castilla y Castilla y León,32,216,96,627
 2021-12-06,Castilla y León,175,1308,289,1745
-2021-12-06,Castilla-La Mancha,85,699,86,883
-2021-12-06,Cataluña,778,6120,762,6618
+2021-12-06,Castilla-La Mancha,85,700,86,884
+2021-12-06,Cataluña,779,6121,762,6619
 2021-12-06,Ceuta,28,270,1,24
 2021-12-06,Comunitat Valenciana,468,2403,336,3154
-2021-12-06,DESLOCALIZADOS,119,2022,163,1758
+2021-12-06,DESLOCALIZADOS,119,2020,163,1758
 2021-12-06,Extremadura,37,918,73,829
-2021-12-06,Galicia,105,2002,585,5905
-2021-12-06,La Rioja,15,253,73,393
+2021-12-06,Galicia,105,2003,585,5905
+2021-12-06,La Rioja,15,254,73,394
 2021-12-06,Madrid,204,4698,225,4806
 2021-12-06,Melilla,8,88,4,45
 2021-12-06,Murcia,44,405,128,1130
 2021-12-06,Navarra,252,1085,265,1828
-2021-12-06,País Vasco,249,1685,924,4808
+2021-12-06,País Vasco,249,1686,924,4810
 2021-12-07,Andalucía,704,6344,824,9130
 2021-12-07,Aragón,402,1450,789,4465
 2021-12-07,Asturias,62,635,301,3637
 2021-12-07,Baleares,110,1188,552,3630
-2021-12-07,Canarias,130,2571,190,3245
+2021-12-07,Canarias,130,2571,190,3250
 2021-12-07,Cantabria,33,546,145,1600
 2021-12-07,Castilla y Castilla y León,41,319,93,927
-2021-12-07,Castilla y León,278,2049,759,4849
+2021-12-07,Castilla y León,278,2050,759,4849
 2021-12-07,Castilla-La Mancha,160,1110,176,2609
-2021-12-07,Cataluña,2512,17805,2690,28028
+2021-12-07,Cataluña,2512,17810,2690,28034
 2021-12-07,Ceuta,31,319,17,127
-2021-12-07,Comunitat Valenciana,1045,4453,1287,10180
-2021-12-07,DESLOCALIZADOS,271,3459,354,3506
+2021-12-07,Comunitat Valenciana,1045,4455,1287,10182
+2021-12-07,DESLOCALIZADOS,271,3458,354,3507
 2021-12-07,Extremadura,78,1449,136,1919
 2021-12-07,Galicia,172,3209,796,6883
-2021-12-07,La Rioja,15,355,50,780
+2021-12-07,La Rioja,15,356,50,782
 2021-12-07,Madrid,1299,14546,647,9994
 2021-12-07,Melilla,25,222,13,89
 2021-12-07,Murcia,137,1059,358,2853
 2021-12-07,Navarra,438,2281,352,2055
-2021-12-07,País Vasco,412,3185,925,5242
+2021-12-07,País Vasco,412,3186,925,5242
 2021-12-08,Andalucía,348,2996,877,8500
 2021-12-08,Aragón,219,877,108,936
 2021-12-08,Asturias,34,328,484,3776
 2021-12-08,Baleares,97,925,260,1787
-2021-12-08,Canarias,127,1621,277,3788
+2021-12-08,Canarias,127,1621,277,3789
 2021-12-08,Cantabria,17,223,176,1669
 2021-12-08,Castilla y Castilla y León,25,269,206,1078
 2021-12-08,Castilla y León,167,1224,453,2672
 2021-12-08,Castilla-La Mancha,102,779,153,1685
-2021-12-08,Cataluña,1127,7300,1131,11653
+2021-12-08,Cataluña,1127,7301,1131,11657
 2021-12-08,Ceuta,46,434,1,27
-2021-12-08,Comunitat Valenciana,597,2580,1072,7039
-2021-12-08,DESLOCALIZADOS,112,1815,221,2439
+2021-12-08,Comunitat Valenciana,597,2580,1072,7040
+2021-12-08,DESLOCALIZADOS,112,1814,221,2439
 2021-12-08,Extremadura,65,1046,129,1532
 2021-12-08,Galicia,129,1967,997,8003
-2021-12-08,La Rioja,10,247,66,654
+2021-12-08,La Rioja,10,248,67,656
 2021-12-08,Madrid,271,4254,807,9173
 2021-12-08,Melilla,7,108,8,127
 2021-12-08,Murcia,59,494,391,2582
 2021-12-08,Navarra,294,1173,302,2090
 2021-12-08,País Vasco,268,1721,1125,6557
-2021-12-09,Andalucía,875,8263,1118,9742
+2021-12-09,Andalucía,875,8264,1118,9742
 2021-12-09,Aragón,469,1728,862,4477
 2021-12-09,Asturias,75,744,379,3934
 2021-12-09,Baleares,152,1478,672,4374
-2021-12-09,Canarias,213,3516,250,3811
+2021-12-09,Canarias,213,3516,250,3812
 2021-12-09,Cantabria,38,651,161,1957
 2021-12-09,Castilla y Castilla y León,65,450,172,1151
 2021-12-09,Castilla y León,325,2342,813,4768
-2021-12-09,Castilla-La Mancha,162,1471,272,2653
-2021-12-09,Cataluña,2891,22470,2796,34164
+2021-12-09,Castilla-La Mancha,162,1472,272,2653
+2021-12-09,Cataluña,2892,22481,2796,34168
 2021-12-09,Ceuta,74,680,45,160
-2021-12-09,Comunitat Valenciana,1399,5647,1278,9949
-2021-12-09,DESLOCALIZADOS,284,3707,402,3914
+2021-12-09,Comunitat Valenciana,1399,5647,1278,9950
+2021-12-09,DESLOCALIZADOS,284,3704,402,3915
 2021-12-09,Extremadura,106,2053,117,2032
 2021-12-09,Galicia,215,3620,1030,7880
-2021-12-09,La Rioja,25,458,101,893
-2021-12-09,Madrid,1742,19574,790,9422
+2021-12-09,La Rioja,25,458,101,896
+2021-12-09,Madrid,1743,19575,790,9423
 2021-12-09,Melilla,29,249,19,92
 2021-12-09,Murcia,180,1434,394,2817
 2021-12-09,Navarra,559,2718,457,2674
-2021-12-09,País Vasco,587,3999,1061,7212
+2021-12-09,País Vasco,587,3999,1061,7214
 2021-12-10,Andalucía,279,1607,1808,13649
 2021-12-10,Aragón,474,1949,727,4150
 2021-12-10,Asturias,68,824,569,4600
 2021-12-10,Baleares,112,1404,737,4108
-2021-12-10,Canarias,246,3135,401,5184
+2021-12-10,Canarias,246,3137,401,5185
 2021-12-10,Cantabria,36,616,204,2071
 2021-12-10,Castilla y Castilla y León,64,511,260,1159
 2021-12-10,Castilla y León,422,2745,1084,5940
 2021-12-10,Castilla-La Mancha,216,1499,425,3616
-2021-12-10,Cataluña,2799,22409,3940,41230
+2021-12-10,Cataluña,2799,22421,3941,41244
 2021-12-10,Ceuta,54,529,23,146
 2021-12-10,Comunitat Valenciana,1462,6021,1899,13006
-2021-12-10,DESLOCALIZADOS,263,3860,530,4815
+2021-12-10,DESLOCALIZADOS,263,3860,530,4817
 2021-12-10,Extremadura,133,1988,230,2587
 2021-12-10,Galicia,242,3599,883,8066
-2021-12-10,La Rioja,36,623,142,922
+2021-12-10,La Rioja,36,625,142,923
 2021-12-10,Madrid,1870,17942,1291,13670
 2021-12-10,Melilla,33,239,9,154
 2021-12-10,Murcia,179,1475,874,4065
 2021-12-10,Navarra,545,2584,520,2946
-2021-12-10,País Vasco,633,4769,1359,8059
-2021-12-11,Andalucía,608,3524,1382,10157
+2021-12-10,País Vasco,633,4771,1359,8062
+2021-12-11,Andalucía,608,3526,1382,10157
 2021-12-11,Aragón,327,1113,443,2589
 2021-12-11,Asturias,67,442,530,3938
 2021-12-11,Baleares,107,991,520,3820
@@ -13363,41 +13363,41 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-12-11,Castilla y Castilla y León,48,263,192,1296
 2021-12-11,Castilla y León,246,1405,621,3708
 2021-12-11,Castilla-La Mancha,169,921,274,2305
-2021-12-11,Cataluña,1659,10272,1696,16178
+2021-12-11,Cataluña,1659,10276,1696,16183
 2021-12-11,Ceuta,58,439,8,58
-2021-12-11,Comunitat Valenciana,983,3631,1418,9291
-2021-12-11,DESLOCALIZADOS,204,2668,356,3251
+2021-12-11,Comunitat Valenciana,983,3631,1419,9295
+2021-12-11,DESLOCALIZADOS,204,2665,356,3252
 2021-12-11,Extremadura,117,1127,114,1470
 2021-12-11,Galicia,182,2340,874,7755
-2021-12-11,La Rioja,26,304,129,937
+2021-12-11,La Rioja,26,307,130,941
 2021-12-11,Madrid,371,5016,1390,12753
 2021-12-11,Melilla,25,136,30,166
 2021-12-11,Murcia,150,934,530,3486
 2021-12-11,Navarra,369,1152,469,2813
-2021-12-11,País Vasco,316,2202,1293,6606
-2021-12-12,Andalucía,551,3417,761,6103
+2021-12-11,País Vasco,316,2203,1293,6609
+2021-12-12,Andalucía,551,3416,761,6103
 2021-12-12,Aragón,235,909,198,1412
 2021-12-12,Asturias,47,389,478,4015
 2021-12-12,Baleares,115,923,344,2479
 2021-12-12,Canarias,171,1685,312,3279
-2021-12-12,Cantabria,24,258,153,1506
+2021-12-12,Cantabria,24,258,153,1507
 2021-12-12,Castilla y Castilla y León,39,264,214,1080
 2021-12-12,Castilla y León,256,1476,447,2900
 2021-12-12,Castilla-La Mancha,125,975,189,1618
-2021-12-12,Cataluña,1393,7565,1225,9663
+2021-12-12,Cataluña,1393,7570,1226,9668
 2021-12-12,Ceuta,51,580,2,21
 2021-12-12,Comunitat Valenciana,728,2682,738,4615
-2021-12-12,DESLOCALIZADOS,152,2071,223,2038
+2021-12-12,DESLOCALIZADOS,152,2072,224,2040
 2021-12-12,Extremadura,113,1240,123,1646
 2021-12-12,Galicia,114,1914,1086,7855
 2021-12-12,La Rioja,21,267,99,638
-2021-12-12,Madrid,401,4521,513,6193
+2021-12-12,Madrid,401,4521,514,6194
 2021-12-12,Melilla,9,96,13,68
 2021-12-12,Murcia,104,919,507,3019
-2021-12-12,Navarra,222,974,348,2198
-2021-12-12,País Vasco,268,1766,1071,7862
+2021-12-12,Navarra,222,974,348,2199
+2021-12-12,País Vasco,268,1767,1071,7864
 2021-12-13,Andalucía,1520,10318,1476,10874
-2021-12-13,Aragón,453,1842,848,5129
+2021-12-13,Aragón,454,1843,848,5129
 2021-12-13,Asturias,54,752,543,5116
 2021-12-13,Baleares,157,1597,793,4358
 2021-12-13,Canarias,384,3789,327,4180
@@ -13405,144 +13405,144 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-12-13,Castilla y Castilla y León,51,476,238,1206
 2021-12-13,Castilla y León,397,2607,1098,5752
 2021-12-13,Castilla-La Mancha,274,1656,250,3112
-2021-12-13,Cataluña,3873,26602,3045,29399
+2021-12-13,Cataluña,3873,26604,3045,29407
 2021-12-13,Ceuta,89,625,41,183
-2021-12-13,Comunitat Valenciana,1661,5848,1519,10996
-2021-12-13,DESLOCALIZADOS,388,4051,456,3983
+2021-12-13,Comunitat Valenciana,1661,5848,1519,10997
+2021-12-13,DESLOCALIZADOS,388,4050,456,3984
 2021-12-13,Extremadura,151,2322,179,2701
-2021-12-13,Galicia,204,3784,841,7370
-2021-12-13,La Rioja,44,900,235,1269
-2021-12-13,Madrid,2864,21674,1257,13708
+2021-12-13,Galicia,204,3785,841,7370
+2021-12-13,La Rioja,44,901,235,1271
+2021-12-13,Madrid,2864,21674,1257,13709
 2021-12-13,Melilla,24,197,13,65
 2021-12-13,Murcia,274,1848,470,3293
 2021-12-13,Navarra,547,2687,330,2640
-2021-12-13,País Vasco,470,3374,1409,8280
+2021-12-13,País Vasco,470,3375,1409,8281
 2021-12-14,Andalucía,1790,10836,2208,15493
 2021-12-14,Aragón,447,1878,960,5100
 2021-12-14,Asturias,57,728,702,6118
 2021-12-14,Baleares,115,1582,738,4880
-2021-12-14,Canarias,570,4002,636,6305
-2021-12-14,Cantabria,55,707,226,2226
+2021-12-14,Canarias,570,4002,636,6306
+2021-12-14,Cantabria,55,707,226,2227
 2021-12-14,Castilla y Castilla y León,92,449,180,1231
 2021-12-14,Castilla y León,384,2534,1450,7012
-2021-12-14,Castilla-La Mancha,312,1689,485,3928
-2021-12-14,Cataluña,3572,25572,3851,39133
+2021-12-14,Castilla-La Mancha,312,1690,485,3928
+2021-12-14,Cataluña,3574,25580,3852,39141
 2021-12-14,Ceuta,162,911,31,149
-2021-12-14,Comunitat Valenciana,1703,5848,2398,14363
-2021-12-14,DESLOCALIZADOS,394,3616,586,4303
+2021-12-14,Comunitat Valenciana,1704,5850,2398,14363
+2021-12-14,DESLOCALIZADOS,394,3616,586,4305
 2021-12-14,Extremadura,213,2448,302,3408
 2021-12-14,Galicia,239,3279,1046,10757
-2021-12-14,La Rioja,76,713,279,1503
-2021-12-14,Madrid,3487,21599,2564,19183
+2021-12-14,La Rioja,76,714,279,1504
+2021-12-14,Madrid,3487,21599,2564,19184
 2021-12-14,Melilla,28,222,18,170
 2021-12-14,Murcia,278,1804,684,4150
 2021-12-14,Navarra,481,2531,411,2844
-2021-12-14,País Vasco,453,4087,1469,8599
+2021-12-14,País Vasco,454,4088,1469,8599
 2021-12-15,Andalucía,2202,11784,2917,17095
 2021-12-15,Aragón,478,1858,906,5053
 2021-12-15,Asturias,74,770,736,6076
 2021-12-15,Baleares,135,1664,749,4105
-2021-12-15,Canarias,738,4702,761,6419
-2021-12-15,Cantabria,73,736,258,2407
+2021-12-15,Canarias,738,4703,761,6419
+2021-12-15,Cantabria,73,736,258,2408
 2021-12-15,Castilla y Castilla y León,104,478,298,1641
 2021-12-15,Castilla y León,482,2688,1456,6356
-2021-12-15,Castilla-La Mancha,422,2103,523,4430
-2021-12-15,Cataluña,4003,27082,3761,42873
+2021-12-15,Castilla-La Mancha,423,2106,523,4430
+2021-12-15,Cataluña,4005,27094,3761,42885
 2021-12-15,Ceuta,89,816,39,217
-2021-12-15,Comunitat Valenciana,1632,6006,2302,14323
-2021-12-15,DESLOCALIZADOS,527,4151,651,5003
+2021-12-15,Comunitat Valenciana,1632,6007,2302,14323
+2021-12-15,DESLOCALIZADOS,527,4146,651,5004
 2021-12-15,Extremadura,338,2524,276,3214
 2021-12-15,Galicia,237,3104,1116,9354
-2021-12-15,La Rioja,103,694,233,1073
-2021-12-15,Madrid,4477,25743,3331,22019
+2021-12-15,La Rioja,103,695,234,1075
+2021-12-15,Madrid,4477,25743,3331,22020
 2021-12-15,Melilla,18,226,23,180
 2021-12-15,Murcia,368,2197,889,5617
 2021-12-15,Navarra,486,2356,392,2536
-2021-12-15,País Vasco,526,4052,1575,9946
+2021-12-15,País Vasco,526,4052,1575,9948
 2021-12-16,Andalucía,2448,12768,3118,18136
 2021-12-16,Aragón,514,1855,524,3134
 2021-12-16,Asturias,103,767,689,5700
 2021-12-16,Baleares,140,1724,705,3786
-2021-12-16,Canarias,788,5363,865,7023
+2021-12-16,Canarias,789,5364,865,7023
 2021-12-16,Cantabria,45,760,292,2501
 2021-12-16,Castilla y Castilla y León,82,494,327,1644
 2021-12-16,Castilla y León,489,2730,1495,6490
 2021-12-16,Castilla-La Mancha,393,2123,565,4200
-2021-12-16,Cataluña,4053,29865,3781,41253
+2021-12-16,Cataluña,4054,29872,3781,41267
 2021-12-16,Ceuta,146,1187,37,240
-2021-12-16,Comunitat Valenciana,1686,6193,2438,14678
-2021-12-16,DESLOCALIZADOS,514,4899,793,5280
+2021-12-16,Comunitat Valenciana,1686,6193,2438,14685
+2021-12-16,DESLOCALIZADOS,514,4900,794,5282
 2021-12-16,Extremadura,312,2574,281,3120
 2021-12-16,Galicia,238,3148,1155,9741
 2021-12-16,La Rioja,75,631,293,1089
-2021-12-16,Madrid,4584,27547,3797,24901
+2021-12-16,Madrid,4585,27549,3797,24901
 2021-12-16,Melilla,36,223,21,170
 2021-12-16,Murcia,444,2604,894,5512
 2021-12-16,Navarra,487,2341,417,2751
-2021-12-16,País Vasco,558,3837,1890,10590
-2021-12-17,Andalucía,2720,13105,3586,21055
+2021-12-16,País Vasco,558,3838,1890,10591
+2021-12-17,Andalucía,2720,13106,3586,21055
 2021-12-17,Aragón,545,1916,965,5252
 2021-12-17,Asturias,54,705,750,5860
 2021-12-17,Baleares,156,1810,807,4553
-2021-12-17,Canarias,854,5242,918,7323
+2021-12-17,Canarias,854,5242,918,7324
 2021-12-17,Cantabria,57,825,281,2704
 2021-12-17,Castilla y Castilla y León,103,508,422,1978
 2021-12-17,Castilla y León,664,3296,1705,7920
-2021-12-17,Castilla-La Mancha,512,2339,666,5129
-2021-12-17,Cataluña,4446,34785,4175,41624
+2021-12-17,Castilla-La Mancha,513,2340,666,5129
+2021-12-17,Cataluña,4446,34798,4175,41635
 2021-12-17,Ceuta,92,1010,19,209
-2021-12-17,Comunitat Valenciana,1857,7012,2461,16255
-2021-12-17,DESLOCALIZADOS,595,5487,909,6393
+2021-12-17,Comunitat Valenciana,1857,7013,2462,16262
+2021-12-17,DESLOCALIZADOS,595,5485,909,6394
 2021-12-17,Extremadura,365,2790,288,3913
 2021-12-17,Galicia,229,3037,1295,11164
-2021-12-17,La Rioja,95,1106,610,2293
-2021-12-17,Madrid,5323,32477,4297,28351
+2021-12-17,La Rioja,95,1108,610,2295
+2021-12-17,Madrid,5326,32480,4297,28352
 2021-12-17,Melilla,15,225,24,162
 2021-12-17,Murcia,451,2830,1039,6209
 2021-12-17,Navarra,522,2388,398,2818
-2021-12-17,País Vasco,509,3719,1779,10691
+2021-12-17,País Vasco,509,3720,1779,10691
 2021-12-18,Andalucía,1292,5781,2660,15285
 2021-12-18,Aragón,358,1132,423,2662
-2021-12-18,Asturias,59,415,626,5055
+2021-12-18,Asturias,59,415,626,5056
 2021-12-18,Baleares,127,1211,688,4220
-2021-12-18,Canarias,502,2873,835,6585
-2021-12-18,Cantabria,37,327,268,2184
+2021-12-18,Canarias,502,2873,835,6586
+2021-12-18,Cantabria,37,328,268,2184
 2021-12-18,Castilla y Castilla y León,82,307,243,1411
 2021-12-18,Castilla y León,419,2098,1295,5425
 2021-12-18,Castilla-La Mancha,311,1339,523,3559
-2021-12-18,Cataluña,2641,16718,1911,19342
+2021-12-18,Cataluña,2643,16723,1911,19344
 2021-12-18,Ceuta,51,689,40,187
-2021-12-18,Comunitat Valenciana,1080,4302,2042,12519
-2021-12-18,DESLOCALIZADOS,343,3779,585,4569
+2021-12-18,Comunitat Valenciana,1080,4305,2042,12523
+2021-12-18,DESLOCALIZADOS,343,3779,586,4571
 2021-12-18,Extremadura,297,1749,317,4018
 2021-12-18,Galicia,157,1979,1317,9796
-2021-12-18,La Rioja,54,331,272,1246
-2021-12-18,Madrid,1416,8791,4312,25571
+2021-12-18,La Rioja,54,335,272,1250
+2021-12-18,Madrid,1417,8792,4312,25572
 2021-12-18,Melilla,7,101,10,100
 2021-12-18,Murcia,248,1367,771,5000
 2021-12-18,Navarra,334,1088,347,2561
-2021-12-18,País Vasco,255,1634,1635,10257
+2021-12-18,País Vasco,255,1635,1635,10257
 2021-12-19,Andalucía,1413,6172,1792,10531
 2021-12-19,Aragón,272,1014,316,1888
 2021-12-19,Asturias,42,369,494,4577
 2021-12-19,Baleares,156,1671,505,2799
-2021-12-19,Canarias,576,3105,584,4648
+2021-12-19,Canarias,576,3105,585,4649
 2021-12-19,Cantabria,39,379,195,1914
 2021-12-19,Castilla y Castilla y León,88,378,185,1215
 2021-12-19,Castilla y León,472,2171,623,3113
 2021-12-19,Castilla-La Mancha,385,1627,199,1887
-2021-12-19,Cataluña,2548,12044,1337,10200
+2021-12-19,Cataluña,2550,12054,1337,10210
 2021-12-19,Ceuta,62,829,11,68
-2021-12-19,Comunitat Valenciana,853,3371,1083,6426
-2021-12-19,DESLOCALIZADOS,355,3508,387,3177
+2021-12-19,Comunitat Valenciana,854,3372,1083,6428
+2021-12-19,DESLOCALIZADOS,355,3507,387,3177
 2021-12-19,Extremadura,331,2013,221,2311
 2021-12-19,Galicia,163,2010,1303,7906
-2021-12-19,La Rioja,74,406,219,967
-2021-12-19,Madrid,1586,8736,2192,12583
+2021-12-19,La Rioja,74,407,219,971
+2021-12-19,Madrid,1588,8738,2192,12584
 2021-12-19,Melilla,15,92,19,145
 2021-12-19,Murcia,168,768,668,4876
 2021-12-19,Navarra,350,1107,373,2392
-2021-12-19,País Vasco,223,1654,1284,10203
+2021-12-19,País Vasco,223,1654,1284,10204
 2021-12-20,Andalucía,3720,17057,2704,15946
 2021-12-20,Aragón,806,2399,1055,5720
 2021-12-20,Asturias,104,955,616,6105
@@ -13551,82 +13551,82 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-12-20,Cantabria,119,1077,373,2902
 2021-12-20,Castilla y Castilla y León,105,665,337,1579
 2021-12-20,Castilla y León,968,4243,1263,6776
-2021-12-20,Castilla-La Mancha,919,3501,575,4372
-2021-12-20,Cataluña,8379,45911,4253,39732
+2021-12-20,Castilla-La Mancha,919,3501,575,4373
+2021-12-20,Cataluña,8382,45932,4253,39742
 2021-12-20,Ceuta,69,1092,32,337
-2021-12-20,Comunitat Valenciana,2216,7790,1983,13332
-2021-12-20,DESLOCALIZADOS,985,6941,807,5487
+2021-12-20,Comunitat Valenciana,2216,7791,1983,13332
+2021-12-20,DESLOCALIZADOS,985,6938,809,5489
 2021-12-20,Extremadura,700,4635,378,3456
 2021-12-20,Galicia,331,3916,1072,8586
-2021-12-20,La Rioja,268,1720,253,1117
-2021-12-20,Madrid,9767,43102,3957,24514
+2021-12-20,La Rioja,268,1721,253,1117
+2021-12-20,Madrid,9768,43103,3957,24515
 2021-12-20,Melilla,29,264,9,78
 2021-12-20,Murcia,621,3368,926,5924
 2021-12-20,Navarra,772,3177,467,2658
-2021-12-20,País Vasco,685,4104,1736,10005
+2021-12-20,País Vasco,685,4104,1736,10006
 2021-12-21,Andalucía,4770,19635,4693,26418
 2021-12-21,Aragón,981,2899,981,5293
 2021-12-21,Asturias,114,986,878,7259
 2021-12-21,Baleares,328,2812,1039,5632
-2021-12-21,Canarias,1675,7888,1078,8559
+2021-12-21,Canarias,1675,7888,1078,8560
 2021-12-21,Cantabria,161,1371,471,2797
 2021-12-21,Castilla y Castilla y León,229,1056,272,1429
-2021-12-21,Castilla y León,1615,5879,2408,10033
+2021-12-21,Castilla y León,1616,5880,2408,10033
 2021-12-21,Castilla-La Mancha,1388,4411,1083,6657
-2021-12-21,Cataluña,8884,47858,5525,49652
+2021-12-21,Cataluña,8885,47871,5526,49664
 2021-12-21,Ceuta,112,939,26,196
-2021-12-21,Comunitat Valenciana,2296,8496,3383,19575
-2021-12-21,DESLOCALIZADOS,1201,7232,1202,7230
-2021-12-21,Extremadura,1038,5843,725,5006
+2021-12-21,Comunitat Valenciana,2297,8497,3385,19592
+2021-12-21,DESLOCALIZADOS,1201,7232,1204,7235
+2021-12-21,Extremadura,1039,5844,725,5006
 2021-12-21,Galicia,531,4318,1491,11085
-2021-12-21,La Rioja,478,2299,237,1369
-2021-12-21,Madrid,12181,48582,7161,37240
+2021-12-21,La Rioja,478,2304,237,1373
+2021-12-21,Madrid,12183,48584,7162,37241
 2021-12-21,Melilla,29,269,15,178
 2021-12-21,Murcia,671,3994,1156,6672
 2021-12-21,Navarra,1080,3528,504,3473
 2021-12-21,País Vasco,969,5445,2235,10884
-2021-12-22,Andalucía,5909,22011,5439,28560
+2021-12-22,Andalucía,5909,22012,5439,28560
 2021-12-22,Aragón,1299,3259,1402,7324
 2021-12-22,Asturias,157,1050,955,7122
 2021-12-22,Baleares,197,1575,1109,5912
-2021-12-22,Canarias,1793,8908,1333,9254
+2021-12-22,Canarias,1793,8908,1334,9255
 2021-12-22,Cantabria,317,1679,548,3400
 2021-12-22,Castilla y Castilla y León,354,1429,226,1279
 2021-12-22,Castilla y León,2494,7929,2123,8847
-2021-12-22,Castilla-La Mancha,1932,5720,1307,7243
-2021-12-22,Cataluña,9736,48980,6165,59062
+2021-12-22,Castilla-La Mancha,1932,5720,1307,7244
+2021-12-22,Cataluña,9739,49009,6168,59079
 2021-12-22,Ceuta,72,916,31,218
-2021-12-22,Comunitat Valenciana,3135,10343,3654,20224
-2021-12-22,DESLOCALIZADOS,1415,8131,1435,8635
+2021-12-22,Comunitat Valenciana,3135,10345,3655,20230
+2021-12-22,DESLOCALIZADOS,1415,8132,1437,8639
 2021-12-22,Extremadura,1550,7652,695,5221
 2021-12-22,Galicia,777,4826,1801,12743
-2021-12-22,La Rioja,594,2350,211,895
-2021-12-22,Madrid,12758,49682,9694,47756
+2021-12-22,La Rioja,595,2354,211,895
+2021-12-22,Madrid,12762,49687,9694,47760
 2021-12-22,Melilla,26,248,30,255
 2021-12-22,Murcia,821,4507,1038,6671
-2021-12-22,Navarra,1495,4266,688,3737
-2021-12-22,País Vasco,1572,6436,2516,12206
+2021-12-22,Navarra,1496,4267,688,3737
+2021-12-22,País Vasco,1572,6437,2516,12207
 2021-12-23,Andalucía,6315,22839,6429,32703
 2021-12-23,Aragón,1683,3916,1653,8729
 2021-12-23,Asturias,165,1133,1211,8293
 2021-12-23,Baleares,163,1576,1252,6041
-2021-12-23,Canarias,2036,9475,1411,9677
-2021-12-23,Cantabria,370,1926,551,4052
+2021-12-23,Canarias,2036,9477,1411,9677
+2021-12-23,Cantabria,370,1927,551,4052
 2021-12-23,Castilla y Castilla y León,469,1922,449,1873
 2021-12-23,Castilla y León,3095,10201,2274,9529
-2021-12-23,Castilla-La Mancha,2154,6692,1564,8277
-2021-12-23,Cataluña,11567,52671,6691,57881
+2021-12-23,Castilla-La Mancha,2154,6693,1564,8277
+2021-12-23,Cataluña,11572,52689,6695,57899
 2021-12-23,Ceuta,66,912,23,125
-2021-12-23,Comunitat Valenciana,3867,12580,4453,25416
-2021-12-23,DESLOCALIZADOS,1547,8374,1600,8836
-2021-12-23,Extremadura,1694,8525,803,5526
+2021-12-23,Comunitat Valenciana,3867,12582,4454,25417
+2021-12-23,DESLOCALIZADOS,1547,8371,1600,8837
+2021-12-23,Extremadura,1695,8527,803,5526
 2021-12-23,Galicia,804,8715,2129,14376
-2021-12-23,La Rioja,647,2368,167,792
-2021-12-23,Madrid,13813,56343,10862,52747
+2021-12-23,La Rioja,647,2369,167,792
+2021-12-23,Madrid,13821,56352,10862,52751
 2021-12-23,Melilla,33,246,27,236
 2021-12-23,Murcia,976,5106,1123,7493
 2021-12-23,Navarra,1786,4890,791,3876
-2021-12-23,País Vasco,1778,7041,2918,14172
+2021-12-23,País Vasco,1778,7041,2918,14173
 2021-12-24,Andalucía,5242,15408,5557,27418
 2021-12-24,Aragón,1192,2316,507,2737
 2021-12-24,Asturias,115,518,1118,8083
@@ -13636,18 +13636,18 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-12-24,Castilla y Castilla y León,316,961,231,1165
 2021-12-24,Castilla y León,2267,7012,1823,7694
 2021-12-24,Castilla-La Mancha,1607,4018,1251,5401
-2021-12-24,Cataluña,13763,51169,6409,46672
+2021-12-24,Cataluña,13774,51202,6415,46695
 2021-12-24,Ceuta,76,768,12,52
-2021-12-24,Comunitat Valenciana,2267,7800,4051,21889
+2021-12-24,Comunitat Valenciana,2267,7800,4051,21890
 2021-12-24,DESLOCALIZADOS,1454,6909,1350,7435
-2021-12-24,Extremadura,1247,3783,713,3747
+2021-12-24,Extremadura,1248,3784,713,3747
 2021-12-24,Galicia,906,11058,2550,14829
-2021-12-24,La Rioja,322,1218,136,583
-2021-12-24,Madrid,4844,21445,8142,37063
+2021-12-24,La Rioja,322,1221,137,585
+2021-12-24,Madrid,4851,21452,8142,37064
 2021-12-24,Melilla,16,117,22,192
 2021-12-24,Murcia,953,3365,926,5915
 2021-12-24,Navarra,2246,5309,651,3882
-2021-12-24,País Vasco,1845,6868,3462,14344
+2021-12-24,País Vasco,1846,6869,3462,14344
 2021-12-25,Andalucía,2652,6840,3804,16479
 2021-12-25,Aragón,978,1913,841,4043
 2021-12-25,Asturias,126,557,1119,7094
@@ -13657,102 +13657,102 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-12-25,Castilla y Castilla y León,274,759,177,676
 2021-12-25,Castilla y León,1932,5595,631,3366
 2021-12-25,Castilla-La Mancha,1545,3786,895,3974
-2021-12-25,Cataluña,6825,16141,2238,15251
+2021-12-25,Cataluña,6829,16153,2238,15256
 2021-12-25,Ceuta,15,60,4,41
-2021-12-25,Comunitat Valenciana,1601,4637,1949,9057
-2021-12-25,DESLOCALIZADOS,981,3628,735,3672
+2021-12-25,Comunitat Valenciana,1602,4638,1949,9058
+2021-12-25,DESLOCALIZADOS,981,3628,736,3674
 2021-12-25,Extremadura,989,3228,389,2641
 2021-12-25,Galicia,490,3255,2471,11943
-2021-12-25,La Rioja,80,338,29,160
-2021-12-25,Madrid,3629,12479,3493,14334
+2021-12-25,La Rioja,80,339,29,161
+2021-12-25,Madrid,3636,12487,3493,14335
 2021-12-25,Melilla,13,80,10,65
 2021-12-25,Murcia,208,926,894,4060
 2021-12-25,Navarra,1301,2439,592,2882
-2021-12-25,País Vasco,595,1946,3028,12801
+2021-12-25,País Vasco,595,1946,3028,12803
 2021-12-26,Andalucía,3324,9177,2585,11809
 2021-12-26,Aragón,1088,2235,415,2035
-2021-12-26,Asturias,132,611,1098,5949
+2021-12-26,Asturias,132,612,1098,5949
 2021-12-26,Baleares,188,1257,665,2478
 2021-12-26,Canarias,1186,4814,744,4140
 2021-12-26,Cantabria,253,996,278,2327
 2021-12-26,Castilla y Castilla y León,343,987,496,2148
 2021-12-26,Castilla y León,2250,6618,490,2719
-2021-12-26,Castilla-La Mancha,1785,4529,817,3292
-2021-12-26,Cataluña,7983,19687,2049,11618
+2021-12-26,Castilla-La Mancha,1785,4531,817,3292
+2021-12-26,Cataluña,7990,19701,2051,11623
 2021-12-26,Ceuta,65,641,8,50
-2021-12-26,Comunitat Valenciana,1930,5988,1644,7947
-2021-12-26,DESLOCALIZADOS,1191,5475,704,3641
+2021-12-26,Comunitat Valenciana,1931,5989,1644,7948
+2021-12-26,DESLOCALIZADOS,1193,5476,704,3641
 2021-12-26,Extremadura,1278,4026,551,4115
 2021-12-26,Galicia,756,6787,1875,10018
-2021-12-26,La Rioja,312,1332,32,250
-2021-12-26,Madrid,5586,18554,2660,12000
+2021-12-26,La Rioja,312,1333,32,251
+2021-12-26,Madrid,5589,18557,2660,12001
 2021-12-26,Melilla,11,107,7,68
 2021-12-26,Murcia,271,1284,699,3556
 2021-12-26,Navarra,1555,2914,377,1978
-2021-12-26,País Vasco,819,2583,3213,12194
+2021-12-26,País Vasco,819,2584,3213,12195
 2021-12-27,Andalucía,8135,22131,4669,20334
 2021-12-27,Aragón,2433,4456,1579,5815
 2021-12-27,Asturias,247,1132,984,6568
 2021-12-27,Baleares,297,1595,1881,5876
-2021-12-27,Canarias,3134,11258,1039,5646
+2021-12-27,Canarias,3136,11260,1039,5646
 2021-12-27,Cantabria,492,1799,753,3766
 2021-12-27,Castilla y Castilla y León,957,2320,419,1846
 2021-12-27,Castilla y León,3812,9325,1117,5591
 2021-12-27,Castilla-La Mancha,3266,7558,1354,6316
-2021-12-27,Cataluña,20684,53904,6534,37825
+2021-12-27,Cataluña,20696,53924,6539,37842
 2021-12-27,Ceuta,138,908,15,106
-2021-12-27,Comunitat Valenciana,4647,11456,2972,14933
-2021-12-27,DESLOCALIZADOS,2261,9693,1307,5954
+2021-12-27,Comunitat Valenciana,4648,11459,2973,14938
+2021-12-27,DESLOCALIZADOS,2261,9694,1308,5955
 2021-12-27,Extremadura,2232,8813,625,4165
 2021-12-27,Galicia,1432,12404,2769,12992
-2021-12-27,La Rioja,835,2562,134,581
-2021-12-27,Madrid,18142,52902,5584,22260
+2021-12-27,La Rioja,835,2568,134,586
+2021-12-27,Madrid,18147,52910,5584,22262
 2021-12-27,Melilla,41,264,16,140
 2021-12-27,Murcia,1778,6070,948,4612
 2021-12-27,Navarra,3238,6319,625,2494
-2021-12-27,País Vasco,1954,5604,3830,13521
+2021-12-27,País Vasco,1954,5606,3830,13521
 2021-12-28,Andalucía,9566,22964,7652,29660
 2021-12-28,Aragón,3595,5939,2520,8200
 2021-12-28,Asturias,363,1307,1767,9285
 2021-12-28,Baleares,309,1475,2050,7016
-2021-12-28,Canarias,3489,12158,1712,8265
-2021-12-28,Cantabria,665,2145,681,3279
+2021-12-28,Canarias,3489,12159,1712,8265
+2021-12-28,Cantabria,665,2145,681,3280
 2021-12-28,Castilla y Castilla y León,1454,3294,351,1616
-2021-12-28,Castilla y León,5325,11748,1643,6902
-2021-12-28,Castilla-La Mancha,4114,8925,2280,8310
-2021-12-28,Cataluña,21632,54060,7101,44172
+2021-12-28,Castilla y León,5325,11748,1644,6903
+2021-12-28,Castilla-La Mancha,4117,8928,2280,8310
+2021-12-28,Cataluña,21643,54090,7103,44180
 2021-12-28,Ceuta,187,893,24,135
-2021-12-28,Comunitat Valenciana,5694,12845,5786,23593
-2021-12-28,DESLOCALIZADOS,2683,9547,1859,6873
-2021-12-28,Extremadura,2895,8751,928,4881
+2021-12-28,Comunitat Valenciana,5695,12846,5786,23596
+2021-12-28,DESLOCALIZADOS,2684,9551,1859,6873
+2021-12-28,Extremadura,2898,8754,928,4881
 2021-12-28,Galicia,2096,12763,3221,15789
-2021-12-28,La Rioja,890,2779,166,497
-2021-12-28,Madrid,17005,48274,7927,28187
+2021-12-28,La Rioja,892,2783,166,500
+2021-12-28,Madrid,17010,48279,7929,28189
 2021-12-28,Melilla,56,325,30,193
 2021-12-28,Murcia,1957,6887,1443,6363
 2021-12-28,Navarra,4031,7267,829,3484
-2021-12-28,País Vasco,3052,7586,3818,14344
+2021-12-28,País Vasco,3052,7588,3818,14344
 2021-12-29,Andalucía,9698,23646,9452,31777
 2021-12-29,Aragón,4553,7039,2991,8446
 2021-12-29,Asturias,447,1460,2017,8880
 2021-12-29,Baleares,287,1536,2020,6042
-2021-12-29,Canarias,3369,11736,1744,8117
+2021-12-29,Canarias,3369,11737,1744,8118
 2021-12-29,Cantabria,815,2223,731,3138
 2021-12-29,Castilla y Castilla y León,1546,3501,243,1025
 2021-12-29,Castilla y León,5670,12327,1860,6580
-2021-12-29,Castilla-La Mancha,4687,9422,2101,7663
-2021-12-29,Cataluña,21540,51543,6778,46458
+2021-12-29,Castilla-La Mancha,4689,9425,2101,7663
+2021-12-29,Cataluña,21560,51667,6780,46470
 2021-12-29,Ceuta,189,1014,12,92
-2021-12-29,Comunitat Valenciana,6525,13636,6681,23562
-2021-12-29,DESLOCALIZADOS,2693,9596,1964,6915
-2021-12-29,Extremadura,2840,8510,1047,5182
+2021-12-29,Comunitat Valenciana,6526,13638,6681,23563
+2021-12-29,DESLOCALIZADOS,2693,9595,1964,6915
+2021-12-29,Extremadura,2841,8511,1047,5182
 2021-12-29,Galicia,2337,13579,4065,16500
-2021-12-29,La Rioja,750,2200,189,611
-2021-12-29,Madrid,16816,48565,9623,33876
+2021-12-29,La Rioja,751,2203,189,613
+2021-12-29,Madrid,16823,48573,9624,33878
 2021-12-29,Melilla,62,338,44,296
 2021-12-29,Murcia,2148,7282,1420,6254
-2021-12-29,Navarra,4691,7879,860,3322
-2021-12-29,País Vasco,4733,10327,5558,16160
+2021-12-29,Navarra,4694,7882,860,3322
+2021-12-29,País Vasco,4734,10330,5558,16162
 2021-12-30,Andalucía,8781,21532,10335,33730
 2021-12-30,Aragón,5020,7483,2367,6413
 2021-12-30,Asturias,480,1486,1732,8572
@@ -13761,15 +13761,15 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-12-30,Cantabria,843,2281,769,3160
 2021-12-30,Castilla y Castilla y León,1732,3871,272,1046
 2021-12-30,Castilla y León,6007,13267,1744,6055
-2021-12-30,Castilla-La Mancha,4511,9448,2458,8438
-2021-12-30,Cataluña,20417,47292,5951,41075
+2021-12-30,Castilla-La Mancha,4513,9450,2458,8438
+2021-12-30,Cataluña,20439,47333,5958,41088
 2021-12-30,Ceuta,203,1281,15,90
-2021-12-30,Comunitat Valenciana,6409,13650,7171,24874
-2021-12-30,DESLOCALIZADOS,2500,9214,1923,7340
+2021-12-30,Comunitat Valenciana,6410,13652,7171,24874
+2021-12-30,DESLOCALIZADOS,2503,9218,1925,7342
 2021-12-30,Extremadura,2768,8725,1000,4491
 2021-12-30,Galicia,1929,12544,4201,14507
-2021-12-30,La Rioja,941,3073,133,417
-2021-12-30,Madrid,14855,44146,9631,32725
+2021-12-30,La Rioja,941,3080,133,419
+2021-12-30,Madrid,14859,44153,9631,32726
 2021-12-30,Melilla,68,369,39,239
 2021-12-30,Murcia,2365,7728,1373,6436
 2021-12-30,Navarra,4685,7516,915,3234
@@ -13781,356 +13781,356 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2021-12-31,Canarias,1814,6324,1477,6609
 2021-12-31,Cantabria,381,903,676,2328
 2021-12-31,Castilla y Castilla y León,917,2294,182,681
-2021-12-31,Castilla y León,3276,7202,1127,4124
-2021-12-31,Castilla-La Mancha,2498,4956,1809,5316
-2021-12-31,Cataluña,19459,42623,5311,34110
+2021-12-31,Castilla y León,3276,7202,1128,4125
+2021-12-31,Castilla-La Mancha,2499,4957,1809,5316
+2021-12-31,Cataluña,19482,42659,5314,34122
 2021-12-31,Ceuta,237,947,18,85
-2021-12-31,Comunitat Valenciana,2800,6745,6050,18825
-2021-12-31,DESLOCALIZADOS,1888,7437,1567,6293
-2021-12-31,Extremadura,1603,3348,613,2615
+2021-12-31,Comunitat Valenciana,2802,6747,6050,18826
+2021-12-31,DESLOCALIZADOS,1892,7441,1569,6295
+2021-12-31,Extremadura,1605,3350,613,2615
 2021-12-31,Galicia,1604,10329,3681,14502
-2021-12-31,La Rioja,353,1259,154,500
-2021-12-31,Madrid,4183,16268,6788,22904
+2021-12-31,La Rioja,355,1264,154,500
+2021-12-31,Madrid,4184,16270,6790,22906
 2021-12-31,Melilla,29,116,34,246
 2021-12-31,Murcia,1823,4498,1186,5097
 2021-12-31,Navarra,4420,6784,734,2425
-2021-12-31,País Vasco,6580,14555,4279,14254
+2021-12-31,País Vasco,6581,14557,4280,14256
 2022-01-01,Andalucía,2239,4667,4928,15054
 2022-01-01,Aragón,1510,2339,835,2591
-2022-01-01,Asturias,155,478,2019,6902
+2022-01-01,Asturias,156,479,2019,6902
 2022-01-01,Baleares,180,824,774,2507
-2022-01-01,Canarias,895,2899,848,3690
+2022-01-01,Canarias,895,2899,848,3691
 2022-01-01,Cantabria,426,950,435,1300
 2022-01-01,Castilla y Castilla y León,401,1192,98,552
 2022-01-01,Castilla y León,2063,4061,323,1340
-2022-01-01,Castilla-La Mancha,1762,3643,660,2556
-2022-01-01,Cataluña,8835,15484,1545,8509
+2022-01-01,Castilla-La Mancha,1764,3646,660,2556
+2022-01-01,Cataluña,8850,15509,1547,8511
 2022-01-01,Ceuta,108,245,7,42
-2022-01-01,Comunitat Valenciana,1934,4306,2863,9246
+2022-01-01,Comunitat Valenciana,1934,4306,2863,9247
 2022-01-01,DESLOCALIZADOS,1061,4078,735,2967
-2022-01-01,Extremadura,1080,2697,356,1735
+2022-01-01,Extremadura,1081,2698,356,1735
 2022-01-01,Galicia,572,2829,2845,11521
-2022-01-01,La Rioja,80,319,31,170
-2022-01-01,Madrid,2808,8987,1710,5824
+2022-01-01,La Rioja,80,321,31,172
+2022-01-01,Madrid,2809,8989,1710,5824
 2022-01-01,Melilla,32,141,5,65
 2022-01-01,Murcia,304,1099,573,2248
 2022-01-01,Navarra,2016,2611,424,1460
-2022-01-01,País Vasco,4342,8933,3426,11866
+2022-01-01,País Vasco,4342,8933,3426,11867
 2022-01-02,Andalucía,2795,6142,3661,12080
 2022-01-02,Aragón,1602,2586,1023,3147
 2022-01-02,Asturias,203,656,1932,6343
 2022-01-02,Baleares,225,1072,1052,2758
-2022-01-02,Canarias,1322,3927,803,3682
+2022-01-02,Canarias,1322,3927,803,3683
 2022-01-02,Cantabria,570,1235,548,1635
 2022-01-02,Castilla y Castilla y León,713,1833,67,323
 2022-01-02,Castilla y León,2754,5836,453,1912
-2022-01-02,Castilla-La Mancha,2447,5107,1312,2925
-2022-01-02,Cataluña,11880,21028,1704,7535
+2022-01-02,Castilla-La Mancha,2454,5114,1312,2925
+2022-01-02,Cataluña,11899,21067,1707,7541
 2022-01-02,Ceuta,139,770,9,37
-2022-01-02,Comunitat Valenciana,2454,5229,2349,8271
-2022-01-02,DESLOCALIZADOS,1380,5820,748,2768
-2022-01-02,Extremadura,1295,3347,549,2413
+2022-01-02,Comunitat Valenciana,2454,5229,2350,8272
+2022-01-02,DESLOCALIZADOS,1380,5821,748,2769
+2022-01-02,Extremadura,1297,3349,549,2413
 2022-01-02,Galicia,1234,7889,2315,9413
-2022-01-02,La Rioja,353,1233,34,183
-2022-01-02,Madrid,4470,14777,2138,8399
+2022-01-02,La Rioja,353,1235,34,184
+2022-01-02,Madrid,4475,14783,2139,8401
 2022-01-02,Melilla,39,147,11,70
 2022-01-02,Murcia,358,1242,711,3104
-2022-01-02,Navarra,2373,3276,319,1108
-2022-01-02,País Vasco,5504,10877,3064,11182
+2022-01-02,Navarra,2374,3277,319,1108
+2022-01-02,País Vasco,5504,10877,3064,11183
 2022-01-03,Andalucía,7102,16935,6031,19772
 2022-01-03,Aragón,4773,6507,1887,4931
 2022-01-03,Asturias,432,1171,1531,6088
 2022-01-03,Baleares,2026,5722,2130,4761
-2022-01-03,Canarias,3627,9770,1215,5363
+2022-01-03,Canarias,3627,9770,1215,5364
 2022-01-03,Cantabria,1095,2264,927,2519
 2022-01-03,Castilla y Castilla y León,1802,3208,180,728
 2022-01-03,Castilla y León,5103,10043,1239,4484
-2022-01-03,Castilla-La Mancha,4787,9133,1763,5622
-2022-01-03,Cataluña,27521,54279,5408,33447
+2022-01-03,Castilla-La Mancha,4791,9138,1763,5622
+2022-01-03,Cataluña,27547,54329,5412,33468
 2022-01-03,Ceuta,254,1050,16,107
-2022-01-03,Comunitat Valenciana,6409,12214,4412,16045
-2022-01-03,DESLOCALIZADOS,2908,9842,1361,4835
+2022-01-03,Comunitat Valenciana,6411,12216,4412,16046
+2022-01-03,DESLOCALIZADOS,2910,9846,1361,4835
 2022-01-03,Extremadura,2632,6759,817,2879
 2022-01-03,Galicia,2004,10718,2178,9969
-2022-01-03,La Rioja,547,1844,83,311
-2022-01-03,Madrid,15744,44508,5516,18578
+2022-01-03,La Rioja,548,1850,83,313
+2022-01-03,Madrid,15754,44518,5516,18578
 2022-01-03,Melilla,122,381,19,99
 2022-01-03,Murcia,3289,8052,1133,4223
-2022-01-03,Navarra,3989,6336,506,1647
-2022-01-03,País Vasco,7875,17001,2954,9370
-2022-01-04,Andalucía,7934,17034,8839,25855
+2022-01-03,Navarra,3990,6337,506,1647
+2022-01-03,País Vasco,7877,17003,2954,9374
+2022-01-04,Andalucía,7934,17035,8839,25855
 2022-01-04,Aragón,5121,7162,1946,5047
-2022-01-04,Asturias,636,1530,1941,6932
+2022-01-04,Asturias,636,1531,1941,6932
 2022-01-04,Baleares,2317,6388,2264,5294
 2022-01-04,Canarias,3781,9177,1633,6479
 2022-01-04,Cantabria,1043,2220,1235,2458
 2022-01-04,Castilla y Castilla y León,2484,4639,231,914
 2022-01-04,Castilla y León,7089,15805,1370,4600
-2022-01-04,Castilla-La Mancha,5701,10242,2163,6441
-2022-01-04,Cataluña,28800,53325,6508,41897
+2022-01-04,Castilla-La Mancha,5702,10244,2163,6442
+2022-01-04,Cataluña,28821,53365,6513,41905
 2022-01-04,Ceuta,295,1148,25,110
-2022-01-04,Comunitat Valenciana,8174,14126,7432,21838
-2022-01-04,DESLOCALIZADOS,3042,8939,1523,5178
+2022-01-04,Comunitat Valenciana,8174,14126,7433,21840
+2022-01-04,DESLOCALIZADOS,3041,8939,1524,5179
 2022-01-04,Extremadura,2926,7039,826,2949
 2022-01-04,Galicia,2496,11385,3270,13667
-2022-01-04,La Rioja,595,2171,177,479
-2022-01-04,Madrid,15472,39138,7031,21390
+2022-01-04,La Rioja,597,2180,177,481
+2022-01-04,Madrid,15476,39142,7031,21392
 2022-01-04,Melilla,130,431,55,236
 2022-01-04,Murcia,3643,8865,1676,5439
 2022-01-04,Navarra,4206,6564,652,2001
-2022-01-04,País Vasco,10091,20143,2854,10557
-2022-01-05,Andalucía,6894,15068,8992,24982
+2022-01-04,País Vasco,10091,20144,2854,10560
+2022-01-05,Andalucía,6894,15068,8992,24983
 2022-01-05,Aragón,4180,6260,1231,3247
 2022-01-05,Asturias,779,1741,2122,7334
 2022-01-05,Baleares,2298,6325,3235,6204
-2022-01-05,Canarias,3786,8601,1668,6386
+2022-01-05,Canarias,3788,8603,1669,6387
 2022-01-05,Cantabria,1032,2327,1134,2447
 2022-01-05,Castilla y Castilla y León,2768,4539,282,976
 2022-01-05,Castilla y León,7116,16528,1162,3926
-2022-01-05,Castilla-La Mancha,5651,10314,1922,5211
-2022-01-05,Cataluña,26273,49822,6317,40246
+2022-01-05,Castilla-La Mancha,5656,10319,1922,5211
+2022-01-05,Cataluña,26306,49878,6321,40266
 2022-01-05,Ceuta,368,1093,25,83
-2022-01-05,Comunitat Valenciana,8429,14574,8190,23175
-2022-01-05,DESLOCALIZADOS,2953,8836,1423,5006
-2022-01-05,Extremadura,3071,7306,1101,3223
+2022-01-05,Comunitat Valenciana,8430,14576,8191,23178
+2022-01-05,DESLOCALIZADOS,2953,8836,1424,5007
+2022-01-05,Extremadura,3072,7307,1101,3223
 2022-01-05,Galicia,2201,9991,3098,12245
-2022-01-05,La Rioja,474,1632,129,325
-2022-01-05,Madrid,14483,37498,7424,22368
+2022-01-05,La Rioja,475,1639,129,325
+2022-01-05,Madrid,14487,37503,7424,22369
 2022-01-05,Melilla,140,366,44,191
 2022-01-05,Murcia,4025,9154,1756,5499
-2022-01-05,Navarra,4065,6258,601,1793
-2022-01-05,País Vasco,9924,20526,2598,9673
+2022-01-05,Navarra,4065,6259,602,1794
+2022-01-05,País Vasco,9924,20526,2598,9675
 2022-01-06,Andalucía,2748,5425,4519,13399
 2022-01-06,Aragón,1146,1882,483,1427
 2022-01-06,Asturias,310,675,2050,5909
 2022-01-06,Baleares,1501,4168,1086,2375
-2022-01-06,Canarias,1246,2978,1189,3685
+2022-01-06,Canarias,1248,2981,1189,3686
 2022-01-06,Cantabria,513,1082,1042,1918
 2022-01-06,Castilla y Castilla y León,714,1133,115,456
 2022-01-06,Castilla y León,2468,4610,464,1656
-2022-01-06,Castilla-La Mancha,2813,5183,860,2469
-2022-01-06,Cataluña,14205,21167,1933,11406
+2022-01-06,Castilla-La Mancha,2816,5186,860,2469
+2022-01-06,Cataluña,14223,21202,1934,11415
 2022-01-06,Ceuta,209,458,14,48
-2022-01-06,Comunitat Valenciana,2838,5454,4145,10541
-2022-01-06,DESLOCALIZADOS,1326,3997,751,2593
-2022-01-06,Extremadura,1337,2737,326,1148
+2022-01-06,Comunitat Valenciana,2838,5454,4145,10543
+2022-01-06,DESLOCALIZADOS,1326,3996,751,2593
+2022-01-06,Extremadura,1337,2738,326,1148
 2022-01-06,Galicia,894,3867,3112,10788
-2022-01-06,La Rioja,217,769,74,181
-2022-01-06,Madrid,3859,10766,3509,10637
+2022-01-06,La Rioja,217,769,74,183
+2022-01-06,Madrid,3861,10768,3509,10637
 2022-01-06,Melilla,34,103,53,223
 2022-01-06,Murcia,1283,2202,1087,3241
 2022-01-06,Navarra,2226,2742,404,1001
-2022-01-06,País Vasco,6780,13249,2311,8110
+2022-01-06,País Vasco,6782,13251,2311,8110
 2022-01-07,Andalucía,7473,16095,5046,15570
 2022-01-07,Aragón,4149,5973,1466,3909
 2022-01-07,Asturias,703,1633,2366,6171
 2022-01-07,Baleares,2072,5594,2859,5501
-2022-01-07,Canarias,4621,9210,1198,4739
+2022-01-07,Canarias,4621,9210,1199,4740
 2022-01-07,Cantabria,1031,2162,1182,2432
 2022-01-07,Castilla y Castilla y León,2299,3907,146,596
-2022-01-07,Castilla y León,6777,15523,1230,4001
-2022-01-07,Castilla-La Mancha,5600,9940,1249,3847
-2022-01-07,Cataluña,24759,46988,5938,33658
+2022-01-07,Castilla y León,6778,15524,1230,4001
+2022-01-07,Castilla-La Mancha,5602,9942,1249,3847
+2022-01-07,Cataluña,24776,47015,5942,33674
 2022-01-07,Ceuta,325,1093,15,106
-2022-01-07,Comunitat Valenciana,7698,13522,4828,15196
-2022-01-07,DESLOCALIZADOS,2741,8414,1137,4197
+2022-01-07,Comunitat Valenciana,7698,13523,4828,15197
+2022-01-07,DESLOCALIZADOS,2741,8415,1137,4197
 2022-01-07,Extremadura,3041,7377,650,2312
-2022-01-07,Galicia,1819,8665,2360,9046
-2022-01-07,La Rioja,365,1209,116,332
-2022-01-07,Madrid,14819,38840,5273,17137
+2022-01-07,Galicia,1820,8666,2360,9046
+2022-01-07,La Rioja,368,1217,116,333
+2022-01-07,Madrid,14824,38846,5274,17138
 2022-01-07,Melilla,136,452,11,48
 2022-01-07,Murcia,4591,9290,1318,4062
 2022-01-07,Navarra,3781,6137,532,1329
-2022-01-07,País Vasco,9168,18589,1675,6210
-2022-01-08,Andalucía,3052,6392,5032,14435
+2022-01-07,País Vasco,9168,18589,1675,6211
+2022-01-08,Andalucía,3052,6392,5032,14436
 2022-01-08,Aragón,1380,2332,358,1170
 2022-01-08,Asturias,289,697,2604,6476
 2022-01-08,Baleares,1839,4673,1939,4151
-2022-01-08,Canarias,1773,3859,1419,4930
+2022-01-08,Canarias,1773,3860,1421,4932
 2022-01-08,Cantabria,507,1171,620,1424
 2022-01-08,Castilla y Castilla y León,797,1419,201,875
 2022-01-08,Castilla y León,2602,5083,670,2619
-2022-01-08,Castilla-La Mancha,2881,5266,889,2881
-2022-01-08,Cataluña,17009,27115,2975,15676
+2022-01-08,Castilla-La Mancha,2883,5268,890,2883
+2022-01-08,Cataluña,17037,27149,2979,15684
 2022-01-08,Ceuta,283,724,20,53
-2022-01-08,Comunitat Valenciana,3926,7382,4223,11720
-2022-01-08,DESLOCALIZADOS,1554,5301,851,3094
-2022-01-08,Extremadura,1654,3264,402,1623
+2022-01-08,Comunitat Valenciana,3927,7384,4223,11723
+2022-01-08,DESLOCALIZADOS,1554,5301,852,3095
+2022-01-08,Extremadura,1656,3266,402,1623
 2022-01-08,Galicia,1153,7168,2217,8059
-2022-01-08,La Rioja,182,655,78,299
-2022-01-08,Madrid,3890,12386,4516,15730
+2022-01-08,La Rioja,183,660,78,301
+2022-01-08,Madrid,3896,12394,4516,15730
 2022-01-08,Melilla,78,215,62,249
 2022-01-08,Murcia,2718,5138,1128,3365
 2022-01-08,Navarra,2438,3293,420,1116
-2022-01-08,País Vasco,6429,12292,2376,7620
+2022-01-08,País Vasco,6430,12294,2377,7621
 2022-01-09,Andalucía,4268,8143,2781,7974
 2022-01-09,Aragón,1602,2590,251,858
 2022-01-09,Asturias,320,775,2175,5509
 2022-01-09,Baleares,3614,7998,1221,2492
-2022-01-09,Canarias,1796,4026,978,3238
-2022-01-09,Cantabria,626,1235,674,1339
+2022-01-09,Canarias,1799,4029,979,3239
+2022-01-09,Cantabria,627,1236,674,1339
 2022-01-09,Castilla y Castilla y León,838,1483,118,510
 2022-01-09,Castilla y León,3274,6043,311,1500
-2022-01-09,Castilla-La Mancha,3612,6657,405,1593
-2022-01-09,Cataluña,22466,31619,1952,7826
+2022-01-09,Castilla-La Mancha,3613,6659,405,1594
+2022-01-09,Cataluña,22490,31667,1954,7831
 2022-01-09,Ceuta,304,923,20,64
-2022-01-09,Comunitat Valenciana,3497,6271,1935,5202
-2022-01-09,DESLOCALIZADOS,1531,4616,517,1879
+2022-01-09,Comunitat Valenciana,3497,6272,1935,5203
+2022-01-09,DESLOCALIZADOS,1531,4620,517,1880
 2022-01-09,Extremadura,2397,4729,279,1159
 2022-01-09,Galicia,1240,7380,1410,5843
-2022-01-09,La Rioja,130,583,42,197
-2022-01-09,Madrid,5342,15443,2017,7091
+2022-01-09,La Rioja,130,587,42,198
+2022-01-09,Madrid,5344,15445,2017,7092
 2022-01-09,Melilla,57,140,19,82
 2022-01-09,Murcia,1874,2953,623,2364
 2022-01-09,Navarra,2867,3764,285,788
-2022-01-09,País Vasco,5942,11522,1532,5328
+2022-01-09,País Vasco,5943,11523,1532,5328
 2022-01-10,Andalucía,8421,17635,5168,15233
 2022-01-10,Aragón,4910,6813,1430,3847
 2022-01-10,Asturias,762,1631,1930,5463
 2022-01-10,Baleares,3062,7037,2418,5433
-2022-01-10,Canarias,5878,11480,1242,5213
+2022-01-10,Canarias,5880,11482,1242,5214
 2022-01-10,Cantabria,1136,2413,1543,2802
 2022-01-10,Castilla y Castilla y León,2651,4746,178,676
 2022-01-10,Castilla y León,7038,16235,1171,4054
-2022-01-10,Castilla-La Mancha,6098,10681,1066,3628
-2022-01-10,Cataluña,36502,63375,7006,36951
+2022-01-10,Castilla-La Mancha,6102,10685,1066,3628
+2022-01-10,Cataluña,36544,63534,7007,36978
 2022-01-10,Ceuta,578,1430,20,118
-2022-01-10,Comunitat Valenciana,8831,14571,4804,14853
-2022-01-10,DESLOCALIZADOS,2971,7464,1012,3616
+2022-01-10,Comunitat Valenciana,8834,14575,4804,14853
+2022-01-10,DESLOCALIZADOS,2974,7467,1012,3616
 2022-01-10,Extremadura,4138,9471,582,2219
 2022-01-10,Galicia,2312,10942,1317,6815
-2022-01-10,La Rioja,334,1318,78,369
-2022-01-10,Madrid,17147,44249,5230,17814
-2022-01-10,Melilla,187,503,14,72
+2022-01-10,La Rioja,335,1325,79,374
+2022-01-10,Madrid,17152,44255,5230,17814
+2022-01-10,Melilla,187,504,14,73
 2022-01-10,Murcia,5922,11338,1184,3868
 2022-01-10,Navarra,4224,6586,423,1327
-2022-01-10,País Vasco,9593,17972,1572,7012
+2022-01-10,País Vasco,9593,17972,1572,7013
 2022-01-11,Andalucía,8084,16655,7703,19776
 2022-01-11,Aragón,4515,6546,1323,3394
 2022-01-11,Asturias,795,1739,3157,7572
 2022-01-11,Baleares,3282,7432,1822,4961
-2022-01-11,Canarias,5172,9958,1708,6066
+2022-01-11,Canarias,5173,9959,1708,6066
 2022-01-11,Cantabria,1214,2567,1172,2488
 2022-01-11,Castilla y Castilla y León,2565,5673,283,1043
-2022-01-11,Castilla y León,6851,16251,1397,5315
-2022-01-11,Castilla-La Mancha,5668,10037,1334,4190
-2022-01-11,Cataluña,32557,62152,7314,42469
+2022-01-11,Castilla y León,6851,16252,1397,5315
+2022-01-11,Castilla-La Mancha,5668,10037,1335,4191
+2022-01-11,Cataluña,32576,62181,7320,42493
 2022-01-11,Ceuta,577,1443,41,139
-2022-01-11,Comunitat Valenciana,8511,14050,6544,18061
-2022-01-11,DESLOCALIZADOS,2751,7013,1192,4140
-2022-01-11,Extremadura,3887,8815,663,2229
+2022-01-11,Comunitat Valenciana,8511,14050,6544,18063
+2022-01-11,DESLOCALIZADOS,2752,7013,1194,4142
+2022-01-11,Extremadura,3888,8817,663,2229
 2022-01-11,Galicia,2131,11736,2123,7795
-2022-01-11,La Rioja,374,1245,114,385
-2022-01-11,Madrid,14099,35865,6349,21118
+2022-01-11,La Rioja,374,1251,115,389
+2022-01-11,Madrid,14104,35870,6349,21119
 2022-01-11,Melilla,117,379,45,198
 2022-01-11,Murcia,6498,13220,1718,4839
 2022-01-11,Navarra,3524,5616,561,2109
-2022-01-11,País Vasco,9121,16562,2116,8442
+2022-01-11,País Vasco,9121,16563,2116,8442
 2022-01-12,Andalucía,8316,17753,7361,18845
 2022-01-12,Aragón,3791,5845,1192,3158
 2022-01-12,Asturias,803,1773,2829,7450
-2022-01-12,Baleares,3196,7266,1670,4156
-2022-01-12,Canarias,5090,9517,1821,6217
+2022-01-12,Baleares,3196,7266,1670,4157
+2022-01-12,Canarias,5090,9517,1821,6218
 2022-01-12,Cantabria,1334,2764,1106,2714
 2022-01-12,Castilla y Castilla y León,2386,5636,169,656
-2022-01-12,Castilla y León,5736,14526,1166,3861
-2022-01-12,Castilla-La Mancha,5189,9825,1456,4311
-2022-01-12,Cataluña,30390,78074,6972,40718
+2022-01-12,Castilla y León,5736,14526,1167,3862
+2022-01-12,Castilla-La Mancha,5193,9830,1457,4314
+2022-01-12,Cataluña,30418,78117,6977,40731
 2022-01-12,Ceuta,546,1594,27,96
-2022-01-12,Comunitat Valenciana,7978,13560,6312,16610
-2022-01-12,DESLOCALIZADOS,2663,7526,1253,3728
-2022-01-12,Extremadura,3606,8396,717,2334
+2022-01-12,Comunitat Valenciana,7980,13563,6312,16610
+2022-01-12,DESLOCALIZADOS,2667,7529,1254,3729
+2022-01-12,Extremadura,3607,8397,717,2335
 2022-01-12,Galicia,2158,11367,2402,8358
-2022-01-12,La Rioja,373,1331,110,354
-2022-01-12,Madrid,13095,33587,6199,19596
+2022-01-12,La Rioja,374,1333,110,357
+2022-01-12,Madrid,13105,33599,6199,19596
 2022-01-12,Melilla,114,350,55,204
 2022-01-12,Murcia,5779,12777,1911,5301
 2022-01-12,Navarra,3132,5279,471,1343
 2022-01-12,País Vasco,7159,13552,1728,6546
-2022-01-13,Andalucía,7760,16625,7836,20017
+2022-01-13,Andalucía,7760,16625,7837,20018
 2022-01-13,Aragón,3179,4908,1031,2618
 2022-01-13,Asturias,884,1796,3318,7989
 2022-01-13,Baleares,2610,6245,1531,4277
-2022-01-13,Canarias,3499,7626,1682,5545
+2022-01-13,Canarias,3500,7627,1683,5547
 2022-01-13,Cantabria,1114,2499,639,1791
 2022-01-13,Castilla y Castilla y León,1795,4855,298,972
 2022-01-13,Castilla y León,4636,12143,934,3145
-2022-01-13,Castilla-La Mancha,4647,9195,1552,4107
-2022-01-13,Cataluña,29168,89771,6388,34408
+2022-01-13,Castilla-La Mancha,4650,9198,1552,4107
+2022-01-13,Cataluña,29192,89815,6395,34418
 2022-01-13,Ceuta,531,1291,34,121
-2022-01-13,Comunitat Valenciana,7209,12438,6094,16128
-2022-01-13,DESLOCALIZADOS,2416,8095,1055,3627
+2022-01-13,Comunitat Valenciana,7210,12439,6095,16130
+2022-01-13,DESLOCALIZADOS,2419,8099,1058,3630
 2022-01-13,Extremadura,2920,7554,601,2260
 2022-01-13,Galicia,2075,12239,2053,7433
-2022-01-13,La Rioja,361,1352,72,255
-2022-01-13,Madrid,11305,30698,5385,16771
+2022-01-13,La Rioja,361,1357,73,258
+2022-01-13,Madrid,11308,30701,5385,16772
 2022-01-13,Melilla,88,262,36,134
 2022-01-13,Murcia,5913,12764,1463,3956
-2022-01-13,Navarra,2672,4526,414,1289
-2022-01-13,País Vasco,6691,12494,1768,7244
+2022-01-13,Navarra,2673,4532,414,1289
+2022-01-13,País Vasco,6691,12495,1768,7245
 2022-01-14,Andalucía,7375,16118,6701,18046
 2022-01-14,Aragón,2589,4398,1312,3373
 2022-01-14,Asturias,780,1645,3084,7606
 2022-01-14,Baleares,3169,7269,1255,3422
-2022-01-14,Canarias,4318,8750,1696,5496
+2022-01-14,Canarias,4318,8750,1697,5497
 2022-01-14,Cantabria,1092,2466,539,1937
 2022-01-14,Castilla y Castilla y León,1325,3107,200,709
 2022-01-14,Castilla y León,3870,11191,984,3305
-2022-01-14,Castilla-La Mancha,4235,8353,1070,3523
-2022-01-14,Cataluña,27726,89693,6476,35056
+2022-01-14,Castilla-La Mancha,4236,8354,1070,3523
+2022-01-14,Cataluña,27767,89796,6483,35078
 2022-01-14,Ceuta,530,1337,36,115
-2022-01-14,Comunitat Valenciana,7582,12868,5058,15107
-2022-01-14,DESLOCALIZADOS,2329,8335,1045,3638
+2022-01-14,Comunitat Valenciana,7598,12884,5060,15112
+2022-01-14,DESLOCALIZADOS,2329,8344,1045,3638
 2022-01-14,Extremadura,2995,7308,645,2129
 2022-01-14,Galicia,1845,11624,1744,6369
-2022-01-14,La Rioja,302,1072,121,354
-2022-01-14,Madrid,10480,29156,4860,16166
+2022-01-14,La Rioja,302,1078,121,355
+2022-01-14,Madrid,10484,29160,4861,16167
 2022-01-14,Melilla,88,293,36,135
 2022-01-14,Murcia,5105,11822,1554,4310
 2022-01-14,Navarra,2374,4213,445,1323
-2022-01-14,País Vasco,6558,12566,1551,6753
-2022-01-15,Andalucía,2809,5267,4520,13013
+2022-01-14,País Vasco,6558,12568,1551,6755
+2022-01-15,Andalucía,2811,5272,4521,13014
 2022-01-15,Aragón,894,1580,410,1556
 2022-01-15,Asturias,226,527,2575,6099
 2022-01-15,Baleares,2073,4695,894,2552
-2022-01-15,Canarias,1378,3107,1416,4595
+2022-01-15,Canarias,1378,3107,1416,4596
 2022-01-15,Cantabria,504,943,434,1331
 2022-01-15,Castilla y Castilla y León,407,1170,141,579
 2022-01-15,Castilla y León,1482,3181,373,1538
-2022-01-15,Castilla-La Mancha,2143,3942,824,2453
-2022-01-15,Cataluña,24384,53153,2607,12567
+2022-01-15,Castilla-La Mancha,2148,3948,824,2453
+2022-01-15,Cataluña,24412,53226,2608,12571
 2022-01-15,Ceuta,481,980,25,60
-2022-01-15,Comunitat Valenciana,3702,6126,3580,9639
-2022-01-15,DESLOCALIZADOS,1501,4878,729,2574
-2022-01-15,Extremadura,1707,3471,354,1318
-2022-01-15,Galicia,942,6286,1990,7508
-2022-01-15,La Rioja,133,550,66,216
-2022-01-15,Madrid,2364,8475,3422,12338
+2022-01-15,Comunitat Valenciana,3707,6133,3580,9640
+2022-01-15,DESLOCALIZADOS,1505,4887,729,2574
+2022-01-15,Extremadura,1708,3472,354,1318
+2022-01-15,Galicia,942,6287,1990,7508
+2022-01-15,La Rioja,134,554,67,219
+2022-01-15,Madrid,2372,8484,3423,12339
 2022-01-15,Melilla,37,116,30,148
 2022-01-15,Murcia,2773,5773,1335,4396
-2022-01-15,Navarra,1772,2399,239,665
-2022-01-15,País Vasco,3490,6578,1195,4892
-2022-01-16,Andalucía,2824,5396,1892,6030
+2022-01-15,Navarra,1773,2400,239,665
+2022-01-15,País Vasco,3491,6581,1195,4893
+2022-01-16,Andalucía,2824,5397,1892,6030
 2022-01-16,Aragón,936,1597,185,680
 2022-01-16,Asturias,170,468,2196,5875
 2022-01-16,Baleares,2061,4682,826,2258
-2022-01-16,Canarias,1052,2688,1099,3172
+2022-01-16,Canarias,1054,2690,1099,3172
 2022-01-16,Cantabria,420,809,254,839
 2022-01-16,Castilla y Castilla y León,271,622,68,346
 2022-01-16,Castilla y León,1423,3144,268,1411
-2022-01-16,Castilla-La Mancha,2438,4574,241,1027
-2022-01-16,Cataluña,26403,40519,1532,6274
+2022-01-16,Castilla-La Mancha,2439,4575,241,1027
+2022-01-16,Cataluña,26455,40582,1534,6290
 2022-01-16,Ceuta,460,1177,17,48
-2022-01-16,Comunitat Valenciana,2686,4500,1437,3763
-2022-01-16,DESLOCALIZADOS,1395,3804,345,1268
+2022-01-16,Comunitat Valenciana,2689,4503,1437,3763
+2022-01-16,DESLOCALIZADOS,1395,3801,345,1269
 2022-01-16,Extremadura,1795,3505,191,809
 2022-01-16,Galicia,993,6401,1025,4494
-2022-01-16,La Rioja,103,508,47,163
-2022-01-16,Madrid,2966,9510,1523,5586
+2022-01-16,La Rioja,106,512,47,163
+2022-01-16,Madrid,2968,9512,1523,5587
 2022-01-16,Melilla,18,70,11,65
 2022-01-16,Murcia,1984,3607,540,1676
 2022-01-16,Navarra,1897,2535,170,670
-2022-01-16,País Vasco,2619,4884,1026,3681
+2022-01-16,País Vasco,2619,4885,1026,3681
 2022-01-17,Andalucía,6505,14884,5089,14418
 2022-01-17,Aragón,2905,4362,1173,3146
 2022-01-17,Asturias,706,1605,2027,5283
@@ -14138,288 +14138,311 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-17,Canarias,4404,8602,1323,4765
 2022-01-17,Cantabria,1034,2370,492,1760
 2022-01-17,Castilla y Castilla y León,1690,3320,175,722
-2022-01-17,Castilla y León,4038,10569,862,3457
-2022-01-17,Castilla-La Mancha,4695,8877,795,3088
-2022-01-17,Cataluña,46224,111346,6477,34142
+2022-01-17,Castilla y León,4038,10576,862,3457
+2022-01-17,Castilla-La Mancha,4696,8880,795,3089
+2022-01-17,Cataluña,46284,111433,6549,34244
 2022-01-17,Ceuta,543,1496,34,136
-2022-01-17,Comunitat Valenciana,8332,13044,4522,13215
-2022-01-17,DESLOCALIZADOS,2978,8484,824,2892
-2022-01-17,Extremadura,2975,7062,565,2116
-2022-01-17,Galicia,1819,9649,1194,5075
-2022-01-17,La Rioja,224,1132,70,286
-2022-01-17,Madrid,12076,31843,4072,14140
+2022-01-17,Comunitat Valenciana,8344,13056,4522,13215
+2022-01-17,DESLOCALIZADOS,2980,8488,828,2899
+2022-01-17,Extremadura,2979,7066,565,2116
+2022-01-17,Galicia,1819,9650,1194,5075
+2022-01-17,La Rioja,225,1139,70,290
+2022-01-17,Madrid,12091,31860,4072,14140
 2022-01-17,Melilla,88,290,14,62
 2022-01-17,Murcia,6278,13052,1375,3950
 2022-01-17,Navarra,2764,4571,492,1330
-2022-01-17,País Vasco,4203,7772,855,4400
-2022-01-18,Andalucía,6255,13840,6806,18805
+2022-01-17,País Vasco,4203,7773,855,4404
+2022-01-18,Andalucía,6256,13846,6807,18806
 2022-01-18,Aragón,2694,4299,1167,3309
 2022-01-18,Asturias,582,1408,2810,7322
 2022-01-18,Baleares,3052,6420,1127,3240
-2022-01-18,Canarias,3469,6953,1483,5372
+2022-01-18,Canarias,3469,6956,1484,5374
 2022-01-18,Cantabria,1050,2326,642,2178
 2022-01-18,Castilla y Castilla y León,1316,2754,199,788
 2022-01-18,Castilla y León,3564,9246,812,3292
-2022-01-18,Castilla-La Mancha,4326,8177,1206,3953
-2022-01-18,Cataluña,42358,106674,6733,39255
+2022-01-18,Castilla-La Mancha,4328,8179,1206,3953
+2022-01-18,Cataluña,42417,106788,6799,39336
 2022-01-18,Ceuta,623,1344,30,91
-2022-01-18,Comunitat Valenciana,8026,12378,5646,15665
-2022-01-18,DESLOCALIZADOS,2707,8143,950,3377
-2022-01-18,Extremadura,2709,6128,671,2178
-2022-01-18,Galicia,1729,9294,1690,6626
-2022-01-18,La Rioja,270,1116,67,306
-2022-01-18,Madrid,10167,27195,5081,16705
+2022-01-18,Comunitat Valenciana,8030,12385,5646,15666
+2022-01-18,DESLOCALIZADOS,2713,8153,953,3381
+2022-01-18,Extremadura,2711,6319,671,2178
+2022-01-18,Galicia,1729,9294,1691,6628
+2022-01-18,La Rioja,271,1119,68,308
+2022-01-18,Madrid,10171,27201,5081,16707
 2022-01-18,Melilla,75,240,36,143
 2022-01-18,Murcia,4791,10961,1655,4399
-2022-01-18,Navarra,2238,3859,451,1411
+2022-01-18,Navarra,2238,3860,451,1411
 2022-01-18,País Vasco,4315,7821,1295,5997
-2022-01-19,Andalucía,5838,13538,6351,17149
+2022-01-19,Andalucía,5838,13539,6352,17150
 2022-01-19,Aragón,2475,3964,1025,2758
 2022-01-19,Asturias,679,1467,2707,7215
 2022-01-19,Baleares,3333,6918,1146,3440
-2022-01-19,Canarias,1995,5258,1511,5865
+2022-01-19,Canarias,1997,5261,1511,5865
 2022-01-19,Cantabria,1101,2363,625,2145
 2022-01-19,Castilla y Castilla y León,1256,2805,111,596
-2022-01-19,Castilla y León,3444,8694,723,3143
-2022-01-19,Castilla-La Mancha,4250,7855,1072,3676
-2022-01-19,Cataluña,41233,104318,6187,35622
+2022-01-19,Castilla y León,3445,8695,723,3143
+2022-01-19,Castilla-La Mancha,4260,7867,1072,3676
+2022-01-19,Cataluña,41317,104431,6206,35654
 2022-01-19,Ceuta,522,1275,32,93
-2022-01-19,Comunitat Valenciana,8142,12590,5184,14374
-2022-01-19,DESLOCALIZADOS,2574,7776,868,2985
-2022-01-19,Extremadura,2694,6359,567,2084
-2022-01-19,Galicia,1797,9263,1984,7456
-2022-01-19,La Rioja,240,1125,112,321
-2022-01-19,Madrid,9480,26578,4598,15573
+2022-01-19,Comunitat Valenciana,8146,12601,5185,14376
+2022-01-19,DESLOCALIZADOS,2580,7783,870,2987
+2022-01-19,Extremadura,2696,6361,567,2084
+2022-01-19,Galicia,1797,9264,1984,7456
+2022-01-19,La Rioja,241,1129,112,322
+2022-01-19,Madrid,9484,26585,4599,15576
 2022-01-19,Melilla,81,234,31,119
 2022-01-19,Murcia,4484,10437,1410,3929
 2022-01-19,Navarra,1809,3541,422,1238
-2022-01-19,País Vasco,4267,7473,1194,5888
-2022-01-20,Andalucía,5087,12039,5006,13824
+2022-01-19,País Vasco,4268,7474,1195,5889
+2022-01-20,Andalucía,5087,12041,5006,13824
 2022-01-20,Aragón,2363,3889,1034,2823
 2022-01-20,Asturias,677,1451,2830,7260
 2022-01-20,Baleares,2923,6350,777,2100
-2022-01-20,Canarias,1832,5049,1275,4499
+2022-01-20,Canarias,1833,5050,1275,4499
 2022-01-20,Cantabria,999,2163,516,1471
 2022-01-20,Castilla y Castilla y León,1116,2489,163,605
 2022-01-20,Castilla y León,3230,8467,792,2502
-2022-01-20,Castilla-La Mancha,3917,7423,986,2931
-2022-01-20,Cataluña,37152,95320,5742,31813
+2022-01-20,Castilla-La Mancha,3923,7430,986,2931
+2022-01-20,Cataluña,37261,95496,5767,31848
 2022-01-20,Ceuta,419,1022,24,73
-2022-01-20,Comunitat Valenciana,7526,11775,4779,12885
-2022-01-20,DESLOCALIZADOS,2422,7569,779,2869
-2022-01-20,Extremadura,2500,6180,571,1792
+2022-01-20,Comunitat Valenciana,7531,11785,4779,12893
+2022-01-20,DESLOCALIZADOS,2425,7577,780,2870
+2022-01-20,Extremadura,2505,6186,571,1792
 2022-01-20,Galicia,1693,8737,1890,6346
-2022-01-20,La Rioja,234,1180,52,221
-2022-01-20,Madrid,8499,24964,3878,12710
-2022-01-20,Melilla,62,192,21,84
+2022-01-20,La Rioja,234,1182,53,223
+2022-01-20,Madrid,8505,24970,3903,12816
+2022-01-20,Melilla,62,193,21,84
 2022-01-20,Murcia,4421,10014,1626,4566
-2022-01-20,Navarra,1867,3385,337,1007
-2022-01-20,País Vasco,3852,6503,1424,5565
-2022-01-21,Andalucía,5034,12000,5533,15588
+2022-01-20,Navarra,1867,3386,337,1007
+2022-01-20,País Vasco,3852,6504,1424,5566
+2022-01-21,Andalucía,5034,12001,5535,15591
 2022-01-21,Aragón,2099,3587,1051,2725
-2022-01-21,Asturias,618,1352,2654,6537
+2022-01-21,Asturias,618,1352,2655,6538
 2022-01-21,Baleares,2936,6375,1284,3653
-2022-01-21,Canarias,1710,4896,1238,4478
+2022-01-21,Canarias,1711,4897,1239,4479
 2022-01-21,Cantabria,1062,2345,501,1772
 2022-01-21,Castilla y Castilla y León,1114,3703,117,436
-2022-01-21,Castilla y León,2946,8129,825,2912
-2022-01-21,Castilla-La Mancha,3706,7121,832,2774
-2022-01-21,Cataluña,34195,87678,5905,32951
+2022-01-21,Castilla y León,2946,8130,825,2912
+2022-01-21,Castilla-La Mancha,3712,7127,832,2774
+2022-01-21,Cataluña,34323,87881,5919,32974
 2022-01-21,Ceuta,338,879,26,79
-2022-01-21,Comunitat Valenciana,7634,11998,4452,12356
-2022-01-21,DESLOCALIZADOS,2175,7377,828,2978
-2022-01-21,Extremadura,2289,5686,481,1737
-2022-01-21,Galicia,1747,9827,1737,5954
-2022-01-21,La Rioja,208,942,72,234
-2022-01-21,Madrid,8386,23932,3564,12823
+2022-01-21,Comunitat Valenciana,7639,12009,4453,12365
+2022-01-21,DESLOCALIZADOS,2178,7382,828,2978
+2022-01-21,Extremadura,2291,5688,481,1737
+2022-01-21,Galicia,1747,9828,1737,5954
+2022-01-21,La Rioja,208,945,72,235
+2022-01-21,Madrid,8408,24578,3680,13410
 2022-01-21,Melilla,52,233,11,62
 2022-01-21,Murcia,3686,9170,1353,3421
 2022-01-21,Navarra,1744,3241,402,1123
 2022-01-21,País Vasco,4070,6898,1071,4300
-2022-01-22,Andalucía,1893,3938,3038,9925
+2022-01-22,Andalucía,1893,3938,3039,9926
 2022-01-22,Aragón,725,1294,263,932
-2022-01-22,Asturias,162,420,2054,5531
+2022-01-22,Asturias,163,421,2054,5531
 2022-01-22,Baleares,1973,4170,559,1916
-2022-01-22,Canarias,736,2058,920,3599
+2022-01-22,Canarias,737,2059,920,3599
 2022-01-22,Cantabria,416,774,344,1404
 2022-01-22,Castilla y Castilla y León,303,792,139,698
 2022-01-22,Castilla y León,1115,2561,317,1442
-2022-01-22,Castilla-La Mancha,1780,3289,540,1892
-2022-01-22,Cataluña,23619,43083,2766,12464
+2022-01-22,Castilla-La Mancha,1788,3297,540,1893
+2022-01-22,Cataluña,23736,43232,2771,12471
 2022-01-22,Ceuta,229,581,21,41
-2022-01-22,Comunitat Valenciana,3345,5373,2900,7478
-2022-01-22,DESLOCALIZADOS,1276,3793,483,1989
-2022-01-22,Extremadura,1184,2507,307,1173
+2022-01-22,Comunitat Valenciana,3346,5381,2900,7488
+2022-01-22,DESLOCALIZADOS,1280,3798,483,1989
+2022-01-22,Extremadura,1187,2510,307,1173
 2022-01-22,Galicia,780,4875,1661,5991
 2022-01-22,La Rioja,101,461,60,206
-2022-01-22,Madrid,1795,6594,2252,9072
+2022-01-22,Madrid,1808,6855,2314,9455
 2022-01-22,Melilla,18,86,29,108
 2022-01-22,Murcia,2190,6065,1069,3253
-2022-01-22,Navarra,889,1420,235,671
+2022-01-22,Navarra,889,1421,235,671
 2022-01-22,País Vasco,2232,3523,1034,4381
 2022-01-23,Andalucía,1799,3879,1366,4824
 2022-01-23,Aragón,668,1188,254,783
 2022-01-23,Asturias,176,441,1819,4922
 2022-01-23,Baleares,1968,4136,631,1828
-2022-01-23,Canarias,633,1803,540,1981
+2022-01-23,Canarias,634,1804,541,1982
 2022-01-23,Cantabria,453,877,340,943
 2022-01-23,Castilla y Castilla y León,180,442,68,382
 2022-01-23,Castilla y León,955,2273,237,1399
-2022-01-23,Castilla-La Mancha,2047,3800,243,1031
-2022-01-23,Cataluña,25397,36102,1559,6536
+2022-01-23,Castilla-La Mancha,2055,3809,243,1031
+2022-01-23,Cataluña,25526,36270,1561,6547
 2022-01-23,Ceuta,292,690,18,39
-2022-01-23,Comunitat Valenciana,2241,3803,966,2835
-2022-01-23,DESLOCALIZADOS,1153,2886,260,1197
-2022-01-23,Extremadura,1390,2905,182,735
+2022-01-23,Comunitat Valenciana,2253,3820,966,2846
+2022-01-23,DESLOCALIZADOS,1159,2901,261,1198
+2022-01-23,Extremadura,1391,3226,182,735
 2022-01-23,Galicia,860,5371,1195,4481
-2022-01-23,La Rioja,90,512,12,71
-2022-01-23,Madrid,2046,7008,1283,5032
+2022-01-23,La Rioja,90,514,12,73
+2022-01-23,Madrid,2061,7024,1292,5049
 2022-01-23,Melilla,18,80,16,52
 2022-01-23,Murcia,1141,3698,749,2433
 2022-01-23,Navarra,989,1486,124,468
 2022-01-23,País Vasco,2489,3836,717,2940
-2022-01-24,Andalucía,4949,12845,4117,12914
-2022-01-24,Aragón,2304,3720,1107,3115
+2022-01-24,Andalucía,4951,12847,4117,12914
+2022-01-24,Aragón,2305,3721,1107,3115
 2022-01-24,Asturias,648,1486,1922,5726
-2022-01-24,Baleares,3020,6122,841,2800
-2022-01-24,Canarias,1690,4963,1028,4146
+2022-01-24,Baleares,3020,6122,841,2801
+2022-01-24,Canarias,1694,4967,1030,4148
 2022-01-24,Cantabria,1057,2291,463,1792
 2022-01-24,Castilla y Castilla y León,1269,3437,132,655
-2022-01-24,Castilla y León,3206,8493,827,3489
-2022-01-24,Castilla-La Mancha,4175,7849,705,2889
-2022-01-24,Cataluña,37818,95203,5859,30821
+2022-01-24,Castilla y León,3207,8494,827,3489
+2022-01-24,Castilla-La Mancha,4184,7860,705,2889
+2022-01-24,Cataluña,38055,95553,5876,30862
 2022-01-24,Ceuta,327,951,21,120
-2022-01-24,Comunitat Valenciana,8528,12748,3854,11370
-2022-01-24,DESLOCALIZADOS,2305,7300,624,2604
-2022-01-24,Extremadura,2539,6275,499,1920
+2022-01-24,Comunitat Valenciana,8558,12792,3855,11394
+2022-01-24,DESLOCALIZADOS,2312,7312,626,2609
+2022-01-24,Extremadura,2547,6411,499,1920
 2022-01-24,Galicia,1680,8700,1377,5592
-2022-01-24,La Rioja,203,1022,70,359
-2022-01-24,Madrid,9344,26218,3153,12394
+2022-01-24,La Rioja,203,1024,70,360
+2022-01-24,Madrid,9365,26247,3154,12398
 2022-01-24,Melilla,59,207,17,41
 2022-01-24,Murcia,4549,11365,1117,3407
-2022-01-24,Navarra,1565,3209,450,1229
-2022-01-24,País Vasco,4446,7180,765,4119
-2022-01-25,Andalucía,4670,11611,4908,15674
-2022-01-25,Aragón,1962,3263,894,2613
+2022-01-24,Navarra,1567,3211,450,1229
+2022-01-24,País Vasco,4446,7181,765,4122
+2022-01-25,Andalucía,4670,11617,4909,15675
+2022-01-25,Aragón,1963,3264,894,2613
 2022-01-25,Asturias,560,1293,2157,6195
 2022-01-25,Baleares,2553,5374,1046,3335
 2022-01-25,Canarias,1341,4198,1172,4968
 2022-01-25,Cantabria,971,2178,507,1852
 2022-01-25,Castilla y Castilla y León,809,2488,145,696
-2022-01-25,Castilla y León,2730,7451,634,2796
-2022-01-25,Castilla-La Mancha,3576,6960,954,3458
-2022-01-25,Cataluña,30245,77344,5365,29727
+2022-01-25,Castilla y León,2731,7453,638,2800
+2022-01-25,Castilla-La Mancha,3592,6978,956,3460
+2022-01-25,Cataluña,30517,77744,5376,29874
 2022-01-25,Ceuta,258,711,21,73
-2022-01-25,Comunitat Valenciana,7772,11551,5256,14860
-2022-01-25,DESLOCALIZADOS,1896,6289,691,2626
-2022-01-25,Extremadura,2244,5568,635,2325
+2022-01-25,Comunitat Valenciana,7787,11579,5256,14886
+2022-01-25,DESLOCALIZADOS,1907,6308,693,2633
+2022-01-25,Extremadura,2257,5654,635,2326
 2022-01-25,Galicia,1556,7893,1800,7525
-2022-01-25,La Rioja,193,1096,68,282
-2022-01-25,Madrid,7683,21625,3509,13855
+2022-01-25,La Rioja,193,1101,68,284
+2022-01-25,Madrid,7707,21657,3510,13861
 2022-01-25,Melilla,44,200,36,120
 2022-01-25,Murcia,3939,10172,1620,4927
-2022-01-25,Navarra,1363,2798,452,1381
-2022-01-25,País Vasco,3998,7028,1369,6368
-2022-01-26,Andalucía,4085,10741,4338,13866
+2022-01-25,Navarra,1367,2806,452,1382
+2022-01-25,País Vasco,3999,7030,1369,6368
+2022-01-26,Andalucía,4085,10746,4341,13869
 2022-01-26,Aragón,1827,3229,923,2605
 2022-01-26,Asturias,474,1191,2205,6375
 2022-01-26,Baleares,2117,4701,970,3080
-2022-01-26,Canarias,1166,3793,1011,4622
-2022-01-26,Cantabria,872,1936,474,1699
+2022-01-26,Canarias,1167,3803,1012,4625
+2022-01-26,Cantabria,872,1937,474,1699
 2022-01-26,Castilla y Castilla y León,817,2026,128,755
-2022-01-26,Castilla y León,2607,7262,616,2782
-2022-01-26,Castilla-La Mancha,3403,6674,901,3344
-2022-01-26,Cataluña,26426,69276,4257,22934
+2022-01-26,Castilla y León,2608,7264,616,2782
+2022-01-26,Castilla-La Mancha,3426,6697,901,3344
+2022-01-26,Cataluña,26807,69828,4276,22984
 2022-01-26,Ceuta,228,588,24,65
-2022-01-26,Comunitat Valenciana,6332,10157,3894,11555
-2022-01-26,DESLOCALIZADOS,1728,5731,660,2609
-2022-01-26,Extremadura,2113,5287,505,1720
-2022-01-26,Galicia,1567,7823,2064,8324
-2022-01-26,La Rioja,160,806,64,243
-2022-01-26,Madrid,7224,20985,3281,12733
+2022-01-26,Comunitat Valenciana,6362,10236,3895,11591
+2022-01-26,DESLOCALIZADOS,1748,5757,661,2617
+2022-01-26,Extremadura,2121,5366,505,1721
+2022-01-26,Galicia,1567,7823,2064,8325
+2022-01-26,La Rioja,160,811,64,245
+2022-01-26,Madrid,7243,21061,3282,12753
 2022-01-26,Melilla,40,171,20,82
 2022-01-26,Murcia,3610,9762,1174,3787
-2022-01-26,Navarra,1237,2700,402,1112
-2022-01-26,País Vasco,4435,7536,1366,5753
-2022-01-27,Andalucía,3356,9463,4286,12888
-2022-01-27,Aragón,1606,2880,758,1980
-2022-01-27,Asturias,445,1162,1709,5480
+2022-01-26,Navarra,1238,2703,402,1112
+2022-01-26,País Vasco,4435,7537,1366,5753
+2022-01-27,Andalucía,3356,9468,4290,12916
+2022-01-27,Aragón,1607,2881,758,1980
+2022-01-27,Asturias,445,1162,1710,5481
 2022-01-27,Baleares,2315,4929,774,2489
-2022-01-27,Canarias,1015,3578,885,3689
+2022-01-27,Canarias,1018,3581,886,3690
 2022-01-27,Cantabria,809,1812,570,1610
-2022-01-27,Castilla y Castilla y León,738,2320,134,506
-2022-01-27,Castilla y León,2405,7204,624,2301
-2022-01-27,Castilla-La Mancha,2944,6034,759,2598
-2022-01-27,Cataluña,21880,60423,4431,24206
+2022-01-27,Castilla y Castilla y León,738,2321,134,506
+2022-01-27,Castilla y León,2411,7212,624,2301
+2022-01-27,Castilla-La Mancha,2995,6094,759,2598
+2022-01-27,Cataluña,22544,61367,4471,24386
 2022-01-27,Ceuta,192,566,28,73
-2022-01-27,Comunitat Valenciana,5914,9562,3985,10586
-2022-01-27,DESLOCALIZADOS,1497,5892,667,2804
-2022-01-27,Extremadura,1815,4655,448,1284
+2022-01-27,Comunitat Valenciana,5983,9761,4038,10763
+2022-01-27,DESLOCALIZADOS,1530,5943,685,2849
+2022-01-27,Extremadura,1843,4758,448,1284
 2022-01-27,Galicia,1431,7244,2023,7330
-2022-01-27,La Rioja,202,1047,38,220
-2022-01-27,Madrid,6387,19607,3041,10851
+2022-01-27,La Rioja,202,1050,39,224
+2022-01-27,Madrid,6427,20223,3046,11283
 2022-01-27,Melilla,39,168,16,77
 2022-01-27,Murcia,2638,7139,1161,3490
-2022-01-27,Navarra,1074,2313,394,1033
-2022-01-27,País Vasco,3964,7349,1103,5097
-2022-01-28,Andalucía,3060,8812,3704,12050
-2022-01-28,Aragón,1401,2610,907,2239
-2022-01-28,Asturias,414,1032,1920,4998
+2022-01-27,Navarra,1076,2316,394,1033
+2022-01-27,País Vasco,3964,7350,1103,5098
+2022-01-28,Andalucía,3086,8993,3760,12251
+2022-01-28,Aragón,1402,2612,907,2239
+2022-01-28,Asturias,414,1034,1920,4998
 2022-01-28,Baleares,1995,4487,760,2551
-2022-01-28,Canarias,962,3503,738,3626
-2022-01-28,Cantabria,822,2039,387,1682
-2022-01-28,Castilla y Castilla y León,700,2723,101,531
-2022-01-28,Castilla y León,2324,7111,560,2396
-2022-01-28,Castilla-La Mancha,2706,5398,712,2500
-2022-01-28,Cataluña,16981,51714,4011,23577
+2022-01-28,Canarias,963,3516,742,3633
+2022-01-28,Cantabria,822,2040,387,1682
+2022-01-28,Castilla y Castilla y León,700,2727,101,531
+2022-01-28,Castilla y León,2327,7118,561,2397
+2022-01-28,Castilla-La Mancha,2784,5482,712,2502
+2022-01-28,Cataluña,18829,54076,4337,24814
 2022-01-28,Ceuta,165,444,28,87
-2022-01-28,Comunitat Valenciana,5249,8738,3249,10063
-2022-01-28,DESLOCALIZADOS,1194,5243,555,2575
-2022-01-28,Extremadura,1553,4318,395,1749
-2022-01-28,Galicia,1421,7831,1843,6643
-2022-01-28,La Rioja,142,968,47,245
-2022-01-28,Madrid,5618,17499,2755,10662
-2022-01-28,Melilla,35,164,17,53
-2022-01-28,Murcia,1683,5113,987,3438
-2022-01-28,Navarra,865,2075,229,801
-2022-01-28,País Vasco,3787,7095,1159,5202
-2022-01-29,Andalucía,891,2559,2018,7485
-2022-01-29,Aragón,478,915,198,693
-2022-01-29,Asturias,112,353,1235,3305
-2022-01-29,Baleares,1241,2777,499,1825
-2022-01-29,Canarias,397,1382,599,2774
-2022-01-29,Cantabria,287,571,285,919
-2022-01-29,Castilla y Castilla y León,214,582,59,506
-2022-01-29,Castilla y León,784,2011,234,1506
-2022-01-29,Castilla-La Mancha,1047,2155,351,1328
-2022-01-29,Cataluña,9209,20197,1352,7879
+2022-01-28,Comunitat Valenciana,5358,9193,3489,10751
+2022-01-28,DESLOCALIZADOS,1263,5447,588,2726
+2022-01-28,Extremadura,1634,4410,398,1764
+2022-01-28,Galicia,1421,7832,1843,6643
+2022-01-28,La Rioja,142,970,49,249
+2022-01-28,Madrid,5685,17794,2799,10850
+2022-01-28,Melilla,35,166,17,54
+2022-01-28,Murcia,1683,5113,987,3439
+2022-01-28,Navarra,874,2086,232,820
+2022-01-28,País Vasco,3788,7097,1159,5202
+2022-01-29,Andalucía,917,2707,2048,7792
+2022-01-29,Aragón,478,916,198,694
+2022-01-29,Asturias,113,362,1236,3307
+2022-01-29,Baleares,1241,2789,499,1825
+2022-01-29,Canarias,402,1413,606,2826
+2022-01-29,Cantabria,288,574,285,922
+2022-01-29,Castilla y Castilla y León,214,583,59,506
+2022-01-29,Castilla y León,786,2022,234,1506
+2022-01-29,Castilla-La Mancha,1080,2193,351,1328
+2022-01-29,Cataluña,11996,23611,1658,9298
 2022-01-29,Ceuta,80,256,8,27
-2022-01-29,Comunitat Valenciana,1895,3367,1921,5723
-2022-01-29,DESLOCALIZADOS,549,2106,332,1574
-2022-01-29,Extremadura,761,1903,225,888
+2022-01-29,Comunitat Valenciana,1988,3705,2181,6621
+2022-01-29,DESLOCALIZADOS,648,2744,382,1967
+2022-01-29,Extremadura,817,1983,228,911
 2022-01-29,Galicia,656,3862,1493,6057
-2022-01-29,La Rioja,57,433,44,175
-2022-01-29,Madrid,911,3505,1366,6194
-2022-01-29,Melilla,8,78,16,95
-2022-01-29,Murcia,2080,6196,607,2679
-2022-01-29,Navarra,495,948,108,460
-2022-01-29,País Vasco,2438,4100,968,3945
-2022-01-30,Andalucía,726,2295,906,3712
-2022-01-30,Aragón,446,879,116,530
-2022-01-30,Asturias,81,305,1172,3558
-2022-01-30,Baleares,1280,2670,302,1416
-2022-01-30,Canarias,231,900,304,1440
+2022-01-29,La Rioja,59,438,44,175
+2022-01-29,Madrid,1048,4233,1586,7487
+2022-01-29,Melilla,8,79,16,95
+2022-01-29,Murcia,2081,6205,607,2680
+2022-01-29,Navarra,505,961,113,468
+2022-01-29,País Vasco,2438,4103,968,3945
+2022-01-30,Andalucía,749,2457,986,4093
+2022-01-30,Aragón,446,879,140,621
+2022-01-30,Asturias,87,322,1172,3561
+2022-01-30,Baleares,1283,2677,302,1416
+2022-01-30,Canarias,333,1256,350,1717
+2022-01-30,Cantabria,374,666,247,751
 2022-01-30,Castilla y Castilla y León,81,266,29,160
-2022-01-30,Castilla y León,588,1638,196,1188
-2022-01-30,Castilla-La Mancha,1086,2495,139,859
-2022-01-30,Cataluña,7427,12492,748,3890
+2022-01-30,Castilla y León,592,1645,196,1188
+2022-01-30,Castilla-La Mancha,1149,2565,141,863
+2022-01-30,Cataluña,11823,17611,960,4868
 2022-01-30,Ceuta,132,419,9,28
-2022-01-30,Comunitat Valenciana,710,1353,541,1734
-2022-01-30,DESLOCALIZADOS,439,1568,183,927
-2022-01-30,Extremadura,780,2296,123,694
-2022-01-30,Galicia,750,4412,1064,4285
-2022-01-30,La Rioja,0,0,0,0
-2022-01-30,Melilla,4,46,8,30
+2022-01-30,Comunitat Valenciana,1097,2248,815,2642
+2022-01-30,DESLOCALIZADOS,583,1904,225,1220
+2022-01-30,Extremadura,829,2369,123,699
+2022-01-30,Galicia,750,4412,1064,4286
+2022-01-30,La Rioja,50,439,18,128
+2022-01-30,Madrid,1174,4706,865,4085
+2022-01-30,Melilla,4,46,10,39
 2022-01-30,Murcia,0,0,1,6
-2022-01-30,Navarra,474,889,129,478
-2022-01-30,País Vasco,2164,3586,638,2773
+2022-01-30,Navarra,492,914,129,479
+2022-01-30,País Vasco,2164,3586,638,2774
+2022-01-31,Andalucía,128,908,2956,10395
+2022-01-31,Aragón,1038,1757,435,1155
+2022-01-31,Asturias,517,1201,1271,4130
+2022-01-31,Baleares,1581,3774,850,3385
+2022-01-31,Canarias,645,2593,607,3024
+2022-01-31,Cantabria,804,2016,454,1608
+2022-01-31,Castilla y Castilla y León,838,2777,121,828
+2022-01-31,Castilla y León,2444,7027,617,3077
+2022-01-31,Castilla-La Mancha,2523,5556,497,2630
+2022-01-31,Cataluña,15497,50157,1841,10422
+2022-01-31,Ceuta,174,521,16,86
+2022-01-31,Comunitat Valenciana,3702,6245,2407,8025
+2022-01-31,DESLOCALIZADOS,920,4101,334,1505
+2022-01-31,Extremadura,1687,4534,444,1864
+2022-01-31,Galicia,1362,6860,1392,6071
+2022-01-31,La Rioja,166,876,30,198
+2022-01-31,Madrid,5938,19119,2065,9796
+2022-01-31,Melilla,31,173,9,34
+2022-01-31,Murcia,0,0,6,8
+2022-01-31,Navarra,826,2138,404,1254
+2022-01-31,País Vasco,3053,5836,585,3841
