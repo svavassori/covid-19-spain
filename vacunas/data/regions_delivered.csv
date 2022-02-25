@@ -20310,3 +20310,98 @@ date,iso_code,nuts2,name,supplier,delivered
 2022-02-24,ES-ML,ES64,Melilla,Moderna,23500
 2022-02-24,ES-ML,ES64,Melilla,AstraZeneca/Oxford,15100
 2022-02-24,ES-ML,ES64,Melilla,Janssen,5750
+2022-02-25,ES-AN,ES61,Andalucía,Pfizer/BioNTech,11421630
+2022-02-25,ES-AN,ES61,Andalucía,Pfizer/BioNTech-child,1062000
+2022-02-25,ES-AN,ES61,Andalucía,Moderna,3319500
+2022-02-25,ES-AN,ES61,Andalucía,AstraZeneca/Oxford,1537200
+2022-02-25,ES-AN,ES61,Andalucía,Janssen,333500
+2022-02-25,ES-AR,ES24,Aragón,Pfizer/BioNTech,1853541
+2022-02-25,ES-AR,ES24,Aragón,Pfizer/BioNTech-child,150000
+2022-02-25,ES-AR,ES24,Aragón,Moderna,477490
+2022-02-25,ES-AR,ES24,Aragón,AstraZeneca/Oxford,254710
+2022-02-25,ES-AR,ES24,Aragón,Janssen,59180
+2022-02-25,ES-AS,ES12,Asturias,Pfizer/BioNTech,1575725
+2022-02-25,ES-AS,ES12,Asturias,Pfizer/BioNTech-child,114000
+2022-02-25,ES-AS,ES12,Asturias,Moderna,516040
+2022-02-25,ES-AS,ES12,Asturias,AstraZeneca/Oxford,220900
+2022-02-25,ES-AS,ES12,Asturias,Janssen,43000
+2022-02-25,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,1318884
+2022-02-25,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech-child,126000
+2022-02-25,ES-IB,ES53,Islas Baleares,Moderna,542970
+2022-02-25,ES-IB,ES53,Islas Baleares,AstraZeneca/Oxford,225400
+2022-02-25,ES-IB,ES53,Islas Baleares,Janssen,56520
+2022-02-25,ES-CN,ES70,Canarias,Pfizer/BioNTech,2812650
+2022-02-25,ES-CN,ES70,Canarias,Pfizer/BioNTech-child,222000
+2022-02-25,ES-CN,ES70,Canarias,Moderna,824700
+2022-02-25,ES-CN,ES70,Canarias,AstraZeneca/Oxford,455800
+2022-02-25,ES-CN,ES70,Canarias,Janssen,133650
+2022-02-25,ES-CB,ES13,Cantabria,Pfizer/BioNTech,925035
+2022-02-25,ES-CB,ES13,Cantabria,Pfizer/BioNTech-child,60000
+2022-02-25,ES-CB,ES13,Cantabria,Moderna,175400
+2022-02-25,ES-CB,ES13,Cantabria,AstraZeneca/Oxford,120490
+2022-02-25,ES-CB,ES13,Cantabria,Janssen,22145
+2022-02-25,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,4086183
+2022-02-25,ES-CL,ES41,Castilla y León,Pfizer/BioNTech-child,282000
+2022-02-25,ES-CL,ES41,Castilla y León,Moderna,753070
+2022-02-25,ES-CL,ES41,Castilla y León,AstraZeneca/Oxford,466170
+2022-02-25,ES-CL,ES41,Castilla y León,Janssen,95315
+2022-02-25,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,2763405
+2022-02-25,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech-child,258000
+2022-02-25,ES-CM,ES42,Castilla-La Mancha,Moderna,840660
+2022-02-25,ES-CM,ES42,Castilla-La Mancha,AstraZeneca/Oxford,380370
+2022-02-25,ES-CM,ES42,Castilla-La Mancha,Janssen,92350
+2022-02-25,ES-CT,ES51,Cataluña,Pfizer/BioNTech,8673200
+2022-02-25,ES-CT,ES51,Cataluña,Pfizer/BioNTech-child,690000
+2022-02-25,ES-CT,ES51,Cataluña,Moderna,3238880
+2022-02-25,ES-CT,ES51,Cataluña,AstraZeneca/Oxford,1485670
+2022-02-25,ES-CT,ES51,Cataluña,Janssen,355800
+2022-02-25,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,6731200
+2022-02-25,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech-child,546000
+2022-02-25,ES-VC,ES52,Comunidad Valenciana,Moderna,2144530
+2022-02-25,ES-VC,ES52,Comunidad Valenciana,AstraZeneca/Oxford,863900
+2022-02-25,ES-VC,ES52,Comunidad Valenciana,Janssen,213125
+2022-02-25,ES-EX,ES43,Extremadura,Pfizer/BioNTech,1645583
+2022-02-25,ES-EX,ES43,Extremadura,Pfizer/BioNTech-child,156000
+2022-02-25,ES-EX,ES43,Extremadura,Moderna,307170
+2022-02-25,ES-EX,ES43,Extremadura,AstraZeneca/Oxford,182600
+2022-02-25,ES-EX,ES43,Extremadura,Janssen,40185
+2022-02-25,ES-GA,ES11,Galicia,Pfizer/BioNTech,4138999
+2022-02-25,ES-GA,ES11,Galicia,Pfizer/BioNTech-child,300000
+2022-02-25,ES-GA,ES11,Galicia,Moderna,969980
+2022-02-25,ES-GA,ES11,Galicia,AstraZeneca/Oxford,571870
+2022-02-25,ES-GA,ES11,Galicia,Janssen,122525
+2022-02-25,ES-RI,ES23,La Rioja,Pfizer/BioNTech,458705
+2022-02-25,ES-RI,ES23,La Rioja,Pfizer/BioNTech-child,48000
+2022-02-25,ES-RI,ES23,La Rioja,Moderna,111700
+2022-02-25,ES-RI,ES23,La Rioja,AstraZeneca/Oxford,53240
+2022-02-25,ES-RI,ES23,La Rioja,Janssen,15200
+2022-02-25,ES-MD,ES30,Madrid,Pfizer/BioNTech,8963295
+2022-02-25,ES-MD,ES30,Madrid,Pfizer/BioNTech-child,756000
+2022-02-25,ES-MD,ES30,Madrid,Moderna,2170800
+2022-02-25,ES-MD,ES30,Madrid,AstraZeneca/Oxford,1222100
+2022-02-25,ES-MD,ES30,Madrid,Janssen,321450
+2022-02-25,ES-MC,ES62,Murcia,Pfizer/BioNTech,1767425
+2022-02-25,ES-MC,ES62,Murcia,Pfizer/BioNTech-child,204000
+2022-02-25,ES-MC,ES62,Murcia,Moderna,623000
+2022-02-25,ES-MC,ES62,Murcia,AstraZeneca/Oxford,253010
+2022-02-25,ES-MC,ES62,Murcia,Janssen,68300
+2022-02-25,ES-NC,ES22,Navarra,Pfizer/BioNTech,873147
+2022-02-25,ES-NC,ES22,Navarra,Pfizer/BioNTech-child,78000
+2022-02-25,ES-NC,ES22,Navarra,Moderna,274760
+2022-02-25,ES-NC,ES22,Navarra,AstraZeneca/Oxford,135150
+2022-02-25,ES-NC,ES22,Navarra,Janssen,23710
+2022-02-25,ES-PV,ES21,País Vasco,Pfizer/BioNTech,3081600
+2022-02-25,ES-PV,ES21,País Vasco,Pfizer/BioNTech-child,228000
+2022-02-25,ES-PV,ES21,País Vasco,Moderna,817900
+2022-02-25,ES-PV,ES21,País Vasco,AstraZeneca/Oxford,444200
+2022-02-25,ES-PV,ES21,País Vasco,Janssen,101305
+2022-02-25,ES-CE,ES63,Ceuta,Pfizer/BioNTech,102444
+2022-02-25,ES-CE,ES63,Ceuta,Pfizer/BioNTech-child,12000
+2022-02-25,ES-CE,ES63,Ceuta,Moderna,29210
+2022-02-25,ES-CE,ES63,Ceuta,AstraZeneca/Oxford,18100
+2022-02-25,ES-CE,ES63,Ceuta,Janssen,3935
+2022-02-25,ES-ML,ES64,Melilla,Pfizer/BioNTech,101430
+2022-02-25,ES-ML,ES64,Melilla,Pfizer/BioNTech-child,12000
+2022-02-25,ES-ML,ES64,Melilla,Moderna,23500
+2022-02-25,ES-ML,ES64,Melilla,AstraZeneca/Oxford,15100
+2022-02-25,ES-ML,ES64,Melilla,Janssen,5750
