@@ -13801,8 +13801,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-01,Baleares,123,947,784,2588
 2022-01-01,Canarias,904,2911,853,3698
 2022-01-01,Cantabria,425,948,436,1302
-2022-01-01,Castilla y Castilla y León,406,1193,98,552
-2022-01-01,Castilla y León,2064,4065,324,1341
+2022-01-01,Castilla y Castilla y León,407,1194,98,552
+2022-01-01,Castilla y León,2065,4066,324,1341
 2022-01-01,Castilla-La Mancha,1793,3681,660,2556
 2022-01-01,Cataluña,8500,14917,1566,8540
 2022-01-01,Ceuta,108,245,7,42
@@ -13823,7 +13823,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-02,Canarias,1332,3932,806,3695
 2022-01-02,Cantabria,572,1238,548,1638
 2022-01-02,Castilla y Castilla y León,713,1834,67,323
-2022-01-02,Castilla y León,2769,5857,453,1912
+2022-01-02,Castilla y León,2771,5859,453,1912
 2022-01-02,Castilla-La Mancha,2483,5140,1313,2933
 2022-01-02,Cataluña,11200,19953,1744,7580
 2022-01-02,Ceuta,139,769,9,37
@@ -13844,7 +13844,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-03,Canarias,3621,9753,1227,5380
 2022-01-03,Cantabria,1093,2260,928,2520
 2022-01-03,Castilla y Castilla y León,1809,3215,180,728
-2022-01-03,Castilla y León,5115,10054,1239,4484
+2022-01-03,Castilla y León,5120,10059,1239,4484
 2022-01-03,Castilla-La Mancha,4848,9191,1766,5629
 2022-01-03,Cataluña,24142,49007,5469,33559
 2022-01-03,Ceuta,254,1048,16,107
@@ -13865,12 +13865,12 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-04,Canarias,3811,9201,1662,6519
 2022-01-04,Cantabria,1043,2220,1236,2462
 2022-01-04,Castilla y Castilla y León,2481,4638,231,914
-2022-01-04,Castilla y León,7107,15821,1370,4600
+2022-01-04,Castilla y León,7111,15825,1370,4601
 2022-01-04,Castilla-La Mancha,5742,10283,2165,6454
 2022-01-04,Cataluña,22877,45471,6586,41999
 2022-01-04,Ceuta,295,1148,25,110
 2022-01-04,Comunitat Valenciana,8211,14256,7456,21897
-2022-01-04,DESLOCALIZADOS,2659,8115,1642,5534
+2022-01-04,DESLOCALIZADOS,2659,8116,1642,5534
 2022-01-04,Extremadura,2923,7311,826,2949
 2022-01-04,Galicia,2506,11404,3270,13667
 2022-01-04,La Rioja,595,2195,178,491
@@ -13886,7 +13886,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-05,Canarias,3793,8587,1700,6437
 2022-01-05,Cantabria,1033,2329,1137,2451
 2022-01-05,Castilla y Castilla y León,2791,4565,282,976
-2022-01-05,Castilla y León,7127,16548,1162,3926
+2022-01-05,Castilla y León,7128,16549,1162,3926
 2022-01-05,Castilla-La Mancha,5695,10352,1927,5221
 2022-01-05,Cataluña,20269,41156,6365,40353
 2022-01-05,Ceuta,368,1092,25,83
@@ -13906,8 +13906,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-06,Baleares,1436,4179,1096,2445
 2022-01-06,Canarias,1278,3017,1200,3702
 2022-01-06,Cantabria,513,1082,1044,1920
-2022-01-06,Castilla y Castilla y León,717,1136,115,456
-2022-01-06,Castilla y León,2473,4621,464,1656
+2022-01-06,Castilla y Castilla y León,721,1140,115,456
+2022-01-06,Castilla y León,2474,4623,464,1656
 2022-01-06,Castilla-La Mancha,2837,5202,862,2471
 2022-01-06,Cataluña,9900,16485,1962,11458
 2022-01-06,Ceuta,209,458,14,48
@@ -13928,7 +13928,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-07,Canarias,4616,9186,1221,4770
 2022-01-07,Cantabria,1033,2166,1186,2436
 2022-01-07,Castilla y Castilla y León,2307,3873,146,596
-2022-01-07,Castilla y León,6790,15538,1230,4001
+2022-01-07,Castilla y León,6791,15539,1230,4001
 2022-01-07,Castilla-La Mancha,5643,9978,1252,3852
 2022-01-07,Cataluña,18839,39158,6000,33753
 2022-01-07,Ceuta,325,1092,15,106
@@ -13949,7 +13949,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-08,Canarias,1807,3893,1439,4958
 2022-01-08,Cantabria,507,1172,620,1424
 2022-01-08,Castilla y Castilla y León,802,1423,201,875
-2022-01-08,Castilla y León,2607,5090,670,2619
+2022-01-08,Castilla y León,2610,5093,670,2619
 2022-01-08,Castilla-La Mancha,2912,5297,890,2889
 2022-01-08,Cataluña,11137,20014,3028,15749
 2022-01-08,Ceuta,283,723,20,53
@@ -13969,8 +13969,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-09,Baleares,3533,7911,1230,2541
 2022-01-09,Canarias,1825,4042,988,3252
 2022-01-09,Cantabria,627,1237,674,1340
-2022-01-09,Castilla y Castilla y León,837,1482,118,510
-2022-01-09,Castilla y León,3285,6047,311,1500
+2022-01-09,Castilla y Castilla y León,838,1483,118,510
+2022-01-09,Castilla y León,3286,6048,311,1501
 2022-01-09,Castilla-La Mancha,3639,6682,405,1597
 2022-01-09,Cataluña,14883,23609,1977,7862
 2022-01-09,Ceuta,304,921,20,64
@@ -13991,7 +13991,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-10,Canarias,5884,11473,1272,5256
 2022-01-10,Cantabria,1138,2417,1547,2806
 2022-01-10,Castilla y Castilla y León,2668,4766,178,676
-2022-01-10,Castilla y León,7043,16238,1171,4055
+2022-01-10,Castilla y León,7044,16239,1171,4055
 2022-01-10,Castilla-La Mancha,6138,10718,1069,3635
 2022-01-10,Cataluña,26725,51587,7083,37084
 2022-01-10,Ceuta,578,1426,20,118
@@ -14012,7 +14012,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-11,Canarias,5174,9940,1737,6110
 2022-01-11,Cantabria,1218,2571,1172,2492
 2022-01-11,Castilla y Castilla y León,2580,5687,283,1043
-2022-01-11,Castilla y León,6863,16271,1397,5315
+2022-01-11,Castilla y León,6865,16273,1397,5315
 2022-01-11,Castilla-La Mancha,5684,10054,1335,4198
 2022-01-11,Cataluña,24052,50862,7394,42602
 2022-01-11,Ceuta,577,1440,41,139
@@ -14053,8 +14053,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-13,Baleares,2553,6074,1539,4320
 2022-01-13,Canarias,3472,7576,1699,5573
 2022-01-13,Cantabria,1230,2644,1090,2283
-2022-01-13,Castilla y Castilla y León,1756,4816,298,972
-2022-01-13,Castilla y León,4553,12070,934,3145
+2022-01-13,Castilla y Castilla y León,1756,4817,298,972
+2022-01-13,Castilla y León,4554,12071,934,3146
 2022-01-13,Castilla-La Mancha,4679,9234,1554,4115
 2022-01-13,Cataluña,21600,78904,6454,34556
 2022-01-13,Ceuta,530,1287,34,121
@@ -14075,7 +14075,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-14,Canarias,4291,8700,1719,5526
 2022-01-14,Cantabria,1212,2624,966,2404
 2022-01-14,Castilla y Castilla y León,1316,3099,200,709
-2022-01-14,Castilla y León,3815,11140,984,3305
+2022-01-14,Castilla y León,3816,11141,984,3305
 2022-01-14,Castilla-La Mancha,4260,8382,1073,3531
 2022-01-14,Cataluña,20029,79020,6559,35232
 2022-01-14,Ceuta,530,1333,36,115
@@ -14096,7 +14096,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-15,Canarias,1407,3144,1425,4609
 2022-01-15,Cantabria,506,945,649,1577
 2022-01-15,Castilla y Castilla y León,401,1166,142,580
-2022-01-15,Castilla y León,1462,3159,373,1538
+2022-01-15,Castilla y León,1463,3160,373,1538
 2022-01-15,Castilla-La Mancha,2185,3989,824,2455
 2022-01-15,Cataluña,13970,40396,2660,12656
 2022-01-15,Ceuta,481,977,25,60
@@ -14138,7 +14138,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-17,Canarias,4327,8524,1342,4790
 2022-01-17,Cantabria,1106,2475,1285,2616
 2022-01-17,Castilla y Castilla y León,1685,3318,175,722
-2022-01-17,Castilla y León,3981,10533,862,3458
+2022-01-17,Castilla y León,3985,10538,862,3458
 2022-01-17,Castilla-La Mancha,4727,8917,797,3099
 2022-01-17,Cataluña,31308,92962,6641,34388
 2022-01-17,Ceuta,543,1489,34,136
@@ -14158,8 +14158,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-18,Baleares,3087,6434,1141,3289
 2022-01-18,Canarias,3407,6881,1492,5389
 2022-01-18,Cantabria,1126,2421,964,2538
-2022-01-18,Castilla y Castilla y León,1293,2730,199,788
-2022-01-18,Castilla y León,3496,9179,812,3292
+2022-01-18,Castilla y Castilla y León,1294,2731,199,788
+2022-01-18,Castilla y León,3498,9181,812,3292
 2022-01-18,Castilla-La Mancha,4370,8221,1207,3961
 2022-01-18,Cataluña,28572,90463,6971,39579
 2022-01-18,Ceuta,624,1344,30,91
@@ -14180,7 +14180,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-19,Canarias,2019,5297,1522,5881
 2022-01-19,Cantabria,1162,2460,1051,2607
 2022-01-19,Castilla y Castilla y León,1300,2848,111,596
-2022-01-19,Castilla y León,3453,8708,725,3155
+2022-01-19,Castilla y León,3455,8710,725,3155
 2022-01-19,Castilla-La Mancha,4298,7905,1075,3687
 2022-01-19,Cataluña,27626,88301,6340,35852
 2022-01-19,Ceuta,522,1271,32,93
@@ -14206,7 +14206,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-20,Cataluña,24869,80936,5940,32054
 2022-01-20,Ceuta,408,979,24,73
 2022-01-20,Comunitat Valenciana,7597,11942,4810,12975
-2022-01-20,DESLOCALIZADOS,1923,6733,860,3101
+2022-01-20,DESLOCALIZADOS,1923,6733,861,3102
 2022-01-20,Extremadura,2520,6250,572,1793
 2022-01-20,Galicia,1634,8679,1891,6347
 2022-01-20,La Rioja,239,1222,53,234
@@ -14221,8 +14221,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-21,Baleares,2887,6260,1291,3679
 2022-01-21,Canarias,1720,4915,1254,4511
 2022-01-21,Cantabria,1172,2496,1113,2432
-2022-01-21,Castilla y Castilla y León,1122,3715,118,437
-2022-01-21,Castilla y León,2903,8088,826,2913
+2022-01-21,Castilla y Castilla y León,1123,3716,118,437
+2022-01-21,Castilla y León,2905,8090,826,2913
 2022-01-21,Castilla-La Mancha,3765,7187,833,2782
 2022-01-21,Cataluña,22654,73846,6046,33191
 2022-01-21,Ceuta,338,878,26,79
@@ -14264,7 +14264,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-23,Canarias,647,1827,546,2004
 2022-01-23,Cantabria,471,905,610,1237
 2022-01-23,Castilla y Castilla y León,173,437,68,382
-2022-01-23,Castilla y León,942,2260,238,1400
+2022-01-23,Castilla y León,943,2261,238,1400
 2022-01-23,Castilla-La Mancha,2072,3825,245,1038
 2022-01-23,Cataluña,13895,24223,1594,6593
 2022-01-23,Ceuta,292,690,18,39
@@ -14305,7 +14305,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-25,Baleares,2596,5379,1052,3360
 2022-01-25,Canarias,1373,4230,1204,5007
 2022-01-25,Cantabria,970,2210,1088,2485
-2022-01-25,Castilla y Castilla y León,830,2514,152,703
+2022-01-25,Castilla y Castilla y León,832,2516,152,703
 2022-01-25,Castilla y León,2737,7465,654,2816
 2022-01-25,Castilla-La Mancha,3638,7031,960,3470
 2022-01-25,Cataluña,20028,66164,5475,30032
@@ -14326,8 +14326,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-26,Baleares,2241,4847,974,3099
 2022-01-26,Canarias,1200,3835,1027,4650
 2022-01-26,Cantabria,872,1936,930,2191
-2022-01-26,Castilla y Castilla y León,837,2042,132,759
-2022-01-26,Castilla y León,2614,7280,631,2798
+2022-01-26,Castilla y Castilla y León,839,2044,132,759
+2022-01-26,Castilla y León,2615,7281,631,2798
 2022-01-26,Castilla-La Mancha,3466,6738,901,3356
 2022-01-26,Cataluña,17411,59358,4458,23446
 2022-01-26,Ceuta,228,588,24,65
@@ -14347,8 +14347,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-27,Baleares,2412,5071,782,2536
 2022-01-27,Canarias,1026,3625,900,3712
 2022-01-27,Cantabria,810,1817,1182,2243
-2022-01-27,Castilla y Castilla y León,767,2353,135,507
-2022-01-27,Castilla y León,2419,7223,631,2308
+2022-01-27,Castilla y Castilla y León,768,2354,135,507
+2022-01-27,Castilla y León,2421,7226,631,2308
 2022-01-27,Castilla-La Mancha,3040,6143,760,2605
 2022-01-27,Cataluña,15188,53007,4595,24724
 2022-01-27,Ceuta,192,566,28,73
@@ -14368,7 +14368,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-28,Baleares,2089,4639,762,2569
 2022-01-28,Canarias,986,3562,768,3668
 2022-01-28,Cantabria,859,2101,898,2230
-2022-01-28,Castilla y Castilla y León,742,2767,103,533
+2022-01-28,Castilla y Castilla y León,743,2768,103,533
 2022-01-28,Castilla y León,2339,7140,567,2403
 2022-01-28,Castilla-La Mancha,2841,5552,713,2509
 2022-01-28,Cataluña,12945,47335,4500,25368
@@ -14389,7 +14389,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-01-29,Baleares,1274,2835,501,1847
 2022-01-29,Canarias,413,1448,621,2851
 2022-01-29,Cantabria,288,574,532,1178
-2022-01-29,Castilla y Castilla y León,241,610,66,513
+2022-01-29,Castilla y Castilla y León,242,611,66,513
 2022-01-29,Castilla y León,793,2032,240,1513
 2022-01-29,Castilla-La Mancha,1142,2259,352,1333
 2022-01-29,Cataluña,7044,18084,1756,9641
@@ -14474,7 +14474,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-02-02,Canarias,610,2774,527,2566
 2022-02-02,Cantabria,627,1542,725,1761
 2022-02-02,Castilla y Castilla y León,449,1046,91,522
-2022-02-02,Castilla y León,1673,4149,491,2768
+2022-02-02,Castilla y León,1674,4150,491,2768
 2022-02-02,Castilla-La Mancha,2176,4759,553,2492
 2022-02-02,Cataluña,9854,37909,3099,18015
 2022-02-02,Ceuta,104,302,14,54
@@ -14516,7 +14516,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-02-04,Canarias,700,3231,587,3019
 2022-02-04,Cantabria,450,1346,565,1688
 2022-02-04,Castilla y Castilla y León,344,964,78,456
-2022-02-04,Castilla y León,1415,4234,523,2641
+2022-02-04,Castilla y León,1415,4235,523,2641
 2022-02-04,Castilla-La Mancha,1782,4087,480,2238
 2022-02-04,Cataluña,7014,25794,2749,18581
 2022-02-04,Ceuta,85,254,8,46
@@ -14599,7 +14599,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-02-08,Baleares,747,2122,412,2415
 2022-02-08,Canarias,512,2175,523,3539
 2022-02-08,Cantabria,330,1080,549,1559
-2022-02-08,Castilla y Castilla y León,287,851,148,922
+2022-02-08,Castilla y Castilla y León,288,852,148,922
 2022-02-08,Castilla y León,1078,3362,434,2659
 2022-02-08,Castilla-La Mancha,1406,3542,545,2608
 2022-02-08,Cataluña,6001,22208,2216,18425
@@ -14642,7 +14642,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-02-10,Canarias,581,2787,399,2745
 2022-02-10,Cantabria,242,849,394,1242
 2022-02-10,Castilla y Castilla y León,261,717,79,460
-2022-02-10,Castilla y León,961,2917,367,1971
+2022-02-10,Castilla y León,962,2918,367,1971
 2022-02-10,Castilla-La Mancha,1122,3096,269,1428
 2022-02-10,Cataluña,4563,16402,1866,14179
 2022-02-10,Ceuta,68,197,2,30
@@ -14726,7 +14726,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-02-14,Canarias,630,3004,400,2960
 2022-02-14,Cantabria,204,902,265,1196
 2022-02-14,Castilla y Castilla y León,281,761,83,775
-2022-02-14,Castilla y León,1039,3183,336,2647
+2022-02-14,Castilla y León,1040,3184,336,2647
 2022-02-14,Castilla-La Mancha,1041,2994,244,1990
 2022-02-14,Cataluña,4515,20512,1683,15651
 2022-02-14,Ceuta,61,209,9,100
@@ -14768,7 +14768,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-02-16,Canarias,579,2390,374,3011
 2022-02-16,Cantabria,213,856,206,1043
 2022-02-16,Castilla y Castilla y León,188,654,36,467
-2022-02-16,Castilla y León,695,2561,285,2319
+2022-02-16,Castilla y León,695,2562,285,2319
 2022-02-16,Castilla-La Mancha,769,2574,205,1528
 2022-02-16,Cataluña,3678,16431,1216,11871
 2022-02-16,Ceuta,48,153,6,31
@@ -14788,7 +14788,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-02-17,Baleares,449,1705,259,1519
 2022-02-17,Canarias,547,2337,393,2633
 2022-02-17,Cantabria,148,711,225,883
-2022-02-17,Castilla y Castilla y León,162,602,64,499
+2022-02-17,Castilla y Castilla y León,163,603,64,499
 2022-02-17,Castilla y León,642,2371,221,1634
 2022-02-17,Castilla-La Mancha,640,2246,204,1326
 2022-02-17,Cataluña,3375,14884,1178,10900
@@ -14810,7 +14810,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-02-18,Canarias,976,2883,361,2678
 2022-02-18,Cantabria,149,766,201,1060
 2022-02-18,Castilla y Castilla y León,175,608,47,550
-2022-02-18,Castilla y León,587,2424,260,1935
+2022-02-18,Castilla y León,588,2425,260,1935
 2022-02-18,Castilla-La Mancha,629,2167,194,1400
 2022-02-18,Cataluña,2844,12329,1248,13147
 2022-02-18,Ceuta,47,127,7,47
@@ -15155,7 +15155,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-06,Extremadura,374,1425,34,523
 2022-03-06,Galicia,205,2075,481,2685
 2022-03-06,La Rioja,56,376,4,20
-2022-03-06,Madrid,141,2449,156,3532
+2022-03-06,Madrid,141,2450,156,3532
 2022-03-06,Melilla,1,73,6,47
 2022-03-06,Murcia,44,346,48,647
 2022-03-06,Navarra,165,458,75,531
@@ -15171,12 +15171,12 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-07,Castilla-La Mancha,417,1776,117,1432
 2022-03-07,Cataluña,4497,20296,917,13320
 2022-03-07,Ceuta,36,123,4,61
-2022-03-07,Comunitat Valenciana,601,2354,555,5913
+2022-03-07,Comunitat Valenciana,602,2355,555,5913
 2022-03-07,DESLOCALIZADOS,324,2590,144,1716
 2022-03-07,Extremadura,914,3359,139,1234
 2022-03-07,Galicia,476,4015,400,2613
 2022-03-07,La Rioja,155,928,7,87
-2022-03-07,Madrid,1545,10710,488,8318
+2022-03-07,Madrid,1545,10710,488,8320
 2022-03-07,Melilla,6,119,6,57
 2022-03-07,Murcia,552,2346,182,1738
 2022-03-07,Navarra,187,1282,257,1135
@@ -15185,7 +15185,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-08,Aragón,250,946,170,1407
 2022-03-08,Asturias,88,579,325,2237
 2022-03-08,Baleares,408,1673,159,1526
-2022-03-08,Canarias,1316,3365,516,3025
+2022-03-08,Canarias,1316,3365,516,3026
 2022-03-08,Cantabria,118,661,101,815
 2022-03-08,Castilla y Castilla y León,94,532,23,618
 2022-03-08,Castilla y León,433,2471,132,2226
@@ -15197,7 +15197,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-08,Extremadura,797,3004,159,1099
 2022-03-08,Galicia,468,3688,719,4156
 2022-03-08,La Rioja,98,707,6,67
-2022-03-08,Madrid,1201,8422,542,8020
+2022-03-08,Madrid,1201,8422,542,8022
 2022-03-08,Melilla,7,107,1,49
 2022-03-08,Murcia,364,1909,126,1656
 2022-03-08,Navarra,164,1207,181,1211
@@ -15207,11 +15207,11 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-09,Asturias,87,580,349,2511
 2022-03-09,Baleares,437,1700,157,1389
 2022-03-09,Canarias,1264,3305,459,2705
-2022-03-09,Cantabria,138,683,55,653
+2022-03-09,Cantabria,138,684,55,653
 2022-03-09,Castilla y Castilla y León,108,555,14,305
 2022-03-09,Castilla y León,489,2587,132,1940
-2022-03-09,Castilla-La Mancha,447,1867,113,1392
-2022-03-09,Cataluña,3990,17379,783,10377
+2022-03-09,Castilla-La Mancha,448,1868,113,1392
+2022-03-09,Cataluña,3991,17381,783,10377
 2022-03-09,Ceuta,35,116,1,28
 2022-03-09,Comunitat Valenciana,616,2355,471,4908
 2022-03-09,DESLOCALIZADOS,274,2063,167,1612
@@ -15239,7 +15239,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-10,Extremadura,719,2743,99,822
 2022-03-10,Galicia,572,3457,591,2984
 2022-03-10,La Rioja,209,799,18,59
-2022-03-10,Madrid,1128,8338,419,5247
+2022-03-10,Madrid,1129,8339,420,5248
 2022-03-10,Melilla,9,121,3,36
 2022-03-10,Murcia,376,1737,96,834
 2022-03-10,Navarra,234,1256,186,1145
@@ -15249,13 +15249,13 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-11,Asturias,99,501,361,1586
 2022-03-11,Baleares,361,1457,103,1168
 2022-03-11,Canarias,1226,3342,461,2650
-2022-03-11,Cantabria,119,613,141,876
+2022-03-11,Cantabria,119,613,141,877
 2022-03-11,Castilla y Castilla y León,80,433,18,475
 2022-03-11,Castilla y León,541,2539,159,1702
-2022-03-11,Castilla-La Mancha,350,1494,124,1170
+2022-03-11,Castilla-La Mancha,350,1495,124,1170
 2022-03-11,Cataluña,3302,12250,799,10706
 2022-03-11,Ceuta,39,95,5,38
-2022-03-11,Comunitat Valenciana,577,2381,421,4308
+2022-03-11,Comunitat Valenciana,577,2382,421,4308
 2022-03-11,DESLOCALIZADOS,224,2081,199,1660
 2022-03-11,Extremadura,799,2680,141,857
 2022-03-11,Galicia,497,3431,520,2735
@@ -15274,7 +15274,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-12,Castilla y Castilla y León,19,140,29,509
 2022-03-12,Castilla y León,204,1124,66,1144
 2022-03-12,Castilla-La Mancha,144,654,62,743
-2022-03-12,Cataluña,1988,5339,291,5021
+2022-03-12,Cataluña,1990,5341,291,5021
 2022-03-12,Ceuta,29,44,3,21
 2022-03-12,Comunitat Valenciana,266,1157,226,2881
 2022-03-12,DESLOCALIZADOS,125,1554,108,1468
@@ -15286,7 +15286,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-12,Murcia,133,782,71,1152
 2022-03-12,Navarra,50,352,88,452
 2022-03-12,País Vasco,307,900,162,1794
-2022-03-13,Andalucía,414,2175,318,2044
+2022-03-13,Andalucía,415,2176,318,2044
 2022-03-13,Aragón,97,482,32,577
 2022-03-13,Asturias,67,294,285,1618
 2022-03-13,Baleares,272,1022,76,624
@@ -15302,7 +15302,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-13,Extremadura,398,1462,47,472
 2022-03-13,Galicia,298,1983,399,1972
 2022-03-13,La Rioja,60,412,0,7
-2022-03-13,Madrid,209,2653,166,3572
+2022-03-13,Madrid,209,2653,166,3573
 2022-03-13,Melilla,1,77,2,47
 2022-03-13,Murcia,58,474,44,713
 2022-03-13,Navarra,121,447,143,614
@@ -15310,13 +15310,13 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-14,Andalucía,2158,7785,1105,5130
 2022-03-14,Aragón,245,967,164,1465
 2022-03-14,Asturias,129,679,352,2168
-2022-03-14,Baleares,531,2030,169,1662
+2022-03-14,Baleares,532,2031,169,1662
 2022-03-14,Canarias,1486,3618,458,3190
 2022-03-14,Cantabria,154,778,85,957
 2022-03-14,Castilla y Castilla y León,180,662,36,659
 2022-03-14,Castilla y León,748,2797,155,2471
 2022-03-14,Castilla-La Mancha,535,1961,135,1662
-2022-03-14,Cataluña,4338,19722,846,12175
+2022-03-14,Cataluña,4338,19722,846,12176
 2022-03-14,Ceuta,53,167,5,62
 2022-03-14,Comunitat Valenciana,740,2704,515,5580
 2022-03-14,DESLOCALIZADOS,312,2947,153,1680
@@ -15333,11 +15333,11 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-15,Asturias,148,730,480,2591
 2022-03-15,Baleares,461,1819,128,1303
 2022-03-15,Canarias,1440,3626,450,3139
-2022-03-15,Cantabria,147,745,87,769
+2022-03-15,Cantabria,147,745,87,770
 2022-03-15,Castilla y Castilla y León,100,536,19,534
 2022-03-15,Castilla y León,554,2607,152,2196
 2022-03-15,Castilla-La Mancha,437,1826,150,1482
-2022-03-15,Cataluña,3664,17320,797,11929
+2022-03-15,Cataluña,3664,17321,797,11929
 2022-03-15,Ceuta,48,119,3,39
 2022-03-15,Comunitat Valenciana,700,2541,478,4838
 2022-03-15,DESLOCALIZADOS,307,2412,181,1751
@@ -15382,7 +15382,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-17,Cataluña,3160,13909,653,8443
 2022-03-17,Ceuta,36,151,4,46
 2022-03-17,Comunitat Valenciana,684,2334,437,3063
-2022-03-17,DESLOCALIZADOS,247,1978,157,1514
+2022-03-17,DESLOCALIZADOS,247,1978,157,1515
 2022-03-17,Extremadura,766,2858,151,683
 2022-03-17,Galicia,594,3565,582,2593
 2022-03-17,La Rioja,228,801,16,50
@@ -15391,7 +15391,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-17,Murcia,406,1784,122,891
 2022-03-17,Navarra,271,1234,328,987
 2022-03-17,País Vasco,618,2166,184,1965
-2022-03-18,Andalucía,304,1030,1196,4607
+2022-03-18,Andalucía,305,1031,1196,4607
 2022-03-18,Aragón,200,856,117,1211
 2022-03-18,Asturias,150,618,508,1694
 2022-03-18,Baleares,402,1543,137,1138
@@ -15400,7 +15400,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-18,Castilla y Castilla y León,129,501,35,257
 2022-03-18,Castilla y León,626,2473,146,1665
 2022-03-18,Castilla-La Mancha,415,1565,117,1180
-2022-03-18,Cataluña,2603,11699,657,9524
+2022-03-18,Cataluña,2604,11700,657,9524
 2022-03-18,Ceuta,34,129,2,29
 2022-03-18,Comunitat Valenciana,454,1822,293,3225
 2022-03-18,DESLOCALIZADOS,225,2122,167,1428
@@ -15441,7 +15441,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-20,Cantabria,24,254,40,335
 2022-03-20,Castilla y Castilla y León,24,113,8,169
 2022-03-20,Castilla y León,191,1040,66,997
-2022-03-20,Castilla-La Mancha,161,693,28,525
+2022-03-20,Castilla-La Mancha,161,694,28,525
 2022-03-20,Cataluña,1705,4471,208,3138
 2022-03-20,Ceuta,68,163,2,20
 2022-03-20,Comunitat Valenciana,233,1192,138,2023
@@ -15461,12 +15461,12 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-21,Canarias,1629,3774,397,2700
 2022-03-21,Cantabria,221,901,97,864
 2022-03-21,Castilla y Castilla y León,170,580,18,651
-2022-03-21,Castilla y León,760,2785,180,2463
+2022-03-21,Castilla y León,761,2786,180,2463
 2022-03-21,Castilla-La Mancha,474,1982,166,1774
 2022-03-21,Cataluña,3237,17133,725,11577
 2022-03-21,Ceuta,65,311,7,67
 2022-03-21,Comunitat Valenciana,1257,3836,639,6002
-2022-03-21,DESLOCALIZADOS,332,2435,138,1507
+2022-03-21,DESLOCALIZADOS,332,2435,140,1509
 2022-03-21,Extremadura,828,3052,231,1317
 2022-03-21,Galicia,709,3910,561,3004
 2022-03-21,La Rioja,164,808,11,55
@@ -15479,12 +15479,12 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-22,Aragón,237,1025,129,1223
 2022-03-22,Asturias,207,782,552,2734
 2022-03-22,Baleares,514,1776,165,1320
-2022-03-22,Canarias,1506,3536,582,3323
+2022-03-22,Canarias,1507,3537,582,3324
 2022-03-22,Cantabria,166,823,89,797
 2022-03-22,Castilla y Castilla y León,101,539,30,438
 2022-03-22,Castilla y León,624,2446,173,1907
 2022-03-22,Castilla-La Mancha,490,1932,151,1536
-2022-03-22,Cataluña,2873,15438,680,10901
+2022-03-22,Cataluña,2874,15439,680,10901
 2022-03-22,Ceuta,63,196,3,33
 2022-03-22,Comunitat Valenciana,1583,4355,638,5358
 2022-03-22,DESLOCALIZADOS,327,2403,154,1461
@@ -15504,7 +15504,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-23,Cantabria,137,683,71,695
 2022-03-23,Castilla y Castilla y León,124,477,31,711
 2022-03-23,Castilla y León,586,2076,195,2124
-2022-03-23,Castilla-La Mancha,461,1758,112,1376
+2022-03-23,Castilla-La Mancha,463,1760,112,1376
 2022-03-23,Cataluña,2712,14577,582,8901
 2022-03-23,Ceuta,61,202,5,20
 2022-03-23,Comunitat Valenciana,1682,4298,715,4999
@@ -15525,11 +15525,11 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-24,Cantabria,124,625,105,593
 2022-03-24,Castilla y Castilla y León,106,469,24,351
 2022-03-24,Castilla y León,508,1879,145,1550
-2022-03-24,Castilla-La Mancha,316,1319,118,866
+2022-03-24,Castilla-La Mancha,317,1321,118,866
 2022-03-24,Cataluña,2213,11794,459,7374
 2022-03-24,Ceuta,54,127,1,14
 2022-03-24,Comunitat Valenciana,1383,3446,635,3891
-2022-03-24,DESLOCALIZADOS,264,2297,141,1445
+2022-03-24,DESLOCALIZADOS,264,2297,141,1446
 2022-03-24,Extremadura,459,2014,99,587
 2022-03-24,Galicia,637,3242,640,2599
 2022-03-24,La Rioja,167,673,3,23
@@ -15538,7 +15538,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-24,Murcia,458,1766,83,731
 2022-03-24,Navarra,251,1054,93,546
 2022-03-24,País Vasco,621,1996,213,2144
-2022-03-25,Andalucía,1673,5163,1209,3709
+2022-03-25,Andalucía,1674,5164,1209,3709
 2022-03-25,Aragón,165,658,113,965
 2022-03-25,Asturias,149,514,531,1690
 2022-03-25,Baleares,365,1433,104,1025
@@ -15547,14 +15547,14 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-25,Castilla y Castilla y León,95,383,19,438
 2022-03-25,Castilla y León,535,1957,174,1688
 2022-03-25,Castilla-La Mancha,322,1287,133,1152
-2022-03-25,Cataluña,1846,9513,507,9097
+2022-03-25,Cataluña,1847,9514,507,9097
 2022-03-25,Ceuta,41,226,3,12
 2022-03-25,Comunitat Valenciana,1151,2977,516,4434
 2022-03-25,DESLOCALIZADOS,226,1996,154,1370
 2022-03-25,Extremadura,483,1756,140,706
 2022-03-25,Galicia,584,2869,603,2263
 2022-03-25,La Rioja,155,532,4,41
-2022-03-25,Madrid,1140,7240,413,6145
+2022-03-25,Madrid,1140,7241,413,6145
 2022-03-25,Melilla,10,108,0,22
 2022-03-25,Murcia,421,1501,102,1018
 2022-03-25,Navarra,191,970,124,673
@@ -15568,7 +15568,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-26,Castilla y Castilla y León,34,134,12,375
 2022-03-26,Castilla y León,178,824,67,1032
 2022-03-26,Castilla-La Mancha,102,566,40,706
-2022-03-26,Cataluña,924,3493,228,4737
+2022-03-26,Cataluña,924,3493,228,4738
 2022-03-26,Ceuta,24,111,1,5
 2022-03-26,Comunitat Valenciana,458,1538,270,2556
 2022-03-26,DESLOCALIZADOS,115,1359,66,961
@@ -15592,7 +15592,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-27,Cataluña,861,2897,176,3148
 2022-03-27,Ceuta,38,85,1,2
 2022-03-27,Comunitat Valenciana,269,1144,158,1479
-2022-03-27,DESLOCALIZADOS,115,1231,65,702
+2022-03-27,DESLOCALIZADOS,115,1233,65,703
 2022-03-27,Extremadura,168,819,27,273
 2022-03-27,Galicia,303,1671,351,1958
 2022-03-27,La Rioja,70,329,5,19
@@ -15605,7 +15605,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-28,Aragón,192,595,114,1278
 2022-03-28,Asturias,134,478,426,2276
 2022-03-28,Baleares,286,1098,177,1570
-2022-03-28,Canarias,907,1975,392,2401
+2022-03-28,Canarias,908,1976,392,2401
 2022-03-28,Cantabria,155,443,70,789
 2022-03-28,Castilla y Castilla y León,135,450,21,584
 2022-03-28,Castilla y León,555,1662,192,2419
@@ -15617,7 +15617,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-28,Extremadura,333,1250,117,694
 2022-03-28,Galicia,611,2585,456,2491
 2022-03-28,La Rioja,113,614,7,102
-2022-03-28,Madrid,1121,7217,380,7556
+2022-03-28,Madrid,1121,7218,380,7556
 2022-03-28,Melilla,10,137,6,56
 2022-03-28,Murcia,483,1803,131,1516
 2022-03-28,Navarra,269,1045,170,752
@@ -15634,7 +15634,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-29,Cataluña,1268,7823,471,9093
 2022-03-29,Ceuta,39,140,4,20
 2022-03-29,Comunitat Valenciana,833,2161,567,4842
-2022-03-29,DESLOCALIZADOS,173,1442,114,1364
+2022-03-29,DESLOCALIZADOS,174,1444,114,1364
 2022-03-29,Extremadura,254,1066,224,1821
 2022-03-29,Galicia,645,2325,561,2687
 2022-03-29,La Rioja,65,578,12,49
@@ -15642,7 +15642,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-29,Melilla,15,118,2,54
 2022-03-29,Murcia,237,1031,106,1341
 2022-03-29,Navarra,160,603,92,694
-2022-03-29,País Vasco,486,1358,200,2544
+2022-03-29,País Vasco,486,1359,200,2544
 2022-03-30,Andalucía,1308,5030,680,2767
 2022-03-30,Aragón,233,560,68,851
 2022-03-30,Asturias,151,366,392,1807
@@ -15652,7 +15652,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-30,Castilla y Castilla y León,99,418,26,394
 2022-03-30,Castilla y León,397,1151,143,1669
 2022-03-30,Castilla-La Mancha,245,975,88,1100
-2022-03-30,Cataluña,1309,7766,478,7445
+2022-03-30,Cataluña,1310,7767,480,7447
 2022-03-30,Ceuta,50,118,5,15
 2022-03-30,Comunitat Valenciana,824,2031,562,3749
 2022-03-30,DESLOCALIZADOS,170,1323,117,1255
@@ -15663,7 +15663,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-30,Melilla,10,111,7,61
 2022-03-30,Murcia,269,935,98,1146
 2022-03-30,Navarra,178,632,43,594
-2022-03-30,País Vasco,454,1193,175,2271
+2022-03-30,País Vasco,454,1193,175,2272
 2022-03-31,Andalucía,1127,4361,606,2321
 2022-03-31,Aragón,177,477,74,680
 2022-03-31,Asturias,133,384,284,1425
@@ -15680,7 +15680,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-03-31,Extremadura,259,880,83,318
 2022-03-31,Galicia,676,2278,685,2106
 2022-03-31,La Rioja,96,477,5,27
-2022-03-31,Madrid,752,4937,367,4667
+2022-03-31,Madrid,752,4937,367,4668
 2022-03-31,Melilla,10,103,4,55
 2022-03-31,Murcia,244,865,65,706
 2022-03-31,Navarra,183,584,44,505
@@ -15697,7 +15697,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-01,Cataluña,1065,4867,440,7778
 2022-04-01,Ceuta,23,150,4,22
 2022-04-01,Comunitat Valenciana,696,1933,504,3657
-2022-04-01,DESLOCALIZADOS,145,1735,122,1266
+2022-04-01,DESLOCALIZADOS,145,1735,123,1267
 2022-04-01,Extremadura,246,808,73,466
 2022-04-01,Galicia,721,2205,615,2005
 2022-04-01,La Rioja,69,348,7,45
@@ -15705,8 +15705,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-01,Melilla,9,109,3,35
 2022-04-01,Murcia,241,860,65,750
 2022-04-01,Navarra,165,487,44,567
-2022-04-01,País Vasco,371,1060,117,1369
-2022-04-02,Andalucía,383,1641,233,1190
+2022-04-01,País Vasco,371,1061,117,1369
+2022-04-02,Andalucía,384,1642,233,1190
 2022-04-02,Aragón,49,176,24,431
 2022-04-02,Asturias,77,184,169,865
 2022-04-02,Baleares,72,510,41,590
@@ -15715,10 +15715,10 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-02,Castilla y Castilla y León,20,102,15,364
 2022-04-02,Castilla y León,164,475,62,1058
 2022-04-02,Castilla-La Mancha,61,387,27,677
-2022-04-02,Cataluña,569,1988,182,4389
+2022-04-02,Cataluña,570,1990,182,4389
 2022-04-02,Ceuta,23,62,0,5
-2022-04-02,Comunitat Valenciana,255,842,149,2017
-2022-04-02,DESLOCALIZADOS,104,1435,66,1074
+2022-04-02,Comunitat Valenciana,257,844,149,2017
+2022-04-02,DESLOCALIZADOS,104,1435,67,1075
 2022-04-02,Extremadura,82,325,33,348
 2022-04-02,Galicia,293,1208,500,2122
 2022-04-02,La Rioja,37,270,2,16
@@ -15736,35 +15736,35 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-03,Castilla y Castilla y León,24,62,13,276
 2022-04-03,Castilla y León,116,419,63,819
 2022-04-03,Castilla-La Mancha,71,336,24,598
-2022-04-03,Cataluña,591,1904,155,3056
+2022-04-03,Cataluña,595,1909,155,3056
 2022-04-03,Ceuta,24,39,1,5
 2022-04-03,Comunitat Valenciana,171,654,124,1191
 2022-04-03,DESLOCALIZADOS,100,1219,43,727
 2022-04-03,Extremadura,86,364,26,345
 2022-04-03,Galicia,285,1175,478,1887
 2022-04-03,La Rioja,48,324,6,15
-2022-04-03,Madrid,133,1795,122,2303
+2022-04-03,Madrid,134,1797,122,2303
 2022-04-03,Melilla,2,75,2,42
 2022-04-03,Murcia,49,273,27,517
 2022-04-03,Navarra,45,226,20,260
 2022-04-03,País Vasco,127,396,87,1144
-2022-04-04,Andalucía,1437,5654,577,2392
+2022-04-04,Andalucía,1439,5662,579,2395
 2022-04-04,Aragón,293,605,86,778
-2022-04-04,Asturias,245,565,279,1687
+2022-04-04,Asturias,245,566,279,1687
 2022-04-04,Baleares,227,949,177,1466
 2022-04-04,Canarias,635,1573,406,2593
 2022-04-04,Cantabria,93,431,48,537
 2022-04-04,Castilla y Castilla y León,109,350,32,513
 2022-04-04,Castilla y León,551,1326,198,2187
 2022-04-04,Castilla-La Mancha,307,976,104,1231
-2022-04-04,Cataluña,1601,7121,542,9728
+2022-04-04,Cataluña,1601,7135,542,9728
 2022-04-04,Ceuta,41,185,5,32
 2022-04-04,Comunitat Valenciana,769,2101,593,4487
-2022-04-04,DESLOCALIZADOS,166,1755,129,1245
+2022-04-04,DESLOCALIZADOS,166,1758,129,1245
 2022-04-04,Extremadura,355,1029,67,623
 2022-04-04,Galicia,945,2721,513,2196
 2022-04-04,La Rioja,99,758,10,78
-2022-04-04,Madrid,1080,5986,366,6468
+2022-04-04,Madrid,1080,5987,366,6468
 2022-04-04,Melilla,8,99,4,47
 2022-04-04,Murcia,287,916,106,1479
 2022-04-04,Navarra,205,693,49,675
@@ -15773,15 +15773,15 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-05,Aragón,248,564,62,606
 2022-04-05,Asturias,179,463,297,1487
 2022-04-05,Baleares,204,783,148,1296
-2022-04-05,Canarias,575,1441,353,2161
+2022-04-05,Canarias,576,1442,353,2161
 2022-04-05,Cantabria,96,389,35,323
 2022-04-05,Castilla y Castilla y León,110,361,35,540
 2022-04-05,Castilla y León,453,1215,163,1727
 2022-04-05,Castilla-La Mancha,266,813,96,1210
-2022-04-05,Cataluña,1498,7093,528,9111
+2022-04-05,Cataluña,1499,7099,528,9111
 2022-04-05,Ceuta,42,80,1,13
-2022-04-05,Comunitat Valenciana,775,1851,508,3735
-2022-04-05,DESLOCALIZADOS,143,1643,94,1224
+2022-04-05,Comunitat Valenciana,775,1851,508,3736
+2022-04-05,DESLOCALIZADOS,143,1643,94,1225
 2022-04-05,Extremadura,280,832,49,568
 2022-04-05,Galicia,706,2347,602,2708
 2022-04-05,La Rioja,87,648,9,42
@@ -15799,14 +15799,14 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-06,Castilla y Castilla y León,119,357,39,453
 2022-04-06,Castilla y León,516,1262,180,1466
 2022-04-06,Castilla-La Mancha,261,787,111,1067
-2022-04-06,Cataluña,1475,6709,526,7792
+2022-04-06,Cataluña,1477,6714,526,7792
 2022-04-06,Ceuta,26,66,3,17
 2022-04-06,Comunitat Valenciana,686,1770,529,3346
-2022-04-06,DESLOCALIZADOS,196,1648,102,1344
+2022-04-06,DESLOCALIZADOS,197,1649,102,1344
 2022-04-06,Extremadura,277,806,51,358
 2022-04-06,Galicia,809,2444,674,2657
 2022-04-06,La Rioja,86,621,9,47
-2022-04-06,Madrid,925,6028,341,5237
+2022-04-06,Madrid,925,6029,341,5237
 2022-04-06,Melilla,8,89,5,47
 2022-04-06,Murcia,282,801,105,1043
 2022-04-06,Navarra,192,605,62,531
@@ -15820,9 +15820,9 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-07,Castilla y Castilla y León,168,429,48,491
 2022-04-07,Castilla y León,487,1166,203,1355
 2022-04-07,Castilla-La Mancha,238,831,57,810
-2022-04-07,Cataluña,1340,6158,556,6739
+2022-04-07,Cataluña,1343,6162,556,6741
 2022-04-07,Ceuta,28,102,1,14
-2022-04-07,Comunitat Valenciana,739,1780,542,2954
+2022-04-07,Comunitat Valenciana,739,1780,542,2955
 2022-04-07,DESLOCALIZADOS,157,1650,80,1240
 2022-04-07,Extremadura,282,756,32,230
 2022-04-07,Galicia,899,2475,807,2490
@@ -15832,23 +15832,23 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-07,Murcia,312,859,88,624
 2022-04-07,Navarra,222,628,94,602
 2022-04-07,País Vasco,439,1063,172,1680
-2022-04-08,Andalucía,206,803,589,2112
+2022-04-08,Andalucía,207,804,589,2112
 2022-04-08,Aragón,325,714,92,383
-2022-04-08,Asturias,226,490,274,913
+2022-04-08,Asturias,226,491,274,913
 2022-04-08,Baleares,236,924,146,941
-2022-04-08,Canarias,464,1278,264,1663
+2022-04-08,Canarias,466,1283,264,1663
 2022-04-08,Cantabria,156,441,52,572
 2022-04-08,Castilla y Castilla y León,153,401,35,383
 2022-04-08,Castilla y León,547,1485,163,1255
 2022-04-08,Castilla-La Mancha,313,878,83,807
-2022-04-08,Cataluña,1291,5579,548,7747
+2022-04-08,Cataluña,1294,5582,549,7748
 2022-04-08,Ceuta,40,86,3,14
 2022-04-08,Comunitat Valenciana,777,1946,514,3154
 2022-04-08,DESLOCALIZADOS,152,1634,122,1429
 2022-04-08,Extremadura,309,813,49,278
 2022-04-08,Galicia,863,2421,743,2147
 2022-04-08,La Rioja,54,344,4,47
-2022-04-08,Madrid,911,5847,328,4852
+2022-04-08,Madrid,912,5848,329,4853
 2022-04-08,Melilla,9,46,3,18
 2022-04-08,Murcia,292,798,99,703
 2022-04-08,Navarra,261,742,62,479
@@ -15857,12 +15857,12 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-09,Aragón,92,242,14,178
 2022-04-09,Asturias,100,195,227,884
 2022-04-09,Baleares,130,569,78,634
-2022-04-09,Canarias,214,535,219,1245
+2022-04-09,Canarias,214,540,219,1245
 2022-04-09,Cantabria,51,173,35,151
 2022-04-09,Castilla y Castilla y León,37,122,30,478
 2022-04-09,Castilla y León,239,536,89,863
 2022-04-09,Castilla-La Mancha,79,372,36,498
-2022-04-09,Cataluña,679,2455,250,3945
+2022-04-09,Cataluña,681,2458,250,3945
 2022-04-09,Ceuta,14,41,0,2
 2022-04-09,Comunitat Valenciana,300,888,214,1928
 2022-04-09,DESLOCALIZADOS,136,1357,62,1245
@@ -15878,7 +15878,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-10,Aragón,63,171,22,162
 2022-04-10,Asturias,104,201,231,985
 2022-04-10,Baleares,107,571,88,555
-2022-04-10,Canarias,194,570,139,798
+2022-04-10,Canarias,194,571,140,799
 2022-04-10,Cantabria,49,160,41,185
 2022-04-10,Castilla y Castilla y León,43,120,24,234
 2022-04-10,Castilla y León,230,583,102,855
@@ -15895,16 +15895,16 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-10,Murcia,74,331,59,539
 2022-04-10,Navarra,68,214,34,229
 2022-04-10,País Vasco,156,446,120,1229
-2022-04-11,Andalucía,1630,4845,642,2196
+2022-04-11,Andalucía,1635,4861,642,2196
 2022-04-11,Aragón,363,744,81,427
-2022-04-11,Asturias,275,614,339,1388
+2022-04-11,Asturias,275,615,339,1388
 2022-04-11,Baleares,226,903,156,1012
-2022-04-11,Canarias,510,1237,286,1716
+2022-04-11,Canarias,510,1253,286,1716
 2022-04-11,Cantabria,220,580,50,542
 2022-04-11,Castilla y Castilla y León,179,408,27,486
 2022-04-11,Castilla y León,800,1573,227,1496
 2022-04-11,Castilla-La Mancha,412,1117,104,1014
-2022-04-11,Cataluña,1896,8449,718,8924
+2022-04-11,Cataluña,1897,8451,719,8926
 2022-04-11,Ceuta,43,88,2,25
 2022-04-11,Comunitat Valenciana,1005,2538,587,3524
 2022-04-11,DESLOCALIZADOS,275,2019,120,1245
@@ -15916,112 +15916,112 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-11,Murcia,473,1153,137,1208
 2022-04-11,Navarra,313,855,77,526
 2022-04-11,País Vasco,534,1240,159,1540
-2022-04-12,Andalucía,1384,4011,587,2219
+2022-04-12,Andalucía,1393,4022,587,2219
 2022-04-12,Aragón,323,596,88,376
 2022-04-12,Asturias,244,561,481,1513
-2022-04-12,Baleares,259,1066,145,731
+2022-04-12,Baleares,260,1067,145,731
 2022-04-12,Canarias,466,1057,349,1538
 2022-04-12,Cantabria,145,495,42,313
 2022-04-12,Castilla y Castilla y León,157,428,36,224
 2022-04-12,Castilla y León,635,1425,186,1043
 2022-04-12,Castilla-La Mancha,335,874,60,612
-2022-04-12,Cataluña,1529,7190,648,7330
+2022-04-12,Cataluña,1533,7212,648,7330
 2022-04-12,Ceuta,37,85,1,14
 2022-04-12,Comunitat Valenciana,895,2452,744,3308
-2022-04-12,DESLOCALIZADOS,224,1702,120,1244
+2022-04-12,DESLOCALIZADOS,224,1702,120,1245
 2022-04-12,Extremadura,320,848,32,157
 2022-04-12,Galicia,1070,2639,757,2068
 2022-04-12,La Rioja,78,422,5,46
-2022-04-12,Madrid,924,4532,328,3739
+2022-04-12,Madrid,925,4533,328,3739
 2022-04-12,Melilla,12,34,2,17
 2022-04-12,Murcia,431,1058,130,701
 2022-04-12,Navarra,272,687,69,473
 2022-04-12,País Vasco,523,1234,273,2127
-2022-04-13,Andalucía,1559,4044,561,1930
+2022-04-13,Andalucía,1564,4056,561,1930
 2022-04-13,Aragón,394,781,74,360
 2022-04-13,Asturias,344,713,434,1309
 2022-04-13,Baleares,269,1080,149,727
-2022-04-13,Canarias,787,1689,284,1482
+2022-04-13,Canarias,790,1692,285,1483
 2022-04-13,Cantabria,204,614,48,283
 2022-04-13,Castilla y Castilla y León,182,550,46,462
 2022-04-13,Castilla y León,862,1796,156,759
 2022-04-13,Castilla-La Mancha,350,925,83,668
-2022-04-13,Cataluña,1489,6738,547,5735
+2022-04-13,Cataluña,1490,6741,548,5736
 2022-04-13,Ceuta,40,114,4,8
-2022-04-13,Comunitat Valenciana,920,2804,548,2673
+2022-04-13,Comunitat Valenciana,920,2804,548,2674
 2022-04-13,DESLOCALIZADOS,315,1683,115,1270
 2022-04-13,Extremadura,351,822,25,128
 2022-04-13,Galicia,1128,2909,828,2098
 2022-04-13,La Rioja,120,410,5,39
-2022-04-13,Madrid,1042,4735,369,2985
+2022-04-13,Madrid,1044,4737,369,2985
 2022-04-13,Melilla,9,50,2,21
 2022-04-13,Murcia,498,1160,125,601
 2022-04-13,Navarra,293,798,49,258
 2022-04-13,País Vasco,618,1226,183,1333
-2022-04-14,Andalucía,514,1392,180,880
+2022-04-14,Andalucía,514,1393,180,880
 2022-04-14,Aragón,115,254,14,108
-2022-04-14,Asturias,124,230,359,784
+2022-04-14,Asturias,125,232,359,784
 2022-04-14,Baleares,142,659,86,417
 2022-04-14,Canarias,342,791,255,1147
 2022-04-14,Cantabria,65,203,98,393
 2022-04-14,Castilla y Castilla y León,67,155,8,190
 2022-04-14,Castilla y León,340,761,83,473
 2022-04-14,Castilla-La Mancha,125,387,45,275
-2022-04-14,Cataluña,1303,4929,484,4940
+2022-04-14,Cataluña,1303,4931,484,4940
 2022-04-14,Ceuta,24,49,2,2
 2022-04-14,Comunitat Valenciana,265,1280,253,1372
 2022-04-14,DESLOCALIZADOS,182,1621,83,820
-2022-04-14,Extremadura,144,319,14,66
+2022-04-14,Extremadura,145,320,14,66
 2022-04-14,Galicia,511,1394,676,1724
 2022-04-14,La Rioja,20,199,2,6
-2022-04-14,Madrid,199,1717,113,1314
+2022-04-14,Madrid,200,1718,113,1314
 2022-04-14,Melilla,4,27,2,19
 2022-04-14,Murcia,151,433,72,387
 2022-04-14,Navarra,106,285,36,196
 2022-04-14,País Vasco,228,517,135,1109
-2022-04-15,Andalucía,476,1456,191,707
+2022-04-15,Andalucía,480,1460,191,707
 2022-04-15,Aragón,110,254,30,164
-2022-04-15,Asturias,189,339,140,522
+2022-04-15,Asturias,189,340,140,522
 2022-04-15,Baleares,114,664,55,311
 2022-04-15,Canarias,290,773,94,719
-2022-04-15,Cantabria,54,208,80,389
+2022-04-15,Cantabria,54,209,80,389
 2022-04-15,Castilla y Castilla y León,68,180,20,173
 2022-04-15,Castilla y León,346,763,77,508
 2022-04-15,Castilla-La Mancha,126,364,23,330
-2022-04-15,Cataluña,602,2004,230,2497
+2022-04-15,Cataluña,605,2009,230,2497
 2022-04-15,Ceuta,23,46,3,5
 2022-04-15,Comunitat Valenciana,206,883,162,1064
 2022-04-15,DESLOCALIZADOS,181,1606,45,805
 2022-04-15,Extremadura,141,348,14,98
 2022-04-15,Galicia,501,1299,507,1370
 2022-04-15,La Rioja,30,177,1,3
-2022-04-15,Madrid,243,1898,135,1515
+2022-04-15,Madrid,244,1899,135,1515
 2022-04-15,Melilla,2,30,1,16
 2022-04-15,Murcia,97,323,40,275
 2022-04-15,Navarra,120,298,34,194
 2022-04-15,País Vasco,222,456,107,695
-2022-04-16,Andalucía,709,2059,237,935
+2022-04-16,Andalucía,712,2063,237,935
 2022-04-16,Aragón,110,307,29,152
 2022-04-16,Asturias,153,332,209,876
 2022-04-16,Baleares,150,773,122,582
-2022-04-16,Canarias,312,832,206,1408
+2022-04-16,Canarias,313,833,206,1408
 2022-04-16,Cantabria,49,207,64,305
 2022-04-16,Castilla y Castilla y León,51,170,31,392
 2022-04-16,Castilla y León,420,897,129,908
-2022-04-16,Castilla-La Mancha,209,561,42,627
-2022-04-16,Cataluña,719,2089,271,3548
+2022-04-16,Castilla-La Mancha,210,563,42,627
+2022-04-16,Cataluña,721,2102,271,3548
 2022-04-16,Ceuta,28,50,2,7
 2022-04-16,Comunitat Valenciana,432,1179,254,1956
 2022-04-16,DESLOCALIZADOS,237,1742,96,1013
-2022-04-16,Extremadura,168,389,23,179
+2022-04-16,Extremadura,169,390,23,179
 2022-04-16,Galicia,594,1600,527,1729
 2022-04-16,La Rioja,23,195,5,8
-2022-04-16,Madrid,224,1828,157,2814
+2022-04-16,Madrid,225,1829,157,2814
 2022-04-16,Melilla,4,25,1,27
 2022-04-16,Murcia,288,712,110,862
 2022-04-16,Navarra,131,357,32,171
 2022-04-16,País Vasco,197,423,117,1029
-2022-04-17,Andalucía,688,2274,230,870
+2022-04-17,Andalucía,692,2279,230,870
 2022-04-17,Aragón,92,257,25,183
 2022-04-17,Asturias,180,311,275,1116
 2022-04-17,Baleares,110,580,73,519
@@ -16029,41 +16029,41 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-17,Cantabria,73,239,53,239
 2022-04-17,Castilla y Castilla y León,42,122,23,391
 2022-04-17,Castilla y León,302,724,111,886
-2022-04-17,Castilla-La Mancha,180,524,43,650
-2022-04-17,Cataluña,708,1976,236,3283
+2022-04-17,Castilla-La Mancha,181,526,43,651
+2022-04-17,Cataluña,710,1981,236,3283
 2022-04-17,Ceuta,32,63,3,20
-2022-04-17,Comunitat Valenciana,271,892,170,1192
+2022-04-17,Comunitat Valenciana,272,893,170,1192
 2022-04-17,DESLOCALIZADOS,191,1515,54,778
 2022-04-17,Extremadura,219,533,23,209
 2022-04-17,Galicia,557,1495,511,1780
 2022-04-17,La Rioja,96,374,7,17
-2022-04-17,Madrid,244,1772,162,1985
+2022-04-17,Madrid,246,1774,162,1985
 2022-04-17,Melilla,3,27,4,33
 2022-04-17,Murcia,116,374,63,473
 2022-04-17,Navarra,104,270,70,463
 2022-04-17,País Vasco,180,430,141,1042
-2022-04-18,Andalucía,2575,7506,699,2444
+2022-04-18,Andalucía,2579,7512,699,2444
 2022-04-18,Aragón,484,882,113,478
 2022-04-18,Asturias,401,859,479,1768
 2022-04-18,Baleares,158,676,117,623
-2022-04-18,Canarias,941,2233,289,2029
+2022-04-18,Canarias,942,2234,289,2029
 2022-04-18,Cantabria,274,738,94,549
 2022-04-18,Castilla y Castilla y León,306,673,77,578
 2022-04-18,Castilla y León,1104,2439,339,1953
-2022-04-18,Castilla-La Mancha,620,1393,99,1197
-2022-04-18,Cataluña,955,2800,308,3730
+2022-04-18,Castilla-La Mancha,620,1393,99,1198
+2022-04-18,Cataluña,960,2820,308,3730
 2022-04-18,Ceuta,53,108,2,45
 2022-04-18,Comunitat Valenciana,336,1093,248,1450
-2022-04-18,DESLOCALIZADOS,316,2035,121,983
+2022-04-18,DESLOCALIZADOS,317,2036,121,983
 2022-04-18,Extremadura,508,1171,51,386
 2022-04-18,Galicia,1377,3453,660,2448
 2022-04-18,La Rioja,120,543,13,28
-2022-04-18,Madrid,1869,6440,470,5330
+2022-04-18,Madrid,1870,6443,470,5330
 2022-04-18,Melilla,21,59,2,37
 2022-04-18,Murcia,767,1699,233,1214
 2022-04-18,Navarra,142,355,38,282
 2022-04-18,País Vasco,221,543,136,1124
-2022-04-19,Andalucía,2314,6230,769,2347
+2022-04-19,Andalucía,2317,6233,769,2347
 2022-04-19,Aragón,513,866,128,491
 2022-04-19,Asturias,386,750,555,1894
 2022-04-19,Baleares,284,1102,184,978
@@ -16072,52 +16072,52 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-19,Castilla y Castilla y León,210,508,33,427
 2022-04-19,Castilla y León,1038,2145,226,1497
 2022-04-19,Castilla-La Mancha,618,1387,151,1218
-2022-04-19,Cataluña,2430,8887,841,10481
+2022-04-19,Cataluña,2436,8904,842,10485
 2022-04-19,Ceuta,63,105,3,24
 2022-04-19,Comunitat Valenciana,1082,2595,833,3704
-2022-04-19,DESLOCALIZADOS,316,1620,158,1144
-2022-04-19,Extremadura,513,1350,68,384
+2022-04-19,DESLOCALIZADOS,316,1620,158,1145
+2022-04-19,Extremadura,515,1353,68,384
 2022-04-19,Galicia,1293,3210,967,3054
 2022-04-19,La Rioja,168,628,11,39
-2022-04-19,Madrid,1592,5587,481,5128
+2022-04-19,Madrid,1593,5589,481,5130
 2022-04-19,Melilla,14,56,3,40
 2022-04-19,Murcia,528,1182,85,737
 2022-04-19,Navarra,313,853,69,562
 2022-04-19,País Vasco,632,1333,217,2051
-2022-04-20,Andalucía,2123,5675,810,2447
+2022-04-20,Andalucía,2124,5676,810,2447
 2022-04-20,Aragón,518,897,97,424
-2022-04-20,Asturias,386,812,494,1757
+2022-04-20,Asturias,386,813,494,1757
 2022-04-20,Baleares,225,877,164,852
-2022-04-20,Canarias,778,1851,281,1823
+2022-04-20,Canarias,778,1851,282,1824
 2022-04-20,Cantabria,251,633,101,508
 2022-04-20,Castilla y Castilla y León,261,555,68,794
 2022-04-20,Castilla y León,998,2194,353,2834
 2022-04-20,Castilla-La Mancha,616,1358,187,1349
-2022-04-20,Cataluña,1670,7155,765,8647
+2022-04-20,Cataluña,1675,7175,766,8653
 2022-04-20,Ceuta,59,121,3,16
-2022-04-20,Comunitat Valenciana,1003,2227,670,3089
-2022-04-20,DESLOCALIZADOS,298,1724,135,1094
+2022-04-20,Comunitat Valenciana,1003,2227,671,3090
+2022-04-20,DESLOCALIZADOS,299,1725,135,1094
 2022-04-20,Extremadura,503,1219,48,293
 2022-04-20,Galicia,1299,3197,821,2546
 2022-04-20,La Rioja,172,593,9,28
-2022-04-20,Madrid,1566,5415,473,4301
+2022-04-20,Madrid,1569,5418,473,4301
 2022-04-20,Melilla,12,51,3,43
 2022-04-20,Murcia,790,1709,199,1128
 2022-04-20,Navarra,258,680,50,437
 2022-04-20,País Vasco,629,1259,262,2164
-2022-04-21,Andalucía,2021,5074,709,2493
+2022-04-21,Andalucía,2021,5075,709,2493
 2022-04-21,Aragón,459,862,101,379
 2022-04-21,Asturias,354,786,404,1419
 2022-04-21,Baleares,222,893,117,542
 2022-04-21,Canarias,839,1857,278,1406
 2022-04-21,Cantabria,242,645,61,430
 2022-04-21,Castilla y Castilla y León,229,502,36,319
-2022-04-21,Castilla y León,1050,2215,241,1220
+2022-04-21,Castilla y León,1050,2216,241,1220
 2022-04-21,Castilla-La Mancha,622,1396,109,814
-2022-04-21,Cataluña,1564,5407,591,6170
+2022-04-21,Cataluña,1571,5420,592,6171
 2022-04-21,Ceuta,53,94,4,11
 2022-04-21,Comunitat Valenciana,885,1948,631,2433
-2022-04-21,DESLOCALIZADOS,315,1747,116,891
+2022-04-21,DESLOCALIZADOS,317,1751,116,891
 2022-04-21,Extremadura,493,1179,30,170
 2022-04-21,Galicia,1300,3178,962,2398
 2022-04-21,La Rioja,145,431,11,33
@@ -16126,7 +16126,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-21,Murcia,722,1601,176,662
 2022-04-21,Navarra,234,780,55,403
 2022-04-21,País Vasco,556,1229,215,1686
-2022-04-22,Andalucía,2054,5163,672,2290
+2022-04-22,Andalucía,2058,5167,672,2290
 2022-04-22,Aragón,535,963,108,383
 2022-04-22,Asturias,461,921,509,1324
 2022-04-22,Baleares,206,833,141,766
@@ -16134,247 +16134,268 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-04-22,Cantabria,269,697,57,474
 2022-04-22,Castilla y Castilla y León,294,606,79,606
 2022-04-22,Castilla y León,1233,2394,262,1268
-2022-04-22,Castilla-La Mancha,736,1536,109,957
-2022-04-22,Cataluña,1449,4728,605,7409
+2022-04-22,Castilla-La Mancha,737,1537,109,958
+2022-04-22,Cataluña,1454,4736,605,7413
 2022-04-22,Ceuta,38,91,2,12
-2022-04-22,Comunitat Valenciana,990,2009,496,2274
+2022-04-22,Comunitat Valenciana,992,2012,496,2274
 2022-04-22,DESLOCALIZADOS,321,1410,99,796
 2022-04-22,Extremadura,635,1351,45,238
 2022-04-22,Galicia,1385,3306,798,2109
 2022-04-22,La Rioja,160,498,12,25
-2022-04-22,Madrid,1531,5377,382,3793
+2022-04-22,Madrid,1532,5378,382,3793
 2022-04-22,Melilla,9,57,2,27
 2022-04-22,Murcia,821,1765,242,924
 2022-04-22,Navarra,296,716,48,504
 2022-04-22,País Vasco,633,1276,173,1430
-2022-04-23,Andalucía,684,1853,234,884
+2022-04-23,Andalucía,688,1858,234,884
 2022-04-23,Aragón,152,320,28,127
-2022-04-23,Asturias,190,364,331,1140
+2022-04-23,Asturias,191,365,331,1140
 2022-04-23,Baleares,100,668,95,712
 2022-04-23,Canarias,248,674,190,1377
 2022-04-23,Cantabria,81,227,63,196
-2022-04-23,Castilla y Castilla y León,83,176,38,382
+2022-04-23,Castilla y Castilla y León,84,177,38,382
 2022-04-23,Castilla y León,483,921,118,921
-2022-04-23,Castilla-La Mancha,208,528,83,658
-2022-04-23,Cataluña,676,1793,248,4063
+2022-04-23,Castilla-La Mancha,209,529,83,658
+2022-04-23,Cataluña,678,1800,248,4063
 2022-04-23,Ceuta,35,59,0,2
-2022-04-23,Comunitat Valenciana,409,993,185,1336
+2022-04-23,Comunitat Valenciana,409,994,185,1336
 2022-04-23,DESLOCALIZADOS,166,1324,75,757
-2022-04-23,Extremadura,211,438,31,126
+2022-04-23,Extremadura,212,439,31,126
 2022-04-23,Galicia,631,1618,614,2042
 2022-04-23,La Rioja,93,382,12,20
-2022-04-23,Madrid,249,1760,221,2417
+2022-04-23,Madrid,250,1762,221,2418
 2022-04-23,Melilla,3,25,0,21
 2022-04-23,Murcia,352,748,137,1003
-2022-04-23,Navarra,94,284,38,190
+2022-04-23,Navarra,95,285,38,190
 2022-04-23,País Vasco,253,497,205,1141
-2022-04-24,Andalucía,670,2006,237,810
+2022-04-24,Andalucía,675,2011,237,810
 2022-04-24,Aragón,128,277,26,149
 2022-04-24,Asturias,202,383,303,1235
 2022-04-24,Baleares,104,508,46,383
-2022-04-24,Canarias,233,691,136,776
+2022-04-24,Canarias,234,692,136,776
 2022-04-24,Cantabria,103,248,63,185
 2022-04-24,Castilla y Castilla y León,55,138,11,121
 2022-04-24,Castilla y León,412,829,127,903
 2022-04-24,Castilla-La Mancha,243,587,42,386
-2022-04-24,Cataluña,788,2072,220,2679
+2022-04-24,Cataluña,796,2081,221,2681
 2022-04-24,Ceuta,33,79,0,3
 2022-04-24,Comunitat Valenciana,218,684,157,940
-2022-04-24,DESLOCALIZADOS,178,1605,66,532
+2022-04-24,DESLOCALIZADOS,179,1606,66,532
 2022-04-24,Extremadura,243,567,32,193
 2022-04-24,Galicia,571,1413,544,1795
 2022-04-24,La Rioja,80,343,8,17
-2022-04-24,Madrid,219,1636,161,1735
+2022-04-24,Madrid,222,1640,161,1735
 2022-04-24,Melilla,4,19,0,19
 2022-04-24,Murcia,128,413,95,593
 2022-04-24,Navarra,159,316,58,247
 2022-04-24,País Vasco,223,496,156,1541
-2022-04-25,Andalucía,2611,6887,693,2199
+2022-04-25,Andalucía,2617,6894,693,2199
 2022-04-25,Aragón,618,1078,100,430
-2022-04-25,Asturias,591,1147,472,1897
+2022-04-25,Asturias,592,1148,472,1897
 2022-04-25,Baleares,325,1146,156,1164
-2022-04-25,Canarias,782,1904,266,1903
+2022-04-25,Canarias,782,1904,267,1904
 2022-04-25,Cantabria,376,875,110,591
-2022-04-25,Castilla y Castilla y León,361,707,65,554
-2022-04-25,Castilla y León,1418,2876,364,2065
-2022-04-25,Castilla-La Mancha,1011,1933,190,1280
-2022-04-25,Cataluña,2333,8500,755,9697
+2022-04-25,Castilla y Castilla y León,362,708,65,554
+2022-04-25,Castilla y León,1419,2877,364,2065
+2022-04-25,Castilla-La Mancha,1013,1935,190,1280
+2022-04-25,Cataluña,2346,8613,755,9698
 2022-04-25,Ceuta,68,162,5,27
-2022-04-25,Comunitat Valenciana,757,1645,443,2250
-2022-04-25,DESLOCALIZADOS,356,1890,96,943
-2022-04-25,Extremadura,792,1849,82,422
+2022-04-25,Comunitat Valenciana,757,1647,443,2254
+2022-04-25,DESLOCALIZADOS,356,1891,96,943
+2022-04-25,Extremadura,793,1850,82,422
 2022-04-25,Galicia,1633,3826,612,2261
 2022-04-25,La Rioja,201,803,7,20
-2022-04-25,Madrid,2216,6401,656,5111
+2022-04-25,Madrid,2219,6405,662,5120
 2022-04-25,Melilla,30,103,5,39
 2022-04-25,Murcia,1077,2219,339,1617
 2022-04-25,Navarra,469,1076,71,615
 2022-04-25,País Vasco,828,1539,216,2090
-2022-04-26,Andalucía,2459,6409,892,2945
+2022-04-26,Andalucía,2468,6418,892,2945
 2022-04-26,Aragón,658,1052,124,426
 2022-04-26,Asturias,488,1117,703,2292
 2022-04-26,Baleares,254,957,133,954
 2022-04-26,Canarias,652,1586,313,2171
 2022-04-26,Cantabria,307,779,68,435
 2022-04-26,Castilla y Castilla y León,300,620,46,512
-2022-04-26,Castilla y León,1382,2732,345,1902
-2022-04-26,Castilla-La Mancha,822,1652,165,1295
-2022-04-26,Cataluña,1843,7065,766,8526
+2022-04-26,Castilla y León,1383,2733,345,1902
+2022-04-26,Castilla-La Mancha,825,1655,165,1295
+2022-04-26,Cataluña,1854,7147,766,8529
 2022-04-26,Ceuta,70,142,4,16
-2022-04-26,Comunitat Valenciana,1241,2564,743,3382
-2022-04-26,DESLOCALIZADOS,358,1576,196,1919
-2022-04-26,Extremadura,754,1617,57,253
+2022-04-26,Comunitat Valenciana,1243,2568,743,3385
+2022-04-26,DESLOCALIZADOS,359,1578,196,1921
+2022-04-26,Extremadura,755,1618,57,253
 2022-04-26,Galicia,1461,3499,855,2731
 2022-04-26,La Rioja,161,577,19,44
-2022-04-26,Madrid,1798,5366,503,4222
+2022-04-26,Madrid,1802,5373,507,4226
 2022-04-26,Melilla,19,66,7,39
 2022-04-26,Murcia,1002,2032,295,1501
 2022-04-26,Navarra,311,885,72,568
 2022-04-26,País Vasco,753,1445,228,2033
-2022-04-27,Andalucía,2542,6318,798,2258
+2022-04-27,Andalucía,2553,6332,798,2258
 2022-04-27,Aragón,694,1090,100,400
-2022-04-27,Asturias,474,1018,537,1942
+2022-04-27,Asturias,475,1019,537,1942
 2022-04-27,Baleares,237,940,139,833
-2022-04-27,Canarias,610,1564,225,1642
+2022-04-27,Canarias,610,1564,225,1643
 2022-04-27,Cantabria,352,873,91,461
-2022-04-27,Castilla y Castilla y León,330,693,97,701
+2022-04-27,Castilla y Castilla y León,334,697,97,701
 2022-04-27,Castilla y León,1403,2670,288,1623
-2022-04-27,Castilla-La Mancha,940,1922,231,1431
-2022-04-27,Cataluña,2014,6827,588,7318
+2022-04-27,Castilla-La Mancha,942,1924,231,1431
+2022-04-27,Cataluña,2040,6923,588,7324
 2022-04-27,Ceuta,101,149,4,20
-2022-04-27,Comunitat Valenciana,1247,2435,755,3078
-2022-04-27,DESLOCALIZADOS,324,1760,138,1147
-2022-04-27,Extremadura,722,1540,81,264
+2022-04-27,Comunitat Valenciana,1247,2437,758,3091
+2022-04-27,DESLOCALIZADOS,325,1763,138,1147
+2022-04-27,Extremadura,723,1541,81,264
 2022-04-27,Galicia,1376,3245,924,2602
 2022-04-27,La Rioja,214,622,16,30
-2022-04-27,Madrid,1959,5865,574,4272
+2022-04-27,Madrid,1964,5885,582,4281
 2022-04-27,Melilla,16,72,4,60
 2022-04-27,Murcia,1016,2055,294,1292
 2022-04-27,Navarra,395,837,60,473
 2022-04-27,País Vasco,712,1411,277,2210
-2022-04-28,Andalucía,2241,5600,775,2494
+2022-04-28,Andalucía,2254,5618,776,2495
 2022-04-28,Aragón,590,992,109,383
-2022-04-28,Asturias,424,961,598,1634
+2022-04-28,Asturias,426,964,598,1634
 2022-04-28,Baleares,234,897,94,481
-2022-04-28,Canarias,590,1441,238,1259
-2022-04-28,Cantabria,279,733,83,413
+2022-04-28,Canarias,590,1443,238,1259
+2022-04-28,Cantabria,279,733,84,414
 2022-04-28,Castilla y Castilla y León,310,667,61,459
-2022-04-28,Castilla y León,1425,2693,269,1190
-2022-04-28,Castilla-La Mancha,780,1648,140,845
-2022-04-28,Cataluña,1809,5507,578,6259
+2022-04-28,Castilla y León,1426,2694,269,1190
+2022-04-28,Castilla-La Mancha,781,1651,140,846
+2022-04-28,Cataluña,1836,5579,579,6265
 2022-04-28,Ceuta,83,135,4,17
-2022-04-28,Comunitat Valenciana,1117,2096,517,2045
-2022-04-28,DESLOCALIZADOS,281,1762,136,1030
-2022-04-28,Extremadura,705,1514,57,152
+2022-04-28,Comunitat Valenciana,1118,2098,517,2051
+2022-04-28,DESLOCALIZADOS,283,1765,137,1031
+2022-04-28,Extremadura,707,1516,57,152
 2022-04-28,Galicia,1457,3372,878,2286
 2022-04-28,La Rioja,146,529,20,40
-2022-04-28,Madrid,1904,5852,467,3288
+2022-04-28,Madrid,1925,5896,471,3309
 2022-04-28,Melilla,16,60,6,27
 2022-04-28,Murcia,1000,2287,196,717
 2022-04-28,Navarra,312,717,64,320
 2022-04-28,País Vasco,636,1287,321,1816
-2022-04-29,Andalucía,2376,5388,706,1968
+2022-04-29,Andalucía,2408,5439,706,1971
 2022-04-29,Aragón,672,1085,120,327
-2022-04-29,Asturias,432,951,510,1280
+2022-04-29,Asturias,435,954,510,1280
 2022-04-29,Baleares,238,928,132,797
-2022-04-29,Canarias,720,1544,259,1574
-2022-04-29,Cantabria,301,725,79,493
+2022-04-29,Canarias,720,1544,259,1575
+2022-04-29,Cantabria,303,727,79,493
 2022-04-29,Castilla y Castilla y León,356,707,65,474
-2022-04-29,Castilla y León,1530,3016,274,1105
-2022-04-29,Castilla-La Mancha,920,1913,193,1178
-2022-04-29,Cataluña,1714,4910,716,8014
+2022-04-29,Castilla y León,1537,3024,274,1105
+2022-04-29,Castilla-La Mancha,926,1919,193,1178
+2022-04-29,Cataluña,1754,4993,717,8016
 2022-04-29,Ceuta,87,156,1,8
-2022-04-29,Comunitat Valenciana,1113,2178,587,2618
-2022-04-29,DESLOCALIZADOS,330,1748,101,1149
-2022-04-29,Extremadura,748,1654,38,201
+2022-04-29,Comunitat Valenciana,1119,2185,591,2651
+2022-04-29,DESLOCALIZADOS,330,1751,101,1150
+2022-04-29,Extremadura,754,1661,38,201
 2022-04-29,Galicia,1514,3375,800,2073
 2022-04-29,La Rioja,122,386,18,43
-2022-04-29,Madrid,1965,5655,466,2872
+2022-04-29,Madrid,2005,6108,491,3149
 2022-04-29,Melilla,15,51,5,26
 2022-04-29,Murcia,1091,2137,225,780
 2022-04-29,Navarra,383,799,56,535
 2022-04-29,País Vasco,785,1530,301,1690
-2022-04-30,Andalucía,623,1549,290,848
+2022-04-30,Andalucía,642,1571,290,849
 2022-04-30,Aragón,165,345,42,126
-2022-04-30,Asturias,160,333,278,776
+2022-04-30,Asturias,168,344,278,776
 2022-04-30,Baleares,118,684,56,534
-2022-04-30,Canarias,231,641,145,965
+2022-04-30,Canarias,231,642,146,966
 2022-04-30,Cantabria,94,274,108,359
-2022-04-30,Castilla y Castilla y León,67,138,29,234
-2022-04-30,Castilla y León,493,960,156,762
-2022-04-30,Castilla-La Mancha,241,574,64,554
-2022-04-30,Cataluña,834,2106,280,3976
+2022-04-30,Castilla y Castilla y León,68,139,29,234
+2022-04-30,Castilla y León,494,962,156,762
+2022-04-30,Castilla-La Mancha,242,576,64,555
+2022-04-30,Cataluña,867,2144,282,3984
 2022-04-30,Ceuta,37,86,1,1
-2022-04-30,Comunitat Valenciana,433,1024,266,1437
-2022-04-30,DESLOCALIZADOS,170,1364,67,1009
-2022-04-30,Extremadura,264,549,25,101
+2022-04-30,Comunitat Valenciana,434,1025,266,1444
+2022-04-30,DESLOCALIZADOS,173,1369,67,1012
+2022-04-30,Extremadura,267,552,25,101
 2022-04-30,Galicia,602,1528,692,2287
 2022-04-30,La Rioja,133,379,10,14
-2022-04-30,Madrid,245,1548,220,2027
+2022-04-30,Madrid,274,1937,253,2333
 2022-04-30,Melilla,9,28,2,21
 2022-04-30,Murcia,459,1083,162,801
-2022-04-30,Navarra,121,270,49,228
+2022-04-30,Navarra,123,272,49,228
 2022-04-30,País Vasco,313,567,233,1503
-2022-05-01,Andalucía,553,1575,230,813
-2022-05-01,Aragón,134,272,31,106
-2022-05-01,Asturias,130,260,191,849
+2022-05-01,Andalucía,571,1640,230,815
+2022-05-01,Aragón,134,272,31,107
+2022-05-01,Asturias,139,270,191,849
 2022-05-01,Baleares,93,616,52,384
 2022-05-01,Canarias,244,701,89,682
 2022-05-01,Cantabria,104,277,99,262
 2022-05-01,Castilla y Castilla y León,81,135,29,216
-2022-05-01,Castilla y León,426,915,136,862
-2022-05-01,Castilla-La Mancha,289,679,65,439
-2022-05-01,Cataluña,915,2006,234,2529
+2022-05-01,Castilla y León,430,919,137,864
+2022-05-01,Castilla-La Mancha,293,683,65,439
+2022-05-01,Cataluña,971,2092,235,2538
 2022-05-01,Ceuta,44,93,0,0
-2022-05-01,Comunitat Valenciana,276,674,178,771
-2022-05-01,DESLOCALIZADOS,135,1195,60,776
-2022-05-01,Extremadura,277,546,38,215
+2022-05-01,Comunitat Valenciana,279,714,181,790
+2022-05-01,DESLOCALIZADOS,142,1209,62,785
+2022-05-01,Extremadura,286,556,38,215
 2022-05-01,Galicia,609,1508,509,1500
 2022-05-01,La Rioja,97,414,7,24
-2022-05-01,Madrid,247,1312,164,1391
+2022-05-01,Madrid,282,1732,187,1780
 2022-05-01,Melilla,3,26,1,19
 2022-05-01,Murcia,179,439,74,442
-2022-05-01,Navarra,137,339,58,240
+2022-05-01,Navarra,138,341,58,240
 2022-05-01,País Vasco,264,534,182,1410
-2022-05-02,Andalucía,777,2247,275,933
-2022-05-02,Aragón,203,446,32,125
-2022-05-02,Asturias,182,429,254,1242
-2022-05-02,Baleares,246,977,185,1091
-2022-05-02,Canarias,857,1995,317,2045
-2022-05-02,Cantabria,374,916,78,542
+2022-05-02,Andalucía,813,2331,275,941
+2022-05-02,Aragón,203,452,32,125
+2022-05-02,Asturias,192,440,254,1242
+2022-05-02,Baleares,249,1077,186,1092
+2022-05-02,Canarias,867,2050,322,2060
+2022-05-02,Cantabria,383,937,78,542
 2022-05-02,Castilla y Castilla y León,120,208,29,214
-2022-05-02,Castilla y León,569,1151,201,1168
-2022-05-02,Castilla-La Mancha,1105,2158,164,1317
-2022-05-02,Cataluña,2616,7196,841,9317
+2022-05-02,Castilla y León,569,1153,203,1171
+2022-05-02,Castilla-La Mancha,1111,2166,164,1318
+2022-05-02,Cataluña,2746,7745,877,9640
 2022-05-02,Ceuta,105,176,3,27
-2022-05-02,Comunitat Valenciana,1199,2315,650,2699
-2022-05-02,DESLOCALIZADOS,225,819,78,692
-2022-05-02,Extremadura,307,691,33,171
+2022-05-02,Comunitat Valenciana,1228,2444,667,2815
+2022-05-02,DESLOCALIZADOS,365,1350,88,749
+2022-05-02,Extremadura,314,699,33,171
 2022-05-02,Galicia,1516,3616,703,2378
-2022-05-02,La Rioja,199,886,16,31
-2022-05-02,Madrid,305,1122,219,1795
+2022-05-02,La Rioja,200,888,16,31
+2022-05-02,Madrid,351,1768,269,2178
 2022-05-02,Melilla,24,71,8,29
-2022-05-02,Murcia,195,481,127,735
-2022-05-02,Navarra,463,999,63,493
+2022-05-02,Murcia,195,489,127,735
+2022-05-02,Navarra,466,1002,63,493
 2022-05-02,País Vasco,955,1722,255,2073
-2022-05-03,Andalucía,2465,6420,719,2186
-2022-05-03,Aragón,863,1422,101,349
-2022-05-03,Asturias,371,960,436,1714
-2022-05-03,Baleares,248,813,111,850
-2022-05-03,Canarias,359,970,240,1337
-2022-05-03,Cantabria,360,801,82,485
+2022-05-03,Andalucía,2715,7102,795,2417
+2022-05-03,Aragón,863,1422,180,495
+2022-05-03,Asturias,404,1010,436,1714
+2022-05-03,Baleares,248,817,113,863
+2022-05-03,Canarias,468,1226,286,1601
+2022-05-03,Cantabria,361,815,82,485
 2022-05-03,Castilla y Castilla y León,384,745,81,737
-2022-05-03,Castilla y León,1619,3194,411,2115
-2022-05-03,Castilla-La Mancha,851,1820,206,1365
-2022-05-03,Cataluña,1758,5572,485,5338
+2022-05-03,Castilla y León,1635,3211,413,2126
+2022-05-03,Castilla-La Mancha,872,1845,210,1373
+2022-05-03,Cataluña,2049,6679,803,8593
 2022-05-03,Ceuta,67,116,1,5
-2022-05-03,Comunitat Valenciana,878,1546,558,2263
-2022-05-03,DESLOCALIZADOS,269,819,87,585
-2022-05-03,Extremadura,897,1965,72,314
+2022-05-03,Comunitat Valenciana,1038,1926,681,2779
+2022-05-03,DESLOCALIZADOS,288,1052,133,1237
+2022-05-03,Extremadura,930,2005,74,321
 2022-05-03,Galicia,1242,3212,792,2499
-2022-05-03,La Rioja,285,739,13,28
-2022-05-03,Madrid,2965,6538,478,3405
-2022-05-03,Melilla,3,21,3,8
-2022-05-03,Murcia,1241,2617,338,1589
-2022-05-03,Navarra,383,819,67,461
+2022-05-03,La Rioja,289,758,13,31
+2022-05-03,Madrid,3115,7111,657,4463
+2022-05-03,Melilla,3,21,3,17
+2022-05-03,Murcia,1241,2617,339,1590
+2022-05-03,Navarra,387,825,68,470
 2022-05-03,País Vasco,894,1641,377,2653
+2022-05-04,Andalucía,2240,5540,727,2158
+2022-05-04,Aragón,807,1262,46,281
+2022-05-04,Asturias,335,852,459,1660
+2022-05-04,Baleares,218,767,113,716
+2022-05-04,Canarias,622,1688,202,1467
+2022-05-04,Cantabria,332,797,88,446
+2022-05-04,Castilla y Castilla y León,334,698,124,640
+2022-05-04,Castilla y León,1355,2681,350,1604
+2022-05-04,Castilla-La Mancha,920,1937,242,1281
+2022-05-04,Cataluña,1916,5988,487,5222
+2022-05-04,Ceuta,85,124,5,22
+2022-05-04,Comunitat Valenciana,906,1609,493,2154
+2022-05-04,DESLOCALIZADOS,271,1034,81,633
+2022-05-04,Extremadura,748,1539,63,281
+2022-05-04,Galicia,1271,3268,981,2673
+2022-05-04,La Rioja,237,701,17,34
+2022-05-04,Madrid,2411,5436,499,3263
+2022-05-04,Melilla,33,105,5,25
+2022-05-04,Murcia,961,2018,316,1345
+2022-05-04,Navarra,378,812,71,423
+2022-05-04,País Vasco,834,1663,274,2220
