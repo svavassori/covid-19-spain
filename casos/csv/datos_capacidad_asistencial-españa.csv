@@ -40955,10 +40955,10 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2022-07-20,País Vasco,Hospitalización convencional,4287,605,3025,82,111
 2022-07-20,País Vasco,U. Críticas CON respirador,354,42,165,12,5
 2022-07-20,País Vasco,U. Críticas SIN respirador,18,2,15,1,0
-2022-07-21,Andalucía,Hospitalización convencional,15776,656,9649,97,107
+2022-07-21,Andalucía,Hospitalización convencional,15740,656,9649,97,107
 2022-07-21,Andalucía,U. Críticas CON respirador,1313,26,406,4,2
 2022-07-21,Andalucía,U. Críticas SIN respirador,437,8,82,2,0
-2022-07-21,Aragón,Hospitalización convencional,3782,312,2257,27,38
+2022-07-21,Aragón,Hospitalización convencional,3782,312,2283,27,38
 2022-07-21,Aragón,U. Críticas CON respirador,174,13,89,1,0
 2022-07-21,Aragón,U. Críticas SIN respirador,19,0,8,0,0
 2022-07-21,Asturias,Hospitalización convencional,3147,319,1917,30,46
@@ -40976,13 +40976,13 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2022-07-21,Cantabria,Hospitalización convencional,1277,79,932,12,4
 2022-07-21,Cantabria,U. Críticas CON respirador,93,4,36,0,0
 2022-07-21,Cantabria,U. Críticas SIN respirador,22,0,4,0,0
-2022-07-21,Castilla La Mancha,Hospitalización convencional,4616,451,2810,55,86
-2022-07-21,Castilla La Mancha,U. Críticas CON respirador,265,22,83,1,0
+2022-07-21,Castilla La Mancha,Hospitalización convencional,4568,448,2788,55,86
+2022-07-21,Castilla La Mancha,U. Críticas CON respirador,261,22,83,1,0
 2022-07-21,Castilla La Mancha,U. Críticas SIN respirador,83,3,42,0,2
 2022-07-21,Castilla y León,Hospitalización convencional,6087,798,4039,104,140
 2022-07-21,Castilla y León,U. Críticas CON respirador,368,35,204,7,5
 2022-07-21,Castilla y León,U. Críticas SIN respirador,23,0,2,0,0
-2022-07-21,Cataluña,Hospitalización convencional,23232,1945,18010,166,306
+2022-07-21,Cataluña,Hospitalización convencional,22540,1905,17514,165,298
 2022-07-21,Cataluña,U. Críticas CON respirador,911,90,583,11,5
 2022-07-21,Cataluña,U. Críticas SIN respirador,223,23,127,3,4
 2022-07-21,Ceuta,Hospitalización convencional,176,16,79,4,3
@@ -40991,9 +40991,9 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2022-07-21,Extremadura,Hospitalización convencional,2852,134,1669,10,27
 2022-07-21,Extremadura,U. Críticas CON respirador,165,6,52,0,0
 2022-07-21,Extremadura,U. Críticas SIN respirador,17,0,2,0,0
-2022-07-21,Galicia,Hospitalización convencional,7495,531,4212,48,108
-2022-07-21,Galicia,U. Críticas CON respirador,569,24,191,1,1
-2022-07-21,Galicia,U. Críticas SIN respirador,176,2,18,1,0
+2022-07-21,Galicia,Hospitalización convencional,7391,525,4153,48,108
+2022-07-21,Galicia,U. Críticas CON respirador,562,24,190,1,1
+2022-07-21,Galicia,U. Críticas SIN respirador,173,2,17,1,0
 2022-07-21,La Rioja,Hospitalización convencional,650,51,492,3,7
 2022-07-21,La Rioja,U. Críticas CON respirador,43,1,19,0,0
 2022-07-21,La Rioja,U. Críticas SIN respirador,10,0,0,0,0
@@ -41003,12 +41003,240 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2022-07-21,Melilla,Hospitalización convencional,165,19,69,1,0
 2022-07-21,Melilla,U. Críticas CON respirador,15,1,3,0,0
 2022-07-21,Melilla,U. Críticas SIN respirador,2,0,0,0,0
-2022-07-21,Murcia,Hospitalización convencional,3611,326,2273,49,44
-2022-07-21,Murcia,U. Críticas CON respirador,280,15,56,4,1
-2022-07-21,Murcia,U. Críticas SIN respirador,183,4,19,4,0
+2022-07-21,Murcia,Hospitalización convencional,3397,314,2148,49,44
+2022-07-21,Murcia,U. Críticas CON respirador,277,15,56,4,1
+2022-07-21,Murcia,U. Críticas SIN respirador,179,4,19,4,0
 2022-07-21,Navarra,Hospitalización convencional,1476,142,989,12,29
 2022-07-21,Navarra,U. Críticas CON respirador,82,4,50,0,1
 2022-07-21,Navarra,U. Críticas SIN respirador,14,0,0,0,0
 2022-07-21,País Vasco,Hospitalización convencional,4261,595,2983,110,113
 2022-07-21,País Vasco,U. Críticas CON respirador,356,42,165,4,5
 2022-07-21,País Vasco,U. Críticas SIN respirador,18,1,15,0,0
+2022-07-22,Andalucía,Hospitalización convencional,15696,655,9538,99,108
+2022-07-22,Andalucía,U. Críticas CON respirador,1309,25,408,4,3
+2022-07-22,Andalucía,U. Críticas SIN respirador,432,8,76,2,0
+2022-07-22,Aragón,Hospitalización convencional,3782,309,2286,27,36
+2022-07-22,Aragón,U. Críticas CON respirador,174,13,90,1,0
+2022-07-22,Aragón,U. Críticas SIN respirador,19,0,8,0,0
+2022-07-22,Asturias,Hospitalización convencional,3147,311,1886,28,51
+2022-07-22,Asturias,U. Críticas CON respirador,237,8,43,1,1
+2022-07-22,Asturias,U. Críticas SIN respirador,44,0,3,0,0
+2022-07-22,Baleares,Hospitalización convencional,3158,172,2175,23,35
+2022-07-22,Baleares,U. Críticas CON respirador,266,14,99,1,1
+2022-07-22,Baleares,U. Críticas SIN respirador,58,6,28,0,1
+2022-07-22,C. Valenciana,Hospitalización convencional,9998,920,6509,120,180
+2022-07-22,C. Valenciana,U. Críticas CON respirador,637,46,305,3,6
+2022-07-22,C. Valenciana,U. Críticas SIN respirador,83,4,35,0,0
+2022-07-22,Canarias,Hospitalización convencional,5108,424,3534,37,40
+2022-07-22,Canarias,U. Críticas CON respirador,415,28,155,3,1
+2022-07-22,Canarias,U. Críticas SIN respirador,67,0,22,0,0
+2022-07-22,Cantabria,Hospitalización convencional,1277,79,932,12,4
+2022-07-22,Cantabria,U. Críticas CON respirador,93,4,36,0,0
+2022-07-22,Cantabria,U. Críticas SIN respirador,22,0,4,0,0
+2022-07-22,Castilla La Mancha,Hospitalización convencional,4469,437,2741,50,85
+2022-07-22,Castilla La Mancha,U. Críticas CON respirador,257,22,82,1,0
+2022-07-22,Castilla La Mancha,U. Críticas SIN respirador,83,3,42,0,2
+2022-07-22,Castilla y León,Hospitalización convencional,6046,798,3998,104,140
+2022-07-22,Castilla y León,U. Críticas CON respirador,362,35,204,7,5
+2022-07-22,Castilla y León,U. Críticas SIN respirador,13,0,0,0,0
+2022-07-22,Cataluña,Hospitalización convencional,22244,1865,17285,159,288
+2022-07-22,Cataluña,U. Críticas CON respirador,893,87,563,11,5
+2022-07-22,Cataluña,U. Críticas SIN respirador,221,23,127,3,4
+2022-07-22,Ceuta,Hospitalización convencional,176,16,79,4,3
+2022-07-22,Ceuta,U. Críticas CON respirador,17,0,7,0,0
+2022-07-22,Ceuta,U. Críticas SIN respirador,0,0,0,0,0
+2022-07-22,Extremadura,Hospitalización convencional,2840,126,1619,12,28
+2022-07-22,Extremadura,U. Críticas CON respirador,165,6,52,0,0
+2022-07-22,Extremadura,U. Críticas SIN respirador,17,0,3,0,0
+2022-07-22,Galicia,Hospitalización convencional,7391,506,4167,37,96
+2022-07-22,Galicia,U. Críticas CON respirador,562,23,191,1,2
+2022-07-22,Galicia,U. Críticas SIN respirador,173,2,17,1,0
+2022-07-22,La Rioja,Hospitalización convencional,650,51,492,3,7
+2022-07-22,La Rioja,U. Críticas CON respirador,43,1,19,0,0
+2022-07-22,La Rioja,U. Críticas SIN respirador,10,0,0,0,0
+2022-07-22,Madrid,Hospitalización convencional,14141,1536,10592,198,272
+2022-07-22,Madrid,U. Críticas CON respirador,827,79,496,5,6
+2022-07-22,Madrid,U. Críticas SIN respirador,114,0,12,0,0
+2022-07-22,Melilla,Hospitalización convencional,165,19,69,1,0
+2022-07-22,Melilla,U. Críticas CON respirador,15,1,3,0,0
+2022-07-22,Melilla,U. Críticas SIN respirador,2,0,0,0,0
+2022-07-22,Murcia,Hospitalización convencional,3397,314,2145,49,44
+2022-07-22,Murcia,U. Críticas CON respirador,277,15,56,4,1
+2022-07-22,Murcia,U. Críticas SIN respirador,179,4,19,4,0
+2022-07-22,Navarra,Hospitalización convencional,1476,142,989,12,29
+2022-07-22,Navarra,U. Críticas CON respirador,82,4,50,0,1
+2022-07-22,Navarra,U. Críticas SIN respirador,14,0,0,0,0
+2022-07-22,País Vasco,Hospitalización convencional,4221,577,2911,93,131
+2022-07-22,País Vasco,U. Críticas CON respirador,356,44,164,7,4
+2022-07-22,País Vasco,U. Críticas SIN respirador,18,1,15,0,0
+2022-07-23,Andalucía,Hospitalización convencional,15611,653,9424,97,106
+2022-07-23,Andalucía,U. Críticas CON respirador,1304,25,399,3,3
+2022-07-23,Andalucía,U. Críticas SIN respirador,430,8,73,2,0
+2022-07-23,Aragón,Hospitalización convencional,3754,305,2278,27,36
+2022-07-23,Aragón,U. Críticas CON respirador,174,13,90,1,0
+2022-07-23,Aragón,U. Críticas SIN respirador,19,0,8,0,0
+2022-07-23,Asturias,Hospitalización convencional,3147,309,1894,26,46
+2022-07-23,Asturias,U. Críticas CON respirador,237,8,43,1,1
+2022-07-23,Asturias,U. Críticas SIN respirador,44,0,3,0,0
+2022-07-23,Baleares,Hospitalización convencional,3132,171,2163,22,35
+2022-07-23,Baleares,U. Críticas CON respirador,264,14,99,1,1
+2022-07-23,Baleares,U. Críticas SIN respirador,56,5,28,0,1
+2022-07-23,C. Valenciana,Hospitalización convencional,9653,862,6291,113,168
+2022-07-23,C. Valenciana,U. Críticas CON respirador,620,45,298,3,6
+2022-07-23,C. Valenciana,U. Críticas SIN respirador,83,4,35,0,0
+2022-07-23,Canarias,Hospitalización convencional,5108,417,3513,30,32
+2022-07-23,Canarias,U. Críticas CON respirador,415,31,157,6,1
+2022-07-23,Canarias,U. Críticas SIN respirador,67,0,22,0,0
+2022-07-23,Cantabria,Hospitalización convencional,1277,79,932,12,4
+2022-07-23,Cantabria,U. Críticas CON respirador,93,4,36,0,0
+2022-07-23,Cantabria,U. Críticas SIN respirador,22,0,4,0,0
+2022-07-23,Castilla La Mancha,Hospitalización convencional,4439,436,2737,50,85
+2022-07-23,Castilla La Mancha,U. Críticas CON respirador,256,22,82,1,0
+2022-07-23,Castilla La Mancha,U. Críticas SIN respirador,80,3,42,0,2
+2022-07-23,Castilla y León,Hospitalización convencional,5377,689,3500,91,124
+2022-07-23,Castilla y León,U. Críticas CON respirador,307,33,163,7,5
+2022-07-23,Castilla y León,U. Críticas SIN respirador,13,0,0,0,0
+2022-07-23,Cataluña,Hospitalización convencional,22224,1853,17264,158,288
+2022-07-23,Cataluña,U. Críticas CON respirador,901,90,568,11,6
+2022-07-23,Cataluña,U. Críticas SIN respirador,223,23,127,3,4
+2022-07-23,Ceuta,Hospitalización convencional,176,16,79,4,3
+2022-07-23,Ceuta,U. Críticas CON respirador,17,0,7,0,0
+2022-07-23,Ceuta,U. Críticas SIN respirador,0,0,0,0,0
+2022-07-23,Extremadura,Hospitalización convencional,2840,131,1620,13,20
+2022-07-23,Extremadura,U. Críticas CON respirador,165,6,53,0,0
+2022-07-23,Extremadura,U. Críticas SIN respirador,17,0,1,0,0
+2022-07-23,Galicia,Hospitalización convencional,6661,435,3800,33,80
+2022-07-23,Galicia,U. Críticas CON respirador,497,20,171,1,2
+2022-07-23,Galicia,U. Críticas SIN respirador,173,2,17,1,0
+2022-07-23,La Rioja,Hospitalización convencional,650,51,492,3,7
+2022-07-23,La Rioja,U. Críticas CON respirador,43,1,19,0,0
+2022-07-23,La Rioja,U. Críticas SIN respirador,10,0,0,0,0
+2022-07-23,Madrid,Hospitalización convencional,14073,1537,10538,192,266
+2022-07-23,Madrid,U. Críticas CON respirador,823,79,490,5,6
+2022-07-23,Madrid,U. Críticas SIN respirador,109,0,12,0,0
+2022-07-23,Melilla,Hospitalización convencional,165,19,69,1,0
+2022-07-23,Melilla,U. Críticas CON respirador,15,1,3,0,0
+2022-07-23,Melilla,U. Críticas SIN respirador,2,0,0,0,0
+2022-07-23,Murcia,Hospitalización convencional,3397,314,2142,49,44
+2022-07-23,Murcia,U. Críticas CON respirador,277,15,56,4,1
+2022-07-23,Murcia,U. Críticas SIN respirador,179,4,19,4,0
+2022-07-23,Navarra,Hospitalización convencional,1476,142,989,12,29
+2022-07-23,Navarra,U. Críticas CON respirador,82,4,50,0,1
+2022-07-23,Navarra,U. Críticas SIN respirador,14,0,0,0,0
+2022-07-23,País Vasco,Hospitalización convencional,4221,576,2904,90,122
+2022-07-23,País Vasco,U. Críticas CON respirador,356,44,161,7,4
+2022-07-23,País Vasco,U. Críticas SIN respirador,18,1,15,0,0
+2022-07-24,Andalucía,Hospitalización convencional,15640,667,9357,203,185
+2022-07-24,Andalucía,U. Críticas CON respirador,1315,29,376,7,3
+2022-07-24,Andalucía,U. Críticas SIN respirador,431,10,55,6,4
+2022-07-24,Aragón,Hospitalización convencional,3766,296,2137,17,11
+2022-07-24,Aragón,U. Críticas CON respirador,175,12,85,1,2
+2022-07-24,Aragón,U. Críticas SIN respirador,19,0,6,0,0
+2022-07-24,Asturias,Hospitalización convencional,3131,294,1907,16,12
+2022-07-24,Asturias,U. Críticas CON respirador,237,9,49,1,0
+2022-07-24,Asturias,U. Críticas SIN respirador,44,0,7,0,0
+2022-07-24,Baleares,Hospitalización convencional,3155,166,2104,14,10
+2022-07-24,Baleares,U. Críticas CON respirador,266,14,97,1,0
+2022-07-24,Baleares,U. Críticas SIN respirador,60,6,25,0,0
+2022-07-24,C. Valenciana,Hospitalización convencional,9958,948,6312,115,63
+2022-07-24,C. Valenciana,U. Críticas CON respirador,633,43,310,1,7
+2022-07-24,C. Valenciana,U. Críticas SIN respirador,87,4,44,0,0
+2022-07-24,Canarias,Hospitalización convencional,5109,430,3490,31,14
+2022-07-24,Canarias,U. Críticas CON respirador,415,27,174,1,1
+2022-07-24,Canarias,U. Críticas SIN respirador,67,0,15,0,0
+2022-07-24,Cantabria,Hospitalización convencional,1277,67,922,8,9
+2022-07-24,Cantabria,U. Críticas CON respirador,93,4,38,0,0
+2022-07-24,Cantabria,U. Críticas SIN respirador,22,0,4,0,0
+2022-07-24,Castilla La Mancha,Hospitalización convencional,4584,487,2803,39,16
+2022-07-24,Castilla La Mancha,U. Críticas CON respirador,263,19,81,0,0
+2022-07-24,Castilla La Mancha,U. Críticas SIN respirador,82,9,39,1,2
+2022-07-24,Castilla y León,Hospitalización convencional,5322,644,3443,61,25
+2022-07-24,Castilla y León,U. Críticas CON respirador,296,36,164,3,1
+2022-07-24,Castilla y León,U. Críticas SIN respirador,9,0,0,0,0
+2022-07-24,Cataluña,Hospitalización convencional,22323,1818,17062,163,167
+2022-07-24,Cataluña,U. Críticas CON respirador,884,91,547,10,9
+2022-07-24,Cataluña,U. Críticas SIN respirador,211,24,114,1,14
+2022-07-24,Ceuta,Hospitalización convencional,178,18,57,2,0
+2022-07-24,Ceuta,U. Críticas CON respirador,17,0,7,0,0
+2022-07-24,Ceuta,U. Críticas SIN respirador,0,0,0,0,0
+2022-07-24,Extremadura,Hospitalización convencional,2840,143,1665,10,0
+2022-07-24,Extremadura,U. Críticas CON respirador,165,6,46,1,0
+2022-07-24,Extremadura,U. Críticas SIN respirador,17,0,0,0,0
+2022-07-24,Galicia,Hospitalización convencional,6556,434,3768,32,79
+2022-07-24,Galicia,U. Críticas CON respirador,489,20,171,1,2
+2022-07-24,Galicia,U. Críticas SIN respirador,166,2,15,1,0
+2022-07-24,La Rioja,Hospitalización convencional,650,46,479,3,2
+2022-07-24,La Rioja,U. Críticas CON respirador,49,1,22,0,0
+2022-07-24,La Rioja,U. Críticas SIN respirador,4,0,0,0,0
+2022-07-24,Madrid,Hospitalización convencional,13270,1477,9793,167,252
+2022-07-24,Madrid,U. Críticas CON respirador,766,76,455,5,6
+2022-07-24,Madrid,U. Críticas SIN respirador,112,0,12,0,0
+2022-07-24,Melilla,Hospitalización convencional,165,18,59,2,0
+2022-07-24,Melilla,U. Críticas CON respirador,15,1,1,0,0
+2022-07-24,Melilla,U. Críticas SIN respirador,2,0,0,0,0
+2022-07-24,Murcia,Hospitalización convencional,3397,325,2046,34,14
+2022-07-24,Murcia,U. Críticas CON respirador,277,12,70,2,1
+2022-07-24,Murcia,U. Críticas SIN respirador,179,4,14,0,0
+2022-07-24,Navarra,Hospitalización convencional,1220,107,850,11,27
+2022-07-24,Navarra,U. Críticas CON respirador,82,4,50,0,1
+2022-07-24,Navarra,U. Críticas SIN respirador,14,0,0,0,0
+2022-07-24,País Vasco,Hospitalización convencional,4106,577,2789,92,119
+2022-07-24,País Vasco,U. Críticas CON respirador,356,44,163,7,4
+2022-07-24,País Vasco,U. Críticas SIN respirador,18,1,15,0,0
+2022-07-25,Andalucía,Hospitalización convencional,15771,650,9755,97,132
+2022-07-25,Andalucía,U. Críticas CON respirador,1324,26,380,5,5
+2022-07-25,Andalucía,U. Críticas SIN respirador,430,6,84,2,5
+2022-07-25,Aragón,Hospitalización convencional,3766,285,2232,30,47
+2022-07-25,Aragón,U. Críticas CON respirador,176,12,93,0,1
+2022-07-25,Aragón,U. Críticas SIN respirador,19,0,12,0,0
+2022-07-25,Asturias,Hospitalización convencional,3134,260,1986,25,57
+2022-07-25,Asturias,U. Críticas CON respirador,237,10,57,2,1
+2022-07-25,Asturias,U. Críticas SIN respirador,44,0,7,0,0
+2022-07-25,Baleares,Hospitalización convencional,3181,158,2142,16,25
+2022-07-25,Baleares,U. Críticas CON respirador,268,15,98,2,0
+2022-07-25,Baleares,U. Críticas SIN respirador,62,5,29,0,0
+2022-07-25,C. Valenciana,Hospitalización convencional,10113,910,6793,117,169
+2022-07-25,C. Valenciana,U. Críticas CON respirador,646,45,320,5,1
+2022-07-25,C. Valenciana,U. Críticas SIN respirador,89,4,42,0,0
+2022-07-25,Canarias,Hospitalización convencional,5108,414,3538,31,57
+2022-07-25,Canarias,U. Críticas CON respirador,415,28,186,4,2
+2022-07-25,Canarias,U. Críticas SIN respirador,67,1,29,1,0
+2022-07-25,Cantabria,Hospitalización convencional,1277,64,867,6,3
+2022-07-25,Cantabria,U. Críticas CON respirador,93,5,42,0,0
+2022-07-25,Cantabria,U. Críticas SIN respirador,22,0,2,0,0
+2022-07-25,Castilla La Mancha,Hospitalización convencional,4616,452,2958,43,75
+2022-07-25,Castilla La Mancha,U. Críticas CON respirador,263,21,83,0,0
+2022-07-25,Castilla La Mancha,U. Críticas SIN respirador,86,7,41,0,2
+2022-07-25,Castilla y León,Hospitalización convencional,6101,704,4086,65,108
+2022-07-25,Castilla y León,U. Críticas CON respirador,368,37,199,2,3
+2022-07-25,Castilla y León,U. Críticas SIN respirador,23,0,2,0,0
+2022-07-25,Cataluña,Hospitalización convencional,22912,1750,17763,163,281
+2022-07-25,Cataluña,U. Críticas CON respirador,899,82,555,3,9
+2022-07-25,Cataluña,U. Críticas SIN respirador,224,20,137,2,7
+2022-07-25,Ceuta,Hospitalización convencional,180,16,58,2,2
+2022-07-25,Ceuta,U. Críticas CON respirador,17,0,7,0,0
+2022-07-25,Ceuta,U. Críticas SIN respirador,0,0,0,0,0
+2022-07-25,Extremadura,Hospitalización convencional,2840,130,1687,15,27
+2022-07-25,Extremadura,U. Críticas CON respirador,165,5,48,0,1
+2022-07-25,Extremadura,U. Críticas SIN respirador,17,0,0,0,0
+2022-07-25,Galicia,Hospitalización convencional,7488,494,4867,53,30
+2022-07-25,Galicia,U. Críticas CON respirador,569,24,177,2,0
+2022-07-25,Galicia,U. Críticas SIN respirador,176,1,16,0,1
+2022-07-25,La Rioja,Hospitalización convencional,650,43,490,4,3
+2022-07-25,La Rioja,U. Críticas CON respirador,49,1,22,0,0
+2022-07-25,La Rioja,U. Críticas SIN respirador,4,0,0,0,0
+2022-07-25,Madrid,Hospitalización convencional,14069,1513,10024,194,175
+2022-07-25,Madrid,U. Críticas CON respirador,834,76,445,8,3
+2022-07-25,Madrid,U. Críticas SIN respirador,117,0,16,0,0
+2022-07-25,Melilla,Hospitalización convencional,165,18,73,1,1
+2022-07-25,Melilla,U. Críticas CON respirador,15,1,2,0,0
+2022-07-25,Melilla,U. Críticas SIN respirador,2,0,0,0,0
+2022-07-25,Murcia,Hospitalización convencional,3611,309,2278,40,68
+2022-07-25,Murcia,U. Críticas CON respirador,280,14,71,2,0
+2022-07-25,Murcia,U. Críticas SIN respirador,183,5,14,3,2
+2022-07-25,Navarra,Hospitalización convencional,1480,141,904,25,17
+2022-07-25,Navarra,U. Críticas CON respirador,82,7,45,0,1
+2022-07-25,Navarra,U. Críticas SIN respirador,14,0,0,0,0
+2022-07-25,País Vasco,Hospitalización convencional,4117,585,2923,56,36
+2022-07-25,País Vasco,U. Críticas CON respirador,358,41,145,2,1
+2022-07-25,País Vasco,U. Críticas SIN respirador,18,0,8,0,0
