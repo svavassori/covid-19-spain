@@ -26,6 +26,7 @@ URLS=(
       "https://cnecovid.isciii.es/covid19/resources/casos_hosp_uci_def_sexo_edad_provres.csv"
       "https://cnecovid.isciii.es/covid19/resources/metadata_tecnica_ccaa_prov_res.pdf"
       "https://cnecovid.isciii.es/covid19/resources/metadata_diag_ccaa_decl_prov_edad_sexo.pdf"
+      "https://cnecovid.isciii.es/covid19/resources/hosp_uci_def_sexo_edad_provres_todas_edades.csv"
       "${BASE_URL}/documentos/${FILE_CAP_ASISTENCIAL}"
       "${BASE_URL}/documentos/${FILE_TEST_DATE}"
 )
