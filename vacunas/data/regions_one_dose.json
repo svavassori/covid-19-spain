@@ -47270,5 +47270,157 @@
     "name": "Melilla",
     "supplier": "Unknown",
     "one_dose": 66565
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-AN",
+    "nuts2": "ES61",
+    "name": "Andalucía",
+    "supplier": "Unknown",
+    "one_dose": 7487363
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-AR",
+    "nuts2": "ES24",
+    "name": "Aragón",
+    "supplier": "Unknown",
+    "one_dose": 1151867
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-AS",
+    "nuts2": "ES12",
+    "name": "Asturias",
+    "supplier": "Unknown",
+    "one_dose": 929530
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-IB",
+    "nuts2": "ES53",
+    "name": "Islas Baleares",
+    "supplier": "Unknown",
+    "one_dose": 929144
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-CN",
+    "nuts2": "ES70",
+    "name": "Canarias",
+    "supplier": "Unknown",
+    "one_dose": 1823677
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-CB",
+    "nuts2": "ES13",
+    "name": "Cantabria",
+    "supplier": "Unknown",
+    "one_dose": 520119
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-CL",
+    "nuts2": "ES41",
+    "name": "Castilla y León",
+    "supplier": "Unknown",
+    "one_dose": 2152163
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-CM",
+    "nuts2": "ES42",
+    "name": "Castilla-La Mancha",
+    "supplier": "Unknown",
+    "one_dose": 1767487
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-CT",
+    "nuts2": "ES51",
+    "name": "Cataluña",
+    "supplier": "Unknown",
+    "one_dose": 6500617
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-VC",
+    "nuts2": "ES52",
+    "name": "Comunidad Valenciana",
+    "supplier": "Unknown",
+    "one_dose": 4453328
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-EX",
+    "nuts2": "ES43",
+    "name": "Extremadura",
+    "supplier": "Unknown",
+    "one_dose": 970215
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-GA",
+    "nuts2": "ES11",
+    "name": "Galicia",
+    "supplier": "Unknown",
+    "one_dose": 2481486
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-RI",
+    "nuts2": "ES23",
+    "name": "La Rioja",
+    "supplier": "Unknown",
+    "one_dose": 284751
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-MD",
+    "nuts2": "ES30",
+    "name": "Madrid",
+    "supplier": "Unknown",
+    "one_dose": 5776611
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-MC",
+    "nuts2": "ES62",
+    "name": "Murcia",
+    "supplier": "Unknown",
+    "one_dose": 1301349
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-NC",
+    "nuts2": "ES22",
+    "name": "Navarra",
+    "supplier": "Unknown",
+    "one_dose": 568777
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-PV",
+    "nuts2": "ES21",
+    "name": "País Vasco",
+    "supplier": "Unknown",
+    "one_dose": 1949635
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-CE",
+    "nuts2": "ES63",
+    "name": "Ceuta",
+    "supplier": "Unknown",
+    "one_dose": 68479
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES-ML",
+    "nuts2": "ES64",
+    "name": "Melilla",
+    "supplier": "Unknown",
+    "one_dose": 66579
   }
 ]

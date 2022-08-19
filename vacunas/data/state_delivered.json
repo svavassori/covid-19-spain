@@ -9710,5 +9710,45 @@
     "name": "España",
     "supplier": "Pfizer/BioNTech-child",
     "delivered": 5027840
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES",
+    "nuts1": "ES",
+    "name": "España",
+    "supplier": "AstraZeneca/Oxford",
+    "delivered": 8865150
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES",
+    "nuts1": "ES",
+    "name": "España",
+    "supplier": "Janssen",
+    "delivered": 2021850
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES",
+    "nuts1": "ES",
+    "name": "España",
+    "supplier": "Moderna",
+    "delivered": 17106580
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES",
+    "nuts1": "ES",
+    "name": "España",
+    "supplier": "Pfizer/BioNTech",
+    "delivered": 63821301
+  },
+  {
+    "date": "2022-08-18",
+    "iso_code": "ES",
+    "nuts1": "ES",
+    "name": "España",
+    "supplier": "Pfizer/BioNTech-child",
+    "delivered": 5027660
   }
 ]
