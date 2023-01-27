@@ -24965,3 +24965,98 @@ date,iso_code,nuts2,name,supplier,delivered
 2023-01-19,ES-ML,ES64,Melilla,Moderna,21500
 2023-01-19,ES-ML,ES64,Melilla,AstraZeneca/Oxford,12660
 2023-01-19,ES-ML,ES64,Melilla,Janssen,3830
+2023-01-26,ES-AN,ES61,Andalucía,Pfizer/BioNTech,11421630
+2023-01-26,ES-AN,ES61,Andalucía,Pfizer/BioNTech-child,966000
+2023-01-26,ES-AN,ES61,Andalucía,Moderna,2716140
+2023-01-26,ES-AN,ES61,Andalucía,AstraZeneca/Oxford,1537200
+2023-01-26,ES-AN,ES61,Andalucía,Janssen,333500
+2023-01-26,ES-AR,ES24,Aragón,Pfizer/BioNTech,1860819
+2023-01-26,ES-AR,ES24,Aragón,Pfizer/BioNTech-child,148930
+2023-01-26,ES-AR,ES24,Aragón,Moderna,423230
+2023-01-26,ES-AR,ES24,Aragón,AstraZeneca/Oxford,252500
+2023-01-26,ES-AR,ES24,Aragón,Janssen,58035
+2023-01-26,ES-AS,ES12,Asturias,Pfizer/BioNTech,1569227
+2023-01-26,ES-AS,ES12,Asturias,Pfizer/BioNTech-child,114000
+2023-01-26,ES-AS,ES12,Asturias,Moderna,507370
+2023-01-26,ES-AS,ES12,Asturias,AstraZeneca/Oxford,219760
+2023-01-26,ES-AS,ES12,Asturias,Janssen,42940
+2023-01-26,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech,1284972
+2023-01-26,ES-IB,ES53,Islas Baleares,Pfizer/BioNTech-child,125540
+2023-01-26,ES-IB,ES53,Islas Baleares,Moderna,433690
+2023-01-26,ES-IB,ES53,Islas Baleares,AstraZeneca/Oxford,225400
+2023-01-26,ES-IB,ES53,Islas Baleares,Janssen,50040
+2023-01-26,ES-CN,ES70,Canarias,Pfizer/BioNTech,2834748
+2023-01-26,ES-CN,ES70,Canarias,Pfizer/BioNTech-child,230540
+2023-01-26,ES-CN,ES70,Canarias,Moderna,796470
+2023-01-26,ES-CN,ES70,Canarias,AstraZeneca/Oxford,455710
+2023-01-26,ES-CN,ES70,Canarias,Janssen,132660
+2023-01-26,ES-CB,ES13,Cantabria,Pfizer/BioNTech,919185
+2023-01-26,ES-CB,ES13,Cantabria,Pfizer/BioNTech-child,60000
+2023-01-26,ES-CB,ES13,Cantabria,Moderna,175400
+2023-01-26,ES-CB,ES13,Cantabria,AstraZeneca/Oxford,120490
+2023-01-26,ES-CB,ES13,Cantabria,Janssen,22145
+2023-01-26,ES-CL,ES41,Castilla y León,Pfizer/BioNTech,4084695
+2023-01-26,ES-CL,ES41,Castilla y León,Pfizer/BioNTech-child,280480
+2023-01-26,ES-CL,ES41,Castilla y León,Moderna,691850
+2023-01-26,ES-CL,ES41,Castilla y León,AstraZeneca/Oxford,472170
+2023-01-26,ES-CL,ES41,Castilla y León,Janssen,94635
+2023-01-26,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech,2762769
+2023-01-26,ES-CM,ES42,Castilla-La Mancha,Pfizer/BioNTech-child,258000
+2023-01-26,ES-CM,ES42,Castilla-La Mancha,Moderna,712830
+2023-01-26,ES-CM,ES42,Castilla-La Mancha,AstraZeneca/Oxford,381270
+2023-01-26,ES-CM,ES42,Castilla-La Mancha,Janssen,93045
+2023-01-26,ES-CT,ES51,Cataluña,Pfizer/BioNTech,8911334
+2023-01-26,ES-CT,ES51,Cataluña,Pfizer/BioNTech-child,507070
+2023-01-26,ES-CT,ES51,Cataluña,Moderna,3139230
+2023-01-26,ES-CT,ES51,Cataluña,AstraZeneca/Oxford,1484370
+2023-01-26,ES-CT,ES51,Cataluña,Janssen,352320
+2023-01-26,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech,6708172
+2023-01-26,ES-VC,ES52,Comunidad Valenciana,Pfizer/BioNTech-child,543670
+2023-01-26,ES-VC,ES52,Comunidad Valenciana,Moderna,2120240
+2023-01-26,ES-VC,ES52,Comunidad Valenciana,AstraZeneca/Oxford,857060
+2023-01-26,ES-VC,ES52,Comunidad Valenciana,Janssen,208530
+2023-01-26,ES-EX,ES43,Extremadura,Pfizer/BioNTech,1639481
+2023-01-26,ES-EX,ES43,Extremadura,Pfizer/BioNTech-child,155680
+2023-01-26,ES-EX,ES43,Extremadura,Moderna,303980
+2023-01-26,ES-EX,ES43,Extremadura,AstraZeneca/Oxford,182380
+2023-01-26,ES-EX,ES43,Extremadura,Janssen,37450
+2023-01-26,ES-GA,ES11,Galicia,Pfizer/BioNTech,4138999
+2023-01-26,ES-GA,ES11,Galicia,Pfizer/BioNTech-child,253800
+2023-01-26,ES-GA,ES11,Galicia,Moderna,969980
+2023-01-26,ES-GA,ES11,Galicia,AstraZeneca/Oxford,571870
+2023-01-26,ES-GA,ES11,Galicia,Janssen,122525
+2023-01-26,ES-RI,ES23,La Rioja,Pfizer/BioNTech,463727
+2023-01-26,ES-RI,ES23,La Rioja,Pfizer/BioNTech-child,47140
+2023-01-26,ES-RI,ES23,La Rioja,Moderna,108710
+2023-01-26,ES-RI,ES23,La Rioja,AstraZeneca/Oxford,53270
+2023-01-26,ES-RI,ES23,La Rioja,Janssen,15200
+2023-01-26,ES-MD,ES30,Madrid,Pfizer/BioNTech,9317025
+2023-01-26,ES-MD,ES30,Madrid,Pfizer/BioNTech-child,756000
+2023-01-26,ES-MD,ES30,Madrid,Moderna,2168580
+2023-01-26,ES-MD,ES30,Madrid,AstraZeneca/Oxford,1182300
+2023-01-26,ES-MD,ES30,Madrid,Janssen,253150
+2023-01-26,ES-MC,ES62,Murcia,Pfizer/BioNTech,1784465
+2023-01-26,ES-MC,ES62,Murcia,Pfizer/BioNTech-child,204000
+2023-01-26,ES-MC,ES62,Murcia,Moderna,625500
+2023-01-26,ES-MC,ES62,Murcia,AstraZeneca/Oxford,253010
+2023-01-26,ES-MC,ES62,Murcia,Janssen,68300
+2023-01-26,ES-NC,ES22,Navarra,Pfizer/BioNTech,895749
+2023-01-26,ES-NC,ES22,Navarra,Pfizer/BioNTech-child,77800
+2023-01-26,ES-NC,ES22,Navarra,Moderna,273760
+2023-01-26,ES-NC,ES22,Navarra,AstraZeneca/Oxford,135150
+2023-01-26,ES-NC,ES22,Navarra,Janssen,23710
+2023-01-26,ES-PV,ES21,País Vasco,Pfizer/BioNTech,2976528
+2023-01-26,ES-PV,ES21,País Vasco,Pfizer/BioNTech-child,180000
+2023-01-26,ES-PV,ES21,País Vasco,Moderna,817900
+2023-01-26,ES-PV,ES21,País Vasco,AstraZeneca/Oxford,444200
+2023-01-26,ES-PV,ES21,País Vasco,Janssen,101305
+2023-01-26,ES-CE,ES63,Ceuta,Pfizer/BioNTech,116496
+2023-01-26,ES-CE,ES63,Ceuta,Pfizer/BioNTech-child,12000
+2023-01-26,ES-CE,ES63,Ceuta,Moderna,24620
+2023-01-26,ES-CE,ES63,Ceuta,AstraZeneca/Oxford,17540
+2023-01-26,ES-CE,ES63,Ceuta,Janssen,3935
+2023-01-26,ES-ML,ES64,Melilla,Pfizer/BioNTech,108450
+2023-01-26,ES-ML,ES64,Melilla,Pfizer/BioNTech-child,12000
+2023-01-26,ES-ML,ES64,Melilla,Moderna,21500
+2023-01-26,ES-ML,ES64,Melilla,AstraZeneca/Oxford,12660
+2023-01-26,ES-ML,ES64,Melilla,Janssen,3830
