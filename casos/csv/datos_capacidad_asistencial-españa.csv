@@ -55154,8 +55154,8 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-03-27,Castilla y León,Hospitalización convencional,6407,133,4710,9,17
 2023-03-27,Castilla y León,U. Críticas CON respirador,376,7,231,0,1
 2023-03-27,Castilla y León,U. Críticas SIN respirador,23,0,5,0,1
-2023-03-27,Cataluña,Hospitalización convencional,24203,339,21138,51,42
-2023-03-27,Cataluña,U. Críticas CON respirador,952,17,680,5,1
+2023-03-27,Cataluña,Hospitalización convencional,24199,340,21130,50,41
+2023-03-27,Cataluña,U. Críticas CON respirador,952,16,683,4,1
 2023-03-27,Cataluña,U. Críticas SIN respirador,215,3,147,0,0
 2023-03-27,Ceuta,Hospitalización convencional,181,1,82,1,0
 2023-03-27,Ceuta,U. Críticas CON respirador,17,0,4,0,0
@@ -55211,8 +55211,8 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-03-28,Castilla y León,Hospitalización convencional,6403,123,4760,12,21
 2023-03-28,Castilla y León,U. Críticas CON respirador,376,9,216,2,0
 2023-03-28,Castilla y León,U. Críticas SIN respirador,23,0,4,0,1
-2023-03-28,Cataluña,Hospitalización convencional,24192,329,21101,46,55
-2023-03-28,Cataluña,U. Críticas CON respirador,955,17,689,5,1
+2023-03-28,Cataluña,Hospitalización convencional,24192,330,21096,46,55
+2023-03-28,Cataluña,U. Críticas CON respirador,955,16,692,5,2
 2023-03-28,Cataluña,U. Críticas SIN respirador,211,4,150,1,0
 2023-03-28,Ceuta,Hospitalización convencional,182,2,91,1,0
 2023-03-28,Ceuta,U. Críticas CON respirador,17,0,4,0,0
@@ -55247,13 +55247,13 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-03-29,Aragón,Hospitalización convencional,3952,55,2791,6,4
 2023-03-29,Aragón,U. Críticas CON respirador,184,2,112,0,0
 2023-03-29,Aragón,U. Críticas SIN respirador,18,0,9,0,0
-2023-03-29,Asturias,Hospitalización convencional,3215,73,2399,4,8
-2023-03-29,Asturias,U. Críticas CON respirador,238,3,69,0,0
+2023-03-29,Asturias,Hospitalización convencional,3215,73,2392,4,8
+2023-03-29,Asturias,U. Críticas CON respirador,238,3,68,0,0
 2023-03-29,Asturias,U. Críticas SIN respirador,44,0,5,0,0
 2023-03-29,Baleares,Hospitalización convencional,3204,30,2415,4,6
 2023-03-29,Baleares,U. Críticas CON respirador,270,10,116,0,0
 2023-03-29,Baleares,U. Críticas SIN respirador,62,0,30,0,0
-2023-03-29,C. Valenciana,Hospitalización convencional,10411,198,8002,31,17
+2023-03-29,C. Valenciana,Hospitalización convencional,10411,198,8000,31,17
 2023-03-29,C. Valenciana,U. Críticas CON respirador,666,5,409,1,1
 2023-03-29,C. Valenciana,U. Críticas SIN respirador,94,3,51,1,0
 2023-03-29,Canarias,Hospitalización convencional,5052,130,4088,10,7
@@ -55268,8 +55268,8 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-03-29,Castilla y León,Hospitalización convencional,6406,121,4730,17,21
 2023-03-29,Castilla y León,U. Críticas CON respirador,376,6,229,0,2
 2023-03-29,Castilla y León,U. Críticas SIN respirador,18,2,4,0,1
-2023-03-29,Cataluña,Hospitalización convencional,24196,319,21290,44,47
-2023-03-29,Cataluña,U. Críticas CON respirador,950,18,693,2,3
+2023-03-29,Cataluña,Hospitalización convencional,24197,319,21272,47,48
+2023-03-29,Cataluña,U. Críticas CON respirador,950,16,695,1,4
 2023-03-29,Cataluña,U. Críticas SIN respirador,216,4,165,0,0
 2023-03-29,Ceuta,Hospitalización convencional,182,1,91,0,1
 2023-03-29,Ceuta,U. Críticas CON respirador,17,0,5,0,0
@@ -55283,7 +55283,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-03-29,La Rioja,Hospitalización convencional,660,11,564,1,2
 2023-03-29,La Rioja,U. Críticas CON respirador,49,0,26,0,0
 2023-03-29,La Rioja,U. Críticas SIN respirador,4,0,0,0,0
-2023-03-29,Madrid,Hospitalización convencional,16125,363,13667,45,46
+2023-03-29,Madrid,Hospitalización convencional,16125,547,13483,45,46
 2023-03-29,Madrid,U. Críticas CON respirador,972,13,645,1,0
 2023-03-29,Madrid,U. Críticas SIN respirador,113,0,27,0,0
 2023-03-29,Melilla,Hospitalización convencional,154,1,81,0,0
@@ -55295,8 +55295,65 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-03-29,Navarra,Hospitalización convencional,1588,39,1216,1,6
 2023-03-29,Navarra,U. Críticas CON respirador,82,1,56,0,0
 2023-03-29,Navarra,U. Críticas SIN respirador,12,0,4,0,0
-2023-03-29,País Vasco,Hospitalización convencional,4760,61,3856,11,14
+2023-03-29,País Vasco,Hospitalización convencional,4760,61,3861,11,14
 2023-03-29,País Vasco,U. Críticas CON respirador,352,3,201,0,1
 2023-03-29,País Vasco,U. Críticas SIN respirador,18,0,14,0,0
+2023-03-30,Andalucía,Hospitalización convencional,15822,193,11353,19,29
+2023-03-30,Andalucía,U. Críticas CON respirador,1304,11,523,2,3
+2023-03-30,Andalucía,U. Críticas SIN respirador,440,3,87,2,0
+2023-03-30,Aragón,Hospitalización convencional,3951,60,2721,9,7
+2023-03-30,Aragón,U. Críticas CON respirador,184,2,111,0,0
+2023-03-30,Aragón,U. Críticas SIN respirador,18,0,5,0,0
+2023-03-30,Asturias,Hospitalización convencional,3215,76,2359,5,6
+2023-03-30,Asturias,U. Críticas CON respirador,238,3,65,0,0
+2023-03-30,Asturias,U. Críticas SIN respirador,44,0,6,0,0
+2023-03-30,Baleares,Hospitalización convencional,3188,32,2334,4,4
+2023-03-30,Baleares,U. Críticas CON respirador,270,7,117,0,2
+2023-03-30,Baleares,U. Críticas SIN respirador,62,0,29,0,0
+2023-03-30,C. Valenciana,Hospitalización convencional,10401,184,7770,22,32
+2023-03-30,C. Valenciana,U. Críticas CON respirador,661,6,388,0,0
+2023-03-30,C. Valenciana,U. Críticas SIN respirador,94,1,43,0,0
+2023-03-30,Canarias,Hospitalización convencional,5051,134,4080,12,5
+2023-03-30,Canarias,U. Críticas CON respirador,408,6,215,1,0
+2023-03-30,Canarias,U. Críticas SIN respirador,69,0,23,0,0
+2023-03-30,Cantabria,Hospitalización convencional,1378,27,1019,2,1
+2023-03-30,Cantabria,U. Críticas CON respirador,80,0,43,0,0
+2023-03-30,Cantabria,U. Críticas SIN respirador,22,0,4,0,0
+2023-03-30,Castilla La Mancha,Hospitalización convencional,4718,114,3269,16,15
+2023-03-30,Castilla La Mancha,U. Críticas CON respirador,255,4,94,0,0
+2023-03-30,Castilla La Mancha,U. Críticas SIN respirador,85,2,41,0,0
+2023-03-30,Castilla y León,Hospitalización convencional,6412,123,4623,16,18
+2023-03-30,Castilla y León,U. Críticas CON respirador,376,5,234,0,1
+2023-03-30,Castilla y León,U. Críticas SIN respirador,23,2,4,0,1
+2023-03-30,Cataluña,Hospitalización convencional,24214,315,21191,39,53
+2023-03-30,Cataluña,U. Críticas CON respirador,949,14,693,1,4
+2023-03-30,Cataluña,U. Críticas SIN respirador,217,3,160,0,1
+2023-03-30,Ceuta,Hospitalización convencional,183,1,84,0,0
+2023-03-30,Ceuta,U. Críticas CON respirador,17,0,5,0,0
+2023-03-30,Ceuta,U. Críticas SIN respirador,0,0,0,0,0
+2023-03-30,Extremadura,Hospitalización convencional,2849,16,1928,1,1
+2023-03-30,Extremadura,U. Críticas CON respirador,154,0,77,0,0
+2023-03-30,Extremadura,U. Críticas SIN respirador,17,0,0,0,0
+2023-03-30,Galicia,Hospitalización convencional,7678,127,5679,10,22
+2023-03-30,Galicia,U. Críticas CON respirador,567,4,207,0,0
+2023-03-30,Galicia,U. Críticas SIN respirador,165,0,20,0,0
+2023-03-30,La Rioja,Hospitalización convencional,660,9,555,0,2
+2023-03-30,La Rioja,U. Críticas CON respirador,49,0,30,0,0
+2023-03-30,La Rioja,U. Críticas SIN respirador,4,0,2,0,0
+2023-03-30,Madrid,Hospitalización convencional,16040,355,13358,41,49
+2023-03-30,Madrid,U. Críticas CON respirador,968,13,632,1,0
+2023-03-30,Madrid,U. Críticas SIN respirador,113,0,24,0,0
+2023-03-30,Melilla,Hospitalización convencional,154,1,75,0,0
+2023-03-30,Melilla,U. Críticas CON respirador,9,0,2,0,0
+2023-03-30,Melilla,U. Críticas SIN respirador,2,0,0,0,0
+2023-03-30,Murcia,Hospitalización convencional,3633,31,2721,7,8
+2023-03-30,Murcia,U. Críticas CON respirador,272,2,71,0,0
+2023-03-30,Murcia,U. Críticas SIN respirador,175,0,23,0,0
+2023-03-30,Navarra,Hospitalización convencional,1581,37,1182,2,5
+2023-03-30,Navarra,U. Críticas CON respirador,82,1,58,0,0
+2023-03-30,Navarra,U. Críticas SIN respirador,12,0,5,0,0
+2023-03-30,País Vasco,Hospitalización convencional,4688,64,3832,9,9
+2023-03-30,País Vasco,U. Críticas CON respirador,343,4,208,0,0
+2023-03-30,País Vasco,U. Críticas SIN respirador,18,0,14,0,0
 Fuente: Notificación de los hospitales al Ministerio de Sanidad,,,,,,,
 "Nota:  El criterio de cómputo incluye a pacientes que presentan clínica Covid que debe ser tratada en régimen de hospitalización, bien con infección confirmada bien pendiente de confirmar.",,,,,,,
