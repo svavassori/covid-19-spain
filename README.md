@@ -4,7 +4,7 @@ This repository contains COVID-19 cases, vaccine distribution and administration
 
 ## Data Sources
 
-* [Ministerio de Sanidad](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/situacionActual.htm)
+* [Ministerio de Sanidad](https://www.sanidad.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/situacionActual.htm)
 * [Instituto de Salud Carlos III](https://cnecovid.isciii.es/covid19/)
 
 ## Data Format

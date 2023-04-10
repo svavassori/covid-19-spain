@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # download updated files
-BASE_URL="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov"
+BASE_URL="https://www.sanidad.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov"
 
 LINKS_PDFS=$(wget --no-verbose --output-document=- "${BASE_URL}/situacionActual.htm" | grep --only-matching "documentos/[a-zA-Z0-9_-]\+\.pdf" | uniq)
 EVALUACION_RIESGO=$(wget --no-verbose --output-document=- "${BASE_URL}/variantes.htm" | grep --only-matching "documentos/[a-zA-Z0-9_-]\+\.pdf" | head -n 1)

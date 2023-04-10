@@ -3,7 +3,7 @@
 FILE_PDF="Informe_GIV_comunicacion_$(date +%+4Y%m%d).pdf"
 FILE_ODS="Informe_Comunicacion_$(date +%+4Y%m%d).ods"
 OPTS="--no-verbose --timestamping --directory-prefix=informes"
-URL="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/"
+URL="https://www.sanidad.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/"
 wget ${OPTS} "${URL}${FILE_PDF}"
 wget ${OPTS} "${URL}${FILE_ODS}"
 
