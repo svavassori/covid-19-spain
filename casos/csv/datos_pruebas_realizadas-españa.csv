@@ -17445,7 +17445,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-06-23,Galicia,1010,2262,527,1162
 2022-06-23,La Rioja,173,400,7,23
 2022-06-23,Madrid,4773,8797,1036,3230
-2022-06-23,Melilla,20,85,4,21
+2022-06-23,Melilla,20,85,4,22
 2022-06-23,Murcia,349,843,72,548
 2022-06-23,Navarra,286,575,53,239
 2022-06-23,País Vasco,680,1147,250,1370
@@ -19082,7 +19082,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2022-09-09,Extremadura,73,348,7,26
 2022-09-09,Galicia,85,637,51,274
 2022-09-09,La Rioja,10,178,0,37
-2022-09-09,Madrid,286,2091,83,1752
+2022-09-09,Madrid,286,2091,83,1753
 2022-09-09,Melilla,1,45,1,16
 2022-09-09,Murcia,83,380,31,438
 2022-09-09,Navarra,18,129,8,252
@@ -23034,7 +23034,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-03-16,Murcia,5,122,2,168
 2023-03-16,Navarra,21,134,8,73
 2023-03-16,País Vasco,32,111,20,317
-2023-03-17,Andalucía,86,511,78,641
+2023-03-17,Andalucía,86,512,78,641
 2023-03-17,Aragón,21,118,27,150
 2023-03-17,Asturias,31,289,31,248
 2023-03-17,Baleares,12,127,27,174
@@ -23046,7 +23046,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-03-17,Cataluña,64,505,44,858
 2023-03-17,Ceuta,0,16,1,4
 2023-03-17,Comunitat Valenciana,25,351,75,649
-2023-03-17,DESLOCALIZADOS,26,145,17,176
+2023-03-17,DESLOCALIZADOS,26,146,17,176
 2023-03-17,Extremadura,16,124,3,88
 2023-03-17,Galicia,61,412,72,388
 2023-03-17,La Rioja,6,44,0,2
@@ -23080,7 +23080,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-03-19,Aragón,7,70,8,55
 2023-03-19,Asturias,12,88,16,156
 2023-03-19,Baleares,11,59,6,75
-2023-03-19,Canarias,10,193,7,142
+2023-03-19,Canarias,10,193,7,143
 2023-03-19,Cantabria,5,17,4,95
 2023-03-19,Castilla y Castilla y León,2,15,5,167
 2023-03-19,Castilla y León,26,156,25,313
@@ -23097,7 +23097,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-03-19,Murcia,6,47,9,119
 2023-03-19,Navarra,6,26,5,32
 2023-03-19,País Vasco,5,44,14,195
-2023-03-20,Andalucía,118,1128,90,837
+2023-03-20,Andalucía,118,1131,90,837
 2023-03-20,Aragón,23,133,25,146
 2023-03-20,Asturias,41,315,39,212
 2023-03-20,Baleares,18,135,23,162
@@ -23109,13 +23109,13 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-03-20,Cataluña,129,644,84,1112
 2023-03-20,Ceuta,0,31,1,4
 2023-03-20,Comunitat Valenciana,35,470,78,870
-2023-03-20,DESLOCALIZADOS,27,151,28,206
+2023-03-20,DESLOCALIZADOS,27,152,28,206
 2023-03-20,Extremadura,17,198,7,73
 2023-03-20,Galicia,71,454,56,448
 2023-03-20,La Rioja,6,43,1,3
 2023-03-20,Madrid,54,672,40,528
 2023-03-20,Melilla,1,14,0,19
-2023-03-20,Murcia,13,147,11,203
+2023-03-20,Murcia,14,148,11,203
 2023-03-20,Navarra,34,182,9,75
 2023-03-20,País Vasco,20,98,23,316
 2023-03-21,Andalucía,98,977,73,723
@@ -23130,7 +23130,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-03-21,Cataluña,123,526,84,1149
 2023-03-21,Ceuta,0,20,0,5
 2023-03-21,Comunitat Valenciana,38,339,89,753
-2023-03-21,DESLOCALIZADOS,21,126,19,166
+2023-03-21,DESLOCALIZADOS,21,126,20,167
 2023-03-21,Extremadura,40,214,7,86
 2023-03-21,Galicia,77,408,62,460
 2023-03-21,La Rioja,4,37,1,10
@@ -23139,7 +23139,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-03-21,Murcia,11,109,9,159
 2023-03-21,Navarra,21,115,8,65
 2023-03-21,País Vasco,28,117,27,326
-2023-03-22,Andalucía,102,954,76,669
+2023-03-22,Andalucía,102,956,76,670
 2023-03-22,Aragón,17,106,16,101
 2023-03-22,Asturias,33,225,17,204
 2023-03-22,Baleares,25,122,8,116
@@ -23178,7 +23178,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-03-23,La Rioja,9,41,1,4
 2023-03-23,Madrid,224,1499,70,769
 2023-03-23,Melilla,0,15,1,24
-2023-03-23,Murcia,11,99,9,129
+2023-03-23,Murcia,13,101,9,129
 2023-03-23,Navarra,32,135,8,64
 2023-03-23,País Vasco,22,95,29,340
 2023-03-24,Andalucía,80,509,65,572
@@ -23244,7 +23244,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-03-26,Murcia,6,31,7,115
 2023-03-26,Navarra,2,22,4,31
 2023-03-26,País Vasco,9,36,10,165
-2023-03-27,Andalucía,150,1188,89,658
+2023-03-27,Andalucía,150,1189,89,658
 2023-03-27,Aragón,22,122,29,136
 2023-03-27,Asturias,38,225,31,259
 2023-03-27,Baleares,24,138,18,174
@@ -23256,7 +23256,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-03-27,Cataluña,122,601,135,1126
 2023-03-27,Ceuta,1,18,0,3
 2023-03-27,Comunitat Valenciana,36,381,115,954
-2023-03-27,DESLOCALIZADOS,26,135,26,188
+2023-03-27,DESLOCALIZADOS,26,135,27,189
 2023-03-27,Extremadura,12,274,10,72
 2023-03-27,Galicia,73,396,62,401
 2023-03-27,La Rioja,6,52,1,3
@@ -23319,7 +23319,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-03-30,Cataluña,73,454,80,840
 2023-03-30,Ceuta,0,18,2,5
 2023-03-30,Comunitat Valenciana,47,338,103,778
-2023-03-30,DESLOCALIZADOS,18,112,22,154
+2023-03-30,DESLOCALIZADOS,18,112,23,155
 2023-03-30,Extremadura,18,116,6,77
 2023-03-30,Galicia,54,365,37,344
 2023-03-30,La Rioja,3,33,1,5
@@ -23332,12 +23332,12 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-03-31,Aragón,30,98,20,126
 2023-03-31,Asturias,31,174,25,197
 2023-03-31,Baleares,31,130,25,167
-2023-03-31,Canarias,94,476,43,287
+2023-03-31,Canarias,94,477,43,287
 2023-03-31,Cantabria,5,39,5,71
 2023-03-31,Castilla y Castilla y León,14,69,6,176
 2023-03-31,Castilla y León,63,282,24,356
 2023-03-31,Castilla-La Mancha,46,236,15,241
-2023-03-31,Cataluña,93,479,114,948
+2023-03-31,Cataluña,93,479,114,949
 2023-03-31,Ceuta,0,19,1,2
 2023-03-31,Comunitat Valenciana,60,301,72,645
 2023-03-31,DESLOCALIZADOS,29,128,16,142
@@ -23365,7 +23365,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-01,Extremadura,11,66,5,34
 2023-04-01,Galicia,27,185,25,278
 2023-04-01,La Rioja,0,25,0,0
-2023-04-01,Madrid,52,491,47,440
+2023-04-01,Madrid,52,491,48,441
 2023-04-01,Melilla,0,2,2,12
 2023-04-01,Murcia,4,53,11,131
 2023-04-01,Navarra,16,44,2,31
@@ -23407,7 +23407,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-03,Extremadura,21,184,7,104
 2023-04-03,Galicia,63,366,64,368
 2023-04-03,La Rioja,4,41,0,1
-2023-04-03,Madrid,308,1592,110,787
+2023-04-03,Madrid,308,1592,110,788
 2023-04-03,Melilla,0,7,1,29
 2023-04-03,Murcia,24,140,19,190
 2023-04-03,Navarra,37,176,9,58
@@ -23474,7 +23474,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-06,Melilla,0,5,0,10
 2023-04-06,Murcia,6,34,6,61
 2023-04-06,Navarra,18,47,7,39
-2023-04-06,País Vasco,4,28,16,152
+2023-04-06,País Vasco,4,28,17,154
 2023-04-07,Andalucía,59,232,45,295
 2023-04-07,Aragón,11,66,6,47
 2023-04-07,Asturias,15,91,27,198
@@ -23533,12 +23533,12 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-09,Extremadura,12,105,6,44
 2023-04-09,Galicia,39,239,23,196
 2023-04-09,La Rioja,1,37,0,1
-2023-04-09,Madrid,39,483,50,492
+2023-04-09,Madrid,39,483,50,493
 2023-04-09,Melilla,0,0,0,14
 2023-04-09,Murcia,7,47,12,105
 2023-04-09,Navarra,14,39,5,39
 2023-04-09,País Vasco,5,34,14,133
-2023-04-10,Andalucía,262,1400,181,845
+2023-04-10,Andalucía,262,1403,181,845
 2023-04-10,Aragón,25,137,26,193
 2023-04-10,Asturias,28,266,35,197
 2023-04-10,Baleares,9,51,4,42
@@ -23554,12 +23554,12 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-10,Extremadura,27,235,8,70
 2023-04-10,Galicia,58,379,70,465
 2023-04-10,La Rioja,5,30,0,1
-2023-04-10,Madrid,331,1766,110,915
+2023-04-10,Madrid,331,1767,110,915
 2023-04-10,Melilla,2,14,2,19
 2023-04-10,Murcia,45,167,23,169
 2023-04-10,Navarra,13,49,5,45
 2023-04-10,País Vasco,8,36,21,179
-2023-04-11,Andalucía,56,141,134,718
+2023-04-11,Andalucía,56,142,134,718
 2023-04-11,Aragón,41,132,18,118
 2023-04-11,Asturias,26,176,26,180
 2023-04-11,Baleares,46,220,20,136
@@ -23571,7 +23571,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-11,Cataluña,185,782,164,1300
 2023-04-11,Ceuta,2,29,0,1
 2023-04-11,Comunitat Valenciana,61,392,148,957
-2023-04-11,DESLOCALIZADOS,22,124,17,181
+2023-04-11,DESLOCALIZADOS,22,125,17,181
 2023-04-11,Extremadura,29,178,14,82
 2023-04-11,Galicia,64,393,40,348
 2023-04-11,La Rioja,9,40,1,4
@@ -23579,8 +23579,8 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-11,Melilla,0,6,2,14
 2023-04-11,Murcia,31,101,31,147
 2023-04-11,Navarra,39,165,9,59
-2023-04-11,País Vasco,30,100,28,244
-2023-04-12,Andalucía,196,1101,115,676
+2023-04-11,País Vasco,30,100,28,245
+2023-04-12,Andalucía,196,1101,115,677
 2023-04-12,Aragón,28,127,28,107
 2023-04-12,Asturias,27,203,35,173
 2023-04-12,Baleares,19,124,31,113
@@ -23592,7 +23592,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-12,Cataluña,158,568,133,1171
 2023-04-12,Ceuta,0,25,3,7
 2023-04-12,Comunitat Valenciana,43,398,95,627
-2023-04-12,DESLOCALIZADOS,22,146,19,161
+2023-04-12,DESLOCALIZADOS,22,147,19,161
 2023-04-12,Extremadura,31,199,11,84
 2023-04-12,Galicia,68,367,38,366
 2023-04-12,La Rioja,9,39,0,1
@@ -23601,7 +23601,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-12,Murcia,31,142,13,130
 2023-04-12,Navarra,24,134,10,65
 2023-04-12,País Vasco,27,96,43,227
-2023-04-13,Andalucía,196,905,169,748
+2023-04-13,Andalucía,197,906,169,748
 2023-04-13,Aragón,63,161,21,156
 2023-04-13,Asturias,35,207,27,168
 2023-04-13,Baleares,31,136,8,78
@@ -23634,13 +23634,13 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-14,Cataluña,127,595,80,945
 2023-04-14,Ceuta,1,26,1,3
 2023-04-14,Comunitat Valenciana,38,329,100,546
-2023-04-14,DESLOCALIZADOS,17,119,16,152
+2023-04-14,DESLOCALIZADOS,17,119,17,153
 2023-04-14,Extremadura,23,124,10,59
 2023-04-14,Galicia,64,350,49,332
 2023-04-14,La Rioja,4,40,1,4
-2023-04-14,Madrid,309,1389,84,702
+2023-04-14,Madrid,311,1391,84,702
 2023-04-14,Melilla,1,7,1,22
-2023-04-14,Murcia,27,141,32,178
+2023-04-14,Murcia,29,143,32,178
 2023-04-14,Navarra,46,133,9,53
 2023-04-14,País Vasco,26,86,27,203
 2023-04-15,Andalucía,75,362,48,336
@@ -23685,7 +23685,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-16,Murcia,17,59,9,48
 2023-04-16,Navarra,6,31,0,28
 2023-04-16,País Vasco,8,24,15,132
-2023-04-17,Andalucía,274,1364,139,744
+2023-04-17,Andalucía,274,1365,139,744
 2023-04-17,Aragón,65,178,41,159
 2023-04-17,Asturias,40,214,44,254
 2023-04-17,Baleares,51,214,34,148
@@ -23701,11 +23701,11 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-17,Extremadura,65,347,12,66
 2023-04-17,Galicia,96,406,56,411
 2023-04-17,La Rioja,7,29,0,4
-2023-04-17,Madrid,352,1714,130,936
+2023-04-17,Madrid,353,1715,130,936
 2023-04-17,Melilla,5,10,4,27
 2023-04-17,Murcia,49,190,36,192
 2023-04-17,Navarra,56,185,8,44
-2023-04-17,País Vasco,42,96,11,160
+2023-04-17,País Vasco,42,96,11,161
 2023-04-18,Andalucía,34,98,151,679
 2023-04-18,Aragón,62,170,20,118
 2023-04-18,Asturias,39,219,33,176
@@ -23718,7 +23718,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-18,Cataluña,178,678,124,1208
 2023-04-18,Ceuta,34,55,3,4
 2023-04-18,Comunitat Valenciana,51,330,103,800
-2023-04-18,DESLOCALIZADOS,20,105,26,135
+2023-04-18,DESLOCALIZADOS,20,105,27,138
 2023-04-18,Extremadura,55,230,12,84
 2023-04-18,Galicia,77,308,76,437
 2023-04-18,La Rioja,8,43,1,6
@@ -23727,7 +23727,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-18,Murcia,43,171,26,138
 2023-04-18,Navarra,29,127,8,68
 2023-04-18,País Vasco,35,81,25,242
-2023-04-19,Andalucía,277,1138,147,636
+2023-04-19,Andalucía,277,1139,147,636
 2023-04-19,Aragón,66,158,27,112
 2023-04-19,Asturias,25,179,25,158
 2023-04-19,Baleares,35,154,16,99
@@ -23743,9 +23743,9 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-19,Extremadura,54,266,10,70
 2023-04-19,Galicia,79,380,56,358
 2023-04-19,La Rioja,8,31,0,3
-2023-04-19,Madrid,322,1270,119,725
+2023-04-19,Madrid,327,1278,119,725
 2023-04-19,Melilla,6,19,0,13
-2023-04-19,Murcia,58,201,15,105
+2023-04-19,Murcia,59,202,15,105
 2023-04-19,Navarra,31,146,2,37
 2023-04-19,País Vasco,35,93,23,187
 2023-04-20,Andalucía,262,1013,137,655
@@ -23764,7 +23764,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-20,Extremadura,57,204,16,96
 2023-04-20,Galicia,69,328,47,332
 2023-04-20,La Rioja,9,40,4,6
-2023-04-20,Madrid,289,1199,99,588
+2023-04-20,Madrid,290,1200,99,588
 2023-04-20,Melilla,3,8,4,21
 2023-04-20,Murcia,50,199,33,135
 2023-04-20,Navarra,23,102,13,56
@@ -23778,14 +23778,14 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-21,Castilla y Castilla y León,8,60,11,191
 2023-04-21,Castilla y León,98,335,31,281
 2023-04-21,Castilla-La Mancha,105,325,33,258
-2023-04-21,Cataluña,165,636,96,851
+2023-04-21,Cataluña,166,637,96,851
 2023-04-21,Ceuta,5,21,3,5
 2023-04-21,Comunitat Valenciana,51,307,73,555
 2023-04-21,DESLOCALIZADOS,24,113,23,133
 2023-04-21,Extremadura,56,210,8,69
 2023-04-21,Galicia,78,381,63,412
 2023-04-21,La Rioja,11,46,2,7
-2023-04-21,Madrid,273,1248,100,750
+2023-04-21,Madrid,273,1252,100,750
 2023-04-21,Melilla,1,3,2,20
 2023-04-21,Murcia,54,194,24,149
 2023-04-21,Navarra,30,99,8,61
@@ -23799,7 +23799,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-22,Castilla y Castilla y León,8,30,5,127
 2023-04-22,Castilla y León,28,142,17,175
 2023-04-22,Castilla-La Mancha,28,137,23,135
-2023-04-22,Cataluña,81,246,47,531
+2023-04-22,Cataluña,81,246,48,532
 2023-04-22,Ceuta,1,1,0,0
 2023-04-22,Comunitat Valenciana,24,191,45,329
 2023-04-22,DESLOCALIZADOS,9,64,13,98
@@ -23823,7 +23823,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-23,Cataluña,69,221,53,460
 2023-04-23,Ceuta,1,10,0,0
 2023-04-23,Comunitat Valenciana,23,183,36,267
-2023-04-23,DESLOCALIZADOS,21,81,11,89
+2023-04-23,DESLOCALIZADOS,21,81,11,92
 2023-04-23,Extremadura,14,88,1,23
 2023-04-23,Galicia,29,173,21,190
 2023-04-23,La Rioja,6,24,1,1
@@ -23832,7 +23832,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-23,Murcia,10,51,13,92
 2023-04-23,Navarra,10,37,7,31
 2023-04-23,País Vasco,8,31,7,116
-2023-04-24,Andalucía,329,1350,154,646
+2023-04-24,Andalucía,329,1351,154,646
 2023-04-24,Aragón,23,85,11,67
 2023-04-24,Asturias,41,234,23,190
 2023-04-24,Baleares,56,234,18,116
@@ -23841,18 +23841,18 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-24,Castilla y Castilla y León,11,95,17,265
 2023-04-24,Castilla y León,95,358,52,385
 2023-04-24,Castilla-La Mancha,92,329,41,275
-2023-04-24,Cataluña,222,898,177,1164
+2023-04-24,Cataluña,224,900,179,1166
 2023-04-24,Ceuta,2,40,1,2
 2023-04-24,Comunitat Valenciana,39,378,102,693
-2023-04-24,DESLOCALIZADOS,42,140,22,130
+2023-04-24,DESLOCALIZADOS,42,141,22,130
 2023-04-24,Extremadura,59,350,10,51
 2023-04-24,Galicia,94,408,37,394
 2023-04-24,La Rioja,17,58,0,8
-2023-04-24,Madrid,461,1794,129,952
+2023-04-24,Madrid,462,1795,129,952
 2023-04-24,Melilla,7,18,1,22
 2023-04-24,Murcia,81,228,35,190
 2023-04-24,Navarra,50,176,5,45
-2023-04-24,País Vasco,36,111,22,175
+2023-04-24,País Vasco,36,111,22,176
 2023-04-25,Andalucía,290,1175,136,562
 2023-04-25,Aragón,70,179,30,164
 2023-04-25,Asturias,30,162,40,203
@@ -23865,7 +23865,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-25,Cataluña,178,646,145,1153
 2023-04-25,Ceuta,1,29,1,7
 2023-04-25,Comunitat Valenciana,42,303,124,645
-2023-04-25,DESLOCALIZADOS,31,105,24,123
+2023-04-25,DESLOCALIZADOS,32,106,24,123
 2023-04-25,Extremadura,51,241,13,82
 2023-04-25,Galicia,60,324,53,375
 2023-04-25,La Rioja,11,35,1,3
@@ -23874,7 +23874,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-25,Murcia,74,232,33,168
 2023-04-25,Navarra,35,117,10,69
 2023-04-25,País Vasco,39,85,19,222
-2023-04-26,Andalucía,287,1188,155,726
+2023-04-26,Andalucía,287,1191,155,726
 2023-04-26,Aragón,53,186,36,156
 2023-04-26,Asturias,31,157,24,163
 2023-04-26,Baleares,25,114,7,73
@@ -23883,14 +23883,14 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-26,Castilla y Castilla y León,13,110,13,218
 2023-04-26,Castilla y León,71,317,30,249
 2023-04-26,Castilla-La Mancha,89,299,31,200
-2023-04-26,Cataluña,147,553,88,840
+2023-04-26,Cataluña,147,553,90,842
 2023-04-26,Ceuta,5,24,8,13
 2023-04-26,Comunitat Valenciana,38,266,96,625
 2023-04-26,DESLOCALIZADOS,17,124,20,144
 2023-04-26,Extremadura,74,256,10,58
 2023-04-26,Galicia,73,315,54,353
 2023-04-26,La Rioja,21,47,0,2
-2023-04-26,Madrid,320,1320,125,714
+2023-04-26,Madrid,321,1325,125,714
 2023-04-26,Melilla,2,21,6,24
 2023-04-26,Murcia,70,242,23,128
 2023-04-26,Navarra,52,129,8,44
@@ -23904,14 +23904,14 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-27,Castilla y Castilla y León,15,70,14,164
 2023-04-27,Castilla y León,73,268,21,228
 2023-04-27,Castilla-La Mancha,87,330,20,182
-2023-04-27,Cataluña,133,555,110,889
+2023-04-27,Cataluña,133,555,111,890
 2023-04-27,Ceuta,3,17,4,5
 2023-04-27,Comunitat Valenciana,55,340,96,544
-2023-04-27,DESLOCALIZADOS,26,81,15,114
+2023-04-27,DESLOCALIZADOS,26,82,15,116
 2023-04-27,Extremadura,71,231,19,76
 2023-04-27,Galicia,82,320,56,340
 2023-04-27,La Rioja,21,42,0,6
-2023-04-27,Madrid,347,1338,92,585
+2023-04-27,Madrid,348,1340,92,585
 2023-04-27,Melilla,2,9,2,11
 2023-04-27,Murcia,77,238,25,152
 2023-04-27,Navarra,40,131,13,42
@@ -23925,10 +23925,10 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-28,Castilla y Castilla y León,31,119,10,185
 2023-04-28,Castilla y León,55,237,31,241
 2023-04-28,Castilla-La Mancha,75,256,34,204
-2023-04-28,Cataluña,174,688,116,822
+2023-04-28,Cataluña,174,688,117,823
 2023-04-28,Ceuta,2,19,0,1
-2023-04-28,Comunitat Valenciana,43,254,77,531
-2023-04-28,DESLOCALIZADOS,22,99,21,120
+2023-04-28,Comunitat Valenciana,43,256,77,531
+2023-04-28,DESLOCALIZADOS,23,100,21,120
 2023-04-28,Extremadura,54,169,8,53
 2023-04-28,Galicia,63,310,46,318
 2023-04-28,La Rioja,15,40,1,7
@@ -23946,19 +23946,19 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-29,Castilla y Castilla y León,10,29,7,96
 2023-04-29,Castilla y León,19,102,19,152
 2023-04-29,Castilla-La Mancha,28,142,28,163
-2023-04-29,Cataluña,65,208,59,484
+2023-04-29,Cataluña,65,208,60,485
 2023-04-29,Ceuta,0,3,0,0
-2023-04-29,Comunitat Valenciana,17,190,34,269
+2023-04-29,Comunitat Valenciana,17,190,34,271
 2023-04-29,DESLOCALIZADOS,20,78,12,102
 2023-04-29,Extremadura,21,78,8,28
 2023-04-29,Galicia,40,216,29,224
 2023-04-29,La Rioja,9,24,0,2
-2023-04-29,Madrid,65,482,59,368
+2023-04-29,Madrid,66,483,59,369
 2023-04-29,Melilla,1,4,2,14
 2023-04-29,Murcia,23,69,11,86
 2023-04-29,Navarra,11,35,6,31
 2023-04-29,País Vasco,9,34,23,150
-2023-04-30,Andalucía,145,436,64,272
+2023-04-30,Andalucía,145,436,66,282
 2023-04-30,Aragón,18,89,10,50
 2023-04-30,Asturias,11,81,11,137
 2023-04-30,Baleares,9,51,10,64
@@ -23967,10 +23967,10 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-30,Castilla y Castilla y León,8,30,8,124
 2023-04-30,Castilla y León,17,113,27,142
 2023-04-30,Castilla-La Mancha,25,147,23,118
-2023-04-30,Cataluña,75,222,50,456
+2023-04-30,Cataluña,75,223,50,456
 2023-04-30,Ceuta,0,8,0,0
-2023-04-30,Comunitat Valenciana,17,164,23,230
-2023-04-30,DESLOCALIZADOS,12,84,11,73
+2023-04-30,Comunitat Valenciana,17,165,23,230
+2023-04-30,DESLOCALIZADOS,12,84,11,75
 2023-04-30,Extremadura,23,82,1,11
 2023-04-30,Galicia,36,176,25,181
 2023-04-30,La Rioja,5,18,0,1
@@ -23979,7 +23979,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-04-30,Murcia,21,72,24,96
 2023-04-30,Navarra,6,30,1,20
 2023-04-30,País Vasco,15,40,12,120
-2023-05-01,Andalucía,115,603,70,315
+2023-05-01,Andalucía,115,603,77,337
 2023-05-01,Aragón,28,89,14,69
 2023-05-01,Asturias,15,106,20,114
 2023-05-01,Baleares,19,60,6,31
@@ -23995,12 +23995,12 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-05-01,Extremadura,18,106,7,30
 2023-05-01,Galicia,54,193,30,223
 2023-05-01,La Rioja,7,21,0,1
-2023-05-01,Madrid,104,533,53,350
+2023-05-01,Madrid,104,534,53,350
 2023-05-01,Melilla,0,2,1,12
 2023-05-01,Murcia,28,79,17,131
 2023-05-01,Navarra,15,47,1,37
 2023-05-01,País Vasco,8,28,18,152
-2023-05-02,Andalucía,516,1710,172,662
+2023-05-02,Andalucía,516,1712,180,695
 2023-05-02,Aragón,99,265,33,188
 2023-05-02,Asturias,28,177,21,164
 2023-05-02,Baleares,46,188,16,109
@@ -24009,10 +24009,10 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-05-02,Castilla y Castilla y León,16,56,14,183
 2023-05-02,Castilla y León,73,291,33,296
 2023-05-02,Castilla-La Mancha,94,354,21,205
-2023-05-02,Cataluña,231,838,138,908
+2023-05-02,Cataluña,231,839,139,909
 2023-05-02,Ceuta,11,44,3,4
-2023-05-02,Comunitat Valenciana,63,391,104,683
-2023-05-02,DESLOCALIZADOS,48,162,25,155
+2023-05-02,Comunitat Valenciana,63,392,104,686
+2023-05-02,DESLOCALIZADOS,49,165,26,158
 2023-05-02,Extremadura,72,348,18,62
 2023-05-02,Galicia,104,422,55,338
 2023-05-02,La Rioja,26,65,3,3
@@ -24021,7 +24021,7 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-05-02,Murcia,79,284,43,165
 2023-05-02,Navarra,50,162,11,57
 2023-05-02,País Vasco,46,130,31,202
-2023-05-03,Andalucía,399,1216,221,573
+2023-05-03,Andalucía,399,1216,230,605
 2023-05-03,Aragón,49,157,28,127
 2023-05-03,Asturias,36,186,22,135
 2023-05-03,Baleares,44,146,10,71
@@ -24030,40 +24030,40 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-05-03,Castilla y Castilla y León,33,84,6,162
 2023-05-03,Castilla y León,52,264,36,264
 2023-05-03,Castilla-La Mancha,87,292,21,163
-2023-05-03,Cataluña,170,574,131,996
+2023-05-03,Cataluña,171,575,133,998
 2023-05-03,Ceuta,3,27,3,3
-2023-05-03,Comunitat Valenciana,46,323,61,575
-2023-05-03,DESLOCALIZADOS,32,128,28,138
+2023-05-03,Comunitat Valenciana,46,326,61,576
+2023-05-03,DESLOCALIZADOS,34,131,28,139
 2023-05-03,Extremadura,64,253,20,67
 2023-05-03,Galicia,101,413,70,412
 2023-05-03,La Rioja,6,32,0,3
-2023-05-03,Madrid,605,2006,126,754
+2023-05-03,Madrid,608,2010,126,755
 2023-05-03,Melilla,6,13,6,21
 2023-05-03,Murcia,60,210,24,122
 2023-05-03,Navarra,40,142,7,48
 2023-05-03,País Vasco,60,121,32,215
-2023-05-04,Andalucía,305,1050,184,621
+2023-05-04,Andalucía,305,1050,192,655
 2023-05-04,Aragón,47,143,22,141
 2023-05-04,Asturias,31,169,35,171
 2023-05-04,Baleares,28,123,25,117
-2023-05-04,Canarias,91,373,33,172
+2023-05-04,Canarias,91,373,33,173
 2023-05-04,Cantabria,19,39,7,48
 2023-05-04,Castilla y Castilla y León,31,101,22,276
 2023-05-04,Castilla y León,56,230,23,233
 2023-05-04,Castilla-La Mancha,71,282,29,161
-2023-05-04,Cataluña,154,625,111,745
+2023-05-04,Cataluña,154,625,111,746
 2023-05-04,Ceuta,5,12,8,10
-2023-05-04,Comunitat Valenciana,28,304,76,532
-2023-05-04,DESLOCALIZADOS,32,128,24,140
+2023-05-04,Comunitat Valenciana,28,306,76,532
+2023-05-04,DESLOCALIZADOS,32,128,24,141
 2023-05-04,Extremadura,51,203,15,60
 2023-05-04,Galicia,97,380,72,353
 2023-05-04,La Rioja,8,32,0,3
-2023-05-04,Madrid,429,1493,111,614
+2023-05-04,Madrid,430,1494,111,614
 2023-05-04,Melilla,5,17,3,24
 2023-05-04,Murcia,94,258,38,159
-2023-05-04,Navarra,31,120,3,44
+2023-05-04,Navarra,31,120,3,46
 2023-05-04,País Vasco,53,115,28,200
-2023-05-05,Andalucía,314,982,152,555
+2023-05-05,Andalucía,314,986,158,572
 2023-05-05,Aragón,41,148,18,116
 2023-05-05,Asturias,26,167,10,123
 2023-05-05,Baleares,29,129,23,103
@@ -24071,20 +24071,20 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-05-05,Cantabria,18,43,13,60
 2023-05-05,Castilla y Castilla y León,28,124,10,202
 2023-05-05,Castilla y León,67,230,21,213
-2023-05-05,Castilla-La Mancha,73,285,27,154
-2023-05-05,Cataluña,126,475,112,748
+2023-05-05,Castilla-La Mancha,74,286,27,154
+2023-05-05,Cataluña,127,476,112,748
 2023-05-05,Ceuta,3,22,3,4
-2023-05-05,Comunitat Valenciana,32,284,57,457
-2023-05-05,DESLOCALIZADOS,24,109,22,119
+2023-05-05,Comunitat Valenciana,32,290,57,459
+2023-05-05,DESLOCALIZADOS,25,111,22,119
 2023-05-05,Extremadura,71,234,8,56
 2023-05-05,Galicia,91,360,54,322
 2023-05-05,La Rioja,8,36,3,4
-2023-05-05,Madrid,368,1330,90,585
+2023-05-05,Madrid,369,1334,90,585
 2023-05-05,Melilla,3,13,5,17
 2023-05-05,Murcia,60,240,46,197
-2023-05-05,Navarra,53,133,6,33
-2023-05-05,País Vasco,38,92,26,151
-2023-05-06,Andalucía,119,433,55,241
+2023-05-05,Navarra,53,135,9,41
+2023-05-05,País Vasco,38,92,26,152
+2023-05-06,Andalucía,119,439,58,260
 2023-05-06,Aragón,14,64,12,60
 2023-05-06,Asturias,11,84,7,68
 2023-05-06,Baleares,5,41,1,50
@@ -24095,17 +24095,17 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-05-06,Castilla-La Mancha,38,151,17,103
 2023-05-06,Cataluña,59,197,47,392
 2023-05-06,Ceuta,0,2,0,0
-2023-05-06,Comunitat Valenciana,30,177,25,236
-2023-05-06,DESLOCALIZADOS,14,51,7,72
+2023-05-06,Comunitat Valenciana,31,185,25,236
+2023-05-06,DESLOCALIZADOS,14,51,7,73
 2023-05-06,Extremadura,29,87,3,22
 2023-05-06,Galicia,40,185,24,224
 2023-05-06,La Rioja,1,17,0,0
-2023-05-06,Madrid,53,423,45,397
+2023-05-06,Madrid,53,425,46,398
 2023-05-06,Melilla,0,2,2,9
 2023-05-06,Murcia,38,104,23,110
-2023-05-06,Navarra,19,49,2,22
+2023-05-06,Navarra,19,49,3,27
 2023-05-06,País Vasco,12,38,21,132
-2023-05-07,Andalucía,115,627,75,303
+2023-05-07,Andalucía,115,633,83,322
 2023-05-07,Aragón,8,66,10,64
 2023-05-07,Asturias,13,83,8,72
 2023-05-07,Baleares,15,49,1,45
@@ -24114,154 +24114,182 @@ fecha,ccaa,num_antigenos_positivos,num_antigenos,num_pcr_positivos,num_pcr
 2023-05-07,Castilla y Castilla y León,1,26,11,123
 2023-05-07,Castilla y León,19,114,19,124
 2023-05-07,Castilla-La Mancha,25,128,19,99
-2023-05-07,Cataluña,88,269,50,406
+2023-05-07,Cataluña,88,270,50,406
 2023-05-07,Ceuta,0,2,0,0
-2023-05-07,Comunitat Valenciana,23,174,31,204
-2023-05-07,DESLOCALIZADOS,17,85,9,78
-2023-05-07,Extremadura,39,115,6,46
+2023-05-07,Comunitat Valenciana,26,186,31,204
+2023-05-07,DESLOCALIZADOS,17,86,10,80
+2023-05-07,Extremadura,39,116,6,46
 2023-05-07,Galicia,45,184,23,148
 2023-05-07,La Rioja,10,24,1,2
-2023-05-07,Madrid,50,420,45,295
+2023-05-07,Madrid,51,425,45,296
 2023-05-07,Melilla,0,1,9,18
 2023-05-07,Murcia,22,68,22,108
-2023-05-07,Navarra,13,34,4,23
+2023-05-07,Navarra,13,34,5,31
 2023-05-07,País Vasco,11,24,16,120
-2023-05-08,Andalucía,432,1600,173,593
+2023-05-08,Andalucía,432,1606,196,657
 2023-05-08,Aragón,40,147,35,156
 2023-05-08,Asturias,28,153,30,148
 2023-05-08,Baleares,53,174,31,156
 2023-05-08,Canarias,142,526,41,289
 2023-05-08,Cantabria,15,44,14,77
-2023-05-08,Castilla y Castilla y León,19,114,13,234
+2023-05-08,Castilla y Castilla y León,20,115,13,234
 2023-05-08,Castilla y León,69,270,44,306
-2023-05-08,Castilla-La Mancha,83,323,41,223
-2023-05-08,Cataluña,221,841,104,845
+2023-05-08,Castilla-La Mancha,84,324,41,223
+2023-05-08,Cataluña,231,853,106,861
 2023-05-08,Ceuta,7,36,5,7
-2023-05-08,Comunitat Valenciana,44,266,83,562
-2023-05-08,DESLOCALIZADOS,41,142,24,117
+2023-05-08,Comunitat Valenciana,45,277,83,562
+2023-05-08,DESLOCALIZADOS,41,143,24,119
 2023-05-08,Extremadura,89,395,20,61
 2023-05-08,Galicia,105,396,82,429
 2023-05-08,La Rioja,17,48,1,2
-2023-05-08,Madrid,397,1557,140,743
+2023-05-08,Madrid,400,1578,140,746
 2023-05-08,Melilla,8,21,6,22
 2023-05-08,Murcia,80,265,37,165
-2023-05-08,Navarra,63,195,8,39
+2023-05-08,Navarra,63,196,10,56
 2023-05-08,País Vasco,60,129,39,182
-2023-05-09,Andalucía,299,1257,162,540
+2023-05-09,Andalucía,303,1269,169,570
 2023-05-09,Aragón,39,131,14,111
 2023-05-09,Asturias,24,173,18,140
-2023-05-09,Baleares,40,150,13,99
+2023-05-09,Baleares,40,150,13,100
 2023-05-09,Canarias,103,440,29,138
 2023-05-09,Cantabria,14,39,7,52
 2023-05-09,Castilla y Castilla y León,33,179,16,278
 2023-05-09,Castilla y León,45,193,37,241
 2023-05-09,Castilla-La Mancha,52,242,17,160
-2023-05-09,Cataluña,160,627,139,986
+2023-05-09,Cataluña,162,632,139,1006
 2023-05-09,Ceuta,7,25,4,9
-2023-05-09,Comunitat Valenciana,36,260,83,551
-2023-05-09,DESLOCALIZADOS,31,128,11,115
+2023-05-09,Comunitat Valenciana,39,273,83,551
+2023-05-09,DESLOCALIZADOS,32,131,11,119
 2023-05-09,Extremadura,70,285,16,62
 2023-05-09,Galicia,83,356,53,355
 2023-05-09,La Rioja,9,38,0,4
-2023-05-09,Madrid,374,1315,102,630
+2023-05-09,Madrid,378,1352,103,638
 2023-05-09,Melilla,3,16,5,30
 2023-05-09,Murcia,89,265,50,171
-2023-05-09,Navarra,41,146,3,48
+2023-05-09,Navarra,41,147,4,62
 2023-05-09,País Vasco,62,136,37,209
-2023-05-10,Andalucía,289,1201,124,470
-2023-05-10,Aragón,40,127,22,100
-2023-05-10,Asturias,26,148,16,121
+2023-05-10,Andalucía,295,1213,145,550
+2023-05-10,Aragón,40,127,23,103
+2023-05-10,Asturias,30,152,16,121
 2023-05-10,Baleares,37,145,14,75
 2023-05-10,Canarias,100,403,25,150
 2023-05-10,Cantabria,15,42,6,57
 2023-05-10,Castilla y Castilla y León,13,98,10,93
 2023-05-10,Castilla y León,42,191,17,200
 2023-05-10,Castilla-La Mancha,71,273,19,161
-2023-05-10,Cataluña,119,457,138,806
+2023-05-10,Cataluña,122,466,141,822
 2023-05-10,Ceuta,4,12,3,6
-2023-05-10,Comunitat Valenciana,24,236,69,535
-2023-05-10,DESLOCALIZADOS,20,96,19,111
+2023-05-10,Comunitat Valenciana,27,246,69,540
+2023-05-10,DESLOCALIZADOS,20,99,20,118
 2023-05-10,Extremadura,60,255,24,83
 2023-05-10,Galicia,64,324,56,337
 2023-05-10,La Rioja,16,40,0,2
-2023-05-10,Madrid,366,1235,105,542
+2023-05-10,Madrid,378,1313,115,592
 2023-05-10,Melilla,5,16,3,23
 2023-05-10,Murcia,70,232,27,122
-2023-05-10,Navarra,42,126,5,39
+2023-05-10,Navarra,42,129,6,48
 2023-05-10,País Vasco,52,120,26,167
-2023-05-11,Andalucía,222,886,126,577
-2023-05-11,Aragón,52,135,8,87
-2023-05-11,Asturias,25,138,24,150
+2023-05-11,Andalucía,243,913,134,617
+2023-05-11,Aragón,52,135,12,99
+2023-05-11,Asturias,27,141,24,150
 2023-05-11,Baleares,23,76,14,59
 2023-05-11,Canarias,112,388,26,172
 2023-05-11,Cantabria,12,42,29,95
 2023-05-11,Castilla y Castilla y León,31,91,10,266
 2023-05-11,Castilla y León,47,207,26,202
-2023-05-11,Castilla-La Mancha,62,245,18,159
-2023-05-11,Cataluña,135,472,90,554
+2023-05-11,Castilla-La Mancha,63,246,18,159
+2023-05-11,Cataluña,138,483,96,568
 2023-05-11,Ceuta,8,11,5,14
-2023-05-11,Comunitat Valenciana,42,241,66,454
-2023-05-11,DESLOCALIZADOS,26,95,9,99
+2023-05-11,Comunitat Valenciana,44,252,66,457
+2023-05-11,DESLOCALIZADOS,26,98,12,105
 2023-05-11,Extremadura,67,229,13,78
 2023-05-11,Galicia,77,310,53,284
 2023-05-11,La Rioja,17,37,0,2
+2023-05-11,Madrid,358,1237,79,474
 2023-05-11,Melilla,4,8,3,16
 2023-05-11,Murcia,66,230,37,149
-2023-05-11,Navarra,32,134,3,21
+2023-05-11,Navarra,32,136,3,27
 2023-05-11,País Vasco,40,115,22,138
-2023-05-12,Andalucía,241,800,109,417
-2023-05-12,Asturias,27,121,20,110
-2023-05-12,Baleares,26,106,27,117
-2023-05-12,Canarias,112,399,37,158
+2023-05-12,Andalucía,267,860,121,449
+2023-05-12,Aragón,26,106,22,129
+2023-05-12,Asturias,33,128,20,110
+2023-05-12,Baleares,26,106,27,118
+2023-05-12,Canarias,113,400,38,159
 2023-05-12,Cantabria,17,43,8,47
-2023-05-12,Castilla y Castilla y León,22,123,14,187
-2023-05-12,Castilla y León,56,209,23,168
+2023-05-12,Castilla y Castilla y León,24,125,14,187
+2023-05-12,Castilla y León,57,210,23,168
 2023-05-12,Castilla-La Mancha,52,230,24,182
-2023-05-12,Cataluña,111,456,50,445
+2023-05-12,Cataluña,122,540,58,499
 2023-05-12,Ceuta,2,7,3,6
-2023-05-12,Comunitat Valenciana,16,227,66,494
-2023-05-12,DESLOCALIZADOS,18,92,7,70
+2023-05-12,Comunitat Valenciana,17,238,69,510
+2023-05-12,DESLOCALIZADOS,18,104,8,79
 2023-05-12,Extremadura,49,209,13,69
 2023-05-12,Galicia,76,289,31,253
 2023-05-12,La Rioja,6,26,1,2
+2023-05-12,Madrid,301,1122,57,478
 2023-05-12,Melilla,8,23,2,19
 2023-05-12,Murcia,69,258,36,134
-2023-05-12,Navarra,54,132,11,50
+2023-05-12,Navarra,55,135,12,55
 2023-05-12,País Vasco,46,108,23,161
-2023-05-13,Andalucía,56,317,61,239
-2023-05-13,Asturias,12,86,9,73
+2023-05-13,Andalucía,90,389,66,261
+2023-05-13,Aragón,15,62,6,51
+2023-05-13,Asturias,14,88,9,73
 2023-05-13,Baleares,11,33,5,47
-2023-05-13,Canarias,33,140,16,85
+2023-05-13,Canarias,34,141,16,85
 2023-05-13,Cantabria,6,13,7,55
 2023-05-13,Castilla y Castilla y León,6,23,8,62
 2023-05-13,Castilla y León,10,60,11,88
-2023-05-13,Castilla-La Mancha,20,94,11,87
-2023-05-13,Cataluña,49,181,33,258
+2023-05-13,Castilla-La Mancha,21,95,11,87
+2023-05-13,Cataluña,57,201,35,292
 2023-05-13,Ceuta,0,3,0,0
-2023-05-13,Comunitat Valenciana,10,119,22,195
-2023-05-13,DESLOCALIZADOS,12,56,9,52
-2023-05-13,Extremadura,29,92,4,22
+2023-05-13,Comunitat Valenciana,11,129,32,230
+2023-05-13,DESLOCALIZADOS,16,69,10,79
+2023-05-13,Extremadura,33,96,4,22
 2023-05-13,Galicia,40,191,37,267
 2023-05-13,La Rioja,2,17,0,1
+2023-05-13,Madrid,60,353,35,416
 2023-05-13,Melilla,2,3,1,9
 2023-05-13,Murcia,23,73,23,68
-2023-05-13,Navarra,13,46,9,28
+2023-05-13,Navarra,14,48,9,28
 2023-05-13,País Vasco,10,38,17,125
-2023-05-14,Andalucía,2,10,54,243
-2023-05-14,Asturias,14,63,14,95
-2023-05-14,Canarias,17,106,14,67
-2023-05-14,Cantabria,9,20,6,56
-2023-05-14,Castilla y Castilla y León,4,36,8,172
-2023-05-14,Castilla y León,23,85,9,118
-2023-05-14,Castilla-La Mancha,18,110,15,87
-2023-05-14,Cataluña,54,152,34,295
+2023-05-14,Andalucía,32,60,68,297
+2023-05-14,Aragón,13,46,5,36
+2023-05-14,Asturias,18,71,14,95
+2023-05-14,Baleares,12,107,7,36
+2023-05-14,Canarias,23,136,14,71
+2023-05-14,Cantabria,9,20,6,57
+2023-05-14,Castilla y Castilla y León,5,37,8,172
+2023-05-14,Castilla y León,23,85,9,119
+2023-05-14,Castilla-La Mancha,19,111,15,90
+2023-05-14,Cataluña,65,204,41,340
 2023-05-14,Ceuta,1,6,0,0
-2023-05-14,Comunitat Valenciana,3,93,11,139
-2023-05-14,DESLOCALIZADOS,7,40,8,65
-2023-05-14,Extremadura,18,91,8,33
+2023-05-14,Comunitat Valenciana,6,121,16,208
+2023-05-14,DESLOCALIZADOS,11,53,9,87
+2023-05-14,Extremadura,21,94,8,33
 2023-05-14,Galicia,26,178,29,174
 2023-05-14,La Rioja,4,17,0,1
-2023-05-14,Melilla,2,5,1,3
-2023-05-14,Murcia,13,54,25,91
-2023-05-14,Navarra,11,30,6,22
+2023-05-14,Madrid,53,342,31,224
+2023-05-14,Melilla,2,5,1,8
+2023-05-14,Murcia,13,54,25,92
+2023-05-14,Navarra,13,36,7,31
 2023-05-14,País Vasco,12,52,14,113
+2023-05-15,Andalucía,339,1440,155,583
+2023-05-15,Aragón,47,145,21,87
+2023-05-15,Asturias,26,185,28,164
+2023-05-15,Canarias,117,467,47,158
+2023-05-15,Cantabria,23,63,22,133
+2023-05-15,Castilla y Castilla y León,28,129,24,268
+2023-05-15,Castilla y León,52,226,34,239
+2023-05-15,Castilla-La Mancha,65,204,30,189
+2023-05-15,Cataluña,161,623,77,527
+2023-05-15,Ceuta,12,30,0,1
+2023-05-15,Comunitat Valenciana,24,251,53,461
+2023-05-15,DESLOCALIZADOS,33,118,13,104
+2023-05-15,Extremadura,69,304,27,71
+2023-05-15,Galicia,97,401,71,380
+2023-05-15,La Rioja,13,38,1,4
+2023-05-15,Madrid,223,806,68,451
+2023-05-15,Melilla,8,24,1,6
+2023-05-15,Murcia,50,223,43,178
+2023-05-15,Navarra,55,168,6,43
+2023-05-15,País Vasco,53,147,30,190
