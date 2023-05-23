@@ -1,6 +1,6 @@
 fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covid19,altas_24h_covid19
 ,,,,,,,
-"(1) Información referida al día 21/05/2023, con los últimos datos disponibles a las 15:00 del día 22 de Mayo de 2023",,,,,,,
+"(1) Información referida al día 22/05/2023, con los últimos datos disponibles a las 15:00 del día 23 de Mayo de 2023",,,,,,,
 "*Nota (2): Los datos relativos a camas ocupadas por enfermos COVID-19, deben ser considerados provisionales en tanto no se consolide la nueva información reportada por los hospitales.",,,,,,,
 2020-08-01,Andalucía,Hospitalización convencional,14855,88,8192,26,28
 2020-08-01,Andalucía,U. Críticas CON respirador,1016,10,347,1,0
@@ -56063,7 +56063,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-12,Castilla La Mancha,Hospitalización convencional,4693,84,3346,14,12
 2023-04-12,Castilla La Mancha,U. Críticas CON respirador,255,10,105,1,0
 2023-04-12,Castilla La Mancha,U. Críticas SIN respirador,84,1,43,0,0
-2023-04-12,Castilla y León,Hospitalización convencional,6418,125,4738,21,25
+2023-04-12,Castilla y León,Hospitalización convencional,6418,125,4738,21,15
 2023-04-12,Castilla y León,U. Críticas CON respirador,376,7,226,1,1
 2023-04-12,Castilla y León,U. Críticas SIN respirador,23,0,5,0,1
 2023-04-12,Cataluña,Hospitalización convencional,23967,322,20699,44,67
@@ -56120,7 +56120,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-13,Castilla La Mancha,Hospitalización convencional,4695,81,3381,11,13
 2023-04-13,Castilla La Mancha,U. Críticas CON respirador,255,10,102,0,0
 2023-04-13,Castilla La Mancha,U. Críticas SIN respirador,86,2,45,1,0
-2023-04-13,Castilla y León,Hospitalización convencional,6427,120,4728,7,25
+2023-04-13,Castilla y León,Hospitalización convencional,6427,120,4728,7,15
 2023-04-13,Castilla y León,U. Críticas CON respirador,376,7,227,2,1
 2023-04-13,Castilla y León,U. Críticas SIN respirador,23,0,5,0,1
 2023-04-13,Cataluña,Hospitalización convencional,23994,327,20559,43,62
@@ -56177,7 +56177,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-14,Castilla La Mancha,Hospitalización convencional,4693,82,3381,12,13
 2023-04-14,Castilla La Mancha,U. Críticas CON respirador,255,10,102,0,0
 2023-04-14,Castilla La Mancha,U. Críticas SIN respirador,85,2,44,1,0
-2023-04-14,Castilla y León,Hospitalización convencional,6427,120,4728,7,25
+2023-04-14,Castilla y León,Hospitalización convencional,6427,120,4728,7,15
 2023-04-14,Castilla y León,U. Críticas CON respirador,376,7,227,2,1
 2023-04-14,Castilla y León,U. Críticas SIN respirador,23,0,5,0,1
 2023-04-14,Cataluña,Hospitalización convencional,23994,325,20541,43,66
@@ -56234,7 +56234,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-15,Castilla La Mancha,Hospitalización convencional,4693,82,3381,12,13
 2023-04-15,Castilla La Mancha,U. Críticas CON respirador,255,10,102,0,0
 2023-04-15,Castilla La Mancha,U. Críticas SIN respirador,85,2,44,1,0
-2023-04-15,Castilla y León,Hospitalización convencional,6427,120,4728,7,25
+2023-04-15,Castilla y León,Hospitalización convencional,6427,120,4728,7,15
 2023-04-15,Castilla y León,U. Críticas CON respirador,376,7,227,2,1
 2023-04-15,Castilla y León,U. Críticas SIN respirador,23,0,5,0,1
 2023-04-15,Cataluña,Hospitalización convencional,23994,325,20541,43,66
@@ -56291,7 +56291,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-16,Castilla La Mancha,Hospitalización convencional,4710,100,3205,12,3
 2023-04-16,Castilla La Mancha,U. Críticas CON respirador,255,10,104,1,1
 2023-04-16,Castilla La Mancha,U. Críticas SIN respirador,84,1,43,0,1
-2023-04-16,Castilla y León,Hospitalización convencional,6422,140,4697,16,16
+2023-04-16,Castilla y León,Hospitalización convencional,6422,140,4697,16,6
 2023-04-16,Castilla y León,U. Críticas CON respirador,376,9,228,0,0
 2023-04-16,Castilla y León,U. Críticas SIN respirador,23,0,5,0,1
 2023-04-16,Cataluña,Hospitalización convencional,23800,366,20357,38,42
@@ -56348,7 +56348,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-17,Castilla La Mancha,Hospitalización convencional,4707,117,3289,26,11
 2023-04-17,Castilla La Mancha,U. Críticas CON respirador,255,12,110,2,1
 2023-04-17,Castilla La Mancha,U. Críticas SIN respirador,84,0,42,0,0
-2023-04-17,Castilla y León,Hospitalización convencional,6439,136,4811,15,37
+2023-04-17,Castilla y León,Hospitalización convencional,6439,136,4811,15,27
 2023-04-17,Castilla y León,U. Críticas CON respirador,376,11,239,1,0
 2023-04-17,Castilla y León,U. Críticas SIN respirador,23,0,1,0,1
 2023-04-17,Cataluña,Hospitalización convencional,24005,365,20744,49,71
@@ -56405,7 +56405,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-18,Castilla La Mancha,Hospitalización convencional,4703,124,3329,19,18
 2023-04-18,Castilla La Mancha,U. Críticas CON respirador,255,10,106,1,0
 2023-04-18,Castilla La Mancha,U. Críticas SIN respirador,84,0,42,0,0
-2023-04-18,Castilla y León,Hospitalización convencional,6415,134,4796,14,29
+2023-04-18,Castilla y León,Hospitalización convencional,6415,134,4796,14,19
 2023-04-18,Castilla y León,U. Críticas CON respirador,376,9,229,1,2
 2023-04-18,Castilla y León,U. Críticas SIN respirador,23,0,3,0,1
 2023-04-18,Cataluña,Hospitalización convencional,24035,358,20884,49,72
@@ -56462,7 +56462,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-19,Castilla La Mancha,Hospitalización convencional,4702,129,3335,22,23
 2023-04-19,Castilla La Mancha,U. Críticas CON respirador,255,7,99,0,2
 2023-04-19,Castilla La Mancha,U. Críticas SIN respirador,84,0,45,0,0
-2023-04-19,Castilla y León,Hospitalización convencional,6422,133,4800,16,26
+2023-04-19,Castilla y León,Hospitalización convencional,6422,133,4800,16,16
 2023-04-19,Castilla y León,U. Críticas CON respirador,368,10,229,0,0
 2023-04-19,Castilla y León,U. Críticas SIN respirador,25,0,6,0,1
 2023-04-19,Cataluña,Hospitalización convencional,24044,358,20983,39,65
@@ -56519,7 +56519,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-20,Castilla La Mancha,Hospitalización convencional,4703,137,3335,21,14
 2023-04-20,Castilla La Mancha,U. Críticas CON respirador,255,6,97,0,0
 2023-04-20,Castilla La Mancha,U. Críticas SIN respirador,84,0,42,0,0
-2023-04-20,Castilla y León,Hospitalización convencional,6420,136,4718,17,27
+2023-04-20,Castilla y León,Hospitalización convencional,6420,136,4718,17,17
 2023-04-20,Castilla y León,U. Críticas CON respirador,377,9,228,1,1
 2023-04-20,Castilla y León,U. Críticas SIN respirador,23,0,4,0,1
 2023-04-20,Cataluña,Hospitalización convencional,24033,396,20917,72,62
@@ -56576,7 +56576,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-21,Castilla La Mancha,Hospitalización convencional,4703,137,3335,21,14
 2023-04-21,Castilla La Mancha,U. Críticas CON respirador,255,6,97,0,0
 2023-04-21,Castilla La Mancha,U. Críticas SIN respirador,84,0,42,0,0
-2023-04-21,Castilla y León,Hospitalización convencional,6420,136,4718,17,27
+2023-04-21,Castilla y León,Hospitalización convencional,6420,136,4718,17,17
 2023-04-21,Castilla y León,U. Críticas CON respirador,377,9,228,1,1
 2023-04-21,Castilla y León,U. Críticas SIN respirador,23,0,4,0,1
 2023-04-21,Cataluña,Hospitalización convencional,24033,396,20901,72,62
@@ -56633,7 +56633,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-22,Castilla La Mancha,Hospitalización convencional,4703,137,3335,21,14
 2023-04-22,Castilla La Mancha,U. Críticas CON respirador,255,6,97,0,0
 2023-04-22,Castilla La Mancha,U. Críticas SIN respirador,84,0,42,0,0
-2023-04-22,Castilla y León,Hospitalización convencional,6420,136,4718,17,27
+2023-04-22,Castilla y León,Hospitalización convencional,6420,136,4718,17,17
 2023-04-22,Castilla y León,U. Críticas CON respirador,377,9,228,1,1
 2023-04-22,Castilla y León,U. Críticas SIN respirador,23,0,4,0,1
 2023-04-22,Cataluña,Hospitalización convencional,24033,395,20836,69,58
@@ -56690,7 +56690,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-23,Castilla La Mancha,Hospitalización convencional,4701,155,3251,19,8
 2023-04-23,Castilla La Mancha,U. Críticas CON respirador,255,7,97,2,0
 2023-04-23,Castilla La Mancha,U. Críticas SIN respirador,84,2,42,1,0
-2023-04-23,Castilla y León,Hospitalización convencional,6413,140,4543,11,12
+2023-04-23,Castilla y León,Hospitalización convencional,6413,140,4543,11,2
 2023-04-23,Castilla y León,U. Críticas CON respirador,376,7,222,1,1
 2023-04-23,Castilla y León,U. Críticas SIN respirador,23,0,4,0,1
 2023-04-23,Cataluña,Hospitalización convencional,23897,381,20329,37,36
@@ -56747,7 +56747,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-24,Castilla La Mancha,Hospitalización convencional,4711,164,3229,31,33
 2023-04-24,Castilla La Mancha,U. Críticas CON respirador,255,10,90,3,0
 2023-04-24,Castilla La Mancha,U. Críticas SIN respirador,84,2,45,1,1
-2023-04-24,Castilla y León,Hospitalización convencional,6410,151,4703,26,29
+2023-04-24,Castilla y León,Hospitalización convencional,6410,151,4703,26,19
 2023-04-24,Castilla y León,U. Críticas CON respirador,376,8,228,1,0
 2023-04-24,Castilla y León,U. Críticas SIN respirador,23,0,4,0,1
 2023-04-24,Cataluña,Hospitalización convencional,24002,390,20767,49,65
@@ -56804,7 +56804,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-25,Castilla La Mancha,Hospitalización convencional,4710,165,3385,21,22
 2023-04-25,Castilla La Mancha,U. Críticas CON respirador,255,8,88,0,2
 2023-04-25,Castilla La Mancha,U. Críticas SIN respirador,84,2,36,0,0
-2023-04-25,Castilla y León,Hospitalización convencional,6411,138,4728,14,34
+2023-04-25,Castilla y León,Hospitalización convencional,6411,138,4728,14,24
 2023-04-25,Castilla y León,U. Críticas CON respirador,376,8,221,0,0
 2023-04-25,Castilla y León,U. Críticas SIN respirador,23,0,4,0,1
 2023-04-25,Cataluña,Hospitalización convencional,24028,398,20898,62,69
@@ -56861,7 +56861,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-26,Castilla La Mancha,Hospitalización convencional,4712,158,3274,13,23
 2023-04-26,Castilla La Mancha,U. Críticas CON respirador,255,8,87,1,1
 2023-04-26,Castilla La Mancha,U. Críticas SIN respirador,84,1,34,0,1
-2023-04-26,Castilla y León,Hospitalización convencional,6404,128,4758,13,34
+2023-04-26,Castilla y León,Hospitalización convencional,6404,128,4758,13,24
 2023-04-26,Castilla y León,U. Críticas CON respirador,376,8,227,0,0
 2023-04-26,Castilla y León,U. Críticas SIN respirador,23,0,6,0,1
 2023-04-26,Cataluña,Hospitalización convencional,24041,384,21042,41,77
@@ -56918,7 +56918,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-27,Castilla La Mancha,Hospitalización convencional,4711,151,3241,9,29
 2023-04-27,Castilla La Mancha,U. Críticas CON respirador,255,5,86,0,0
 2023-04-27,Castilla La Mancha,U. Críticas SIN respirador,84,1,33,0,0
-2023-04-27,Castilla y León,Hospitalización convencional,6400,128,4674,13,21
+2023-04-27,Castilla y León,Hospitalización convencional,6400,128,4674,13,11
 2023-04-27,Castilla y León,U. Críticas CON respirador,376,9,225,1,0
 2023-04-27,Castilla y León,U. Críticas SIN respirador,23,0,6,0,1
 2023-04-27,Cataluña,Hospitalización convencional,24039,356,20960,49,91
@@ -56975,7 +56975,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-28,Castilla La Mancha,Hospitalización convencional,4711,151,3241,9,29
 2023-04-28,Castilla La Mancha,U. Críticas CON respirador,255,5,86,0,0
 2023-04-28,Castilla La Mancha,U. Críticas SIN respirador,84,1,33,0,0
-2023-04-28,Castilla y León,Hospitalización convencional,6400,128,4674,13,21
+2023-04-28,Castilla y León,Hospitalización convencional,6400,128,4674,13,11
 2023-04-28,Castilla y León,U. Críticas CON respirador,376,9,225,1,0
 2023-04-28,Castilla y León,U. Críticas SIN respirador,23,0,6,0,1
 2023-04-28,Cataluña,Hospitalización convencional,24039,356,20970,49,91
@@ -57032,7 +57032,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-29,Castilla La Mancha,Hospitalización convencional,4712,152,3239,10,28
 2023-04-29,Castilla La Mancha,U. Críticas CON respirador,255,5,86,0,0
 2023-04-29,Castilla La Mancha,U. Críticas SIN respirador,84,1,32,0,0
-2023-04-29,Castilla y León,Hospitalización convencional,6400,128,4674,13,21
+2023-04-29,Castilla y León,Hospitalización convencional,6400,128,4674,13,11
 2023-04-29,Castilla y León,U. Críticas CON respirador,376,9,225,1,0
 2023-04-29,Castilla y León,U. Críticas SIN respirador,23,0,6,0,1
 2023-04-29,Cataluña,Hospitalización convencional,24041,354,20896,50,85
@@ -57089,7 +57089,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-04-30,Castilla La Mancha,Hospitalización convencional,4712,152,3239,10,28
 2023-04-30,Castilla La Mancha,U. Críticas CON respirador,255,5,86,0,0
 2023-04-30,Castilla La Mancha,U. Críticas SIN respirador,84,1,32,0,0
-2023-04-30,Castilla y León,Hospitalización convencional,6400,128,4674,13,21
+2023-04-30,Castilla y León,Hospitalización convencional,6400,128,4674,13,11
 2023-04-30,Castilla y León,U. Críticas CON respirador,376,9,225,1,0
 2023-04-30,Castilla y León,U. Críticas SIN respirador,23,0,6,0,1
 2023-04-30,Cataluña,Hospitalización convencional,24041,354,20895,50,85
@@ -57146,7 +57146,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-01,Castilla La Mancha,Hospitalización convencional,4711,129,3155,13,3
 2023-05-01,Castilla La Mancha,U. Críticas CON respirador,255,4,97,0,1
 2023-05-01,Castilla La Mancha,U. Críticas SIN respirador,84,2,37,0,0
-2023-05-01,Castilla y León,Hospitalización convencional,6421,130,4406,12,14
+2023-05-01,Castilla y León,Hospitalización convencional,6421,130,4406,12,4
 2023-05-01,Castilla y León,U. Críticas CON respirador,376,10,228,0,2
 2023-05-01,Castilla y León,U. Críticas SIN respirador,23,0,6,0,1
 2023-05-01,Cataluña,Hospitalización convencional,23938,354,20389,46,60
@@ -57203,7 +57203,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-02,Castilla La Mancha,Hospitalización convencional,4711,127,3317,15,18
 2023-05-02,Castilla La Mancha,U. Críticas CON respirador,255,7,97,0,0
 2023-05-02,Castilla La Mancha,U. Críticas SIN respirador,84,2,42,0,0
-2023-05-02,Castilla y León,Hospitalización convencional,6421,127,4625,14,30
+2023-05-02,Castilla y León,Hospitalización convencional,6421,127,4625,14,20
 2023-05-02,Castilla y León,U. Críticas CON respirador,376,12,228,2,0
 2023-05-02,Castilla y León,U. Críticas SIN respirador,23,0,6,0,1
 2023-05-02,Cataluña,Hospitalización convencional,24106,359,20564,50,79
@@ -57260,7 +57260,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-03,Castilla La Mancha,Hospitalización convencional,4711,143,3274,25,19
 2023-05-03,Castilla La Mancha,U. Críticas CON respirador,255,7,94,0,0
 2023-05-03,Castilla La Mancha,U. Críticas SIN respirador,84,3,40,2,0
-2023-05-03,Castilla y León,Hospitalización convencional,6418,126,4701,15,30
+2023-05-03,Castilla y León,Hospitalización convencional,6418,126,4701,15,20
 2023-05-03,Castilla y León,U. Críticas CON respirador,376,12,222,1,0
 2023-05-03,Castilla y León,U. Críticas SIN respirador,23,0,6,0,1
 2023-05-03,Cataluña,Hospitalización convencional,24049,361,20869,53,65
@@ -57317,7 +57317,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-04,Castilla La Mancha,Hospitalización convencional,4711,141,3283,13,14
 2023-05-04,Castilla La Mancha,U. Críticas CON respirador,255,7,99,1,0
 2023-05-04,Castilla La Mancha,U. Críticas SIN respirador,84,3,40,1,2
-2023-05-04,Castilla y León,Hospitalización convencional,6401,134,4688,20,26
+2023-05-04,Castilla y León,Hospitalización convencional,6401,134,4688,20,16
 2023-05-04,Castilla y León,U. Críticas CON respirador,376,11,219,0,0
 2023-05-04,Castilla y León,U. Críticas SIN respirador,23,0,4,0,1
 2023-05-04,Cataluña,Hospitalización convencional,24001,352,20739,41,67
@@ -57374,7 +57374,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-05,Castilla La Mancha,Hospitalización convencional,4711,140,3271,12,14
 2023-05-05,Castilla La Mancha,U. Críticas CON respirador,255,7,99,1,0
 2023-05-05,Castilla La Mancha,U. Críticas SIN respirador,84,4,39,1,2
-2023-05-05,Castilla y León,Hospitalización convencional,6401,134,4688,20,26
+2023-05-05,Castilla y León,Hospitalización convencional,6401,134,4688,20,16
 2023-05-05,Castilla y León,U. Críticas CON respirador,376,11,219,0,0
 2023-05-05,Castilla y León,U. Críticas SIN respirador,23,0,4,0,1
 2023-05-05,Cataluña,Hospitalización convencional,24001,352,20738,41,67
@@ -57431,7 +57431,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-06,Castilla La Mancha,Hospitalización convencional,4711,140,3271,12,14
 2023-05-06,Castilla La Mancha,U. Críticas CON respirador,255,7,99,1,0
 2023-05-06,Castilla La Mancha,U. Críticas SIN respirador,84,4,39,1,2
-2023-05-06,Castilla y León,Hospitalización convencional,6401,134,4688,20,26
+2023-05-06,Castilla y León,Hospitalización convencional,6401,134,4688,20,16
 2023-05-06,Castilla y León,U. Críticas CON respirador,376,11,219,0,0
 2023-05-06,Castilla y León,U. Críticas SIN respirador,23,0,4,0,1
 2023-05-06,Cataluña,Hospitalización convencional,24001,352,20740,41,67
@@ -57488,7 +57488,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-07,Castilla La Mancha,Hospitalización convencional,4710,144,3190,13,5
 2023-05-07,Castilla La Mancha,U. Críticas CON respirador,255,8,95,1,0
 2023-05-07,Castilla La Mancha,U. Críticas SIN respirador,84,3,37,0,1
-2023-05-07,Castilla y León,Hospitalización convencional,6412,136,4513,17,14
+2023-05-07,Castilla y León,Hospitalización convencional,6412,136,4513,17,4
 2023-05-07,Castilla y León,U. Críticas CON respirador,376,7,212,0,1
 2023-05-07,Castilla y León,U. Críticas SIN respirador,23,0,2,0,1
 2023-05-07,Cataluña,Hospitalización convencional,23911,365,20274,48,42
@@ -57545,7 +57545,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-08,Castilla La Mancha,Hospitalización convencional,4711,139,3312,23,23
 2023-05-08,Castilla La Mancha,U. Críticas CON respirador,255,8,102,1,0
 2023-05-08,Castilla La Mancha,U. Críticas SIN respirador,84,2,46,1,1
-2023-05-08,Castilla y León,Hospitalización convencional,6425,134,4729,27,48
+2023-05-08,Castilla y León,Hospitalización convencional,6425,134,4729,27,38
 2023-05-08,Castilla y León,U. Críticas CON respirador,376,8,207,1,0
 2023-05-08,Castilla y León,U. Críticas SIN respirador,23,0,2,0,1
 2023-05-08,Cataluña,Hospitalización convencional,24025,362,20768,44,57
@@ -57602,7 +57602,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-09,Castilla La Mancha,Hospitalización convencional,4711,126,3289,11,21
 2023-05-09,Castilla La Mancha,U. Críticas CON respirador,255,7,97,0,1
 2023-05-09,Castilla La Mancha,U. Críticas SIN respirador,84,1,48,0,1
-2023-05-09,Castilla y León,Hospitalización convencional,6427,137,4752,17,25
+2023-05-09,Castilla y León,Hospitalización convencional,6427,137,4752,17,15
 2023-05-09,Castilla y León,U. Críticas CON respirador,376,5,212,1,2
 2023-05-09,Castilla y León,U. Críticas SIN respirador,23,0,6,0,1
 2023-05-09,Cataluña,Hospitalización convencional,24089,354,20955,53,63
@@ -57659,7 +57659,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-10,Castilla La Mancha,Hospitalización convencional,4711,123,3247,13,17
 2023-05-10,Castilla La Mancha,U. Críticas CON respirador,255,7,89,0,1
 2023-05-10,Castilla La Mancha,U. Críticas SIN respirador,87,2,52,1,0
-2023-05-10,Castilla y León,Hospitalización convencional,6428,130,4687,14,29
+2023-05-10,Castilla y León,Hospitalización convencional,6428,130,4687,14,19
 2023-05-10,Castilla y León,U. Críticas CON respirador,376,6,209,0,0
 2023-05-10,Castilla y León,U. Críticas SIN respirador,23,0,6,0,1
 2023-05-10,Cataluña,Hospitalización convencional,24065,363,20874,47,61
@@ -57716,7 +57716,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-11,Castilla La Mancha,Hospitalización convencional,4709,110,3202,10,22
 2023-05-11,Castilla La Mancha,U. Críticas CON respirador,255,7,90,1,1
 2023-05-11,Castilla La Mancha,U. Críticas SIN respirador,87,2,47,0,0
-2023-05-11,Castilla y León,Hospitalización convencional,6417,129,4483,15,28
+2023-05-11,Castilla y León,Hospitalización convencional,6417,129,4483,15,18
 2023-05-11,Castilla y León,U. Críticas CON respirador,376,6,227,1,0
 2023-05-11,Castilla y León,U. Críticas SIN respirador,23,0,3,0,1
 2023-05-11,Cataluña,Hospitalización convencional,24048,351,20769,37,61
@@ -57773,7 +57773,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-12,Castilla La Mancha,Hospitalización convencional,4709,110,3199,10,22
 2023-05-12,Castilla La Mancha,U. Críticas CON respirador,255,7,90,1,1
 2023-05-12,Castilla La Mancha,U. Críticas SIN respirador,87,2,47,0,0
-2023-05-12,Castilla y León,Hospitalización convencional,6417,129,4483,15,28
+2023-05-12,Castilla y León,Hospitalización convencional,6417,129,4483,15,18
 2023-05-12,Castilla y León,U. Críticas CON respirador,376,6,227,1,0
 2023-05-12,Castilla y León,U. Críticas SIN respirador,23,0,3,0,1
 2023-05-12,Cataluña,Hospitalización convencional,24041,351,20683,35,61
@@ -57830,7 +57830,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-13,Castilla La Mancha,Hospitalización convencional,4709,110,3199,10,22
 2023-05-13,Castilla La Mancha,U. Críticas CON respirador,255,7,90,1,1
 2023-05-13,Castilla La Mancha,U. Críticas SIN respirador,87,2,47,0,0
-2023-05-13,Castilla y León,Hospitalización convencional,6417,129,4483,15,28
+2023-05-13,Castilla y León,Hospitalización convencional,6417,129,4483,15,18
 2023-05-13,Castilla y León,U. Críticas CON respirador,376,6,227,1,0
 2023-05-13,Castilla y León,U. Críticas SIN respirador,23,0,3,0,1
 2023-05-13,Cataluña,Hospitalización convencional,24041,351,20681,35,61
@@ -57887,7 +57887,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-14,Castilla La Mancha,Hospitalización convencional,4700,105,3101,11,9
 2023-05-14,Castilla La Mancha,U. Críticas CON respirador,255,4,93,0,1
 2023-05-14,Castilla La Mancha,U. Críticas SIN respirador,86,2,46,0,0
-2023-05-14,Castilla y León,Hospitalización convencional,6415,137,4430,10,15
+2023-05-14,Castilla y León,Hospitalización convencional,6415,137,4430,10,5
 2023-05-14,Castilla y León,U. Críticas CON respirador,376,6,201,0,0
 2023-05-14,Castilla y León,U. Críticas SIN respirador,23,0,1,0,1
 2023-05-14,Cataluña,Hospitalización convencional,23930,329,20337,32,40
@@ -57944,7 +57944,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-15,Castilla La Mancha,Hospitalización convencional,4688,108,3180,14,15
 2023-05-15,Castilla La Mancha,U. Críticas CON respirador,255,3,99,0,0
 2023-05-15,Castilla La Mancha,U. Críticas SIN respirador,84,1,44,0,0
-2023-05-15,Castilla y León,Hospitalización convencional,6403,134,4560,22,36
+2023-05-15,Castilla y León,Hospitalización convencional,6403,134,4560,22,26
 2023-05-15,Castilla y León,U. Críticas CON respirador,376,6,213,0,0
 2023-05-15,Castilla y León,U. Críticas SIN respirador,23,0,1,0,1
 2023-05-15,Cataluña,Hospitalización convencional,24032,347,20661,40,41
@@ -58001,7 +58001,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-16,Castilla La Mancha,Hospitalización convencional,4698,112,3220,18,14
 2023-05-16,Castilla La Mancha,U. Críticas CON respirador,255,3,89,1,1
 2023-05-16,Castilla La Mancha,U. Críticas SIN respirador,84,1,46,0,0
-2023-05-16,Castilla y León,Hospitalización convencional,6402,142,4595,16,23
+2023-05-16,Castilla y León,Hospitalización convencional,6402,142,4595,16,13
 2023-05-16,Castilla y León,U. Críticas CON respirador,376,5,212,1,1
 2023-05-16,Castilla y León,U. Críticas SIN respirador,23,0,1,0,1
 2023-05-16,Cataluña,Hospitalización convencional,24072,336,20852,53,69
@@ -58058,7 +58058,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-17,Castilla La Mancha,Hospitalización convencional,4699,108,3273,16,21
 2023-05-17,Castilla La Mancha,U. Críticas CON respirador,255,4,90,1,0
 2023-05-17,Castilla La Mancha,U. Críticas SIN respirador,84,0,44,0,1
-2023-05-17,Castilla y León,Hospitalización convencional,6394,138,4579,14,23
+2023-05-17,Castilla y León,Hospitalización convencional,6394,138,4579,14,13
 2023-05-17,Castilla y León,U. Críticas CON respirador,376,4,203,1,2
 2023-05-17,Castilla y León,U. Críticas SIN respirador,23,0,1,0,1
 2023-05-17,Cataluña,Hospitalización convencional,24023,319,20871,44,69
@@ -58115,7 +58115,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-18,Castilla La Mancha,Hospitalización convencional,4691,107,3278,15,14
 2023-05-18,Castilla La Mancha,U. Críticas CON respirador,255,4,86,0,1
 2023-05-18,Castilla La Mancha,U. Críticas SIN respirador,84,0,46,0,0
-2023-05-18,Castilla y León,Hospitalización convencional,6391,132,4490,8,31
+2023-05-18,Castilla y León,Hospitalización convencional,6391,132,4490,8,21
 2023-05-18,Castilla y León,U. Críticas CON respirador,376,5,212,1,0
 2023-05-18,Castilla y León,U. Críticas SIN respirador,23,0,1,0,1
 2023-05-18,Cataluña,Hospitalización convencional,23990,355,20643,52,51
@@ -58172,7 +58172,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-19,Castilla La Mancha,Hospitalización convencional,4688,106,3271,15,15
 2023-05-19,Castilla La Mancha,U. Críticas CON respirador,255,4,85,0,1
 2023-05-19,Castilla La Mancha,U. Críticas SIN respirador,84,0,46,0,0
-2023-05-19,Castilla y León,Hospitalización convencional,6391,132,4490,8,31
+2023-05-19,Castilla y León,Hospitalización convencional,6391,132,4490,8,21
 2023-05-19,Castilla y León,U. Críticas CON respirador,376,5,212,1,0
 2023-05-19,Castilla y León,U. Críticas SIN respirador,23,0,1,0,1
 2023-05-19,Cataluña,Hospitalización convencional,23990,355,20638,52,51
@@ -58229,7 +58229,7 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-20,Castilla La Mancha,Hospitalización convencional,4688,106,3271,15,15
 2023-05-20,Castilla La Mancha,U. Críticas CON respirador,255,4,85,0,1
 2023-05-20,Castilla La Mancha,U. Críticas SIN respirador,84,0,46,0,0
-2023-05-20,Castilla y León,Hospitalización convencional,6391,132,4490,8,31
+2023-05-20,Castilla y León,Hospitalización convencional,6391,132,4490,8,21
 2023-05-20,Castilla y León,U. Críticas CON respirador,376,5,212,1,0
 2023-05-20,Castilla y León,U. Críticas SIN respirador,23,0,1,0,1
 2023-05-20,Cataluña,Hospitalización convencional,24001,354,20598,54,48
@@ -58263,8 +58263,8 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-20,País Vasco,U. Críticas CON respirador,337,1,200,0,0
 2023-05-20,País Vasco,U. Críticas SIN respirador,18,0,17,0,0
 2023-05-21,Andalucía,Hospitalización convencional,15775,354,10060,69,102
-2023-05-21,Andalucía,U. Críticas CON respirador,1302,17,484,4,4
-2023-05-21,Andalucía,U. Críticas SIN respirador,444,4,71,3,4
+2023-05-21,Andalucía,U. Críticas CON respirador,1307,17,484,4,4
+2023-05-21,Andalucía,U. Críticas SIN respirador,452,4,71,3,4
 2023-05-21,Aragón,Hospitalización convencional,3947,66,2458,9,5
 2023-05-21,Aragón,U. Críticas CON respirador,184,1,103,0,0
 2023-05-21,Aragón,U. Críticas SIN respirador,18,0,11,0,0
@@ -58274,24 +58274,24 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-21,Baleares,Hospitalización convencional,3186,53,2345,4,7
 2023-05-21,Baleares,U. Críticas CON respirador,268,6,100,0,0
 2023-05-21,Baleares,U. Críticas SIN respirador,64,1,33,1,0
-2023-05-21,C. Valenciana,Hospitalización convencional,10385,177,7294,20,9
+2023-05-21,C. Valenciana,Hospitalización convencional,10385,177,7295,20,9
 2023-05-21,C. Valenciana,U. Críticas CON respirador,661,5,352,0,1
 2023-05-21,C. Valenciana,U. Críticas SIN respirador,97,2,49,0,0
 2023-05-21,Canarias,Hospitalización convencional,5053,126,3845,7,1
 2023-05-21,Canarias,U. Críticas CON respirador,408,4,203,0,1
 2023-05-21,Canarias,U. Críticas SIN respirador,69,0,13,0,0
-2023-05-21,Cantabria,Hospitalización convencional,1378,26,941,0,0
+2023-05-21,Cantabria,Hospitalización convencional,1378,26,937,0,0
 2023-05-21,Cantabria,U. Críticas CON respirador,80,2,44,0,0
 2023-05-21,Cantabria,U. Críticas SIN respirador,22,0,5,0,0
 2023-05-21,Castilla La Mancha,Hospitalización convencional,4689,120,3050,12,6
 2023-05-21,Castilla La Mancha,U. Críticas CON respirador,255,3,80,0,0
 2023-05-21,Castilla La Mancha,U. Críticas SIN respirador,85,2,46,2,0
-2023-05-21,Castilla y León,Hospitalización convencional,6383,121,4283,7,13
+2023-05-21,Castilla y León,Hospitalización convencional,6383,121,4283,7,3
 2023-05-21,Castilla y León,U. Críticas CON respirador,376,7,200,2,0
 2023-05-21,Castilla y León,U. Críticas SIN respirador,23,0,1,0,1
-2023-05-21,Cataluña,Hospitalización convencional,23988,382,20446,47,43
-2023-05-21,Cataluña,U. Críticas CON respirador,934,13,640,0,0
-2023-05-21,Cataluña,U. Críticas SIN respirador,215,3,150,0,1
+2023-05-21,Cataluña,Hospitalización convencional,23989,370,20350,46,45
+2023-05-21,Cataluña,U. Críticas CON respirador,928,13,628,0,1
+2023-05-21,Cataluña,U. Críticas SIN respirador,220,2,152,0,2
 2023-05-21,Ceuta,Hospitalización convencional,178,4,96,0,1
 2023-05-21,Ceuta,U. Críticas CON respirador,17,0,0,0,0
 2023-05-21,Ceuta,U. Críticas SIN respirador,0,0,0,0,0
@@ -58310,14 +58310,71 @@ fecha,ccaa,unidad,total_camas,ocupadas_covid19,ocupadas_no_covid19,ingresos_covi
 2023-05-21,Melilla,Hospitalización convencional,154,6,68,1,2
 2023-05-21,Melilla,U. Críticas CON respirador,9,0,3,0,0
 2023-05-21,Melilla,U. Críticas SIN respirador,2,0,0,0,0
-2023-05-21,Murcia,Hospitalización convencional,3644,101,2546,4,8
+2023-05-21,Murcia,Hospitalización convencional,3644,100,2510,3,7
 2023-05-21,Murcia,U. Críticas CON respirador,276,2,76,0,0
-2023-05-21,Murcia,U. Críticas SIN respirador,175,2,20,1,0
+2023-05-21,Murcia,U. Críticas SIN respirador,175,2,21,1,0
 2023-05-21,Navarra,Hospitalización convencional,1583,17,1068,0,2
 2023-05-21,Navarra,U. Críticas CON respirador,82,2,49,0,0
 2023-05-21,Navarra,U. Críticas SIN respirador,12,0,1,0,0
-2023-05-21,País Vasco,Hospitalización convencional,4582,81,3403,12,2
+2023-05-21,País Vasco,Hospitalización convencional,4582,82,3398,12,2
 2023-05-21,País Vasco,U. Críticas CON respirador,336,4,181,2,2
 2023-05-21,País Vasco,U. Críticas SIN respirador,18,0,4,0,0
+2023-05-22,Andalucía,Hospitalización convencional,15797,335,10568,55,75
+2023-05-22,Andalucía,U. Críticas CON respirador,1291,20,483,3,0
+2023-05-22,Andalucía,U. Críticas SIN respirador,443,6,89,4,2
+2023-05-22,Aragón,Hospitalización convencional,3947,61,2645,11,16
+2023-05-22,Aragón,U. Críticas CON respirador,184,1,104,0,0
+2023-05-22,Aragón,U. Críticas SIN respirador,18,0,9,0,0
+2023-05-22,Asturias,Hospitalización convencional,3175,59,2269,5,7
+2023-05-22,Asturias,U. Críticas CON respirador,238,5,58,1,0
+2023-05-22,Asturias,U. Críticas SIN respirador,44,0,4,0,0
+2023-05-22,Baleares,Hospitalización convencional,3201,55,2423,9,9
+2023-05-22,Baleares,U. Críticas CON respirador,268,7,105,0,0
+2023-05-22,Baleares,U. Críticas SIN respirador,64,1,34,1,0
+2023-05-22,C. Valenciana,Hospitalización convencional,10381,171,7592,18,30
+2023-05-22,C. Valenciana,U. Críticas CON respirador,659,5,348,0,0
+2023-05-22,C. Valenciana,U. Críticas SIN respirador,101,1,57,0,0
+2023-05-22,Canarias,Hospitalización convencional,5053,131,3909,12,9
+2023-05-22,Canarias,U. Críticas CON respirador,408,4,212,1,1
+2023-05-22,Canarias,U. Críticas SIN respirador,69,0,26,0,0
+2023-05-22,Cantabria,Hospitalización convencional,1378,26,961,0,3
+2023-05-22,Cantabria,U. Críticas CON respirador,80,2,47,0,0
+2023-05-22,Cantabria,U. Críticas SIN respirador,22,1,3,0,0
+2023-05-22,Castilla La Mancha,Hospitalización convencional,4689,115,3158,14,20
+2023-05-22,Castilla La Mancha,U. Críticas CON respirador,263,4,77,1,0
+2023-05-22,Castilla La Mancha,U. Críticas SIN respirador,86,1,45,0,1
+2023-05-22,Castilla y León,Hospitalización convencional,6403,127,4501,21,14
+2023-05-22,Castilla y León,U. Críticas CON respirador,376,5,209,0,1
+2023-05-22,Castilla y León,U. Críticas SIN respirador,23,0,4,0,1
+2023-05-22,Cataluña,Hospitalización convencional,23964,353,20106,49,83
+2023-05-22,Cataluña,U. Críticas CON respirador,938,16,666,2,1
+2023-05-22,Cataluña,U. Críticas SIN respirador,204,2,150,2,3
+2023-05-22,Ceuta,Hospitalización convencional,177,4,98,0,1
+2023-05-22,Ceuta,U. Críticas CON respirador,17,0,1,0,0
+2023-05-22,Ceuta,U. Críticas SIN respirador,0,0,0,0,0
+2023-05-22,Extremadura,Hospitalización convencional,2849,50,1829,6,9
+2023-05-22,Extremadura,U. Críticas CON respirador,154,1,65,0,0
+2023-05-22,Extremadura,U. Críticas SIN respirador,17,0,2,0,0
+2023-05-22,Galicia,Hospitalización convencional,7574,162,5338,20,37
+2023-05-22,Galicia,U. Críticas CON respirador,567,6,214,2,0
+2023-05-22,Galicia,U. Críticas SIN respirador,173,0,22,0,0
+2023-05-22,La Rioja,Hospitalización convencional,658,10,496,1,0
+2023-05-22,La Rioja,U. Críticas CON respirador,49,0,24,0,0
+2023-05-22,La Rioja,U. Críticas SIN respirador,4,0,0,0,0
+2023-05-22,Madrid,Hospitalización convencional,15757,432,12625,56,44
+2023-05-22,Madrid,U. Críticas CON respirador,955,17,604,1,2
+2023-05-22,Madrid,U. Críticas SIN respirador,111,0,24,0,0
+2023-05-22,Melilla,Hospitalización convencional,154,7,79,0,1
+2023-05-22,Melilla,U. Críticas CON respirador,9,0,3,0,0
+2023-05-22,Melilla,U. Críticas SIN respirador,2,0,0,0,0
+2023-05-22,Murcia,Hospitalización convencional,3644,87,2609,6,19
+2023-05-22,Murcia,U. Críticas CON respirador,276,2,78,0,0
+2023-05-22,Murcia,U. Críticas SIN respirador,175,2,21,0,0
+2023-05-22,Navarra,Hospitalización convencional,1574,21,1171,4,3
+2023-05-22,Navarra,U. Críticas CON respirador,82,2,51,0,0
+2023-05-22,Navarra,U. Críticas SIN respirador,12,0,0,0,0
+2023-05-22,País Vasco,Hospitalización convencional,4634,83,3556,19,13
+2023-05-22,País Vasco,U. Críticas CON respirador,344,6,192,1,1
+2023-05-22,País Vasco,U. Críticas SIN respirador,18,0,18,0,0
 Fuente: Notificación de los hospitales al Ministerio de Sanidad,,,,,,,
 "Nota:  El criterio de cómputo incluye a pacientes que presentan clínica Covid que debe ser tratada en régimen de hospitalización, bien con infección confirmada bien pendiente de confirmar.",,,,,,,
